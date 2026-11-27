@@ -208,12 +208,13 @@
   "regneark": "https://github.com/christofferbjoern/kommunedata/blob/main/data/budgetaftaler/2027/filer/Holstebro/upload_regneark_1_Holstebro-Kommune-Detail-Budget-2027_-Revu.pdf"
  },
  "Hillerød": {
-  "note": "Aftaletekst 2027-2030 ikke fundet på hillerod.dk; kun supplerende budgetmateriale: https://www.hillerod.dk/media/wnahe5em/tillaeg-til-supplerende-budgetmateriale-budgetforslag-2027-2030.pdf Bredt budgetforlig 18/9-2026; alle partier med ifølge lokalavisen.",
-  "aftale": "https://frederiksborgamtsavis.sn.dk/article/6645186/hilleroed-kommune/nyhed/21-nedslag-her-skal-der-spares-og-bruges-penge-de-naeste-fire-aar"
+  "note": "Aftaletekst 2027-2030 ikke fundet på hillerod.dk; kun supplerende budgetmateriale: https://www.hillerod.dk/media/wnahe5em/tillaeg-til-supplerende-budgetmateriale-budgetforslag-2027-2030.pdf Bredt budgetforlig 18/9-2026; alle partier med ifølge lokalavisen. Aftale og tal modtaget som upload.",
+  "aftale": "https://github.com/christofferbjoern/kommunedata/blob/main/data/budgetaftaler/2027/filer/Hiller%C3%B8d/upload_aftale_1_aftale-om-budget-2027-2030-hillerod-kommune.pdf",
+  "regneark": "https://github.com/christofferbjoern/kommunedata/blob/main/data/budgetaftaler/2027/filer/Hiller%C3%B8d/upload_regneark_2_Hillerod-budget-2027-2030-i-tal.pdf"
  },
  "Holbæk": {
-  "note": "Budgetaftale 2027-2030 ikke fundet; kun høring af budgetforslag (https://deltag.holbaek.dk/da-DK/projects/horing-af-forslag-til-budget-2027/1).",
-  "aftale": "https://nordvestnyt.sn.dk/article/6645189/holbaek-kommune/nyhed/holbaek-slipper-fri-af-besparelser-og-smider-30-millioner-kroner-oveni"
+  "note": "Budgetaftale 2027-2030 ikke fundet; kun høring af budgetforslag (https://deltag.holbaek.dk/da-DK/projects/horing-af-forslag-til-budget-2027/1). Aftale modtaget som upload.",
+  "aftale": "https://holbaek.dk/Media/639252732988357797/budgetaftale-2027-2030-17-september-endelig-003.pdf | https://github.com/christofferbjoern/kommunedata/blob/main/data/budgetaftaler/2027/filer/Holb%C3%A6k/upload_aftale_1_Holbaek-budgetaftale-2027-2030-17-september.pdf"
  },
  "Ikast-Brande": {
   "aftale": "https://ikast-brande.dk/media/40lmiria/budgetforlig-2027-30-med-underskifter.pdf",
@@ -221,8 +222,9 @@
   "note": "Vedtaget budget og klimabudget ikke fundet."
  },
  "Hørsholm": {
-  "note": "Budgetaftale 2027-2030 omtalt (https://www.horsholm.dk/nyhed/tekniske-bemaerkninger-til-budgetaftale-2027-2030-paa-kultur-og-fritidsomraadet), men PDF ikke fundet. Kun et debatindlæg om aftalen fundet.",
-  "aftale": "https://frederiksborgamtsavis.sn.dk/article/6652847/hoersholm-kommune/politik/borgerlisten-budgetaftalen-ruster-hoersholm-til-fremtiden"
+  "note": "Budgetaftale 2027-2030 omtalt (https://www.horsholm.dk/nyhed/tekniske-bemaerkninger-til-budgetaftale-2027-2030-paa-kultur-og-fritidsomraadet), men PDF ikke fundet. Kun et debatindlæg om aftalen fundet. Aftale og budgetpublikation modtaget som upload.",
+  "aftale": "https://github.com/christofferbjoern/kommunedata/blob/main/data/budgetaftaler/2027/filer/H%C3%B8rsholm/upload_aftale_1_Budgetaftale-2027-2030-web.pdf",
+  "regneark": "https://github.com/christofferbjoern/kommunedata/blob/main/data/budgetaftaler/2027/filer/H%C3%B8rsholm/upload_regneark_2_Budgetpublikation-Budget-2027-2030.pdf"
  },
  "Høje-Taastrup": {
   "note": "Budget 2027 vedtaget i enighed (https://www.sn.dk/art6654025/hoeje-taastrup-kommune/nyhed/sparebudget-vedtaget-i-enighed-det-mener-politikerne-om-budgetforliget), men forligstekst ikke fundet på htk.dk. Aftaletekst modtaget som upload.",
@@ -240,8 +242,8 @@
   "regneark": "https://github.com/christofferbjoern/kommunedata/blob/main/data/budgetaftaler/2027/filer/Jammerbugt/upload_regneark_1_budgetproces-i-jammerbugt-kommune-budget-2027-endelig.pdf"
  },
  "Kalundborg": {
-  "note": "Budget vedtaget (uden LA) iflg. sn.dk; aftaletekst ikke fundet. Budgetbemærkninger 2027 findes på cdn.kalundborg.dk.",
-  "aftale": "https://nordvestnyt.sn.dk/article/6648636/kalundborg-kommune/nyhed/kalundborgenserne-skal-betale-mere-i-skat-til-gengaeld-faar-veje-og-velfaerd-fle"
+  "note": "Budget vedtaget (uden LA) iflg. sn.dk; aftaletekst ikke fundet. Budgetbemærkninger 2027 findes på cdn.kalundborg.dk. Upload er indscannet fil uden kommunenavn i filnavnet; placeret under Kalundborg som den eneste tilbageværende - skal bekræftes via OCR.",
+  "aftale": "https://github.com/christofferbjoern/kommunedata/blob/main/data/budgetaftaler/2027/filer/Kalundborg/upload_aftale_1_budgetaftale-2027-2030.pdf"
  },
  "Kerteminde": {
   "aftale": "https://kerteminde.dk/p/Filer%20Kommune/%C3%98konomi/Budget%202027-2030/Budgetaftale%202027-2030/Budgetforlig-2027-pr.-17.08.26%281%29.pdf",
@@ -483,8 +485,8 @@
   "aftale": "https://github.com/christofferbjoern/kommunedata/blob/main/data/budgetaftaler/2027/filer/%C3%86r%C3%B8/upload_aftale_1_Budgetforlig-2027%20_1_.pdf"
  },
  "Vejle": {
-  "note": "Søgning fandt kun Budget 2026-publikation (budget-2026_til-net.pdf); 2027 endnu ikke indekseret. Aftaleteksten er ikke fundet; kun TV Syds omtale (4/9-2026). Se også https://byenvejle.dk/artikel/vejle-budgetforlig-2027-2029-skole-aeldre-svoemmefacilitet",
-  "aftale": "https://www.tvsyd.dk/vejle/enigt-byrad-lander-budgetaftale-c2ab4"
+  "note": "Søgning fandt kun Budget 2026-publikation (budget-2026_til-net.pdf); 2027 endnu ikke indekseret. Aftaleteksten er ikke fundet; kun TV Syds omtale (4/9-2026). Se også https://byenvejle.dk/artikel/vejle-budgetforlig-2027-2029-skole-aeldre-svoemmefacilitet Aftale modtaget som upload.",
+  "aftale": "https://github.com/christofferbjoern/kommunedata/blob/main/data/budgetaftaler/2027/filer/Vejle/upload_aftale_1_budgetforlig-2027.pdf"
  },
  "Vejen": {
   "note": "Alle partier bag budgetforslag 2027 (https://vejen.dk/presserum/pressemeddelelser-og-nyheder/alle-partier-staar-bag-balanceret-budgetforslag-for-2027); aftale-PDF ikke fundet. Alle partier bag budgetforslag 2027 (høring aug. 2026): ca. 38 mio. kr. til udsatte børn, unge og handicap, driftsreduktioner 25 mio. kr., anlæg 83 mio. kr. Endelig aftaletekst ikke fundet. Kun pressemeddelelse om budgetforslag; regnskabstal hentes senere (jf. Christoffer).",
