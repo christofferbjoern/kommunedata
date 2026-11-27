@@ -242,7 +242,7 @@
   "regneark": "https://github.com/christofferbjoern/kommunedata/blob/main/data/budgetaftaler/2027/filer/Jammerbugt/upload_regneark_1_budgetproces-i-jammerbugt-kommune-budget-2027-endelig.pdf"
  },
  "Kalundborg": {
-  "note": "Budget vedtaget (uden LA) iflg. sn.dk; aftaletekst ikke fundet. Budgetbemærkninger 2027 findes på cdn.kalundborg.dk. Upload er indscannet fil uden kommunenavn i filnavnet; placeret under Kalundborg som den eneste tilbageværende - skal bekræftes via OCR.",
+  "note": "Budget vedtaget (uden LA) iflg. sn.dk; aftaletekst ikke fundet. Budgetbemærkninger 2027 findes på cdn.kalundborg.dk. Upload er indscannet fil uden kommunenavn i filnavnet; placeret under Kalundborg som den eneste tilbageværende - skal bekræftes via OCR. Bekræftet af Christoffer: uploaden er Kalundborgs aftale (21. sept. 2026).",
   "aftale": "https://github.com/christofferbjoern/kommunedata/blob/main/data/budgetaftaler/2027/filer/Kalundborg/upload_aftale_1_budgetaftale-2027-2030.pdf"
  },
  "Kerteminde": {

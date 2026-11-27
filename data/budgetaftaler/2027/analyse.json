@@ -2528,22 +2528,40 @@
   "kvalitet": "Fuld aftaletekst"
  },
  "Kalundborg": {
-  "budgetaar": "2027-2028",
+  "budgetaar": "2027-2030",
   "partier": [
-   "Et flertal i kommunalbestyrelsen"
+   "Socialdemokratiet",
+   "Radikale Venstre",
+   "SF",
+   "Kalundborglisten",
+   "Dansk Folkeparti",
+   "Venstre",
+   "Enhedslisten"
   ],
   "prioriteter": [
-   "Mere velfærd",
-   "Veje og infrastruktur"
+   "Demografiregulering: specialtilbud skole 6 mio. kr., voksenspecialiserede område 15,1 mio. kr., ældre og sundhed 8,5 mio. kr., børn og familie 7,5 mio. kr.",
+   "Driftsjusteringer inden for servicerammen i alt 28,6 mio. kr. årligt",
+   "Anlæg: Gørlev Svømmehal, Kulturhus Kalundborg Havnepark, ny tandklinik, Hvidebækskolen/Kathøjskolen, Familiehus, vejvedligehold, klimatilpasning",
+   "Opkvalificering af jobparate (2 mio. kr.) og fastholdelse af ungeindsatser (2 mio. kr.)",
+   "Serviceudgifter 2.923 mio. kr. i 2027; anlægsramme 180 mio. kr."
   ],
-  "besparelser": [],
+  "besparelser": [
+   "Reduktion af rengøringsbudget -3,4 mio. kr.",
+   "Nedjustering af bufferpulje på ældreområdet -5 mio. kr.",
+   "Tjenestemandspensioner -2 mio. kr.; langtidssygdomspulje nedlagt -1 mio. kr.",
+   "Arbejdsmarkedsområdets ydelsesbudget -10,2 mio. kr.",
+   "Regelforenklinger -0,8 mio. kr.",
+   "Salg af Raklev Skole og grunde/bygninger"
+  ],
   "finansiering": [
-   "skat: skatten hæves (beløb ikke oplyst)"
+   "Skattestigning: +0,4 procentpoint 2027 og +0,2 procentpoint 2028 (personskat 24,6 pct. i 2027)",
+   "Forbrug af likviditet: 62,6 mio. kr. i 2027; gennemsnitlig kassebeholdning falder fra 348 mio. kr. til 120 mio. kr. i 2030",
+   "Salg af ejendomme"
   ],
-  "skat": "forhøjes",
-  "klima": "ikke nævnt",
-  "resume": "Et flertal i Kalundborg har indgået en toårig budgetaftale, der hæver skatten. Til gengæld får veje og velfærd flere penge.",
-  "kvalitet": "Kun lokalavisens overskrift (betalingsmur)."
+  "skat": "Skatten hæves med 0,4 pp i 2027 (til 24,6 pct.) og 0,2 pp i 2028; grundskyldspromille forhøjes",
+  "klima": "Klimatilpasning og naturgenskabelsesprojekter i anlægsoversigten; ikke selvstændigt klimabudget",
+  "resume": "Kalundborg rulles to skattelettelser tilbage (+0,4 pp i 2027, +0,2 pp i 2028) for at finansiere demografi (ca. 37 mio. kr.) og anlæg som Gørlev Svømmehal og ny tandklinik. Likviditeten falder markant frem mod 2030.",
+  "kvalitet": "Fuld aftaletekst (OCR), bekræftet som Kalundborg af Christoffer"
  },
  "Hillerød": {
   "budgetaar": "2027-2030",
