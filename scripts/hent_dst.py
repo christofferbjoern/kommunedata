@@ -43,11 +43,9 @@ TABELLER = {
 
 # Variabler, hvor kun den første værdi (normalt "i alt") hentes, og evt. kun
 # ét tidspunkt pr. år (fx første kvartal), så filerne holdes små.
+# Kun variabler, hvor den første værdi faktisk er "i alt", må stå her.
 FILTRE = {
     "FOLK1A": {"total": ["KØN", "CIVILSTAND"], "tid": "K1"},
-    "BEV107": {"total": ["KØN"]},
-    "RAS201": {"total": ["HERKOMST", "KØN"]},
-    "RAS301": {"total": ["KØN"]},
     "AUP01": {"total": ["KØN"]},
 }
 
@@ -126,7 +124,20 @@ def hent_tabel(tabel: str) -> None:
         time.sleep(1)
 
 
+def hent_katalog() -> None:
+    """Gem en liste over alle aktive DST-tabeller og deres variabler (data/dst/_katalog.json)."""
+    try:
+        tabeller = post("tables", {"lang": "da", "format": "JSON", "includeInactive": False}).json()
+    except Exception as e:  # noqa: BLE001
+        print(f"!! katalog: {e}", flush=True)
+        return
+    UD.mkdir(parents=True, exist_ok=True)
+    (UD / "_katalog.json").write_text(json.dumps(tabeller, ensure_ascii=False, indent=0), encoding="utf-8")
+    print(f"katalog: {len(tabeller)} tabeller", flush=True)
+
+
 def main() -> None:
+    hent_katalog()
     for tabel in sys.argv[1:] or TABELLER:
         print(f"== {tabel}: {TABELLER.get(tabel, '')}", flush=True)
         hent_tabel(tabel)
