@@ -41,7 +41,6 @@ TABELLER = {
     "NGLK": "Udvalgte kommunale regnskabsnøgletal",
     # flere kommunetal (tilføjet november 2026)
     "GALDER": "Gennemsnitsalder efter kommune",
-    "HISB77": "Middellevetid for 0-årige efter område",
     "FRKM126": "Befolkningsfremskrivning 2026 efter kommune og alder",
     "KM6": "Befolkningen efter folkekirkemedlemskab",
     "IFOR12P": "Personer i lavindkomstfamilier (pct.)",
@@ -57,10 +56,8 @@ TABELLER = {
     "STRAF11": "Anmeldte forbrydelser efter område og type",
     "BOL106": "Boliger efter område og anvendelse",
     "BYGV33": "Boliger i det samlede boligbyggeri",
-    "EJEN88": "Ejendomssalg efter område og ejendomskategori",
     "BIL707": "Bestanden af køretøjer pr. 1. januar",
     "BIL710": "Bestanden af personbiler efter drivmiddel",
-    "TURIST": "Overnatninger efter område",
     "IDRAKT02": "Idrætsorganisationernes medlemskaber (andel af befolkningen)",
     "AREALDK2": "Areal efter arealdække",
     "KVRES": "Valg til kommunalbestyrelser",
@@ -68,21 +65,18 @@ TABELLER = {
 
 # Variabler, hvor kun den første værdi (normalt "i alt") hentes, og evt. kun
 # ét tidspunkt pr. år (fx første kvartal), så filerne holdes små.
+# Kun variabler, der faktisk har en "i alt"-værdi, må stå her (ellers hentes kun den første værdi).
+# Middellevetid (HISB77), ejendomssalg (EJEN88) og turisme (TURIST) findes kun for landsdele og er udeladt.
 # Variabler, hvor kun "i alt"-værdien hentes (matcher variablens id eller tekst fra starten),
 # og evt. kun ét tidspunkt pr. år (fx første kvartal), så filerne holdes små.
 FILTRE = {
     "FOLK1A": {"total": ["KØN", "CIVILSTAND"], "tid": "K1"},
     "AUP01": {"total": ["KØN"]},
     "GALDER": {"total": ["køn"]},
-    "HISB77": {"total": ["køn"]},
-    "FRKM126": {"total": ["køn"]},
-    "KM6": {"total": ["køn", "alder"]},
     "AFSTB4": {"total": ["køn"]},
     "ERHV2A": {"total": ["branche"]},
     "AUH01": {"total": ["køn", "alder"]},
-    "BYGV33": {"total": ["bygherre"]},
     "BIL710": {"total": ["ejerforhold"]},
-    "TURIST": {"total": ["gæstens nationalitet"]},
     "IDRAKT02": {"total": ["køn", "alder"]},
 }
 
