@@ -1,0 +1,1775 @@
+{
+ "id": "BUDK32",
+ "text": "Kommunernes budgetter, funktioner",
+ "description": "Kommunernes budgetter, funktioner efter kommune, funktion, dranst, art, prisenhed og tid",
+ "unit": "-",
+ "suppressedDataValue": "0",
+ "updated": "2026-04-24T08:00:00",
+ "active": true,
+ "contacts": [
+  {
+   "name": "Jeppe Føge Jensen",
+   "phone": "+4540225823",
+   "mail": "jfj@dst.dk"
+  }
+ ],
+ "documentation": {
+  "id": "082e46d9-0cc6-4a6e-94c3-9d763f6837ee",
+  "url": "https://www.dst.dk/statistikdokumentation/082e46d9-0cc6-4a6e-94c3-9d763f6837ee"
+ },
+ "footnote": {
+  "text": "Data bliver ikke revideret. Senere rettelser kan dog forekomme, hvis der opdages fejl i data eller databehandlingen. Disse rettelser vil slå igennem i statistikken som enten ekstraordinære rettelser eller i forbindelse med planlagte opdateringer af statistikken. Se alle ændringer i tabellerne siden december 2020 vedrørende budgetter og årsregnskaber for kommuner og regioner i Statistikdokumentationen under &quot;Præcision og pålidelighed&quot; (Praksis for revisioner): https://www.dst.dk/da/Statistik/dokumentation/statistikdokumentation/budgetter-og-aarsregnskaber-for-kommuner-og-regioner/praecision-og-paalidelighed",
+  "mandatory": false
+ },
+ "variables": [
+  {
+   "id": "REGI07A",
+   "text": "kommune",
+   "elimination": true,
+   "time": false,
+   "map": "Denmark_municipality_07",
+   "values": [
+    {
+     "id": "000",
+     "text": "Hele landet"
+    },
+    {
+     "id": "101",
+     "text": "København"
+    },
+    {
+     "id": "147",
+     "text": "Frederiksberg"
+    },
+    {
+     "id": "155",
+     "text": "Dragør"
+    },
+    {
+     "id": "185",
+     "text": "Tårnby"
+    },
+    {
+     "id": "165",
+     "text": "Albertslund"
+    },
+    {
+     "id": "151",
+     "text": "Ballerup"
+    },
+    {
+     "id": "153",
+     "text": "Brøndby"
+    },
+    {
+     "id": "157",
+     "text": "Gentofte"
+    },
+    {
+     "id": "159",
+     "text": "Gladsaxe"
+    },
+    {
+     "id": "161",
+     "text": "Glostrup"
+    },
+    {
+     "id": "163",
+     "text": "Herlev"
+    },
+    {
+     "id": "167",
+     "text": "Hvidovre"
+    },
+    {
+     "id": "169",
+     "text": "Høje-Taastrup"
+    },
+    {
+     "id": "183",
+     "text": "Ishøj"
+    },
+    {
+     "id": "173",
+     "text": "Lyngby-Taarbæk"
+    },
+    {
+     "id": "175",
+     "text": "Rødovre"
+    },
+    {
+     "id": "187",
+     "text": "Vallensbæk"
+    },
+    {
+     "id": "201",
+     "text": "Allerød"
+    },
+    {
+     "id": "240",
+     "text": "Egedal"
+    },
+    {
+     "id": "210",
+     "text": "Fredensborg"
+    },
+    {
+     "id": "250",
+     "text": "Frederikssund"
+    },
+    {
+     "id": "190",
+     "text": "Furesø"
+    },
+    {
+     "id": "270",
+     "text": "Gribskov"
+    },
+    {
+     "id": "260",
+     "text": "Halsnæs"
+    },
+    {
+     "id": "217",
+     "text": "Helsingør"
+    },
+    {
+     "id": "219",
+     "text": "Hillerød"
+    },
+    {
+     "id": "223",
+     "text": "Hørsholm"
+    },
+    {
+     "id": "230",
+     "text": "Rudersdal"
+    },
+    {
+     "id": "400",
+     "text": "Bornholm"
+    },
+    {
+     "id": "253",
+     "text": "Greve"
+    },
+    {
+     "id": "259",
+     "text": "Køge"
+    },
+    {
+     "id": "350",
+     "text": "Lejre"
+    },
+    {
+     "id": "265",
+     "text": "Roskilde"
+    },
+    {
+     "id": "269",
+     "text": "Solrød"
+    },
+    {
+     "id": "320",
+     "text": "Faxe"
+    },
+    {
+     "id": "376",
+     "text": "Guldborgsund"
+    },
+    {
+     "id": "316",
+     "text": "Holbæk"
+    },
+    {
+     "id": "326",
+     "text": "Kalundborg"
+    },
+    {
+     "id": "360",
+     "text": "Lolland"
+    },
+    {
+     "id": "370",
+     "text": "Næstved"
+    },
+    {
+     "id": "306",
+     "text": "Odsherred"
+    },
+    {
+     "id": "329",
+     "text": "Ringsted"
+    },
+    {
+     "id": "330",
+     "text": "Slagelse"
+    },
+    {
+     "id": "340",
+     "text": "Sorø"
+    },
+    {
+     "id": "336",
+     "text": "Stevns"
+    },
+    {
+     "id": "390",
+     "text": "Vordingborg"
+    },
+    {
+     "id": "420",
+     "text": "Assens"
+    },
+    {
+     "id": "430",
+     "text": "Faaborg-Midtfyn"
+    },
+    {
+     "id": "440",
+     "text": "Kerteminde"
+    },
+    {
+     "id": "482",
+     "text": "Langeland"
+    },
+    {
+     "id": "410",
+     "text": "Middelfart"
+    },
+    {
+     "id": "480",
+     "text": "Nordfyns"
+    },
+    {
+     "id": "450",
+     "text": "Nyborg"
+    },
+    {
+     "id": "461",
+     "text": "Odense"
+    },
+    {
+     "id": "479",
+     "text": "Svendborg"
+    },
+    {
+     "id": "492",
+     "text": "Ærø"
+    },
+    {
+     "id": "530",
+     "text": "Billund"
+    },
+    {
+     "id": "561",
+     "text": "Esbjerg"
+    },
+    {
+     "id": "563",
+     "text": "Fanø"
+    },
+    {
+     "id": "607",
+     "text": "Fredericia"
+    },
+    {
+     "id": "510",
+     "text": "Haderslev"
+    },
+    {
+     "id": "621",
+     "text": "Kolding"
+    },
+    {
+     "id": "540",
+     "text": "Sønderborg"
+    },
+    {
+     "id": "550",
+     "text": "Tønder"
+    },
+    {
+     "id": "573",
+     "text": "Varde"
+    },
+    {
+     "id": "575",
+     "text": "Vejen"
+    },
+    {
+     "id": "630",
+     "text": "Vejle"
+    },
+    {
+     "id": "580",
+     "text": "Aabenraa"
+    },
+    {
+     "id": "710",
+     "text": "Favrskov"
+    },
+    {
+     "id": "766",
+     "text": "Hedensted"
+    },
+    {
+     "id": "615",
+     "text": "Horsens"
+    },
+    {
+     "id": "707",
+     "text": "Norddjurs"
+    },
+    {
+     "id": "727",
+     "text": "Odder"
+    },
+    {
+     "id": "730",
+     "text": "Randers"
+    },
+    {
+     "id": "741",
+     "text": "Samsø"
+    },
+    {
+     "id": "740",
+     "text": "Silkeborg"
+    },
+    {
+     "id": "746",
+     "text": "Skanderborg"
+    },
+    {
+     "id": "706",
+     "text": "Syddjurs"
+    },
+    {
+     "id": "751",
+     "text": "Aarhus"
+    },
+    {
+     "id": "657",
+     "text": "Herning"
+    },
+    {
+     "id": "661",
+     "text": "Holstebro"
+    },
+    {
+     "id": "756",
+     "text": "Ikast-Brande"
+    },
+    {
+     "id": "665",
+     "text": "Lemvig"
+    },
+    {
+     "id": "760",
+     "text": "Ringkøbing-Skjern"
+    },
+    {
+     "id": "779",
+     "text": "Skive"
+    },
+    {
+     "id": "671",
+     "text": "Struer"
+    },
+    {
+     "id": "791",
+     "text": "Viborg"
+    },
+    {
+     "id": "810",
+     "text": "Brønderslev"
+    },
+    {
+     "id": "813",
+     "text": "Frederikshavn"
+    },
+    {
+     "id": "860",
+     "text": "Hjørring"
+    },
+    {
+     "id": "849",
+     "text": "Jammerbugt"
+    },
+    {
+     "id": "825",
+     "text": "Læsø"
+    },
+    {
+     "id": "846",
+     "text": "Mariagerfjord"
+    },
+    {
+     "id": "773",
+     "text": "Morsø"
+    },
+    {
+     "id": "840",
+     "text": "Rebild"
+    },
+    {
+     "id": "787",
+     "text": "Thisted"
+    },
+    {
+     "id": "820",
+     "text": "Vesthimmerlands"
+    },
+    {
+     "id": "851",
+     "text": "Aalborg"
+    }
+   ]
+  },
+  {
+   "id": "FUNKTION",
+   "text": "funktion",
+   "elimination": true,
+   "time": false,
+   "values": [
+    {
+     "id": "02201",
+     "text": "0.22.01 Fælles formål (jordforsyning)"
+    },
+    {
+     "id": "02202",
+     "text": "0.22.02 Boligformål (jordforsyning)"
+    },
+    {
+     "id": "02203",
+     "text": "0.22.03 Erhvervsformål (jordforsyning)"
+    },
+    {
+     "id": "02204",
+     "text": "0.22.04 Offentlige formål (jordforsyning)"
+    },
+    {
+     "id": "02205",
+     "text": "0.22.05 Ubestemte formål (jordforsyning)"
+    },
+    {
+     "id": "02510",
+     "text": "0.25.10 Fælles formål (faste ejendomme)"
+    },
+    {
+     "id": "02511",
+     "text": "0.25.11 Beboelse"
+    },
+    {
+     "id": "02512",
+     "text": "0.25.12 Erhvervsejendomme"
+    },
+    {
+     "id": "02513",
+     "text": "0.25.13 Andre faste ejendomme"
+    },
+    {
+     "id": "02515",
+     "text": "0.25.15 Byfornyelse"
+    },
+    {
+     "id": "02517",
+     "text": "0.25.17 Anvisningsret i private udlejningsejendomme"
+    },
+    {
+     "id": "02518",
+     "text": "0.25.18 Driftsikring af boligbyggeri"
+    },
+    {
+     "id": "02519",
+     "text": "0.25.19 Ældreboliger"
+    },
+    {
+     "id": "02820",
+     "text": "0.28.20 Grønne områder og naturpladser"
+    },
+    {
+     "id": "03231",
+     "text": "0.32.31 Stadion og idrætsanlæg"
+    },
+    {
+     "id": "03235",
+     "text": "0.32.35 Andre fritidsfaciliteter"
+    },
+    {
+     "id": "03540",
+     "text": "0.35.40 Kirkegårde"
+    },
+    {
+     "id": "03850",
+     "text": "0.38.50 Naturforvaltningsprojekter"
+    },
+    {
+     "id": "03851",
+     "text": "0.38.51 Natura 2000"
+    },
+    {
+     "id": "03852",
+     "text": "0.38.52 Fredningserstatninger"
+    },
+    {
+     "id": "03853",
+     "text": "0.38.53 Skove"
+    },
+    {
+     "id": "03854",
+     "text": "0.38.54 Sandflugt"
+    },
+    {
+     "id": "04870",
+     "text": "0.48.70 Fælles formål (vandløbsvæsen)"
+    },
+    {
+     "id": "04871",
+     "text": "0.48.71 Vedligeholdelse af vandløb"
+    },
+    {
+     "id": "04872",
+     "text": "0.48.72 Bidrag for vedligeholdelsesarbejde m.v."
+    },
+    {
+     "id": "05280",
+     "text": "0.52.80 Fælles formål (miljøbeskyttelse m.v.)"
+    },
+    {
+     "id": "05281",
+     "text": "0.52.81 Jordforurening"
+    },
+    {
+     "id": "05283",
+     "text": "0.52.83 Råstoffer"
+    },
+    {
+     "id": "05285",
+     "text": "0.52.85 Bærbare batterier"
+    },
+    {
+     "id": "05287",
+     "text": "0.52.87 Miljøtilsyn - virksomheder"
+    },
+    {
+     "id": "05289",
+     "text": "0.52.89 Øvrig planlægning, undersøgelser, tilsyn m.v."
+    },
+    {
+     "id": "05590",
+     "text": "0.55.90 Fælles formål"
+    },
+    {
+     "id": "05591",
+     "text": "0.55.91 Skadedyrsbekæmpelse"
+    },
+    {
+     "id": "05592",
+     "text": "0.55.92 Skorstensfejerarbejde"
+    },
+    {
+     "id": "05593",
+     "text": "0.55.93 Diverse udgifter og indtægter (byudvikling, bolig- og miljøforanstaltninger)"
+    },
+    {
+     "id": "05895",
+     "text": "0.58.95 Redningsberedskab"
+    },
+    {
+     "id": "12201",
+     "text": "1.22.01 Gasforsyning"
+    },
+    {
+     "id": "12202",
+     "text": "1.22.02 El-forsyning"
+    },
+    {
+     "id": "12203",
+     "text": "1.22.03 Varmeforsyning"
+    },
+    {
+     "id": "12204",
+     "text": "1.22.04 Vandforsyning"
+    },
+    {
+     "id": "12206",
+     "text": "1.22.06 Andre forsyningsvirksomheder"
+    },
+    {
+     "id": "13540",
+     "text": "1.35.40 Fælles formål (spildevandsanlæg)"
+    },
+    {
+     "id": "13543",
+     "text": "1.35.43 Rensningsanlæg inkl. hoved- og detailkloakker"
+    },
+    {
+     "id": "13544",
+     "text": "1.35.44 Tømningsordninger"
+    },
+    {
+     "id": "13546",
+     "text": "1.35.46 Kommunalt udlæg for vandselskabers brugerfinansierede projekter"
+    },
+    {
+     "id": "13860",
+     "text": "1.38.60 Generel administration (kun husholdninger)"
+    },
+    {
+     "id": "13861",
+     "text": "1.38.61 Ordninger for restaffald"
+    },
+    {
+     "id": "13862",
+     "text": "1.38.62 Ordninger for storskrald og haveaffald"
+    },
+    {
+     "id": "13863",
+     "text": "1.38.63 Ordninger for mad-, papir-, pap-, glas-, metal-, plast- og drikkekartonaffald"
+    },
+    {
+     "id": "13864",
+     "text": "1.38.64 Ordninger for farligt affald og tekstilaffald"
+    },
+    {
+     "id": "13865",
+     "text": "1.38.65 Genbrugsstationer"
+    },
+    {
+     "id": "13866",
+     "text": "1.38.66 Øvrige ordninger og anlæg"
+    },
+    {
+     "id": "13867",
+     "text": "1.38.67 Indsamling af erhvervsaffald til markedspriser"
+    },
+    {
+     "id": "22201",
+     "text": "2.22.01 Fælles og tværgående vejformål (transport og infrastruktur)"
+    },
+    {
+     "id": "22203",
+     "text": "2.22.03 Arbejder for fremmed regning"
+    },
+    {
+     "id": "22205",
+     "text": "2.22.05 Driftsbygninger og -pladser"
+    },
+    {
+     "id": "22207",
+     "text": "2.22.07 Parkering"
+    },
+    {
+     "id": "22811",
+     "text": "2.28.11 Vejvedligeholdelse m.v."
+    },
+    {
+     "id": "22812",
+     "text": "2.28.12 Belægninger m.v."
+    },
+    {
+     "id": "22814",
+     "text": "2.28.14 Vintertjeneste"
+    },
+    {
+     "id": "22822",
+     "text": "2.28.22 Vejanlæg"
+    },
+    {
+     "id": "22823",
+     "text": "2.28.23 Standardforbedringer af færdselsarealer"
+    },
+    {
+     "id": "23230",
+     "text": "2.32.30 Fælles formål (kollektiv trafik)"
+    },
+    {
+     "id": "23231",
+     "text": "2.32.31 Busdrift"
+    },
+    {
+     "id": "23233",
+     "text": "2.32.33 Færgedrift"
+    },
+    {
+     "id": "23234",
+     "text": "2.32.34 Lufthavne"
+    },
+    {
+     "id": "23235",
+     "text": "2.32.35 Jernbanedrift"
+    },
+    {
+     "id": "23540",
+     "text": "2.35.40 Havne"
+    },
+    {
+     "id": "23541",
+     "text": "2.35.41 Lystbådehavne m.v."
+    },
+    {
+     "id": "23542",
+     "text": "2.35.42 Kystbeskyttelse"
+    },
+    {
+     "id": "32201",
+     "text": "3.22.01 Folkeskoler"
+    },
+    {
+     "id": "32202",
+     "text": "3.22.02 Fællesudgifter for kommunens samlede skolevæsen"
+    },
+    {
+     "id": "32203",
+     "text": "3.22.03 Syge- og hjemmeundervisning"
+    },
+    {
+     "id": "32204",
+     "text": "3.22.04 Pædagogisk psykologisk rådgivning m.v."
+    },
+    {
+     "id": "32205",
+     "text": "3.22.05 Skolefritidsordninger"
+    },
+    {
+     "id": "32206",
+     "text": "3.22.06 Befordring af elever i grundskolen"
+    },
+    {
+     "id": "32207",
+     "text": "3.22.07 Specialundervisning i regionale tilbud"
+    },
+    {
+     "id": "32208",
+     "text": "3.22.08 Kommunale specialskoler, behandlings- og specialundervisningstilbud samt specialundervisningstilbud på børne- og ungehjem"
+    },
+    {
+     "id": "32209",
+     "text": "3.22.09 Efter- og videreuddannelse i folkeskolen"
+    },
+    {
+     "id": "32210",
+     "text": "3.22.10 Bidrag til staten for elever på private skoler"
+    },
+    {
+     "id": "32212",
+     "text": "3.22.12 Efterskoler og ungdomskostskoler"
+    },
+    {
+     "id": "32214",
+     "text": "3.22.14 Ungdommens Uddannelsesvejledning"
+    },
+    {
+     "id": "32215",
+     "text": "3.22.15 Uddannelses- og erhvervsvejledning og øvrige indsatser"
+    },
+    {
+     "id": "32216",
+     "text": "3.22.16 Specialpædagogisk bistand til børn i førskolealderen"
+    },
+    {
+     "id": "32217",
+     "text": "3.22.17 Specialpædagogisk bistand til voksne"
+    },
+    {
+     "id": "32218",
+     "text": "3.22.18 Idrætsfaciliteter for børn og unge"
+    },
+    {
+     "id": "33042",
+     "text": "3.30.42 Forberedende Grunduddannelse"
+    },
+    {
+     "id": "33043",
+     "text": "3.30.43 Forsørgelse til elever på Forberedende Grunduddannelse samt elevløn"
+    },
+    {
+     "id": "33044",
+     "text": "3.30.44 Produktionsskoler"
+    },
+    {
+     "id": "33045",
+     "text": "3.30.45 Erhvervsgrunduddannelser"
+    },
+    {
+     "id": "33046",
+     "text": "3.30.46 Ungdomsuddannelse for unge med særlige behov"
+    },
+    {
+     "id": "33047",
+     "text": "3.30.47 Kommunalt drevne gymnasieskoler"
+    },
+    {
+     "id": "33250",
+     "text": "3.32.50 Folkebiblioteker"
+    },
+    {
+     "id": "33560",
+     "text": "3.35.60 Museer"
+    },
+    {
+     "id": "33561",
+     "text": "3.35.61 Biografer"
+    },
+    {
+     "id": "33562",
+     "text": "3.35.62 Teatre"
+    },
+    {
+     "id": "33563",
+     "text": "3.35.63 Musikarrangementer"
+    },
+    {
+     "id": "33564",
+     "text": "3.35.64 Andre kulturelle opgaver"
+    },
+    {
+     "id": "33870",
+     "text": "3.38.70 Fælles formål (folkeoplysning og fritidsaktiviteter m.v.)"
+    },
+    {
+     "id": "33872",
+     "text": "3.38.72 Folkeoplysende voksenundervisning"
+    },
+    {
+     "id": "33873",
+     "text": "3.38.73 Frivilligt folkeoplysende foreningsarbejde"
+    },
+    {
+     "id": "33874",
+     "text": "3.38.74 Lokaletilskud"
+    },
+    {
+     "id": "33875",
+     "text": "3.38.75 Fritidsaktiviteter uden for folkeoplysningsloven"
+    },
+    {
+     "id": "33876",
+     "text": "3.38.76 Ungdomsskolevirksomhed"
+    },
+    {
+     "id": "33877",
+     "text": "3.38.77 Daghøjskoler"
+    },
+    {
+     "id": "33878",
+     "text": "3.38.78 Kommunale tilskud til statsligt finansierede selvejende uddannelsesinstitutioner m.v."
+    },
+    {
+     "id": "34180",
+     "text": "3.41.80 Regionale udviklingsopgaver på undervisningsområdet"
+    },
+    {
+     "id": "34583",
+     "text": "3.45.83 Fælles formål (undervisning og kultur)"
+    },
+    {
+     "id": "46281",
+     "text": "4.62.81 Aktivitetsbestemt medfinansiering af sundhedsvæsenet"
+    },
+    {
+     "id": "46282",
+     "text": "4.62.82 Genoptræning og vedligeholdelsestræning"
+    },
+    {
+     "id": "46284",
+     "text": "4.62.84 Fysioterapi"
+    },
+    {
+     "id": "46285",
+     "text": "4.62.85 Kommunal tandpleje"
+    },
+    {
+     "id": "46288",
+     "text": "4.62.88 Sundhedsfremme og forebyggelse"
+    },
+    {
+     "id": "46289",
+     "text": "4.62.89 Forebyggende sundhedsydelser til børn og unge"
+    },
+    {
+     "id": "46290",
+     "text": "4.62.90 Andre sundhedsudgifter"
+    },
+    {
+     "id": "52207",
+     "text": "5.22.07 Indtægter fra den centrale refusionsordning"
+    },
+    {
+     "id": "52208",
+     "text": "5.22.08 Refusionsordning vedr. udgifter til Housing First-indsatser m.v."
+    },
+    {
+     "id": "52510",
+     "text": "5.25.10 Fælles formål (dagpleje og daginstitutioner for børn m.v.)"
+    },
+    {
+     "id": "52511",
+     "text": "5.25.11 Dagpleje"
+    },
+    {
+     "id": "52512",
+     "text": "5.25.12 Vuggestuer"
+    },
+    {
+     "id": "52513",
+     "text": "5.25.13 Tværgående institutioner"
+    },
+    {
+     "id": "52514",
+     "text": "5.25.14 Daginstitutioner"
+    },
+    {
+     "id": "52515",
+     "text": "5.25.15 Fritidshjem"
+    },
+    {
+     "id": "52516",
+     "text": "5.25.16 Klubber og andre socialpædagogiske fritidstilbud"
+    },
+    {
+     "id": "52517",
+     "text": "5.25.17 Særlige dagtilbud og særlige klubber"
+    },
+    {
+     "id": "52518",
+     "text": "5.25.18 Åbne pædagogiske tilbud, legesteder m.v."
+    },
+    {
+     "id": "52519",
+     "text": "5.25.19 Tilskud til privatinstitutioner, privat dagpleje, private fritidshjem, private klubber og puljeordninger"
+    },
+    {
+     "id": "52820",
+     "text": "5.28.20 Opholdssteder m.v. for børn og unge"
+    },
+    {
+     "id": "52821",
+     "text": "5.28.21 Rådgivning samt forebyggende indsatser eller foranstaltninger og støttende indsatser for børn og unge"
+    },
+    {
+     "id": "52822",
+     "text": "5.28.22 Plejefamilier"
+    },
+    {
+     "id": "52823",
+     "text": "5.28.23 Børne- og ungehjem i form af døgninstitutioner for børn og unge"
+    },
+    {
+     "id": "52824",
+     "text": "5.28.24 Sikrede døgninstitutioner m.v. for børn og unge"
+    },
+    {
+     "id": "52825",
+     "text": "5.28.25 Særlige dagtilbud og særlige klubber"
+    },
+    {
+     "id": "52826",
+     "text": "5.28.26 Afgørelser efter lov om bekæmpelse af ungdomskriminalitet"
+    },
+    {
+     "id": "53026",
+     "text": "5.30.26 Personlig og praktisk hjælp og madservice til ældre omfattet af frit valg af leverandør"
+    },
+    {
+     "id": "53027",
+     "text": "5.30.27 Pleje og omsorg m.v. af primært ældre undtaget frit valg af leverandør"
+    },
+    {
+     "id": "53028",
+     "text": "5.30.28 Hjemmesygepleje"
+    },
+    {
+     "id": "53029",
+     "text": "5.30.29 Forebyggende indsats samt aflastningstilbud målrettet mod primært ældre"
+    },
+    {
+     "id": "53031",
+     "text": "5.30.31 Hjælpemidler, forbrugsgoder, boligindretning og befordring til ældre"
+    },
+    {
+     "id": "53036",
+     "text": "5.30.36 Plejevederlag og hjælp til sygeartikler o.lign. ved pasning af døende i eget hjem"
+    },
+    {
+     "id": "53230",
+     "text": "5.32.30 Ældreboliger"
+    },
+    {
+     "id": "53232",
+     "text": "5.32.32 Pleje og omsorg m.v. af ældre og handicappede"
+    },
+    {
+     "id": "53233",
+     "text": "5.32.33 Forebyggende indsats for ældre og handicappede"
+    },
+    {
+     "id": "53234",
+     "text": "5.32.34 Plejehjem og beskyttede boliger"
+    },
+    {
+     "id": "53235",
+     "text": "5.32.35 Hjælpemidler, forbrugsgoder, boligindretning og befordring"
+    },
+    {
+     "id": "53237",
+     "text": "5.32.37 Løn og plejevederlag til pårørende"
+    },
+    {
+     "id": "53540",
+     "text": "5.35.40 Rådgivning og rådgivningsinstitutioner"
+    },
+    {
+     "id": "53838",
+     "text": "5.38.38 Personlig og praktisk hjælp og madservice (hjemmehjælp) til personer med handicap m.v. omfattet af frit valg af leverandør, samt rehabiliteringsforløb"
+    },
+    {
+     "id": "53839",
+     "text": "5.38.39 Personlig støtte og pasning af personer med handicap m.v."
+    },
+    {
+     "id": "53840",
+     "text": "5.38.40 Rådgivning og rådgivningsinstitutioner"
+    },
+    {
+     "id": "53841",
+     "text": "5.38.41 Hjælpemidler, forbrugsgoder, boligindretning og befordring til personer med handicap"
+    },
+    {
+     "id": "53842",
+     "text": "5.38.42 Indsatser for personer med særlige sociale problemer"
+    },
+    {
+     "id": "53844",
+     "text": "5.38.44 Alkoholbehandling og behandlingshjem for personer med alkoholmisbrug"
+    },
+    {
+     "id": "53845",
+     "text": "5.38.45 Behandling af personer med stofmisbrug"
+    },
+    {
+     "id": "53850",
+     "text": "5.38.50 Botilbud til længerevarende ophold"
+    },
+    {
+     "id": "53851",
+     "text": "5.38.51 Botilbudslignende tilbud"
+    },
+    {
+     "id": "53852",
+     "text": "5.38.52 Botilbud til midlertidigt ophold"
+    },
+    {
+     "id": "53853",
+     "text": "5.38.53 Kontaktperson- og ledsageordninger"
+    },
+    {
+     "id": "53854",
+     "text": "5.38.54 Særlige pladser på psykiatrisk afdeling"
+    },
+    {
+     "id": "53858",
+     "text": "5.38.58 Beskyttet beskæftigelse"
+    },
+    {
+     "id": "53859",
+     "text": "5.38.59 Aktivitets- og samværstilbud"
+    },
+    {
+     "id": "54660",
+     "text": "5.46.60 Selvforsørgelses- og hjemrejseprogram eller introduktionsprogram og introduktionsforløb m.v."
+    },
+    {
+     "id": "54661",
+     "text": "5.46.61 Selvforsørgelses- og hjemrejseydelse samt overgangsydelse m.v."
+    },
+    {
+     "id": "54665",
+     "text": "5.46.65 Repatriering"
+    },
+    {
+     "id": "54865",
+     "text": "5.48.65 Seniorpension"
+    },
+    {
+     "id": "54866",
+     "text": "5.48.66 Førtidspension tilkendt 1. juli 2014 eller senere"
+    },
+    {
+     "id": "54867",
+     "text": "5.48.67 Personlige tillæg m.v."
+    },
+    {
+     "id": "54868",
+     "text": "5.48.68 Førtidspension tilkendt før 1. juli 2014"
+    },
+    {
+     "id": "54869",
+     "text": "5.48.69 Førtidspension med 65 pct. kommunal medfinansiering - tilkendt efter regler gældende før 1. januar 2003"
+    },
+    {
+     "id": "54870",
+     "text": "5.48.70 Førtidspension med 65 pct. kommunal medfinansiering - tilkendt efter regler gældende fra 1. januar 2003"
+    },
+    {
+     "id": "55771",
+     "text": "5.57.71 Sygedagpenge"
+    },
+    {
+     "id": "55772",
+     "text": "5.57.72 Sociale formål"
+    },
+    {
+     "id": "55773",
+     "text": "5.57.73 Kontant- og uddannelseshjælp"
+    },
+    {
+     "id": "55774",
+     "text": "5.57.74 Selvforsørgelses- og hjemrejseydelse samt overgangsydelse m.v. med 100 pct. refusion vedr. visse grupper af flygtninge"
+    },
+    {
+     "id": "55775",
+     "text": "5.57.75 Afløb og tilbagebetalinger m.v. af hjælp vedr. aktiverede kontant- og uddannelseshjælpsmodtagere"
+    },
+    {
+     "id": "55776",
+     "text": "5.57.76 Boligydelser til pensionister - kommunal medfinansiering"
+    },
+    {
+     "id": "55777",
+     "text": "5.57.77 Boligsikring - kommunal medfinansiering"
+    },
+    {
+     "id": "55778",
+     "text": "5.57.78 Dagpenge til forsikrede ledige"
+    },
+    {
+     "id": "55779",
+     "text": "5.57.79 Midlertidig arbejdsmarkedsydelsesordning og kontantydelsesordning"
+    },
+    {
+     "id": "55880",
+     "text": "5.58.80 Revalidering"
+    },
+    {
+     "id": "55881",
+     "text": "5.58.81 Løntilskud m.v. til personer i fleksjob og personer i løntilskudsstillinger i målgruppe"
+    },
+    {
+     "id": "55882",
+     "text": "5.58.82 Ressourceforløb og jobafklaringsforløb"
+    },
+    {
+     "id": "55883",
+     "text": "5.58.83 Ledighedsydelse"
+    },
+    {
+     "id": "56890",
+     "text": "5.68.90 Driftsudgifter til den kommunale beskæftigelsesindsats"
+    },
+    {
+     "id": "56891",
+     "text": "5.68.91 Afløb af jobrotation før 2015 (indtil 2021 - Beskæftigelsesindsats for dagpengemodtagere)"
+    },
+    {
+     "id": "56893",
+     "text": "5.68.93 Jobcentre"
+    },
+    {
+     "id": "56894",
+     "text": "5.68.94 Løntilskud og indtil 2012 pilotjobcentre"
+    },
+    {
+     "id": "56895",
+     "text": "5.68.95 Løn til dagpengemodtagere m.fl., kontanthjælpsmodtagere m.fl. og øvrige personer ansat med løntilskud i kommuner"
+    },
+    {
+     "id": "56896",
+     "text": "5.68.96 Servicejob"
+    },
+    {
+     "id": "56897",
+     "text": "5.68.97 Seniorjob"
+    },
+    {
+     "id": "56898",
+     "text": "5.68.98 Beskæftigelsesordninger"
+    },
+    {
+     "id": "57299",
+     "text": "5.72.99 Frivilligt socialt arbejde og øvrige sociale formål"
+    },
+    {
+     "id": "64240",
+     "text": "6.42.40 Fælles formål (politisk organisation)"
+    },
+    {
+     "id": "64241",
+     "text": "6.42.41 Kommunalbestyrelsesmedlemmer"
+    },
+    {
+     "id": "64242",
+     "text": "6.42.42 Kommissioner, råd og nævn"
+    },
+    {
+     "id": "64243",
+     "text": "6.42.43 Valg m.v."
+    },
+    {
+     "id": "64550",
+     "text": "6.45.50 Administrationsbygninger"
+    },
+    {
+     "id": "64551",
+     "text": "6.45.51 Sekretariat og forvaltninger"
+    },
+    {
+     "id": "64552",
+     "text": "6.45.52 Fælles IT og telefoni"
+    },
+    {
+     "id": "64553",
+     "text": "6.45.53 Jobcentre"
+    },
+    {
+     "id": "64554",
+     "text": "6.45.54 Naturbeskyttelse"
+    },
+    {
+     "id": "64555",
+     "text": "6.45.55 Miljøbeskyttelse"
+    },
+    {
+     "id": "64556",
+     "text": "6.45.56 Byggesagsbehandling"
+    },
+    {
+     "id": "64557",
+     "text": "6.45.57 Voksen-, ældre- og handicapområdet"
+    },
+    {
+     "id": "64558",
+     "text": "6.45.58 Det specialiserede børneområde"
+    },
+    {
+     "id": "64559",
+     "text": "6.45.59 Administrationsbidrag til Udbetaling Danmark og Seniorpensionsenheden m.v."
+    },
+    {
+     "id": "64860",
+     "text": "6.48.60 Afgifter knyttet til næringslivet og indtægter i forb. med systemeksport m.v."
+    },
+    {
+     "id": "64861",
+     "text": "6.48.61 Vækstfora"
+    },
+    {
+     "id": "64862",
+     "text": "6.48.62 Turisme"
+    },
+    {
+     "id": "64863",
+     "text": "6.48.63 Udvikling af menneskelige ressourcer"
+    },
+    {
+     "id": "64866",
+     "text": "6.48.66 Innovation og ny teknologi"
+    },
+    {
+     "id": "64867",
+     "text": "6.48.67 Vejledning og Erhvervsudvikling"
+    },
+    {
+     "id": "64868",
+     "text": "6.48.68 Udvikling af yder- og landdistriktsområder"
+    },
+    {
+     "id": "65270",
+     "text": "6.52.70 Løn- og barselspuljer"
+    },
+    {
+     "id": "65271",
+     "text": "6.52.71 Indbetaling til Lønmodtagernes Feriemidler"
+    },
+    {
+     "id": "65272",
+     "text": "6.52.72 Tjenestemandspension"
+    },
+    {
+     "id": "65274",
+     "text": "6.52.74 Interne forsikringspuljer"
+    },
+    {
+     "id": "65276",
+     "text": "6.52.76 Generelle reserver (lønpuljer m.v.)"
+    },
+    {
+     "id": "72200",
+     "text": "7.22.00 Renter af likvide aktiver"
+    },
+    {
+     "id": "72800",
+     "text": "7.28.00 Renter af kortfristede tilgodehavender i øvrigt"
+    },
+    {
+     "id": "73200",
+     "text": "7.32.00 Renter af langfristede tilgodehavender"
+    },
+    {
+     "id": "73500",
+     "text": "7.35.00 Renter af udlæg vedrørende forsyningsvirksomheder og mellemværende med selskabsgjorte forsyningsvirksomheder"
+    },
+    {
+     "id": "75000",
+     "text": "7.50.00 Renter af kortfristet gæld til pengeinstitutter"
+    },
+    {
+     "id": "75100",
+     "text": "7.51.00 Renter af kortfristet gæld til staten"
+    },
+    {
+     "id": "75200",
+     "text": "7.52.00 Renter af kortfristet gæld i øvrigt"
+    },
+    {
+     "id": "75500",
+     "text": "7.55.00 Renter af langfristet gæld"
+    },
+    {
+     "id": "75800",
+     "text": "7.58.00 Kurstab og kursgevinster m.v."
+    },
+    {
+     "id": "76280",
+     "text": "7.62.80 Udligning og generelle tilskud"
+    },
+    {
+     "id": "76281",
+     "text": "7.62.81 Udligning og tilskud vedrørende udlændinge"
+    },
+    {
+     "id": "76282",
+     "text": "7.62.82 Kommunale bidrag til regionerne"
+    },
+    {
+     "id": "76285",
+     "text": "7.62.85 Sektorspecifikke udligningsordninger"
+    },
+    {
+     "id": "76286",
+     "text": "7.62.86 Særlige tilskud"
+    },
+    {
+     "id": "76587",
+     "text": "7.65.87 Refusion af købsmoms"
+    },
+    {
+     "id": "76890",
+     "text": "7.68.90 Kommunal indkomstskat"
+    },
+    {
+     "id": "76892",
+     "text": "7.68.92 Selskabsskat"
+    },
+    {
+     "id": "76893",
+     "text": "7.68.93 Anden skat pålignet visse indkomster"
+    },
+    {
+     "id": "76894",
+     "text": "7.68.94 Grundskyld"
+    },
+    {
+     "id": "76895",
+     "text": "7.68.95 Anden skat på fast ejendom"
+    },
+    {
+     "id": "76896",
+     "text": "7.68.96 Øvrige skatter og afgifter"
+    },
+    {
+     "id": "82200",
+     "text": "8.22.00 Forskydninger i likvide aktiver"
+    },
+    {
+     "id": "82500",
+     "text": "8.25.00 Forskydninger i tilgodehavender hos staten"
+    },
+    {
+     "id": "82800",
+     "text": "8.28.00 Forskydninger i kortfristede tilgodehavender i øvrigt"
+    },
+    {
+     "id": "83200",
+     "text": "8.32.00 Forskydninger i langfristede tilgodehavender"
+    },
+    {
+     "id": "83500",
+     "text": "8.35.00 Mellemværende med selskabsgjorte forsyningsvirksomheder"
+    },
+    {
+     "id": "83800",
+     "text": "8.38.00 Forskydninger i aktiver vedrørende beløb til opkrævning eller udbetaling for andre"
+    },
+    {
+     "id": "84200",
+     "text": "8.42.00 Forskydninger i aktiver tilhørende fonds, legater m.v."
+    },
+    {
+     "id": "84500",
+     "text": "8.45.00 Forskydninger i passiver tilhørende fonds, legater m.v."
+    },
+    {
+     "id": "84800",
+     "text": "8.48.00 Forskydninger i passiver vedrørende beløb til opkrævning eller udbetaling for andre"
+    },
+    {
+     "id": "85000",
+     "text": "8.50.00 Forskydninger i kortfristet gæld til pengeinstitutter"
+    },
+    {
+     "id": "85100",
+     "text": "8.51.00 Forskydninger i kortfristet gæld til staten"
+    },
+    {
+     "id": "85200",
+     "text": "8.52.00 Forskydninger i kortfristet gæld i øvrigt"
+    },
+    {
+     "id": "85500",
+     "text": "8.55.00 Forskydninger i langfristet gæld"
+    },
+    {
+     "id": "85800",
+     "text": "8.58.00 Materielle anlægsaktiver"
+    },
+    {
+     "id": "86200",
+     "text": "8.62.00 Immaterielle anlægsaktiver"
+    },
+    {
+     "id": "86500",
+     "text": "8.65.00 Omsætningsaktiver - Varebeholdninger"
+    },
+    {
+     "id": "86800",
+     "text": "8.68.00 Omsætningsaktiver - Fysiske anlæg til salg"
+    },
+    {
+     "id": "87200",
+     "text": "8.72.00 Hensatte forpligtelser"
+    },
+    {
+     "id": "87500",
+     "text": "8.75.00 Egenkapital"
+    }
+   ]
+  },
+  {
+   "id": "DRANST",
+   "text": "dranst",
+   "elimination": true,
+   "time": false,
+   "values": [
+    {
+     "id": "1",
+     "text": "1 Driftskonti"
+    },
+    {
+     "id": "2",
+     "text": "2 Statsrefusion"
+    },
+    {
+     "id": "3",
+     "text": "3 Anlægskonti"
+    },
+    {
+     "id": "4",
+     "text": "4 Renter"
+    },
+    {
+     "id": "5",
+     "text": "5 Finansforskydninger"
+    },
+    {
+     "id": "6",
+     "text": "6 Afdrag på lån"
+    },
+    {
+     "id": "7",
+     "text": "7 Finansiering"
+    }
+   ]
+  },
+  {
+   "id": "ART",
+   "text": "art",
+   "elimination": true,
+   "time": false,
+   "values": [
+    {
+     "id": "UE",
+     "text": "Bruttoudgifter"
+    },
+    {
+     "id": "TOT",
+     "text": "I alt (netto)"
+    },
+    {
+     "id": "I",
+     "text": "Indtægter"
+    },
+    {
+     "id": "S0",
+     "text": "0 Beregnede omkostninger"
+    },
+    {
+     "id": "00",
+     "text": "0.0 Statuskonteringer"
+    },
+    {
+     "id": "01",
+     "text": "0.1 Afskrivninger"
+    },
+    {
+     "id": "02",
+     "text": "0.2 Lagerforskydninger"
+    },
+    {
+     "id": "03",
+     "text": "0.3 Pensionshensættelse vedrørende tjenestemænd"
+    },
+    {
+     "id": "04",
+     "text": "0.4 Forrentning"
+    },
+    {
+     "id": "05",
+     "text": "0.5 Øvrige beregnede og overførte udgifter/omkostninger - frivillig"
+    },
+    {
+     "id": "06",
+     "text": "0.6 Øvrige beregnede og overførte udgifter/omkostninger - obligatorisk"
+    },
+    {
+     "id": "07",
+     "text": "0.7 Feriepenge"
+    },
+    {
+     "id": "08",
+     "text": "0.8 Beregnede og overførte indtægter"
+    },
+    {
+     "id": "09",
+     "text": "0.9 Modregningskonto"
+    },
+    {
+     "id": "S1",
+     "text": "1 Lønninger"
+    },
+    {
+     "id": "S2",
+     "text": "2 Varekøb"
+    },
+    {
+     "id": "S4",
+     "text": "4 Tjenesteydelser m.v."
+    },
+    {
+     "id": "40",
+     "text": "4.0 Tjenesteydelser uden moms"
+    },
+    {
+     "id": "45",
+     "text": "4.5 Entreprenør- og håndværkerydelser"
+    },
+    {
+     "id": "46",
+     "text": "4.6 Betalinger til staten"
+    },
+    {
+     "id": "47",
+     "text": "4.7 Betalinger til kommuner"
+    },
+    {
+     "id": "48",
+     "text": "4.8 Betalinger til regioner"
+    },
+    {
+     "id": "49",
+     "text": "4.9 Øvrige tjenesteydelser m.v."
+    },
+    {
+     "id": "S5",
+     "text": "5 Tilskud og overførsler"
+    },
+    {
+     "id": "51",
+     "text": "5.1 Tjenestemandspensioner m.v."
+    },
+    {
+     "id": "52",
+     "text": "5.2 Overførsler til personer"
+    },
+    {
+     "id": "59",
+     "text": "5.9 Øvrige tilskud og overførsler"
+    },
+    {
+     "id": "S6",
+     "text": "6 Finansudgifter"
+    },
+    {
+     "id": "S7",
+     "text": "7 Indtægter"
+    },
+    {
+     "id": "71",
+     "text": "7.1 Egne huslejeindtægter"
+    },
+    {
+     "id": "72",
+     "text": "7.2 Salg af produkter og ydelser"
+    },
+    {
+     "id": "76",
+     "text": "7.6 Betalinger fra staten"
+    },
+    {
+     "id": "77",
+     "text": "7.7 Betalinger fra kommuner"
+    },
+    {
+     "id": "78",
+     "text": "7.8 Betalinger fra regioner"
+    },
+    {
+     "id": "79",
+     "text": "7.9 Øvrige indtægter"
+    },
+    {
+     "id": "S8",
+     "text": "8 Finansindtægter"
+    },
+    {
+     "id": "86",
+     "text": "8.6 Statstilskud"
+    },
+    {
+     "id": "89",
+     "text": "8.9 Øvrige finansindtægter"
+    },
+    {
+     "id": "S9",
+     "text": "9 Interne udgifter og indtægter"
+    }
+   ]
+  },
+  {
+   "id": "PRISENHED",
+   "text": "prisenhed",
+   "elimination": false,
+   "time": false,
+   "values": [
+    {
+     "id": "LOBM",
+     "text": "Løbende priser (1.000 kr.)"
+    },
+    {
+     "id": "INDL",
+     "text": "Pr. indbygger, løbende priser (kr.)"
+    }
+   ]
+  },
+  {
+   "id": "Tid",
+   "text": "tid",
+   "elimination": false,
+   "time": true,
+   "values": [
+    {
+     "id": "2007",
+     "text": "2007"
+    },
+    {
+     "id": "2008",
+     "text": "2008"
+    },
+    {
+     "id": "2009",
+     "text": "2009"
+    },
+    {
+     "id": "2010",
+     "text": "2010"
+    },
+    {
+     "id": "2011",
+     "text": "2011"
+    },
+    {
+     "id": "2012",
+     "text": "2012"
+    },
+    {
+     "id": "2013",
+     "text": "2013"
+    },
+    {
+     "id": "2014",
+     "text": "2014"
+    },
+    {
+     "id": "2015",
+     "text": "2015"
+    },
+    {
+     "id": "2016",
+     "text": "2016"
+    },
+    {
+     "id": "2017",
+     "text": "2017"
+    },
+    {
+     "id": "2018",
+     "text": "2018"
+    },
+    {
+     "id": "2019",
+     "text": "2019"
+    },
+    {
+     "id": "2020",
+     "text": "2020"
+    },
+    {
+     "id": "2021",
+     "text": "2021"
+    },
+    {
+     "id": "2022",
+     "text": "2022"
+    },
+    {
+     "id": "2023",
+     "text": "2023"
+    },
+    {
+     "id": "2024",
+     "text": "2024"
+    },
+    {
+     "id": "2025",
+     "text": "2025"
+    },
+    {
+     "id": "2026",
+     "text": "2026"
+    }
+   ]
+  }
+ ]
+}

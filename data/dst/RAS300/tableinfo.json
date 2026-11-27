@@ -1,0 +1,790 @@
+{
+ "id": "RAS300",
+ "text": "Beskæftigede (ultimo november)",
+ "description": "Beskæftigede (ultimo november) efter branche (DB07), socioøkonomisk status, alder, køn og tid",
+ "unit": "Antal",
+ "suppressedDataValue": "0",
+ "updated": "2025-11-18T08:00:00",
+ "active": false,
+ "contacts": [
+  {
+   "name": "Pernille Stender",
+   "phone": "+4524921233",
+   "mail": "psd@dst.dk"
+  }
+ ],
+ "documentation": {
+  "id": "8afb83e2-10b9-4df7-9ac2-67c1b2ae3805",
+  "url": "https://www.dst.dk/statistikdokumentation/8afb83e2-10b9-4df7-9ac2-67c1b2ae3805"
+ },
+ "footnote": {
+  "text": "Tabellen er afsluttet. For nyere perioder se [RAS500](https://www.statistikbanken.dk/RAS500)",
+  "mandatory": true
+ },
+ "variables": [
+  {
+   "id": "BRANCHE07",
+   "text": "branche (DB07)",
+   "elimination": false,
+   "time": false,
+   "values": [
+    {
+     "id": "TOT",
+     "text": "TOT Erhverv i alt"
+    },
+    {
+     "id": "1",
+     "text": "1 Landbrug, skovbrug og fiskeri"
+    },
+    {
+     "id": "01000",
+     "text": "01000 Landbrug og gartneri"
+    },
+    {
+     "id": "02000",
+     "text": "02000 Skovbrug"
+    },
+    {
+     "id": "03000",
+     "text": "03000 Fiskeri"
+    },
+    {
+     "id": "2",
+     "text": "2 Industri, råstofindvinding og forsyningsvirksomhed"
+    },
+    {
+     "id": "06000",
+     "text": "06000 Indvinding af olie og gas"
+    },
+    {
+     "id": "08009",
+     "text": "08009 Indvinding af grus og sten"
+    },
+    {
+     "id": "09000",
+     "text": "09000 Service til råstofindvinding"
+    },
+    {
+     "id": "10001",
+     "text": "10001 Slagterier"
+    },
+    {
+     "id": "10002",
+     "text": "10002 Fiskeindustri"
+    },
+    {
+     "id": "10003",
+     "text": "10003 Mejerier"
+    },
+    {
+     "id": "10004",
+     "text": "10004 Bagerier, brødfabrikker mv."
+    },
+    {
+     "id": "10005",
+     "text": "10005 Anden fødevareindustri"
+    },
+    {
+     "id": "11000",
+     "text": "11000 Drikkevareindustri"
+    },
+    {
+     "id": "12000",
+     "text": "12000 Tobaksindustri"
+    },
+    {
+     "id": "13000",
+     "text": "13000 Tekstilindustri"
+    },
+    {
+     "id": "14000",
+     "text": "14000 Beklædningsindustri"
+    },
+    {
+     "id": "15000",
+     "text": "15000 Læder- og fodtøjsindustri"
+    },
+    {
+     "id": "16000",
+     "text": "16000 Træindustri"
+    },
+    {
+     "id": "17000",
+     "text": "17000 Papirindustri"
+    },
+    {
+     "id": "18000",
+     "text": "18000 Trykkerier mv."
+    },
+    {
+     "id": "19000",
+     "text": "19000 Olieraffinaderier mv."
+    },
+    {
+     "id": "20001",
+     "text": "20001 Fremst. af basiskemikalier"
+    },
+    {
+     "id": "20002",
+     "text": "20002 Fremst. af maling og sæbe mv."
+    },
+    {
+     "id": "21000",
+     "text": "21000 Medicinalindustri"
+    },
+    {
+     "id": "22000",
+     "text": "22000 Plast- og gummiindustri"
+    },
+    {
+     "id": "23001",
+     "text": "23001 Glasindustri og keramisk industri"
+    },
+    {
+     "id": "23002",
+     "text": "23002 Betonindustri og teglværker"
+    },
+    {
+     "id": "24000",
+     "text": "24000 Fremst. af metal"
+    },
+    {
+     "id": "25000",
+     "text": "25000 Metalvareindustri"
+    },
+    {
+     "id": "26001",
+     "text": "26001 Fremst. af computere og kommunikationsudstyr mv."
+    },
+    {
+     "id": "26002",
+     "text": "26002 Fremst. af andet elektronisk udstyr"
+    },
+    {
+     "id": "27001",
+     "text": "27001 Fremst. af elektriske motorer mv."
+    },
+    {
+     "id": "27002",
+     "text": "27002 Fremst. af ledninger og kabler"
+    },
+    {
+     "id": "27003",
+     "text": "27003 Fremst. af husholdningsapparater, lamper mv."
+    },
+    {
+     "id": "28001",
+     "text": "28001 Fremst. af motorer, vindmøller og pumper"
+    },
+    {
+     "id": "28002",
+     "text": "28002 Fremst. af andre maskiner"
+    },
+    {
+     "id": "29000",
+     "text": "29000 Fremst. af motorkøretøjer og dele hertil"
+    },
+    {
+     "id": "30000",
+     "text": "30000 Fremst. af skibe og andre transportmidler"
+    },
+    {
+     "id": "31000",
+     "text": "31000 Møbelindustri"
+    },
+    {
+     "id": "32001",
+     "text": "32001 Fremst. af medicinske instrumenter mv."
+    },
+    {
+     "id": "32002",
+     "text": "32002 Legetøj og anden fremstillingsvirksomhed"
+    },
+    {
+     "id": "33000",
+     "text": "33000 Reparation og installation af maskiner og udstyr"
+    },
+    {
+     "id": "35001",
+     "text": "35001 Elforsyning"
+    },
+    {
+     "id": "35002",
+     "text": "35002 Gasforsyning"
+    },
+    {
+     "id": "35003",
+     "text": "35003 Varmeforsyning"
+    },
+    {
+     "id": "36000",
+     "text": "36000 Vandforsyning"
+    },
+    {
+     "id": "37000",
+     "text": "37000 Kloak- og rensningsanlæg"
+    },
+    {
+     "id": "38000",
+     "text": "38000 Renovation og genbrug"
+    },
+    {
+     "id": "39000",
+     "text": "39000 Rensning af jord og grundvand"
+    },
+    {
+     "id": "3",
+     "text": "3 Bygge og anlæg"
+    },
+    {
+     "id": "41000",
+     "text": "41000 Byggeentreprenører"
+    },
+    {
+     "id": "42000",
+     "text": "42000 Anlægsentreprenører"
+    },
+    {
+     "id": "43001",
+     "text": "43001 Bygningsinstallation"
+    },
+    {
+     "id": "43002",
+     "text": "43002 Bygningsfærdiggørelse"
+    },
+    {
+     "id": "43009",
+     "text": "43009 Murere og anden specialiseret bygge- og anlægsvirksomhed samt forberedende byggepladsarbejde"
+    },
+    {
+     "id": "4",
+     "text": "4 Handel og transport mv."
+    },
+    {
+     "id": "45001",
+     "text": "45001 Bilhandel"
+    },
+    {
+     "id": "45002",
+     "text": "45002 Bilværksteder mv."
+    },
+    {
+     "id": "46001",
+     "text": "46001 Agenturhandel"
+    },
+    {
+     "id": "46002",
+     "text": "46002 Engrosh. med korn og foderstof"
+    },
+    {
+     "id": "46003",
+     "text": "46003 Engrosh. med føde-, drikke- og tobaksvarer"
+    },
+    {
+     "id": "46004",
+     "text": "46004 Engrosh. med tekstiler og husholdningsudstyr"
+    },
+    {
+     "id": "46005",
+     "text": "46005 Engrosh. med it-udstyr"
+    },
+    {
+     "id": "46006",
+     "text": "46006 Engrosh. med andre maskiner"
+    },
+    {
+     "id": "46007",
+     "text": "46007 Anden engroshandel"
+    },
+    {
+     "id": "47001",
+     "text": "47001 Supermarkeder og varehuse mv."
+    },
+    {
+     "id": "47002",
+     "text": "47002 Specialbutikker med fødevarer"
+    },
+    {
+     "id": "47003",
+     "text": "47003 Tankstationer"
+    },
+    {
+     "id": "47004",
+     "text": "47004 Detailh. med forbrugerelektronik"
+    },
+    {
+     "id": "47005",
+     "text": "47005 Detailh. med tekstiler og husholdningsudstyr mv."
+    },
+    {
+     "id": "47006",
+     "text": "47006 Detailh. med kultur- og fritidsprodukter"
+    },
+    {
+     "id": "47007",
+     "text": "47007 Detailh. med beklædning og fodtøj"
+    },
+    {
+     "id": "47008",
+     "text": "47008 Internethandel, postordre mv."
+    },
+    {
+     "id": "49001",
+     "text": "49001 Regional- og fjerntog"
+    },
+    {
+     "id": "49002",
+     "text": "49002 Lokaltog, bus og taxi mv."
+    },
+    {
+     "id": "49003",
+     "text": "49003 Fragtvognmænd og rørtransport"
+    },
+    {
+     "id": "50000",
+     "text": "50000 Skibsfart"
+    },
+    {
+     "id": "51000",
+     "text": "51000 Luftfart"
+    },
+    {
+     "id": "52000",
+     "text": "52000 Hjælpevirksomhed til transport"
+    },
+    {
+     "id": "53000",
+     "text": "53000 Post og kurertjeneste"
+    },
+    {
+     "id": "55000",
+     "text": "55000 Hoteller mv."
+    },
+    {
+     "id": "56000",
+     "text": "56000 Restauranter"
+    },
+    {
+     "id": "5",
+     "text": "5 Information og kommunikation"
+    },
+    {
+     "id": "58001",
+     "text": "58001 Forlag"
+    },
+    {
+     "id": "58002",
+     "text": "58002 Udgivelse af computerspil og anden software"
+    },
+    {
+     "id": "59000",
+     "text": "59000 Produktion af film, tv og musik mv."
+    },
+    {
+     "id": "60000",
+     "text": "60000 Radio- og tv-stationer"
+    },
+    {
+     "id": "61000",
+     "text": "61000 Telekommunikation"
+    },
+    {
+     "id": "62000",
+     "text": "62000 It-konsulenter mv."
+    },
+    {
+     "id": "63000",
+     "text": "63000 Informationstjenester"
+    },
+    {
+     "id": "6",
+     "text": "6 Finansiering og forsikring"
+    },
+    {
+     "id": "64001",
+     "text": "64001 Pengeinstitutter"
+    },
+    {
+     "id": "64002",
+     "text": "64002 Kreditforeninger mv."
+    },
+    {
+     "id": "65000",
+     "text": "65000 Forsikring og pension"
+    },
+    {
+     "id": "66000",
+     "text": "66000 Finansiel service"
+    },
+    {
+     "id": "7",
+     "text": "7 Ejendomshandel og udlejning"
+    },
+    {
+     "id": "68001",
+     "text": "68001 Ejendomsmæglere mv."
+    },
+    {
+     "id": "68002",
+     "text": "68002 Boligudlejning"
+    },
+    {
+     "id": "68003",
+     "text": "68003 Udlejning af erhvervsejendomme"
+    },
+    {
+     "id": "8",
+     "text": "8 Erhvervsservice"
+    },
+    {
+     "id": "69001",
+     "text": "69001 Advokatvirksomhed"
+    },
+    {
+     "id": "69002",
+     "text": "69002 Revision og bogføring"
+    },
+    {
+     "id": "70000",
+     "text": "70000 Virksomhedskonsulenter"
+    },
+    {
+     "id": "71000",
+     "text": "71000 Arkitekter og rådgivende ingeniører"
+    },
+    {
+     "id": "72000",
+     "text": "72000 Forskning og udvikling"
+    },
+    {
+     "id": "73000",
+     "text": "73000 Reklame- og analysebureauer"
+    },
+    {
+     "id": "74000",
+     "text": "74000 Anden videnservice"
+    },
+    {
+     "id": "75000",
+     "text": "75000 Dyrlæger"
+    },
+    {
+     "id": "77000",
+     "text": "77000 Udlejning og leasing af materiel"
+    },
+    {
+     "id": "78000",
+     "text": "78000 Arbejdsformidling og vikarbureauer"
+    },
+    {
+     "id": "79000",
+     "text": "79000 Rejsebureauer"
+    },
+    {
+     "id": "80000",
+     "text": "80000 Vagt og sikkerhedstjeneste"
+    },
+    {
+     "id": "81000",
+     "text": "81000 Ejendomsservice, rengøring og anlægsgartnere"
+    },
+    {
+     "id": "82000",
+     "text": "82000 Anden operationel service"
+    },
+    {
+     "id": "9",
+     "text": "9 Offentlig administration, undervisning og sundhed"
+    },
+    {
+     "id": "84001",
+     "text": "84001 Offentlig administration"
+    },
+    {
+     "id": "84002",
+     "text": "84002 Forsvar, politi og retsvæsen mv."
+    },
+    {
+     "id": "85001",
+     "text": "85001 Grundskoler"
+    },
+    {
+     "id": "85002",
+     "text": "85002 Gymnasier og erhvervsfaglige skoler"
+    },
+    {
+     "id": "85003",
+     "text": "85003 Videregående uddannelsesinstitutioner"
+    },
+    {
+     "id": "85004",
+     "text": "85004 Voksenundervisning mv."
+    },
+    {
+     "id": "86001",
+     "text": "86001 Hospitaler"
+    },
+    {
+     "id": "86002",
+     "text": "86002 Læger, tandlæger mv."
+    },
+    {
+     "id": "87000",
+     "text": "87000 Plejehjem mv."
+    },
+    {
+     "id": "88000",
+     "text": "88000 Daginstitutioner og dagcentre mv."
+    },
+    {
+     "id": "10",
+     "text": "10 Kultur, fritid og anden service"
+    },
+    {
+     "id": "90000",
+     "text": "90000 Teater, musik og kunst"
+    },
+    {
+     "id": "91000",
+     "text": "91000 Biblioteker, museer mv."
+    },
+    {
+     "id": "92000",
+     "text": "92000 Lotteri og andet spil"
+    },
+    {
+     "id": "93001",
+     "text": "93001 Sport"
+    },
+    {
+     "id": "93002",
+     "text": "93002 Forlystelsesparker og andre fritidsaktiviteter"
+    },
+    {
+     "id": "94000",
+     "text": "94000 Organisationer og foreninger"
+    },
+    {
+     "id": "95000",
+     "text": "95000 Reparation af husholdningsudstyr"
+    },
+    {
+     "id": "96000",
+     "text": "96000 Frisører, vaskerier og andre serviceydelser"
+    },
+    {
+     "id": "97000",
+     "text": "97000 Private husholdninger med ansat medhjælp"
+    },
+    {
+     "id": "99000",
+     "text": "99000 Internationale organisationer og ambassader"
+    },
+    {
+     "id": "11",
+     "text": "11 Uoplyst aktivitet"
+    },
+    {
+     "id": "99999",
+     "text": "99999 Uoplyst aktivitet"
+    }
+   ]
+  },
+  {
+   "id": "SOCIO",
+   "text": "socioøkonomisk status",
+   "elimination": true,
+   "time": false,
+   "values": [
+    {
+     "id": "05",
+     "text": "Selvstændige"
+    },
+    {
+     "id": "10",
+     "text": "Medarbejdende ægtefæller"
+    },
+    {
+     "id": "15",
+     "text": "Lønmodtager med ledelsesarbejde"
+    },
+    {
+     "id": "20",
+     "text": "Lønmodtagere på højeste niveau"
+    },
+    {
+     "id": "25",
+     "text": "Lønmodtagere på mellemniveau"
+    },
+    {
+     "id": "30",
+     "text": "Lønmodtagere på grundniveau"
+    },
+    {
+     "id": "35",
+     "text": "Andre lønmodtagere"
+    },
+    {
+     "id": "40",
+     "text": "Lønmodtagere u.n.a."
+    }
+   ]
+  },
+  {
+   "id": "ALDER",
+   "text": "alder",
+   "elimination": true,
+   "time": false,
+   "values": [
+    {
+     "id": "-15",
+     "text": "Under 16 år"
+    },
+    {
+     "id": "16-19",
+     "text": "16-19 år"
+    },
+    {
+     "id": "20-24",
+     "text": "20-24 år"
+    },
+    {
+     "id": "25-29",
+     "text": "25-29 år"
+    },
+    {
+     "id": "30-34",
+     "text": "30-34 år"
+    },
+    {
+     "id": "35-39",
+     "text": "35-39 år"
+    },
+    {
+     "id": "40-44",
+     "text": "40-44 år"
+    },
+    {
+     "id": "45-49",
+     "text": "45-49 år"
+    },
+    {
+     "id": "50-54",
+     "text": "50-54 år"
+    },
+    {
+     "id": "55-59",
+     "text": "55-59 år"
+    },
+    {
+     "id": "60-64",
+     "text": "60-64 år"
+    },
+    {
+     "id": "65-66",
+     "text": "65-66 år"
+    },
+    {
+     "id": "67-",
+     "text": "67 år og derover"
+    }
+   ]
+  },
+  {
+   "id": "KØN",
+   "text": "køn",
+   "elimination": true,
+   "time": false,
+   "values": [
+    {
+     "id": "TOT",
+     "text": "I alt"
+    },
+    {
+     "id": "M",
+     "text": "Mænd"
+    },
+    {
+     "id": "K",
+     "text": "Kvinder"
+    }
+   ]
+  },
+  {
+   "id": "Tid",
+   "text": "tid",
+   "elimination": false,
+   "time": true,
+   "values": [
+    {
+     "id": "2008",
+     "text": "2008"
+    },
+    {
+     "id": "2009",
+     "text": "2009"
+    },
+    {
+     "id": "2010",
+     "text": "2010"
+    },
+    {
+     "id": "2011",
+     "text": "2011"
+    },
+    {
+     "id": "2012",
+     "text": "2012"
+    },
+    {
+     "id": "2013",
+     "text": "2013"
+    },
+    {
+     "id": "2014",
+     "text": "2014"
+    },
+    {
+     "id": "2015",
+     "text": "2015"
+    },
+    {
+     "id": "2016",
+     "text": "2016"
+    },
+    {
+     "id": "2017",
+     "text": "2017"
+    },
+    {
+     "id": "2018",
+     "text": "2018"
+    },
+    {
+     "id": "2019",
+     "text": "2019"
+    },
+    {
+     "id": "2020",
+     "text": "2020"
+    },
+    {
+     "id": "2021",
+     "text": "2021"
+    },
+    {
+     "id": "2022",
+     "text": "2022"
+    },
+    {
+     "id": "2023",
+     "text": "2023"
+    },
+    {
+     "id": "2024",
+     "text": "2024"
+    }
+   ]
+  }
+ ]
+}

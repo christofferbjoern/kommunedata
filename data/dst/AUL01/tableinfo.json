@@ -1,0 +1,876 @@
+{
+ "id": "AUL01",
+ "text": "Fuldtidsledige",
+ "description": "Fuldtidsledige efter område, ydelsestype, a-kasse, alder, køn og tid",
+ "unit": "Antal",
+ "suppressedDataValue": "0",
+ "updated": "2026-04-14T08:00:00",
+ "active": true,
+ "contacts": [
+  {
+   "name": "Carsten Bo Nielsen",
+   "phone": "+4523746017",
+   "mail": "can@dst.dk"
+  }
+ ],
+ "documentation": {
+  "id": "708fcaee-c0d5-465d-a3c1-6eea878321bc",
+  "url": "https://www.dst.dk/statistikdokumentation/708fcaee-c0d5-465d-a3c1-6eea878321bc"
+ },
+ "footnote": null,
+ "variables": [
+  {
+   "id": "OMRÅDE",
+   "text": "område",
+   "elimination": true,
+   "time": false,
+   "map": "Denmark_municipality_07",
+   "values": [
+    {
+     "id": "000",
+     "text": "Hele landet"
+    },
+    {
+     "id": "084",
+     "text": "Region Hovedstaden"
+    },
+    {
+     "id": "01",
+     "text": "Landsdel Byen København"
+    },
+    {
+     "id": "101",
+     "text": "København"
+    },
+    {
+     "id": "147",
+     "text": "Frederiksberg"
+    },
+    {
+     "id": "155",
+     "text": "Dragør"
+    },
+    {
+     "id": "185",
+     "text": "Tårnby"
+    },
+    {
+     "id": "02",
+     "text": "Landsdel Københavns omegn"
+    },
+    {
+     "id": "165",
+     "text": "Albertslund"
+    },
+    {
+     "id": "151",
+     "text": "Ballerup"
+    },
+    {
+     "id": "153",
+     "text": "Brøndby"
+    },
+    {
+     "id": "157",
+     "text": "Gentofte"
+    },
+    {
+     "id": "159",
+     "text": "Gladsaxe"
+    },
+    {
+     "id": "161",
+     "text": "Glostrup"
+    },
+    {
+     "id": "163",
+     "text": "Herlev"
+    },
+    {
+     "id": "167",
+     "text": "Hvidovre"
+    },
+    {
+     "id": "169",
+     "text": "Høje-Taastrup"
+    },
+    {
+     "id": "183",
+     "text": "Ishøj"
+    },
+    {
+     "id": "173",
+     "text": "Lyngby-Taarbæk"
+    },
+    {
+     "id": "175",
+     "text": "Rødovre"
+    },
+    {
+     "id": "187",
+     "text": "Vallensbæk"
+    },
+    {
+     "id": "03",
+     "text": "Landsdel Nordsjælland"
+    },
+    {
+     "id": "201",
+     "text": "Allerød"
+    },
+    {
+     "id": "240",
+     "text": "Egedal"
+    },
+    {
+     "id": "210",
+     "text": "Fredensborg"
+    },
+    {
+     "id": "250",
+     "text": "Frederikssund"
+    },
+    {
+     "id": "190",
+     "text": "Furesø"
+    },
+    {
+     "id": "270",
+     "text": "Gribskov"
+    },
+    {
+     "id": "260",
+     "text": "Halsnæs"
+    },
+    {
+     "id": "217",
+     "text": "Helsingør"
+    },
+    {
+     "id": "219",
+     "text": "Hillerød"
+    },
+    {
+     "id": "223",
+     "text": "Hørsholm"
+    },
+    {
+     "id": "230",
+     "text": "Rudersdal"
+    },
+    {
+     "id": "04",
+     "text": "Landsdel Bornholm"
+    },
+    {
+     "id": "400",
+     "text": "Bornholm"
+    },
+    {
+     "id": "085",
+     "text": "Region Sjælland"
+    },
+    {
+     "id": "05",
+     "text": "Landsdel Østsjælland"
+    },
+    {
+     "id": "253",
+     "text": "Greve"
+    },
+    {
+     "id": "259",
+     "text": "Køge"
+    },
+    {
+     "id": "350",
+     "text": "Lejre"
+    },
+    {
+     "id": "265",
+     "text": "Roskilde"
+    },
+    {
+     "id": "269",
+     "text": "Solrød"
+    },
+    {
+     "id": "06",
+     "text": "Landsdel Vest- og Sydsjælland"
+    },
+    {
+     "id": "320",
+     "text": "Faxe"
+    },
+    {
+     "id": "376",
+     "text": "Guldborgsund"
+    },
+    {
+     "id": "316",
+     "text": "Holbæk"
+    },
+    {
+     "id": "326",
+     "text": "Kalundborg"
+    },
+    {
+     "id": "360",
+     "text": "Lolland"
+    },
+    {
+     "id": "370",
+     "text": "Næstved"
+    },
+    {
+     "id": "306",
+     "text": "Odsherred"
+    },
+    {
+     "id": "329",
+     "text": "Ringsted"
+    },
+    {
+     "id": "330",
+     "text": "Slagelse"
+    },
+    {
+     "id": "340",
+     "text": "Sorø"
+    },
+    {
+     "id": "336",
+     "text": "Stevns"
+    },
+    {
+     "id": "390",
+     "text": "Vordingborg"
+    },
+    {
+     "id": "083",
+     "text": "Region Syddanmark"
+    },
+    {
+     "id": "07",
+     "text": "Landsdel Fyn"
+    },
+    {
+     "id": "420",
+     "text": "Assens"
+    },
+    {
+     "id": "430",
+     "text": "Faaborg-Midtfyn"
+    },
+    {
+     "id": "440",
+     "text": "Kerteminde"
+    },
+    {
+     "id": "482",
+     "text": "Langeland"
+    },
+    {
+     "id": "410",
+     "text": "Middelfart"
+    },
+    {
+     "id": "480",
+     "text": "Nordfyns"
+    },
+    {
+     "id": "450",
+     "text": "Nyborg"
+    },
+    {
+     "id": "461",
+     "text": "Odense"
+    },
+    {
+     "id": "479",
+     "text": "Svendborg"
+    },
+    {
+     "id": "492",
+     "text": "Ærø"
+    },
+    {
+     "id": "08",
+     "text": "Landsdel Sydjylland"
+    },
+    {
+     "id": "530",
+     "text": "Billund"
+    },
+    {
+     "id": "561",
+     "text": "Esbjerg"
+    },
+    {
+     "id": "563",
+     "text": "Fanø"
+    },
+    {
+     "id": "607",
+     "text": "Fredericia"
+    },
+    {
+     "id": "510",
+     "text": "Haderslev"
+    },
+    {
+     "id": "621",
+     "text": "Kolding"
+    },
+    {
+     "id": "540",
+     "text": "Sønderborg"
+    },
+    {
+     "id": "550",
+     "text": "Tønder"
+    },
+    {
+     "id": "573",
+     "text": "Varde"
+    },
+    {
+     "id": "575",
+     "text": "Vejen"
+    },
+    {
+     "id": "630",
+     "text": "Vejle"
+    },
+    {
+     "id": "580",
+     "text": "Aabenraa"
+    },
+    {
+     "id": "082",
+     "text": "Region Midtjylland"
+    },
+    {
+     "id": "09",
+     "text": "Landsdel Østjylland"
+    },
+    {
+     "id": "710",
+     "text": "Favrskov"
+    },
+    {
+     "id": "766",
+     "text": "Hedensted"
+    },
+    {
+     "id": "615",
+     "text": "Horsens"
+    },
+    {
+     "id": "707",
+     "text": "Norddjurs"
+    },
+    {
+     "id": "727",
+     "text": "Odder"
+    },
+    {
+     "id": "730",
+     "text": "Randers"
+    },
+    {
+     "id": "741",
+     "text": "Samsø"
+    },
+    {
+     "id": "740",
+     "text": "Silkeborg"
+    },
+    {
+     "id": "746",
+     "text": "Skanderborg"
+    },
+    {
+     "id": "706",
+     "text": "Syddjurs"
+    },
+    {
+     "id": "751",
+     "text": "Aarhus"
+    },
+    {
+     "id": "10",
+     "text": "Landsdel Vestjylland"
+    },
+    {
+     "id": "657",
+     "text": "Herning"
+    },
+    {
+     "id": "661",
+     "text": "Holstebro"
+    },
+    {
+     "id": "756",
+     "text": "Ikast-Brande"
+    },
+    {
+     "id": "665",
+     "text": "Lemvig"
+    },
+    {
+     "id": "760",
+     "text": "Ringkøbing-Skjern"
+    },
+    {
+     "id": "779",
+     "text": "Skive"
+    },
+    {
+     "id": "671",
+     "text": "Struer"
+    },
+    {
+     "id": "791",
+     "text": "Viborg"
+    },
+    {
+     "id": "081",
+     "text": "Region Nordjylland"
+    },
+    {
+     "id": "11",
+     "text": "Landsdel Nordjylland"
+    },
+    {
+     "id": "810",
+     "text": "Brønderslev"
+    },
+    {
+     "id": "813",
+     "text": "Frederikshavn"
+    },
+    {
+     "id": "860",
+     "text": "Hjørring"
+    },
+    {
+     "id": "849",
+     "text": "Jammerbugt"
+    },
+    {
+     "id": "825",
+     "text": "Læsø"
+    },
+    {
+     "id": "846",
+     "text": "Mariagerfjord"
+    },
+    {
+     "id": "773",
+     "text": "Morsø"
+    },
+    {
+     "id": "840",
+     "text": "Rebild"
+    },
+    {
+     "id": "787",
+     "text": "Thisted"
+    },
+    {
+     "id": "820",
+     "text": "Vesthimmerlands"
+    },
+    {
+     "id": "851",
+     "text": "Aalborg"
+    },
+    {
+     "id": "998",
+     "text": "Uoplyst kommune"
+    },
+    {
+     "id": "997",
+     "text": "Udlandet"
+    }
+   ]
+  },
+  {
+   "id": "YDELSESTYPE",
+   "text": "ydelsestype",
+   "elimination": false,
+   "time": false,
+   "values": [
+    {
+     "id": "TOT",
+     "text": "Bruttoledige"
+    },
+    {
+     "id": "LDP",
+     "text": "Nettoledige dagpengemodtagere"
+    },
+    {
+     "id": "LKT",
+     "text": "Nettoledige kontanthjælpsmodtagere"
+    },
+    {
+     "id": "ADP",
+     "text": "Aktiverede dagpengeberettigede"
+    },
+    {
+     "id": "AKT",
+     "text": "Aktiverede kontanthjælpsmodtagere (arbejdsmarkedsparate)"
+    }
+   ]
+  },
+  {
+   "id": "AKASSE",
+   "text": "a-kasse",
+   "elimination": true,
+   "time": false,
+   "values": [
+    {
+     "id": "TOT",
+     "text": "I alt"
+    },
+    {
+     "id": "48",
+     "text": "Akademikernes (fra 1. juli 2013 inkl. ingeniører)"
+    },
+    {
+     "id": "46",
+     "text": "Din Faglige A-kasse (fra 1. januar 2025 inkl. Fødevareforbundet (NNF)"
+    },
+    {
+     "id": "05",
+     "text": "Børne- og Ungdomspædagoger (BUPL-A)"
+    },
+    {
+     "id": "06",
+     "text": "Din Sundhedsfaglige A-kasse (DSA)"
+    },
+    {
+     "id": "40",
+     "text": "Det Faglige Hus A-kasse"
+    },
+    {
+     "id": "44",
+     "text": "Fag og Arbejde (FOA)"
+    },
+    {
+     "id": "43",
+     "text": "Faglig Fælles a-kasse (3F)"
+    },
+    {
+     "id": "11",
+     "text": "A-kassen Frie (fra 1. januar 2020 inkl. DANA)"
+    },
+    {
+     "id": "13",
+     "text": "A-kassen A&Til (tidl. FTF-A)"
+    },
+    {
+     "id": "15",
+     "text": "Handels- og Kontorfunktionærer (HK)"
+    },
+    {
+     "id": "41",
+     "text": "Journalistik, Kommunikation og Sprog"
+    },
+    {
+     "id": "19",
+     "text": "Kristelig a-kasse"
+    },
+    {
+     "id": "21",
+     "text": "Ledere"
+    },
+    {
+     "id": "22",
+     "text": "Lærere (DLF-A)"
+    },
+    {
+     "id": "23",
+     "text": "Magistre (MA)"
+    },
+    {
+     "id": "26",
+     "text": "Metalarbejdere"
+    },
+    {
+     "id": "49",
+     "text": "Min akasse (jan. 2017 - inkl. Funktionærer og Servicefag)"
+    },
+    {
+     "id": "31",
+     "text": "ASE"
+    },
+    {
+     "id": "33",
+     "text": "Socialpædagoger (SLA)"
+    },
+    {
+     "id": "36",
+     "text": "Teknikere"
+    },
+    {
+     "id": "39",
+     "text": "Økonomer (CA)"
+    },
+    {
+     "id": "27",
+     "text": "Fødevareforbundet (NNF) (- dec. 2024)"
+    },
+    {
+     "id": "07",
+     "text": "El-faget (- dec. 2020)"
+    },
+    {
+     "id": "30",
+     "text": "Selvstændige (DANA) (- dec. 2019)"
+    },
+    {
+     "id": "12",
+     "text": "Funktionærer og Servicefag ( - dec. 2016)"
+    },
+    {
+     "id": "04",
+     "text": "Business ( - dec. 2014)"
+    },
+    {
+     "id": "47",
+     "text": "Min akasse ( - dec. 2014)"
+    },
+    {
+     "id": "01",
+     "text": "Akademikere (AAK) (- juni 2013)"
+    },
+    {
+     "id": "16",
+     "text": "Ingeniører (IAK) (- juni 2013)"
+    },
+    {
+     "id": "17",
+     "text": "IT-faget og Merkonomer (PROSA) (-juni 2010)"
+    },
+    {
+     "id": "35",
+     "text": "Stats- og Teleansatte (STA) (-juni 2010)"
+    },
+    {
+     "id": "38",
+     "text": "Træ-Industri-Byg (TIB) ( - dec. 2010)"
+    },
+    {
+     "id": "03",
+     "text": "Blik- og rør (-dec. 2007)"
+    },
+    {
+     "id": "42",
+     "text": "Malerfaget og Maritime (- dec. 2007)"
+    },
+    {
+     "id": "29",
+     "text": "RestaurationsBranchen (- juni 2006)"
+    },
+    {
+     "id": "28",
+     "text": "Pædagogmedhjælpere (PMF-A) (- dec. 2005)"
+    },
+    {
+     "id": "20",
+     "text": "Kvindelige Arbejdere (KAD) (- dec. 2004)"
+    },
+    {
+     "id": "34",
+     "text": "Specialarbejdere (SID) (- dec. 2004)"
+    },
+    {
+     "id": "08",
+     "text": "Erhvervssproglige (- dec. 2002)"
+    },
+    {
+     "id": "18",
+     "text": "Journalister (- dec. 2002)"
+    },
+    {
+     "id": "24",
+     "text": "Malersvende (- dec. 2002)"
+    },
+    {
+     "id": "25",
+     "text": "Maritim a-kasse (- dec. 2002)"
+    },
+    {
+     "id": "09",
+     "text": "Forsvarets a-kasse (- dec. 2001)"
+    },
+    {
+     "id": "10",
+     "text": "Frisører, Artister og Maritim (- dec. 2001)"
+    },
+    {
+     "id": "14",
+     "text": "Grafisk a-kasse (- dec. 1999)"
+    },
+    {
+     "id": "45",
+     "text": "Ikke forsikrede"
+    }
+   ]
+  },
+  {
+   "id": "ALDER",
+   "text": "alder",
+   "elimination": true,
+   "time": false,
+   "values": [
+    {
+     "id": "TOT",
+     "text": "Alder i alt"
+    },
+    {
+     "id": "16-24",
+     "text": "16-24 år"
+    },
+    {
+     "id": "25-29",
+     "text": "25-29 år"
+    },
+    {
+     "id": "30-34",
+     "text": "30-34 år"
+    },
+    {
+     "id": "35-39",
+     "text": "35-39 år"
+    },
+    {
+     "id": "40-44",
+     "text": "40-44 år"
+    },
+    {
+     "id": "45-49",
+     "text": "45-49 år"
+    },
+    {
+     "id": "50-54",
+     "text": "50-54 år"
+    },
+    {
+     "id": "55-59",
+     "text": "55-59 år"
+    },
+    {
+     "id": "6099",
+     "text": "60 år og derover"
+    }
+   ]
+  },
+  {
+   "id": "KØN",
+   "text": "køn",
+   "elimination": true,
+   "time": false,
+   "values": [
+    {
+     "id": "TOT",
+     "text": "I alt"
+    },
+    {
+     "id": "M",
+     "text": "Mænd"
+    },
+    {
+     "id": "K",
+     "text": "Kvinder"
+    }
+   ]
+  },
+  {
+   "id": "Tid",
+   "text": "tid",
+   "elimination": false,
+   "time": true,
+   "values": [
+    {
+     "id": "2007",
+     "text": "2007"
+    },
+    {
+     "id": "2008",
+     "text": "2008"
+    },
+    {
+     "id": "2009",
+     "text": "2009"
+    },
+    {
+     "id": "2010",
+     "text": "2010"
+    },
+    {
+     "id": "2011",
+     "text": "2011"
+    },
+    {
+     "id": "2012",
+     "text": "2012"
+    },
+    {
+     "id": "2013",
+     "text": "2013"
+    },
+    {
+     "id": "2014",
+     "text": "2014"
+    },
+    {
+     "id": "2015",
+     "text": "2015"
+    },
+    {
+     "id": "2016",
+     "text": "2016"
+    },
+    {
+     "id": "2017",
+     "text": "2017"
+    },
+    {
+     "id": "2018",
+     "text": "2018"
+    },
+    {
+     "id": "2019",
+     "text": "2019"
+    },
+    {
+     "id": "2020",
+     "text": "2020"
+    },
+    {
+     "id": "2021",
+     "text": "2021"
+    },
+    {
+     "id": "2022",
+     "text": "2022"
+    },
+    {
+     "id": "2023",
+     "text": "2023"
+    },
+    {
+     "id": "2024",
+     "text": "2024"
+    },
+    {
+     "id": "2025",
+     "text": "2025"
+    }
+   ]
+  }
+ ]
+}
