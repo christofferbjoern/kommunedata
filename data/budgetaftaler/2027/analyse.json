@@ -2032,5 +2032,43 @@
   "klima": "Klima nævnes ikke direkte; forebyggelse og sundhedsfremme er gennemgående indsatser.",
   "resume": "Samtlige partier i Struer Byråd har indgået en budgetaftale for 2027 med overslagsår frem til 2030. Aftalen tilfører midler til ældre, børn og unge, voksne med handicap og folkeskoler, og fortsætter investeringen i bydelen Stævnen.",
   "kvalitet": "Kun kommunens nyhed; ikke aftaleteksten."
+ },
+ "Aabenraa": {
+  "budgetaar": "2027",
+  "partier": [
+   "Socialdemokratiet",
+   "Dansk Folkeparti",
+   "Slesvigsk Parti",
+   "Liberal Alliance",
+   "Danmarksdemokraterne",
+   "Socialistisk Folkeparti",
+   "Venstre",
+   "Radikale Venstre",
+   "Det Konservative Folkeparti"
+  ],
+  "prioriteter": [
+   "Driftsudvidelser i alt ca. 33 mio. kr. årligt fra 2027",
+   "Velkomstcenter i Frøslevlejren: 10 mio. kr. (mod fondsmedfinansiering)",
+   "Folkeskolepulje (Frihed og fordybelse): 5,4 mio. kr. årligt",
+   "Ældrereform, hjemme- og sygepleje: 2,5 mio. kr. årligt",
+   "Opnormering på plejehjem: 2 mio. kr. årligt",
+   "Vågeteknologi i 100 boliger: 2 mio. kr. årligt",
+   "Strategisk byplanlægning Fremtidens Aabenraa: 2,25 mio. kr. årligt i 3 år",
+   "Unge i job og uddannelse (Padborg m.fl.): 2,2 mio. kr. i 2027-28",
+   "Landdistriktsindsats: 1,4 mio. kr. årligt permanent",
+   "Robusthedspulje i dagplejen: 1,3 mio. kr. årligt"
+  ],
+  "besparelser": [
+   "Ingen besparelser eller omprioriteringer i driften"
+  ],
+  "finansiering": [
+   "råderum fra økonomiaftalen og egen økonomi: ca. 33 mio. kr. drift",
+   "omprioritering: 8,76 mio. kr. fra uprioriteret anlægspulje til Frøslevlejren",
+   "gældsafvikling: 100 mio. kr. 2027-2031, feriepengeforpligtelse nedbringes 8,5 mio. kr. i 2027",
+   "kassetræk: 0,6 mio. kr. i 2027 (kasse 396 mio. kr. ultimo 2027)"
+  ],
+  "skat": "ikke nævnt",
+  "klima": "Natur og Grøn Trepart 0,6 mio. kr. årligt 2027-29; ålegræs 0,05 mio. kr.; beredskabspulje 1 mio. kr. til nødstrøm.",
+  "resume": "Ni partier står bag et etårigt budgetforlig for 2027 uden besparelser, med driftsudvidelser for ca. 33 mio. kr. Overskuddet på ordinær drift er 169,1 mio. kr., og der afdrages 100 mio. kr. på gælden frem mod 2031."
  }
 }
