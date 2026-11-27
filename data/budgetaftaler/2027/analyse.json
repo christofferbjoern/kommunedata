@@ -2339,5 +2339,197 @@
   "klima": "Klimaplan 8 mio. kr., energieffektiv belysning 1 mio. kr., solceller 0,3 mio. kr. og 6,7 mio. kr. til Den Grønne Fond.",
   "resume": "Seks partier vælger en offensiv kurs med store investeringer i boliger, jordforsyning, erhverv og velfærd for at modvirke de demografiske udfordringer. Aftalen overholder de økonomiske måltal og har en budgetreserve på 18 mio. kr.",
   "kvalitet": "Udtrukket fra OCR-læst scannet PDF."
+ },
+ "Vejle": {
+  "budgetaar": "2027-2029",
+  "partier": [
+   "Alle partier i byrådet"
+  ],
+  "prioriteter": [
+   "Anlæg og drift 2027-2029 i alt: 291,8 mio. kr.",
+   "Ny svømmehal i Gauerslund 2027-2029: 80 mio. kr.",
+   "Varige initiativer: 62,1 mio. kr.",
+   "Skoleområdet 2027: 55 mio. kr.",
+   "Seniorområdet, for at undgå serviceforringelser: 30,7 mio. kr."
+  ],
+  "besparelser": [
+   "Sundhedsreformen giver besparelser på 30,7 mio. kr. årligt på seniorområdet, som modsvares af nye midler"
+  ],
+  "finansiering": [],
+  "skat": "uændret (ifølge lokal omtale)",
+  "klima": "Ikke nævnt i omtalen.",
+  "resume": "Et enigt byråd i Vejle har indgået budgetaftale for 2027-2029 med fokus på skoler, seniorer og en ny svømmehal i Gauerslund. Aftalen rummer 291,8 mio. kr. til anlæg og drift i perioden.",
+  "kvalitet": "Kun medieomtale (TV Syd); ikke aftaleteksten."
+ },
+ "Holstebro": {
+  "budgetaar": "2027-2028",
+  "partier": [
+   "26 af 27 byrådsmedlemmer"
+  ],
+  "prioriteter": [],
+  "besparelser": [],
+  "finansiering": [
+   "skat: skattestigning på 0,5 procentpoint"
+  ],
+  "skat": "+0,5 procentpoint",
+  "klima": "ikke nævnt",
+  "resume": "Holstebro Byråd vedtog et toårigt budgetforlig med opbakning fra 26 af 27 medlemmer. Forliget indeholder en skattestigning på 0,5 procentpoint.",
+  "kvalitet": "Kun lokalavisens omtale; prioriteter og beløb mangler."
+ },
+ "Gribskov": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "Det Konservative Folkeparti",
+   "Nytgribskov",
+   "Venstre",
+   "Socialdemokratiet",
+   "Dansk Folkeparti",
+   "Moderaterne",
+   "Danmarksdemokraterne",
+   "Liberal Alliance",
+   "Radikale Venstre",
+   "Socialistisk Folkeparti",
+   "Enhedslisten"
+  ],
+  "prioriteter": [
+   "Geninvestering i skoler og dagtilbud: 17 mio. kr.",
+   "Inklusionsindsats: 5 mio. kr. i 2027 og 2028",
+   "Seniorcentre, demensdagcentre og Mødestedet bevares",
+   "Museumsprojekt i Gilleleje og ombygning af Tisvildehuset"
+  ],
+  "besparelser": [
+   "Besparelser i alt 46 mio. kr. i 2027",
+   "Rammebesparelser på 100 mio. kr. over fire år",
+   "Ledelse og administration: 6 mio. kr. årligt fra 2028",
+   "Bibliotekernes bemandede åbningstider: 0,9 mio. kr. i 2027, 1,8 mio. kr. fra 2028",
+   "Tingbakkeskolen lukker som almen skole"
+  ],
+  "finansiering": [
+   "effektivisering/besparelser: 46 mio. kr. i 2027",
+   "kassetræk: kassebeholdningen bruges som mellemfinansiering"
+  ],
+  "skat": "ikke nævnt",
+  "klima": "Ikke omtalt.",
+  "resume": "Et samlet byråd i Gribskov har indgået budgetaftale for 2027-2030 med besparelser på 46 mio. kr. i 2027 og 100 mio. kr. over fire år. Tingbakkeskolen lukker som almen skole, mens flere seniortilbud bevares.",
+  "kvalitet": "Kun lokalavisens omtale; ikke aftaleteksten."
+ },
+ "Slagelse": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "Venstre",
+   "SF",
+   "Radikale Venstre",
+   "Liberal Alliance",
+   "Socialdemokratiet"
+  ],
+  "prioriteter": [],
+  "besparelser": [
+   "Nordskolen lukker",
+   "Udvalgene skal finde de sidste millionbesparelser"
+  ],
+  "finansiering": [],
+  "skat": "ikke nævnt",
+  "klima": "ikke nævnt",
+  "resume": "Slagelse har fået en budgetaftale for 2027-2030 med borgmester Knud Vincents (V) og fire andre partier bag. Aftalen indebærer besparelser, bl.a. lukning af Nordskolen.",
+  "kvalitet": "Kun overskrifter fra lokalavisen (betalingsmur); beløb mangler."
+ },
+ "Lolland": {
+  "budgetaar": "2027",
+  "partier": [
+   "Din Stemme",
+   "Det Konservative Folkeparti",
+   "SF",
+   "Socialdemokratiet",
+   "Venstre",
+   "Lollandslisten (LL)",
+   "Løsgænger"
+  ],
+  "prioriteter": [
+   "Ny skolestruktur",
+   "Ældreområdet og forebyggelse af sygdom",
+   "Borgerrådgiver lagt sammen med veteranindsats",
+   "Landdistriktskoordinator til lokalsamfund",
+   "Borgerinddragelse i færgedriften",
+   "AI i administrationen",
+   "Støtte til de svageste borgere"
+  ],
+  "besparelser": [
+   "Lukning af Søllested Skole",
+   "Kommunal drift af Østofte Hallen stopper",
+   "Ingen deltagelse i KL-konferencer og Folkemødet"
+  ],
+  "finansiering": [
+   "Særtilskud fra staten, 100 mio. kr. mindre end ansøgt"
+  ],
+  "skat": "ikke nævnt",
+  "klima": "Ikke nævnt.",
+  "resume": "Et flertal på 18 af 25 mandater står bag Lollands budget 2027 med store besparelser, bl.a. skolelukninger. Staten gav 100 mio. kr. mindre i særtilskud end ansøgt.",
+  "kvalitet": "Kun lokalavisens omtale; beløb mangler."
+ },
+ "Holbæk": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "Enhedslisten",
+   "SF",
+   "Radikale Venstre",
+   "Dansk Folkeparti",
+   "Danmarksdemokraterne",
+   "Socialdemokratiet",
+   "Det Konservative Folkeparti"
+  ],
+  "prioriteter": [
+   "Ekstra 30 mio. kr. til velfærd",
+   "Skoleområdet styrkes (beløb ikke oplyst)"
+  ],
+  "besparelser": [
+   "Ingen besparelser i de fire år"
+  ],
+  "finansiering": [],
+  "skat": "ikke nævnt",
+  "klima": "ikke nævnt",
+  "resume": "Syv af ni partier står bag Holbæks budgetaftale for 2027-2030. Aftalen dropper besparelser og tilfører velfærden ekstra 30 mio. kr.",
+  "kvalitet": "Kun lokalavisens omtale (betalingsmur)."
+ },
+ "Kalundborg": {
+  "budgetaar": "2027-2028",
+  "partier": [
+   "Et flertal i kommunalbestyrelsen"
+  ],
+  "prioriteter": [
+   "Mere velfærd",
+   "Veje og infrastruktur"
+  ],
+  "besparelser": [],
+  "finansiering": [
+   "skat: skatten hæves (beløb ikke oplyst)"
+  ],
+  "skat": "forhøjes",
+  "klima": "ikke nævnt",
+  "resume": "Et flertal i Kalundborg har indgået en toårig budgetaftale, der hæver skatten. Til gengæld får veje og velfærd flere penge.",
+  "kvalitet": "Kun lokalavisens overskrift (betalingsmur)."
+ },
+ "Hillerød": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "Alle partier i byrådet"
+  ],
+  "prioriteter": [
+   "Løft af forfalden svømmehal",
+   "Skoleområdet styrkes",
+   "Nye vejanlæg",
+   "Solenergi",
+   "Mulig ny naturlegeplads"
+  ],
+  "besparelser": [
+   "Ophør af gratis busser",
+   "Stop for teaterstøtte",
+   "Privat tandpleje",
+   "Mulige besparelser på plejehjem, skoler og biblioteker"
+  ],
+  "finansiering": [],
+  "skat": "ikke nævnt",
+  "klima": "Omtalt af en politiker som det grønneste budget i Hillerøds historie; solenergi indgår.",
+  "resume": "Alle partier i Hillerød står bag et bredt budgetforlig for 2027-2030. Gratis busser og teaterstøtte stopper, mens svømmehal og skoler løftes.",
+  "kvalitet": "Kun lokalavisens overskrifter (betalingsmur)."
  }
 }

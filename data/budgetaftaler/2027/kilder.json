@@ -146,7 +146,8 @@
  },
  "Gribskov": {
   "side": "https://gribskov.dk/politik-og-indflydelse/budget-og-regnskab/budget-2027-2030",
-  "note": "Ingen aftaletekst på budgetsiden; budget behandlet i byrådet 8/10-2026 (https://dagsordener.gribskov.dk/vis?Referat-Byraad-2026-2029-d.08-10-2026-kl.19.00&id=babf914e-1081-4c61-91fc-01eef7b81a61). Budget 2027-2030 vedtaget 8/10-2026. Ingen separat aftaletekst på budgetsiden; se byrådsreferat: https://dagsordener.gribskov.dk/vis?Referat-Byraad-2026-2029-d.08-10-2026-kl.19.00&id=babf914e-1081-4c61-91fc-01eef7b81a61"
+  "note": "Ingen aftaletekst på budgetsiden; budget behandlet i byrådet 8/10-2026 (https://dagsordener.gribskov.dk/vis?Referat-Byraad-2026-2029-d.08-10-2026-kl.19.00&id=babf914e-1081-4c61-91fc-01eef7b81a61). Budget 2027-2030 vedtaget 8/10-2026. Ingen separat aftaletekst på budgetsiden; se byrådsreferat: https://dagsordener.gribskov.dk/vis?Referat-Byraad-2026-2029-d.08-10-2026-kl.19.00&id=babf914e-1081-4c61-91fc-01eef7b81a61",
+  "aftale": "https://frederiksborgamtsavis.sn.dk/article/6645125/gribskov-kommune/nyhed/samlet-byraad-finder-46-millioner-men-bruger-af-kassen-for-at-koebe-tid"
  },
  "Haderslev": {
   "aftale": "https://via.ritzau.dk/files/4452194/15182943/549986/da",
@@ -192,14 +193,17 @@
   "note": "Kun budgetforslag 2027-2030 fundet: https://horsens.dk/media/gtcd0gg2/budgetforslag2027-2030.pdf. Toårig aftale; seneste offentliggjorte aftale er 2024-2025 — 2026-2027-aftale ikke fundet. Kommunens budgetside viser kun budgetforslag 2027-2030 (https://horsens.dk/media/gtcd0gg2/budgetforslag2027-2030.pdf), ingen vedtaget aftale endnu."
  },
  "Holstebro": {
-  "side": "https://www.holstebro.dk/budget",
-  "note": "Ingen budgetaftale-dokumenter på budgetsiden."
+  "side": "https://www.holstebro.dk/budget2027",
+  "note": "Ingen budgetaftale-dokumenter på budgetsiden. Aftaleteksten er ikke fundet; kun lokalavisens omtale (19/9-2026): 26 af 27 byrådsmedlemmer bag et toårigt forlig med skattestigning.",
+  "aftale": "https://dagbladet-holstebro-struer.dk/holstebro/det-betyder-skattestigningen-og-saa-meget-koster-sfo-en-her-er-10-nedslag-i-budgettet"
  },
  "Hillerød": {
-  "note": "Aftaletekst 2027-2030 ikke fundet på hillerod.dk; kun supplerende budgetmateriale: https://www.hillerod.dk/media/wnahe5em/tillaeg-til-supplerende-budgetmateriale-budgetforslag-2027-2030.pdf"
+  "note": "Aftaletekst 2027-2030 ikke fundet på hillerod.dk; kun supplerende budgetmateriale: https://www.hillerod.dk/media/wnahe5em/tillaeg-til-supplerende-budgetmateriale-budgetforslag-2027-2030.pdf Bredt budgetforlig 18/9-2026; alle partier med ifølge lokalavisen.",
+  "aftale": "https://frederiksborgamtsavis.sn.dk/article/6645186/hilleroed-kommune/nyhed/21-nedslag-her-skal-der-spares-og-bruges-penge-de-naeste-fire-aar"
  },
  "Holbæk": {
-  "note": "Budgetaftale 2027-2030 ikke fundet; kun høring af budgetforslag (https://deltag.holbaek.dk/da-DK/projects/horing-af-forslag-til-budget-2027/1)."
+  "note": "Budgetaftale 2027-2030 ikke fundet; kun høring af budgetforslag (https://deltag.holbaek.dk/da-DK/projects/horing-af-forslag-til-budget-2027/1).",
+  "aftale": "https://nordvestnyt.sn.dk/article/6645189/holbaek-kommune/nyhed/holbaek-slipper-fri-af-besparelser-og-smider-30-millioner-kroner-oveni"
  },
  "Ikast-Brande": {
   "aftale": "https://ikast-brande.dk/media/40lmiria/budgetforlig-2027-30-med-underskifter.pdf",
@@ -207,7 +211,8 @@
   "note": "Vedtaget budget og klimabudget ikke fundet."
  },
  "Hørsholm": {
-  "note": "Budgetaftale 2027-2030 omtalt (https://www.horsholm.dk/nyhed/tekniske-bemaerkninger-til-budgetaftale-2027-2030-paa-kultur-og-fritidsomraadet), men PDF ikke fundet."
+  "note": "Budgetaftale 2027-2030 omtalt (https://www.horsholm.dk/nyhed/tekniske-bemaerkninger-til-budgetaftale-2027-2030-paa-kultur-og-fritidsomraadet), men PDF ikke fundet. Kun et debatindlæg om aftalen fundet.",
+  "aftale": "https://frederiksborgamtsavis.sn.dk/article/6652847/hoersholm-kommune/politik/borgerlisten-budgetaftalen-ruster-hoersholm-til-fremtiden"
  },
  "Høje-Taastrup": {
   "note": "Budget 2027 vedtaget i enighed (https://www.sn.dk/art6654025/hoeje-taastrup-kommune/nyhed/sparebudget-vedtaget-i-enighed-det-mener-politikerne-om-budgetforliget), men forligstekst ikke fundet på htk.dk."
@@ -223,7 +228,8 @@
   "aftale": "https://www.jammerbugt.dk/nyheder/bred-budgetaftale-for-2027-i-jammerbugt-kommune/"
  },
  "Kalundborg": {
-  "note": "Budget vedtaget (uden LA) iflg. sn.dk; aftaletekst ikke fundet. Budgetbemærkninger 2027 findes på cdn.kalundborg.dk."
+  "note": "Budget vedtaget (uden LA) iflg. sn.dk; aftaletekst ikke fundet. Budgetbemærkninger 2027 findes på cdn.kalundborg.dk.",
+  "aftale": "https://nordvestnyt.sn.dk/article/6648636/kalundborg-kommune/nyhed/kalundborgenserne-skal-betale-mere-i-skat-til-gengaeld-faar-veje-og-velfaerd-fle"
  },
  "Kerteminde": {
   "aftale": "https://kerteminde.dk/p/Filer%20Kommune/%C3%98konomi/Budget%202027-2030/Budgetaftale%202027-2030/Budgetforlig-2027-pr.-17.08.26%281%29.pdf",
@@ -243,7 +249,8 @@
  },
  "Lolland": {
   "side": "https://www.lolland.dk/politik/politikker-og-indsatsomraader/oekonomi-budgetproces-2027/baggrund-for-budget-2027",
-  "note": "Budgetforlig præsenteret ved pressemøde; PDF ikke fundet. Budgetforslag, sparekatalog og budgetpakker 2027 findes på lolland.dk/p/Politik/Budgetforslag%202027/. Budgetforslag og sparekatalog 2027 fundet (lolland.dk/p/Politik/Budgetforslag 2027/), aftaletekst ikke fundet; lolland.dk fejler ved automatisk læsning."
+  "note": "Budgetforlig præsenteret ved pressemøde; PDF ikke fundet. Budgetforslag, sparekatalog og budgetpakker 2027 findes på lolland.dk/p/Politik/Budgetforslag%202027/. Budgetforslag og sparekatalog 2027 fundet (lolland.dk/p/Politik/Budgetforslag 2027/), aftaletekst ikke fundet; lolland.dk fejler ved automatisk læsning.",
+  "aftale": "https://www.folketidende.dk/nyheder/enighed-om-budget-2027-sadan-ser-fremtiden-ud-for-lolland/5367001"
  },
  "Køge": {
   "note": "Budgetaftale 2027 ikke fundet på koege.dk."
@@ -389,7 +396,8 @@
  },
  "Slagelse": {
   "side": "https://www.slagelse.dk/da/nyheder/bredt-budgetforlig-i-slagelse-kommune",
-  "note": "Bredt budgetforlig omtalt; slagelse.dk kunne ikke hentes. Lokalavis-overblik: https://www.sn.dk/art6644776/slagelse-kommune/nyhed/aftale-om-budget-paa-plads-her-kan-du-faa-et-overblik-over-hvad-der-er-vedtaget/"
+  "note": "Bredt budgetforlig omtalt; slagelse.dk kunne ikke hentes. Lokalavis-overblik: https://www.sn.dk/art6644776/slagelse-kommune/nyhed/aftale-om-budget-paa-plads-her-kan-du-faa-et-overblik-over-hvad-der-er-vedtaget/ Aftale 2027-2030 indgået 17/9-2026 af V, SF, RV, LA og S (lokalavis; detaljer bag betalingsmur). Nordskolen lukker.",
+  "aftale": "https://sjaellandske.sn.dk/article/6644776/slagelse-kommune/nyhed/aftale-om-budget-paa-plads-her-kan-du-faa-et-overblik-over-hvad-der-er-vedtaget"
  },
  "Stevns": {
   "note": "Budgetaftale 2027 ikke fundet."
@@ -444,7 +452,8 @@
   "note": "Budgetaftale 2027 ikke fundet."
  },
  "Vejle": {
-  "note": "Søgning fandt kun Budget 2026-publikation (budget-2026_til-net.pdf); 2027 endnu ikke indekseret."
+  "note": "Søgning fandt kun Budget 2026-publikation (budget-2026_til-net.pdf); 2027 endnu ikke indekseret. Aftaleteksten er ikke fundet; kun TV Syds omtale (4/9-2026). Se også https://byenvejle.dk/artikel/vejle-budgetforlig-2027-2029-skole-aeldre-svoemmefacilitet",
+  "aftale": "https://www.tvsyd.dk/vejle/enigt-byrad-lander-budgetaftale-c2ab4"
  },
  "Vejen": {
   "note": "Alle partier bag budgetforslag 2027 (https://vejen.dk/presserum/pressemeddelelser-og-nyheder/alle-partier-staar-bag-balanceret-budgetforslag-for-2027); aftale-PDF ikke fundet. Alle partier bag budgetforslag 2027 (høring aug. 2026): ca. 38 mio. kr. til udsatte børn, unge og handicap, driftsreduktioner 25 mio. kr., anlæg 83 mio. kr. Endelig aftaletekst ikke fundet.",
