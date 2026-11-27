@@ -123,6 +123,11 @@ section + section { border-top: 1px solid var(--rule); }
 .row.me .track b { background: var(--s1); }
 .row.me { font-weight: 700; }
 .track .zero { position: absolute; top: -2px; bottom: -2px; width: 1px; background: var(--axis); }
+.hop { position: sticky; top: 0; z-index: 5; background: var(--bg); border-bottom: 1px solid var(--rule); }
+.hop .wrap { display: flex; gap: 6px; padding-top: 8px; padding-bottom: 8px; white-space: nowrap; }
+.hop button { flex: none; font: inherit; font-size: 14px; padding: 6px 12px; min-height: 36px; border-radius: 999px; border: 1px solid var(--rule); background: var(--plane); color: var(--ink); cursor: pointer; }
+.hop button:hover { border-color: var(--ink2); }
+section[id^="kat-"] { scroll-margin-top: 56px; }
 .row.br { grid-template-columns: minmax(9em, 17em) minmax(0, 1fr) max-content; }
 .row.br .track b { background: var(--s1); }
 .legend i.mk { width: 2px; height: 14px; border-radius: 0; background: var(--ink); opacity: .55; }

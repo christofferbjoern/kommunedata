@@ -50,6 +50,34 @@ def info(tabel):
     return json.loads(p.read_text(encoding="utf-8")) if p.exists() else None
 
 
+def omr_var(tabel):
+    """Navnet på tabellens områdevariabel (den, hvor København 101 findes)."""
+    ti = info(tabel)
+    for v in (ti or {}).get("variables", []):
+        if any(x["id"] == "101" for x in v["values"]):
+            return v["id"]
+    return None
+
+
+def vaerdi_tekster(tabel, var_navn):
+    """{kode: tekst} for en variabel, fundet ud fra id eller tekst (begyndelsen)."""
+    for v in (info(tabel) or {}).get("variables", []):
+        if v["id"].lower().startswith(var_navn.lower()) or v["text"].lower().startswith(var_navn.lower()):
+            return v["id"], {x["id"]: x["text"] for x in v["values"]}
+    return None, {}
+
+
+def rk(tabel):
+    """Rækker fra tabellen for kommuner og hele landet: (kode, år, række, værdi)."""
+    ov = omr_var(tabel)
+    if not ov:
+        return
+    for r in rows(tabel):
+        k = kode(r[ov])
+        if k in ALLE:
+            yield k, int(r["TID"][:4]), r, tal(r["INDHOLD"])
+
+
 # ---------- kommuner og regioner ----------
 fi = info("FOLK1AM") or info("FOLK1A")
 omr = next(v for v in fi["variables"] if v["id"] == "OMRÅDE")["values"]
@@ -411,6 +439,233 @@ if ng:
                 if x.get(brug) is not None:
                     v[k][aar] = x[brug]
 
+# ---------- flere kommunetal (tilføjet november 2026) ----------
+def pr(v_maal, data, nævner, faktor):
+    """Læg data[k][aar] / nævner(k, aar) * faktor ind i målet, hvor nævneren findes."""
+    for k, d in data.items():
+        for aar, x in d.items():
+            n = nævner(k, aar)
+            if x is not None and n:
+                v_maal[k][aar] = x / n * faktor
+
+
+def bef_aar(k, aar):
+    return bef[k].get(aar) or bef[k].get(aar + 1)
+
+
+def p1664(k, aar):
+    return ras.get(k, {}).get(aar, {}).get("1664") if ras else None
+
+
+def simpel(tabel, filtre, key, navn, enhed, kategori, decimaler=1, retning=0, beskrivelse="", kilde=None):
+    """Mål direkte fra en tabel, hvor rækken skal matche alle filtre {kolonne: kode}."""
+    d = defaultdict(dict)
+    for k, aar, r, x in rk(tabel) or []:
+        if all(kode(r[c]) == v for c, v in filtre.items()) and x is not None:
+            d[k][aar] = x
+    if d:
+        v = nyt_maal(key, navn, enhed, kategori, kilde or f"DST {tabel}", decimaler, retning, beskrivelse)
+        for k, dd in d.items():
+            v[k].update(dd)
+    return d
+
+
+# Befolkning
+simpel("GALDER", {"KØN": "TOT"}, "galder", "Gennemsnitsalder", "år", "Befolkning", 1, 0,
+       "Befolkningens gennemsnitsalder 1. januar.")
+
+frem = defaultdict(lambda: defaultdict(lambda: [0.0, 0.0]))  # kode -> år -> [i alt, 80+]
+for k, aar, r, x in rk("FRKM126") or []:
+    a = kode(r["ALDER"])
+    if a == "TOT":
+        frem[k][aar][0] += x or 0
+    elif a.isdigit() and int(a) >= 80:
+        frem[k][aar][1] += x or 0
+if frem:
+    for k in [x for x in frem if "000" not in frem]:  # landstal som summen af kommunerne
+        if k != "000":
+            for aar, (t, a80) in frem[k].items():
+                frem["000"][aar][0] += t
+                frem["000"][aar][1] += a80
+    v = nyt_maal("frem_bef", "Fremskrevet befolkning", "personer", "Befolkning", "DST FRKM126 (befolkningsfremskrivning 2026)", 0, 0,
+                 "Danmarks Statistiks befolkningsfremskrivning fra 2026, antal indbyggere 1. januar.")
+    v2 = nyt_maal("frem_vaekst", "Forventet befolkningsudvikling 2026-2040", "pct.", "Befolkning",
+                  "DST FRKM126 (befolkningsfremskrivning 2026)", 1, 1,
+                  "Fremskrevet ændring i befolkningen fra 2026 til 2040.")
+    v3 = nyt_maal("frem_80", "Andel 80+ årige i 2040 (fremskrevet)", "pct.", "Befolkning",
+                  "DST FRKM126 (befolkningsfremskrivning 2026)", 1, 0,
+                  "Fremskrevet andel af befolkningen, der er 80 år eller ældre i 2040.")
+    for k, d in frem.items():
+        for aar, (t, a80) in d.items():
+            v[k][aar] = t
+        if d.get(2026, [0])[0] and d.get(2040, [0])[0]:
+            v2[k][2040] = (d[2040][0] / d[2026][0] - 1) * 100
+            v3[k][2040] = d[2040][1] / d[2040][0] * 100
+
+# Geografi: arealdække (andel af kommunens areal)
+DAEKKE = {"andel_skov": ("Skov", ["E"]), "andel_landbrugsjord": ("Landbrug", ["D1", "D2", "D3", "D4"]),
+          "andel_bebygget": ("Bebyggelse, veje og anlæg", ["A1", "A2", "B1", "B2", "C1", "C2"]),
+          "andel_natur": ("Lysåben natur, søer og vandløb", ["F1", "F2", "G1", "G2"])}
+dk = defaultdict(lambda: defaultdict(dict))
+for k, aar, r, x in rk("AREALDK2") or []:
+    if kode(r["ENHED"]) == "8140" and x is not None:
+        dk[k][aar][kode(r["ARE1"])] = x
+if dk:
+    for key, (navn, koder) in DAEKKE.items():
+        v = nyt_maal(key, f"Andel af arealet: {navn.lower()}", "pct.", "Geografi", "DST AREALDK2", 1, 0,
+                     f"{navn} i procent af kommunens samlede areal (arealdække).")
+        for k, d in dk.items():
+            for aar, x in d.items():
+                v[k][aar] = sum(x.get(c, 0) for c in koder)
+
+# Beskæftigelse og erhverv
+simpel("AFSTB4", {"SOCIO": "02", "KØN": "TOT"}, "pendling", "Gennemsnitlig pendlingsafstand", "km", "Beskæftigelse", 1, 0,
+       "Gennemsnitlig afstand mellem bopæl og arbejdssted for beskæftigede, der bor i kommunen (ultimo november).")
+auh = defaultdict(lambda: defaultdict(dict))
+for k, aar, r, x in rk("AUH01") or []:
+    if r["KØN"].startswith("TOT") and r["ALDER"].startswith("TOT"):
+        auh[k][aar][kode(r["YDELSESTYPE"])] = x
+if auh and ras:
+    for key, yd, navn, besk in (
+            ("offforsorg", "TOTUSU", "Offentligt forsørgede pr. 100 16-64-årige",
+             "Fuldtidsmodtagere af offentlige ydelser (dagpenge, kontanthjælp, sygedagpenge, førtidspension, efterløn mv.), "
+             "ekskl. SU og folkepension, pr. 100 indbyggere på 16-64 år."),
+            ("foertidspension", "FP", "Førtidspensionister pr. 100 16-64-årige",
+             "Fuldtidsmodtagere af førtidspension pr. 100 indbyggere på 16-64 år.")):
+        v = nyt_maal(key, navn, "pr. 100", "Beskæftigelse", "DST AUH01 og RAS201", 1, -1, besk)
+        pr(v, {k: {a: x.get(yd) for a, x in d.items()} for k, d in auh.items()}, p1664, 100)
+job = defaultdict(dict)
+for k, aar, r, x in rk("ERHV2A") or []:
+    if kode(r["BRANCHEDB25"]) == "A-V" and kode(r["TAL"]) == "ANSATTE":
+        job[k][aar] = x
+if job and ras:
+    v = nyt_maal("jobs", "Arbejdspladser pr. 100 16-64-årige", "pr. 100", "Erhverv", "DST ERHV2A og RAS201", 0, 0,
+                 "Job med arbejdssted i kommunen pr. 100 indbyggere på 16-64 år. Over 100 betyder, at flere pendler ind end ud.")
+    pr(v, job, lambda k, a: p1664(k, a) or p1664(k, a - 1), 100)
+nye = defaultdict(dict)
+for k, aar, r, x in rk("DEMO19") or []:
+    if kode(r["MÆNGDE4"]) == "NYE":
+        nye[k][aar] = x
+if nye:
+    v = nyt_maal("nye_firmaer", "Nye firmaer pr. 1.000 indbyggere", "pr. 1.000", "Erhverv", "DST DEMO19", 1, 1,
+                 "Nye firmaer i løbet af året pr. 1.000 indbyggere.")
+    pr(v, nye, bef_aar, 1000)
+
+# Indkomst
+simpel("IFOR12P", {"INDKN": "50"}, "lavindkomst", "Andel i lavindkomstfamilier", "pct.", "Indkomst", 1, -1,
+       "Personer i familier med en disponibel indkomst under 50 pct. af medianindkomsten.")
+simpel("IFOR41", {"ULLIG": "70"}, "gini", "Gini-koefficient", "indeks", "Indkomst", 1, 0,
+       "Ulighed i ækvivaleret disponibel indkomst. 0 = alle har samme indkomst, 100 = én har alt.")
+
+# Uddannelse
+simpel("KVOTIEN", {"KLASSE": "0000", "SKTPE": "ANTAL1012"}, "klassekvotient", "Gennemsnitlig klassestørrelse i folkeskolen",
+       "elever", "Uddannelse", 1, 0, "Gennemsnitligt antal elever pr. klasse i kommunens folkeskoler.")
+
+# Børn og ældre
+anb = defaultdict(dict)
+for k, aar, r, x in rk("ANB7") or []:
+    if kode(r["ALERAMS"]) == "9917" and r["TID"].endswith("H1"):
+        anb[k][aar] = x
+if anb:
+    v = nyt_maal("anbragte", "Anbragte børn pr. 1.000 0-17-årige", "pr. 1.000", "Børn og ældre", "DST ANB7", 1, 0,
+                 "Anbragte børn og unge på 0-17 år pr. 30. juni pr. 1.000 indbyggere på 0-17 år.")
+    pr(v, anb, lambda k, a: aldre[k].get(a, [0])[0], 1000)
+for key, kd, navn in (("hjemmehjaelp", "130", "Andel 67+ årige med hjemmehjælp"),
+                      ("plejehjem", "150", "Andel 67+ årige på plejehjem eller i plejebolig"),
+                      ("traening", "160", "Andel 67+ årige, der modtager træning")):
+    simpel("AED21", {"SERVYD": kd}, key, navn, "pct.", "Børn og ældre", 1, 0, "I procent af alle 67+ årige i kommunen.")
+simpel("AED16", {"MÆNGDE4": "140"}, "ventetid_pleje", "Ventetid til plejebolig", "dage", "Børn og ældre", 0, -1,
+       "Gennemsnitlig ventetid i dage til plejehjem eller plejebolig for 67+ årige på den generelle venteliste.")
+
+# Tryghed: anmeldte forbrydelser pr. 1.000 indbyggere (kun hele år)
+straf = defaultdict(lambda: defaultdict(lambda: defaultdict(float)))
+kvartaler = defaultdict(set)
+for k, aar, r, x in rk("STRAF11") or []:
+    o = kode(r["OVERTRÆD"])
+    if o in ("1", "12", "1320"):
+        straf[o][k][aar] += x or 0
+        kvartaler[aar].add(r["TID"][-2:])
+for key, o, navn in (("anmeldte", "1", "Anmeldte straffelovsovertrædelser pr. 1.000 indbyggere"),
+                     ("vold", "12", "Anmeldte voldsforbrydelser pr. 1.000 indbyggere"),
+                     ("indbrud", "1320", "Anmeldte indbrud i beboelser pr. 1.000 indbyggere")):
+    if straf.get(o):
+        v = nyt_maal(key, navn, "pr. 1.000", "Tryghed", "DST STRAF11", 1, -1,
+                     "Anmeldte forbrydelser i løbet af året efter gerningssted, pr. 1.000 indbyggere.")
+        pr(v, {k: {a: x for a, x in d.items() if len(kvartaler[a]) == 4} for k, d in straf[o].items()}, bef_aar, 1000)
+
+# Bolig og transport
+simpel("BOL106", {"ENHED": "GNSAP", "ANVENDELSE": "TOT"}, "boligareal", "Boligareal pr. person", "m²", "Bolig og transport", 1, 0,
+       "Gennemsnitligt boligareal pr. beboer 1. januar.")
+byg = defaultdict(lambda: defaultdict(float))
+bygkv = defaultdict(set)
+for k, aar, r, x in rk("BYGV33") or []:
+    if kode(r["BYGFASE"]) == "3":
+        byg[k][aar] += x or 0
+        bygkv[aar].add(r["TID"][-2:])
+if byg:
+    v = nyt_maal("nybyggeri", "Fuldførte boliger pr. 1.000 indbyggere", "pr. 1.000", "Bolig og transport", "DST BYGV33", 1, 0,
+                 "Nye boliger fuldført i løbet af året (alle bygherrer og boligtyper) pr. 1.000 indbyggere.")
+    pr(v, {k: {a: x for a, x in d.items() if len(bygkv[a]) == 4} for k, d in byg.items()}, bef_aar, 1000)
+biler = defaultdict(dict)
+for k, aar, r, x in rk("BIL707") or []:
+    if kode(r["BILTYPE"]) == "4000101002":
+        biler[k][aar] = x
+if biler:
+    v = nyt_maal("biler", "Personbiler pr. 1.000 indbyggere", "pr. 1.000", "Bolig og transport", "DST BIL707", 0, 0,
+                 "Personbiler i alt 1. januar pr. 1.000 indbyggere (inkl. firmabiler).")
+    pr(v, biler, bef_aar, 1000)
+el = defaultdict(dict)
+for k, aar, r, x in rk("BIL710") or []:
+    if kode(r["EJER"]) == "1000":
+        el[k].setdefault(aar, {})[kode(r["DRIV"])] = x
+if el:
+    v = nyt_maal("elbiler", "Andel elbiler", "pct.", "Bolig og transport", "DST BIL710", 1, 1,
+                 "Elbiler i procent af alle personbiler 1. januar.")
+    for k, d in el.items():
+        for aar, x in d.items():
+            if x.get("20200"):
+                v[k][aar] = (x.get("20225") or 0) / x["20200"] * 100
+
+# Fritid og samfund
+simpel("IDRAKT02", {"KON": "10", "ALDER1": "TOT"}, "idraet", "Medlemskaber af idrætsforeninger", "pct.", "Fritid og samfund", 1, 0,
+       "Medlemskaber af idrætsorganisationer i procent af befolkningen (én person kan have flere).")
+fk = defaultdict(lambda: defaultdict(lambda: [0.0, 0.0]))
+for k, aar, r, x in rk("KM6") or []:
+    fk[k][aar][0 if kode(r["FKMED"]) == "F" else 1] += x or 0
+if fk:
+    for k in [x for x in fk if "000" not in fk]:
+        if k != "000":
+            for aar, (m, u) in fk[k].items():
+                fk["000"][aar][0] += m
+                fk["000"][aar][1] += u
+    v = nyt_maal("folkekirke", "Andel medlemmer af folkekirken", "pct.", "Fritid og samfund", "DST KM6", 1, 0,
+                 "Medlemmer af folkekirken i procent af befolkningen 1. januar.")
+    for k, d in fk.items():
+        for aar, (m, u) in d.items():
+            if m + u:
+                v[k][aar] = m / (m + u) * 100
+kv = defaultdict(lambda: defaultdict(dict))
+partinavne = dict(vaerdi_tekster("KVRES", "VALRES")[1])
+for k, aar, r, x in rk("KVRES") or []:
+    kv[k][aar][kode(r["VALRES"])] = x
+valg = {}
+if kv:
+    v = nyt_maal("valgdeltagelse", "Valgdeltagelse ved kommunalvalg", "pct.", "Fritid og samfund", "DST KVRES", 1, 1,
+                 "Afgivne stemmer i procent af vælgerne ved kommunalvalget.")
+    for k, d in kv.items():
+        for aar, x in d.items():
+            if x.get("V"):
+                v[k][aar] = (x.get("AS") or 0) / x["V"] * 100
+    sidste = max(a for d in kv.values() for a in d)
+    partier = [p for p in partinavne if p.startswith("GS") and p not in ("GS", "GSEJR")]
+    valg = {"aar": sidste, "partier": [partinavne[p] for p in partier] + ["Lokale lister og andre"], "v": {}}
+    for k, d in kv.items():
+        x = d.get(sidste, {})
+        if x.get("GS"):
+            andele = [round((x.get(p) or 0) / x["GS"] * 100, 1) for p in partier]
+            andele.append(round((x.get("GSEJR") or 0) / x["GS"] * 100, 1))
+            valg["v"][k] = andele
+
 # ---------- pak målene ----------
 ud_maal = {}
 for key, m in maal.items():
@@ -453,6 +708,7 @@ ud = {
     "udgiftsfordeling": {k: {str(a): fordeling[k][a] for a in sorted(fordeling[k]) if a >= FRA} for k in fordeling},
     "budget2027": budget,
     "erhverv": erhverv,
+    "valg": valg,
 }
 UD.parent.mkdir(parents=True, exist_ok=True)
 UD.write_text(json.dumps(ud, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")

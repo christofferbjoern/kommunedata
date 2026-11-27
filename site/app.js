@@ -14,22 +14,31 @@
     budgetQ: '', budgetF: 'alle', sort: { col: 'bef', dir: -1 }, zoom: false
   };
 
-  const DIV = new Set(['vaekst', 'foedselsoverskud', 'nettotilflytning', 'udligpr']);
-  const SUM = new Set(['bef', 'areal']);
+  const DIV = new Set(['vaekst', 'foedselsoverskud', 'nettotilflytning', 'udligpr', 'frem_vaekst']);
+  const SUM = new Set(['bef', 'areal', 'frem_bef']);
   const UDENKURVE = new Set(['areal']);  // ændres kun ved små opmålingsjusteringer
-  const ORDEN = ['bef', 'vaekst', 'andel0_17', 'andel65', 'foedselsoverskud', 'nettotilflytning', 'andel_indv', 'areal', 'taethed',
-    'beskfrek', 'erhvfrek', 'ledighed', 'andel_landbrug', 'andel_industri', 'andel_offentlig',
-    'erhvervsindk', 'dispindk', 'videregaaende', 'lvu', 'erhvervsfaglig', 'grundskole',
+  const ORDEN = ['bef', 'vaekst', 'andel0_17', 'andel65', 'galder', 'foedselsoverskud', 'nettotilflytning', 'andel_indv',
+    'frem_bef', 'frem_vaekst', 'frem_80',
+    'areal', 'taethed', 'andel_landbrugsjord', 'andel_skov', 'andel_natur', 'andel_bebygget',
+    'beskfrek', 'erhvfrek', 'ledighed', 'offforsorg', 'foertidspension', 'pendling',
+    'jobs', 'nye_firmaer', 'andel_landbrug', 'andel_industri', 'andel_offentlig',
+    'erhvervsindk', 'dispindk', 'lavindkomst', 'gini',
+    'videregaaende', 'lvu', 'erhvervsfaglig', 'grundskole', 'klassekvotient',
     'driftpr', 'budgetdriftpr', 'anlaegpr', 'skatpr', 'udligpr', 'skattepct', 'grundskyld',
-    'ng_service', 'ng_gaeld', 'ng_aeldre', 'ng_folkeskole', 'ng_dagtilbud', 'ng_sundhed', 'ng_kultur', 'ng_transport', 'ng_arbejdsmarked'];
-  const KATEGORIER = ['Befolkning', 'Geografi', 'Beskæftigelse', 'Erhverv', 'Indkomst', 'Uddannelse', 'Økonomi', 'Kommunale nøgletal'];
+    'ng_service', 'ng_gaeld', 'ng_aeldre', 'ng_folkeskole', 'ng_dagtilbud', 'ng_sundhed', 'ng_kultur', 'ng_transport', 'ng_arbejdsmarked',
+    'anbragte', 'hjemmehjaelp', 'plejehjem', 'traening', 'ventetid_pleje',
+    'anmeldte', 'vold', 'indbrud',
+    'boligareal', 'nybyggeri', 'biler', 'elbiler',
+    'valgdeltagelse', 'folkekirke', 'idraet'];
+  const KATEGORIER = ['Befolkning', 'Geografi', 'Beskæftigelse', 'Erhverv', 'Indkomst', 'Uddannelse', 'Økonomi', 'Kommunale nøgletal',
+    'Børn og ældre', 'Tryghed', 'Bolig og transport', 'Fritid og samfund'];
   const NOEGLE = ['bef', 'vaekst', 'taethed', 'beskfrek', 'ledighed', 'erhvervsindk', 'videregaaende', 'skattepct', 'driftpr'];
   const SERIE = ['var(--s1)', 'var(--s2)', 'var(--s3)', 'var(--s4)', 'var(--s5)', 'var(--s6)'];
 
   const NF = {};
   const nf = d => NF[d] || (NF[d] = new Intl.NumberFormat('da-DK', { minimumFractionDigits: d, maximumFractionDigits: d }));
   const ENHED = { 'kr.': ' kr.', 'pct.': ' pct.', 'personer': '', 'km²': ' km²', 'indb. pr. km²': ' pr. km²', 'pr. 1.000': ' pr. 1.000',
-    'promille': ' ‰', 'pr. 100': ' pr. 100', 'pct. af arbejdsstyrken': ' pct.' };
+    'promille': ' ‰', 'pr. 100': ' pr. 100', 'pct. af arbejdsstyrken': ' pct.', 'indeks': '', 'm²': ' m²' };
   const fmt = (v, m, enhed = true) => (v == null || isNaN(v)) ? '–' : nf(m.decimaler).format(v) + (enhed ? (ENHED[m.enhed] ?? ' ' + m.enhed) : '');
   const fmtTick = (v, dec) => Math.abs(v) >= 1e6 ? nf(Math.abs(v) >= 1e7 ? 0 : 1).format(v / 1e6) + ' mio.' : nf(dec).format(v);
   const pctEnhed = m => /pct|promille|pr\. 1\.000|pr\. 100/.test(m.enhed);
@@ -272,6 +281,13 @@
     return `<div class="seglab">${esc(titel)} · ${esc(nf(0).format(tot))} kr. pr. indbygger</div><div class="seg" role="img" aria-label="${esc(titel)}">${blocks}</div>`;
   }
 
+  /* ---------- hop til emne ---------- */
+  const hopHTML = medBudget => `<nav class="hop" aria-label="Hop til emne"><div class="wrap scroll">${medBudget ? '<button type="button" data-hop="kat-budget">Budget 2027</button>' : ''}${KATEGORIER.map((c, i) => `<button type="button" data-hop="kat-${i}">${esc(c)}</button>`).join('')}</div></nav>`;
+  $('#main').addEventListener('click', e => {
+    const b = e.target.closest('[data-hop]'); if (!b) return;
+    const t = document.getElementById(b.dataset.hop); if (t) t.scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'start' });
+  });
+
   /* ---------- erhvervsstruktur (RAS301) ---------- */
   function erhvervHTML(kode) {
     const E = D.erhverv; if (!E || !E.v || !E.v[kode]) return '';
@@ -283,6 +299,20 @@
       <div class="rows">${rk}</div>
       <div class="legend"><span><i style="background:var(--s1)"></i>${esc(navn)}</span><span><i class="mk"></i>Hele landet</span></div>
       <details class="tbl"><summary>Vis tallene</summary><div class="scroll"><table><thead><tr><th>Branche</th><th class="num">${esc(navn)}</th><th class="num">Hele landet</th></tr></thead><tbody>${E.grupper.map((g, i) => `<tr><td>${esc(g)}</td><td class="num">${esc(p(a[i]))}</td><td class="num">${l[i] != null ? esc(p(l[i])) : '–'}</td></tr>`).join('')}</tbody></table></div></details></div>`;
+  }
+
+  /* ---------- kommunalvalg (KVRES) ---------- */
+  function valgHTML(kode) {
+    const V = D.valg; if (!V || !V.v || !V.v[kode]) return '';
+    const a = V.v[kode], l = V.v['000'] || [], navn = K[kode].navn;
+    const idx = V.partier.map((_, i) => i).filter(i => a[i] > 0 || (l[i] || 0) >= 1).sort((x, y) => a[y] - a[x]);
+    const hi = Math.max(...idx.map(i => Math.max(a[i], l[i] || 0))) || 1;
+    const p = x => nf(1).format(x) + ' pct.';
+    const rk = idx.map(i => `<div class="row br"><span>${esc(V.partier[i])}</span><span class="track"><b style="left:0;width:${Math.max(a[i] / hi * 100, .4)}%"></b>${l[i] != null ? `<span class="med" style="left:${l[i] / hi * 100}%"></span>` : ''}</span><span class="v">${esc(p(a[i]))}</span></div>`).join('');
+    return `<div class="chart" style="grid-column:1/-1"><h3>Kommunalvalget ${esc(V.aar)}</h3><p class="sub">Partiernes andel af de gyldige stemmer i ${esc(navn)}. Stregen viser hele landet.</p>
+      <div class="rows">${rk}</div>
+      <div class="legend"><span><i style="background:var(--s1)"></i>${esc(navn)}</span><span><i class="mk"></i>Hele landet</span></div>
+      <details class="tbl"><summary>Vis tallene</summary><div class="scroll"><table><thead><tr><th>Parti</th><th class="num">${esc(navn)}</th><th class="num">Hele landet</th></tr></thead><tbody>${idx.map(i => `<tr><td>${esc(V.partier[i])}</td><td class="num">${esc(p(a[i]))}</td><td class="num">${l[i] != null ? esc(p(l[i])) : '–'}</td></tr>`).join('')}</tbody></table></div></details></div>`;
   }
 
   /* ---------- visninger ---------- */
@@ -388,8 +418,8 @@
         const s = a ? `${esc(k.navn)}: <b>${esc(fmt(v, m))}</b> i ${a}${!SUM.has(x) && rv != null ? ` · ${esc(serier[1].navn.toLowerCase())}: ${esc(fmt(rv, m))}` : ''}` : 'Ingen tal for kommunen.';
         return chartCard('f-' + x, m, m.navn, s, serier);
       }).join('');
-      const seg = c === 'Økonomi' && fd ? `<div class="chart" style="grid-column:1/-1"><h3>Hvad går driftsudgifterne til? ${esc(fd.aar)}</h3><p class="sub">Nettodriftsudgifter pr. indbygger fordelt på hovedområder, ${esc(k.navn)} og hele landet.</p>${segHTML(k.navn, fd)}${fl ? segHTML('Hele landet', fl) : ''}<div class="legend">${fd.navne.map((n, i) => `<span><i style="background:${SERIE[i]}"></i>${esc(n)}</span>`).join('')}</div><details class="tbl"><summary>Vis tallene</summary><div class="scroll"><table><thead><tr><th>Område</th><th class="num">${esc(k.navn)}</th><th class="num">Hele landet</th></tr></thead><tbody>${fd.navne.map((n, i) => `<tr><td>${esc(n)}</td><td class="num">${esc(nf(0).format(fd.vals[i]))} kr.</td><td class="num">${fl ? esc(nf(0).format(fl.vals[i])) + ' kr.' : '–'}</td></tr>`).join('')}</tbody></table></div></details></div>` : (c === 'Erhverv' ? erhvervHTML(kode) : '');
-      return `<section class="band"><div class="wrap"><h2 style="font-size:28px">${c}</h2><div class="grid2">${kort}${seg}</div></div></section>`;
+      const seg = c === 'Økonomi' && fd ? `<div class="chart" style="grid-column:1/-1"><h3>Hvad går driftsudgifterne til? ${esc(fd.aar)}</h3><p class="sub">Nettodriftsudgifter pr. indbygger fordelt på hovedområder, ${esc(k.navn)} og hele landet.</p>${segHTML(k.navn, fd)}${fl ? segHTML('Hele landet', fl) : ''}<div class="legend">${fd.navne.map((n, i) => `<span><i style="background:${SERIE[i]}"></i>${esc(n)}</span>`).join('')}</div><details class="tbl"><summary>Vis tallene</summary><div class="scroll"><table><thead><tr><th>Område</th><th class="num">${esc(k.navn)}</th><th class="num">Hele landet</th></tr></thead><tbody>${fd.navne.map((n, i) => `<tr><td>${esc(n)}</td><td class="num">${esc(nf(0).format(fd.vals[i]))} kr.</td><td class="num">${fl ? esc(nf(0).format(fl.vals[i])) + ' kr.' : '–'}</td></tr>`).join('')}</tbody></table></div></details></div>` : (c === 'Erhverv' ? erhvervHTML(kode) : c === 'Fritid og samfund' ? valgHTML(kode) : '');
+      return `<section class="band" id="kat-${KATEGORIER.indexOf(c)}"><div class="wrap"><h2 style="font-size:28px">${c}</h2><div class="grid2">${kort}${seg}</div></div></section>`;
     }).join('');
     main.innerHTML = `
       <section class="band"><div class="wrap split prof">
@@ -398,7 +428,8 @@
           <p class="small muted">Rang: nr. 1 er den kommune med den højeste værdi. Pilene viser ændringen siden året før.</p></div>
         <div><div class="mapbox" id="lokal"></div><p class="small muted">${iHoved ? 'Udsnit: hovedstadsområdet.' : 'Bornholm er vist i boksen øverst til højre.'} Klik på en anden kommune for at skifte.</p></div>
       </div></section>
-      <section class="band"><div class="wrap"><h2 style="font-size:28px">Budgetaftale 2027</h2>${budgetHTML(kode)}</div></section>
+      ${hopHTML(true)}
+      <section class="band" id="kat-budget"><div class="wrap"><h2 style="font-size:28px">Budgetaftale 2027</h2>${budgetHTML(kode)}</div></section>
       ${kat}`;
     const lb = $('#lokal');
     lb.innerHTML = kortSVG(x => 'loc' + (x === kode ? ' me' : ''), { zoom: iHoved, label: `${k.navn} på kortet` });
@@ -431,9 +462,10 @@
         <div class="filters">${[0, 1, 2].map(i => `<label for="sml${i}"><span><i style="display:inline-block;width:18px;height:3px;border-radius:2px;vertical-align:4px;margin-right:6px;background:${SERIE[i]}"></i>Kommune ${i + 1}</span><select id="sml${i}">${opt(state.sml[i])}</select></label>`).join('')}</div>
         ${tabel}
       </div></section>
+      ${hopHTML(false)}
       ${KATEGORIER.map(c => {
         const ks = maalListe().filter(x => D.maal[x].kategori === c && D.maal[x].aar.length > 1 && !UDENKURVE.has(x)); if (!ks.length) return '';
-        return `<section class="band"><div class="wrap"><h2 style="font-size:28px">${c}</h2><div class="grid2">${ks.map(x => {
+        return `<section class="band" id="kat-${KATEGORIER.indexOf(c)}"><div class="wrap"><h2 style="font-size:28px">${c}</h2><div class="grid2">${ks.map(x => {
           const m = D.maal[x]; const s = serierFor(m); if (!SUM.has(x)) { const rf = ref(m); s.push({ navn: rf.navn, farve: 'var(--ref)', vals: rf.vals }); }
           return chartCard('s-' + x, m, m.navn, esc(m.beskrivelse || m.kilde), s);
         }).join('')}</div></div></section>`;
@@ -511,7 +543,7 @@
       ${maalListe().map(x => { const m = D.maal[x]; return `<tr><td>${esc(m.navn)}</td><td>${esc(m.kategori)}</td><td class="num">${m.aar[0]}–${m.aar[m.aar.length - 1]}</td><td>${esc(m.kilde)}</td><td class="small">${esc(m.beskrivelse || '')}</td></tr>`; }).join('')}
       </tbody></table></div>
       <h3 style="margin-top:24px">Hvad er nyt</h3>
-      <ul><li>Budgetaftaler 2027 for ${Object.keys(D.budget2027).length} kommuner med prioriteter, besparelser, finansiering og skat.</li><li>Kort over alle kommuner med valgfrit mål og zoom på hovedstaden.</li><li>Erhverv: hvor borgerne arbejder, fordelt på 10 brancher.</li><li>Kommunale nøgletal: udgifter pr. ældre, pr. elev, pr. 0-10-årig, gæld og service.</li><li>Sammenligning af op til tre kommuner og ranglister for alle mål.</li></ul>
+      <ul><li>Budgetaftaler 2027 for ${Object.keys(D.budget2027).length} kommuner med prioriteter, besparelser, finansiering og skat.</li><li>Kort over alle kommuner med valgfrit mål og zoom på hovedstaden.</li><li>Erhverv: hvor borgerne arbejder, fordelt på 10 brancher.</li><li>Kommunale nøgletal: udgifter pr. ældre, pr. elev, pr. 0-10-årig, gæld og service.</li><li>Nye emner fra Danmarks Statistik: befolkningsfremskrivning til 2050, arealdække, pendling, offentligt forsørgede, arbejdspladser, nye firmaer, lavindkomst og ulighed, klassestørrelse, anbragte børn, ældrepleje, anmeldte forbrydelser, boliger, biler og elbiler, idræt, folkekirken og kommunalvalg.</li><li>Sammenligning af op til tre kommuner og ranglister for alle mål.</li></ul>
     </div></section>`;
   }
 
