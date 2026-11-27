@@ -10,6 +10,7 @@ Data til en oversigt over de 98 danske kommuner: økonomi, befolkning, beskæfti
 | `data/budgetaftaler/<år>/kilder.json` | Links pr. kommune til aftaletekst, budgetoversigt (regneark/PDF), klimabudget og budgetside |
 | `data/budgetaftaler/<år>/analyse.json` | Udtræk pr. aftale: partier, top 10 prioriteter, besparelser, finansiering, skat, klima, resumé |
 | `data/budgetaftaler/<år>/filer/<Kommune>/` | Originalfilerne, hentet automatisk |
+| `data/budgetaftaler/<år>/tekst/<Kommune>/` | Tekstudgaver af PDF'erne (scannede PDF'er er OCR-læst) |
 | `data/budgetaftaler/<år>/manifest.csv` | Status for hver fil (hentet/fejl, HTTP-kode, sha256) |
 | `data/dst/<TABEL>/<år>.csv.gz` | Tal fra Danmarks Statistik pr. år (semikolon-CSV, kode og tekst). Nuller udeladt |
 | `data/dst/<TABEL>/tableinfo.json` | Tabellens variabler og koder |
