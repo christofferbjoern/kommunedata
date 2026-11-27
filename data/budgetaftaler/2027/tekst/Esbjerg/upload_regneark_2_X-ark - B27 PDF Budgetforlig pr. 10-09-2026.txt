@@ -1,0 +1,900 @@
+# kilde: filer/Esbjerg/upload_regneark_2_X-ark - B27 PDF Budgetforlig pr. 10-09-2026.pdf | metode: pdftotext
+
+ Budget 2027-30                                Budgetforlig pr. 10.09.26                     Esbjerg Kommune
+                                                  Udvalgte Nøgletal
+ + = merudgift/mindreindtægt
+ - = mindreudgift/merindtægt
+
+Strukturel balance - Ordinær drift
+                                                                   2027         2028         2029          2030
+i 1.000 kr. (- = overskud)
+
+Måltal                                                         -225.000,0   -225.000,0   -225.000,0   -225.000,0
+
+Strukturel balance - Ordinær drift                             -238.850,3   -144.613,3   -211.328,6   -169.466,7
+
+Afvigelse                                                       -13.850,3    80.386,7     13.671,4      55.533,3
+
+
+
+Skattefinansieret anlæg
+                                                                   2027         2028         2029          2030
+i 1.000 kr. (- = mindreforbug)
+
+Måltal inkl. anlæg (170)                                       148.039,1    108.257,3    161.400,0     170.000,0
+
+Skattefinansieret anlæg, netto                                 122.323,2    118.416,8     94.375,1     230.076,4
+
+Afvigelse                                                       -25.715,9    10.159,5     -67.024,9     60.076,4
+
+
+
+Kassebeholdning
+                                                                   2027         2028         2029          2030
+i 1.000 kr. (- = underskud) (måltal = 0)
+
+Måltal                                                                0,0          0,0          0,0          0,0
+
+Ultimo kassebeholdning                                          -84.832,5   -203.314,6   -201.772,8   -385.717,8
+
+Afvigelse                                                       -84.832,5   -203.314,6   -201.772,8   -385.717,8
+
+
+
+Gennemsnitlig kassebeholdning
+                                                                   2027         2028         2029          2030
+i 1.000 kr. (+ = positiv) (måltal = 400.000)
+
+Måltal                                                         400.000,0    400.000,0    400.000,0     400.000,0
+
+Ultimo kassebeholdning                                         536.102,7    459.602,5    406.941,9     307.461,7
+
+Afvigelse                                                      136.102,7     59.602,5       6.941,9    -92.538,3
+
+
+
+
+Service/anlægsramme                                                2027         2028         2029          2030
+Drift
+Udmeldt Servicevækstramme                                      6.815.000    6.815.000    6.815.000     6.815.000
+Budget 2027                                                    6.815.000    6.804.280    6.682.273     6.707.108
+
+
+Rammeafvigelse +=overskud                                              0       10.720     132.727       107.892
+
+
+Anlæg
+Udmeldt anlægsramme                                              428.422      428.422      428.422       428.422
+Budget 2027                                                      428.422      495.748      431.346       423.593
+(Bruttoanlæg budget 2027) 1. behandling                          424.517      426.648      325.031       282.030
+Rammeafvigelse +=overskud                                              0      -67.326       -2.924        4.829
+
+
+
+
+                                                           1                                          14:50 - 10-09-2026
+Budget 2027-30                                                       Budgetforlig
++ = merudgift/mindreindtægt                                     V, A, C, F, Æ, I, B og D
+- = mindreudgift/merindtægt                                      10. september 2026
+
+
+
+
+Nr.         Aktivitet                                                 2027            2028            2029         2030     Total
+                                                                 1.000 kr.
+
+KATALOG MED ÆNDRINGSFORSLAG, ANLÆG                                -51.168,5        66.695,0       163.263,3    126.750,3    305.540,1
+OG FINANSIERING
+            Samlet drift                                               -155,0         -555,0        -1.341,7     -1.787,7     -3.839,4
+            Samlet anlæg/Finansiering                               -51.013,5       67.250,0       164.605,0    128.538,0    309.379,5
+
+
+
+            Generelle forslag                                     -118.491,0                0,0     50.000,0    -11.509,0    -80.000,0
+            Anlægsforslag                                         -118.491,0                0,0     50.000,0    -11.509,0    -80.000,0
+G-5         Anlægspulje 80 mio. kr. nedskrives ved                       -              -               -      -80.000,0     -80.000,0
+            valg af projekter
+
+            - Ramme Fastholdelse af kapitalapparat (10                                                          -10.000,0    -10.000,0    x
+            mio. kr.)
+            - Ramme Skole (45 mio. kr.)                                                                         -45.000,0    -45.000,0    x
+            - Ramme Dagtilbud (15 mio. kr.)                                                                     -15.000,0    -15.000,0    x
+            - Ramme Sundhed & Omsorg (10 mio. kr.)                                                              -10.000,0    -10.000,0    x
+
+
+G-6         Anlægsforskydning                                      -118.491,0                       50.000,0     68.491,0           0,0   x
+
+
+            Økonomi & Bosætningsudvalget                             1.000,0         1.000,0         6.000,0     11.000,0     19.000,0
+            Samlet drift                                                     0,0         0,0             0,0          0,0           0,0
+            Samlet anlæg/Finansiering                                 1.000,0        1.000,0         6.000,0     11.000,0     19.000,0
+
+
+
+            Finansiering                                             1.000,0         1.000,0         6.000,0     11.000,0     19.000,0
+            Anlægsforslag                                            1.000,0         1.000,0         6.000,0     11.000,0     19.000,0
+ØBU 17-50   Grundkapital til almene boliger til                      1.000,0        1.000,0         6.000,0     11.000,0     19.000,0
+            prisjustering af allerede aftalte projekter
+            og ramme til nye projekter
+            - Prisjustering af aftalte projekter                      1.000,0        1.000,0         1.000,0      1.000,0      4.000,0    x
+            - Ramme til nye projekter med fokus på                                                   5.000,0     10.000,0     15.000,0    x
+            renoveringer.
+
+
+
+            Plan By & Lokalsamfundsudvalget                         38.510,0        49.110,0        22.168,3     10.169,3    119.957,6
+            Samlet drift                                                 60,0          360,0          168,3        222,3         810,6
+            Samlet anlæg/Finansiering                               38.450,0        48.750,0        22.000,0      9.947,0    119.147,0
+
+
+
+            Veje og grønne områder                                  38.510,0        49.110,0        22.168,3     10.169,3    119.957,6
+            Anlægsforslag                                           38.510,0        49.110,0        22.168,3     10.169,3    119.957,6
+PBL 22-50   Skibbroen og Langelinie - (inkl. 38                       3.300,0       10.100,0         4.100,0                  17.500,0    x
+            anløbsbroer, hvoraf 28 er ved Langelinie, bør
+            undersøge om det skal betales af andre, evt.
+            Ribe sejlklub el. )
+            Skibbroens udbedring igangsættes 2027.
+            Langelinie budgetlægges til 2028 og 2029
+
+
+PBL 22-51   Pulje til trafiksikkerhed, signalanlæg og                7.500,0         7.500,0                                  15.000,0    x
+            krydsombygning, anlæg
+
+
+PBL 22-52   Rundkørslen i Tarp. Der afsættes ikke midler til         1.500,0                                     -6.253,0     -4.753,0    x
+            et signalanlæg i Tarp. Af allerede afsat budget i
+            2030 fremrykkes 1,5 mio. kr. til asfaltering af
+            rundkørslen i Tarp. Resten af det afsatte
+            budget nulstilles.
+
+
+PBL 22-53   Boldesager & Jerne N                                    6.500,0         3.300,0           108,0        108,0     10.016,0
+            - Anlæg, Etablering af nedsivning af vejvand i           6.500,0         3.300,0                                   9.800,0    x
+            samarbejde med Din Forsyning.
+            - Afledt drift, herunder gadelys nyt eller                                                108,0        108,0         216,0    x
+            udskiftning
+
+
+PBL 22-54   Pulje til vedligehold og udskiftning af                   3.000,0        4.000,0         5.000,0      6.000,0     18.000,0    x
+            vejafvandingsledninger
+
+
+
+PBL 22-55   Kapitalapparatet                                         10.200,0        7.200,0        10.200,0     10.200,0     37.800,0    x
+            Forøgelse af budget til Vejkapitalen.
+
+
+
+
+                                                                               2                                            10-09-202614:50
+Budget 2027-30                                                     Budgetforlig
++ = merudgift/mindreindtægt                                   V, A, C, F, Æ, I, B og D
+- = mindreudgift/merindtægt                                    10. september 2026
+
+
+
+PBL 22-56   Forbedring af skoleruter og afsætningforhold –         1.200,0         500,0                      1.700,0   x
+            Flytning af Danmarksgade Skole til VUC på
+            Stormgade
+
+
+
+PBL 22-57   Strategi og handlingsplan for Ladeinfrastruktur          500,0                                      500,0   x
+            Gældende strategi udløb i 2025 og udviklingen
+            inden for området kalder på en ny, for kunne
+            imødekomme Kommunens Klimaplan.
+
+
+
+
+PBL 22-58   Plejeplaner Marbæk og formidling af                    1.060,0         60,0      60,0    60,0     1.240,0
+            Marbækfredningen
+            - Anlæg udgift til fredningsudstilling                 2.850,0                                    2.850,0   x
+            - Anlæg fondsindtægt - fredningsudstilling            -2.850,0                                   -2.850,0   x
+            - Anlæg momsudligning fondsmoms                         500,0                                       500,0   x
+            - Anlæg plejeplaner                                     500,0                                       500,0   x
+            - Afledt Drift skilte og informationstavler              60,0          60,0      60,0    60,0       240,0   x
+
+PBL 22-60   Særtransportrute, Skads Mosevej.                       2.000,0                                    2.000,0   x
+            Projektering, anlæg
+
+
+PBL 22-61   Skolestien i Hjerting                                      0,0           0,0   2.700,0   54,0     2.754,0
+            - Anlæg, Gadestrækket anlægges med 4 meter                                     2.700,0            2.700,0   x
+            kørebane belagt med brosten, langs den ene
+            side anlægges cykelbane i asfalt på 1,5 meter
+
+            - Afledt drift, 2% af anlægssummen                                                       54,0        54,0   x
+
+PBL 22-62   Stormflodssikring af Esbjerg by - Fase 1,                           12.000,0                     12.000,0   x
+            udvidelse af anlægsramme til højvandsmur,
+            anlæg
+
+
+PBL 22-63   Trafik og parkering i Ribe                                 0,0       3.900,0       0,3    0,3     3.900,6
+            - Indkøb og installation af hæve-                                    3.600,0                      3.600,0   x
+            /sænkepullerter til brug ved events og som
+            terrorsikring, anlæg
+            - Afledt drift                                                         300,0       0,3    0,3       300,6   x
+
+PBL 22-64   Etablering af permanente "heller" som indgang                          200,0                        200,0   x
+            til bykernen i Hundegade, Dagmarsgade og
+            Sønderportsgade, anlæg
+
+
+PBL 22-65   Renovering af toiletter i Ribe. Ved Hovedengen         1.500,0                                    1.500,0   x
+            og P-Syd, anlæg
+
+
+PBL 22-66   Urban-minded anlæg ved Huset                             250,0                                      250,0   x
+
+PBL 22-67   Udvidelse af badefaciliteter Esbjerg Strand,                           350,0                        350,0   x
+            anlæg
+
+
+
+
+                                                                         3                                  10-09-202614:50
+Budget 2027-30                                               Budgetforlig
++ = merudgift/mindreindtægt                             V, A, C, F, Æ, I, B og D
+- = mindreudgift/merindtægt                              10. september 2026
+
+
+
+            Klima & Erhvervsudvalget                        21.285,0      16.585,0   13.965,0   13.465,0    65.300,0
+            Samlet drift                                      -215,0        -915,0   -1.535,0   -2.035,0    -4.700,0
+            Samlet anlæg/Finansiering                       21.500,0      17.500,0   15.500,0   15.500,0    70.000,0
+
+
+
+            Byggeri, vedligehold og energi                  15.785,0      11.585,0   10.965,0   10.465,0    48.800,0
+            Anlægsforslag                                   15.785,0      11.585,0   10.965,0   10.465,0    48.800,0
+KE 31-50    Opretning af ejendomme.                          5.500,0       9.500,0    9.500,0    9.500,0    34.000,0   x
+
+
+KE 31-51    Ribe Sundhedscenter - Renovering af              9.500,0                                         9.500,0   x
+            klimaskærm, herunder tag og facader
+
+
+KE 31-52    Solceller på kommunale tage                       785,0        2.085,0   1.465,0      965,0      5.300,0
+            - Anlæg, etablering                              1.000,0       3.000,0    3.000,0    3.000,0    10.000,0   x
+            - Driftsbesparelse                                -215,0        -915,0   -1.535,0   -2.035,0    -4.700,0   x
+
+
+            Erhvervsfremme                                     500,0       2.000,0        0,0        0,0     2.500,0
+KE 35-50    Udvikling af bymidter                              500,0       2.000,0                           2.500,0   x
+
+
+            Miljø                                                0,0       3.000,0    3.000,0    3.000,0     9.000,0
+            Anlægsforslag                                        0,0       3.000,0    3.000,0    3.000,0     9.000,0
+KE 32-50    Skovrejsning                                                   3.000,0    3.000,0    3.000,0     9.000,0   x
+
+
+            Esbjerg lufthavn                                 5.000,0           0,0        0,0        0,0     5.000,0
+            Anlægsforslag                                    5.000,0           0,0        0,0        0,0     5.000,0
+KE 34-50    Udskiftning af ILS (Instrument Landing           5.000,0                                         5.000,0   x
+            System)
+
+
+            Børn & Skoleudvalget                                 0,0           0,0   60.000,0   75.000,0   135.000,0
+            Samlet drift                                         0,0           0,0        0,0        0,0         0,0
+            Samlet anlæg/Finansiering                            0,0           0,0   60.000,0   75.000,0   135.000,0
+
+
+
+            Skole                                                0,0           0,0   60.000,0   60.000,0   120.000,0
+            Anlægsforslag                                        0,0           0,0   60.000,0   60.000,0   120.000,0
+BSU 51-50   Masterplan på skoleområdet                                               60.000,0   60.000,0   120.000,0   x
+
+
+            Børn og dagtilbud                                    0,0           0,0        0,0   15.000,0    15.000,0
+            Anlægsforslag                                        0,0           0,0        0,0   15.000,0    15.000,0
+BSU 52-50   Masterplan for Dagtilbud                                                            15.000,0    15.000,0   x
+
+
+            Kultur & Fritidsudvalget                         1.648,4           0,0    1.130,0   18.625,0    21.403,4
+            Samlet drift                                         0,0           0,0       25,0       25,0        50,0
+            Samlet anlæg/Finansiering                        1.648,4           0,0    1.105,0   18.600,0    21.353,4
+
+
+
+            Fritid                                           1.648,4           0,0    1.130,0       25,0     2.803,4
+            Anlægsforslag                                    1.648,4           0,0    1.130,0       25,0     2.803,4
+KFU 61-50   Minisektorplan boldbaner - Udskiftning af          732,0                                           732,0   x
+            kunstgræstæpper
+
+
+KFU 61-51   Ribe Svømmebad - skabe, billetsystem mv.          916,4                                            916,4   x
+
+KFU 61-52   Korskro Motorsportscenter - indretning af            0,0           0,0   1.130,0       25,0      1.155,0
+            p-plads efter udvidelsen af Rute 11
+
+            - Anlægsudgift                                                            1.105,0                1.105,0   x
+            - Afledt drift                                                              25,0       25,0         50,0   x
+
+
+            Kultur                                               0,0           0,0        0,0   18.600,0    18.600,0
+            Anlægsforslag                                        0,0           0,0        0,0   18.600,0    18.600,0
+KFU 62-50   Sædding Bibliotek                                    0,0                            18.600,0    18.600,0   x
+
+
+
+
+                                                                   4                                       10-09-202614:50
+Budget 2027-30                                        Budgetforlig
++ = merudgift/mindreindtægt                      V, A, C, F, Æ, I, B og D
+- = mindreudgift/merindtægt                       10. september 2026
+
+
+
+            Sundhed, Omsorg & Socialudvalget          4.879,1           0,0   10.000,0   10.000,0    24.879,1
+            Samlet drift                                  0,0           0,0        0,0        0,0         0,0
+            Samlet anlæg/Finansiering                 4.879,1           0,0   10.000,0   10.000,0    24.879,1
+
+
+
+
+            Kommunal boligforsyning                   4.379,1           0,0        0,0        0,0     4.379,1
+            Anlægsforslag                             4.379,1           0,0        0,0        0,0     4.379,1
+SOS 73-50   Ombygning Plejehjem Fovrfeld              4.379,1                                         4.379,1   x
+
+
+            Voksen Social                               500,0           0,0   10.000,0   10.000,0    20.500,0
+            Anlægsforslag                               500,0           0,0   10.000,0   10.000,0    20.500,0
+SOS 74-50   Sektorplan for voksensocialområdet         500,0            0,0   10.000,0   10.000,0    20.500,0
+            - Årlig anlægsramme                                               10.000,0   10.000,0    20.000,0   x
+            - Forudgående analyse, anlæg                500,0                                           500,0   x
+
+
+
+
+                                                            5                                       10-09-202614:50
+Budget 2027-30                                                     Budgetforlig
++ = merudgift/mindreindtægt                                   V, A, C, F, Æ, I, B og D
+- = mindreudgift/merindtægt                                    10. september 2026
+
+
+
+Nr.         Aktivitet                                               2027            2028         2029        2030      Total
+                                                               1.000 kr.
+
+KATALOG MED ÆNDRINGSFORSLAG, DRIFT                              -16.310,7        -19.534,5    -21.906,9    -1.202,1    -58.954,2
+            Samlet drift                                          -16.310,7       -19.534,5    -21.906,9    -1.202,1    -58.954,2
+            Samlet anlæg/Finansiering                                      0,0          0,0          0,0         0,0           0,0
+
+
+
+            Generelle forslag                                    -29.990,7        -47.894,5    -41.016,9   -20.312,1   -139.214,2
+            Samlet drift                                          -29.990,7       -47.894,5    -41.016,9   -20.312,1   -139.214,2
+            Samlet anlæg/Finansiering                                      0,0          0,0          0,0         0,0           0,0
+
+
+
+            Ændringsforslag                                      -29.990,7        -47.894,5    -41.016,9   -20.312,1   -139.214,2
+G-1         Demografi                                             -9.081,3       -14.691,1    -16.322,1    -7.644,1    -47.738,6
+            - Skole                                                -3.285,4        -7.717,7     -9.269,6    -5.350,2    -25.622,9    x
+            - Børn & Dagtilbud, herunder Sundhedsplejen            -1.880,8        -2.507,3     -1.855,8    -1.101,6     -7.345,5    x
+            - SFO og klub                                          -3.915,1        -4.466,1     -5.196,7    -1.192,3    -14.770,2    x
+            - Sundhed & Omsorg, netto                             -5.710,4        -3.603,4      4.905,2    16.932,0     12.523,4
+            - Tidligere enhedspriser, ny prognose                  4.056,5          8.538,1     18.714,6    31.795,1     63.104,3    x
+            - Nye Enhedspriser                                     -9.766,9       -12.141,5    -13.809,4   -14.863,1    -50.580,9    x
+
+G-2         Omprioriteringspuljen, anvendes til folkeskolen                       -29.600,0    -29.600,0   -29.600,0    -88.800,0    x
+
+
+G-7         Driftspulje                                           -15.199,0                                             -15.199,0    x
+
+
+            Økonomi & Bosætningsudvalget                             750,0         1.500,0        750,0       750,0       3.750,0
+            Samlet drift                                             750,0          1.500,0       750,0       750,0       3.750,0
+            Samlet anlæg/Finansiering                                      0,0          0,0          0,0         0,0           0,0
+
+
+
+            Administration                                           750,0         1.500,0        750,0       750,0       3.750,0
+            Ændringsforslag                                          750,0         1.500,0        750,0       750,0       3.750,0
+ØBU 15-30   Controllere på Familieområdet                                  0,0          0,0          0,0         0,0           0,0
+            2 controllere der skal understøtte planlægning,         1.200,0         1.200,0      1.200,0     1.200,0      4.800,0    x
+            økonomistyring og opfølgning på de enkelte
+            tilbud. Familieområdet.
+            Tilsvarende besparelse på Familieområdet.              -1.200,0        -1.200,0     -1.200,0    -1.200,0     -4.800,0    x
+
+ØBU 15-31   Øget hastighed på masterplan på                                           750,0        750,0       750,0      2.250,0    x
+            skoleområdet. 1 medarbejder i Ejendomme.
+
+
+
+ØBU 15-32   Lokalsamfundskonsulent under Økonomi &                    750,0           750,0                               1.500,0    x
+            Bosætningsudvalget til styrkelse af
+            lokalsamfundsindsatsen, herunder
+            administrativ understøttelse af "Det der binder
+            os sammen", Lokalrådene i Ribe og
+            understøttelse af indsatsen for ungemiljøer i
+            Bramming.
+
+
+            Plan By & Lokalsamfundsudvalget                          150,0           150,0           0,0         0,0       300,0
+            Samlet drift                                             150,0           150,0           0,0         0,0       300,0
+            Samlet anlæg/Finansiering                                      0,0          0,0          0,0         0,0           0,0
+
+
+
+            Veje og grønne områder                                   150,0           150,0           0,0         0,0       300,0
+            Ændringsforslag                                          150,0           150,0           0,0         0,0       300,0
+PBL 22-30   Pulje til at imødekomme mindre forslag fra                150,0           150,0          0,0         0,0        300,0    x
+            lokalrådene i forbindelse med fællesmøderne.
+
+
+
+
+                                                                             6                                         10-09-202614:50
+Budget 2027-30                                                       Budgetforlig
++ = merudgift/mindreindtægt                                     V, A, C, F, Æ, I, B og D
+- = mindreudgift/merindtægt                                      10. september 2026
+
+
+
+            Klima & Erhvervsudvalget                                 3.400,0       4.600,0    4.000,0    4.000,0    16.000,0
+            Samlet drift                                             3.400,0       4.600,0    4.000,0    4.000,0    16.000,0
+            Samlet anlæg/Finansiering                                    0,0           0,0        0,0        0,0         0,0
+
+
+
+            Byggeri, vedligehold og energi                           3.000,0       4.000,0    4.000,0    4.000,0    15.000,0
+            Ændringsforslag                                          3.000,0       4.000,0    4.000,0    4.000,0    15.000,0
+KE 31-30    Indvendig vedligeholdelse.                               3.000,0       4.000,0    4.000,0    4.000,0    15.000,0   x
+
+
+            Erhvervsfremme                                             400,0         600,0        0,0        0,0     1.000,0
+KE 31-31    Pulje til erhvervsindsatser, drift                         400,0         600,0        0,0        0,0     1.000,0   x
+
+
+            Familie & Beskæftigelsesudvalget                             0,0           0,0        0,0        0,0         0,0
+            Samlet drift                                                 0,0           0,0        0,0        0,0         0,0
+            Samlet anlæg/Finansiering                                    0,0           0,0        0,0        0,0         0,0
+
+
+
+            Familie                                                      0,0           0,0        0,0        0,0         0,0
+            Ændringsforslag                                              0,0           0,0        0,0        0,0         0,0
+FBU 44-30   Indgåelse af lejemål med deponering                          0,0           0,0        0,0        0,0         0,0
+
+            Lejemål - deponering, Finansiering                         680,0                                           680,0   x
+                                                                      -680,0                                          -680,0   x
+            Finansieret af pulje til deponering, Finansiering
+
+
+
+            Børn & Skoleudvalget                                    20.110,0      38.540,0   37.790,0   37.790,0   134.230,0
+            Samlet drift                                            20.110,0      38.540,0   37.790,0   37.790,0   134.230,0
+            Samlet anlæg/Finansiering                                    0,0           0,0        0,0        0,0         0,0
+
+
+
+            Skole                                                   12.240,0      31.840,0   31.090,0   31.090,0   106.260,0
+            Ændringsforslag                                         12.240,0      31.840,0   31.090,0   31.090,0   106.260,0
+BSU 51-30   Lærerstuderende i praktik                                1.490,0       1.490,0    1.490,0    1.490,0     5.960,0   x
+
+BSU 51-31   Skoleområdet styrkes                                    10.000,0      29.600,0   29.600,0   29.600,0    98.800,0   x
+
+BSU 51-32   Transportpulje til kulturinstitutioner.                   750,0          750,0                           1.500,0   x
+
+
+            Børn og dagtilbud                                        7.870,0       6.700,0    6.700,0    6.700,0    27.970,0
+            Ændringsforslag                                          7.870,0       6.700,0    6.700,0    6.700,0    27.970,0
+BSU 52-30   Nedsættelse af forældrebetaling og ledere ud             6.200,0       6.200,0    6.200,0    6.200,0    24.800,0   x
+            af normering
+
+
+BSU 52-31   Brandtilsyn i dagtilbud                                  1.170,0                                         1.170,0   x
+
+BSU 52-32   Drift af produktionskøkkener                               500,0         500,0      500,0      500,0     2.000,0   x
+
+
+
+
+                                                                           7                                       10-09-202614:50
+Budget 2027-30                                                         Budgetforlig
++ = merudgift/mindreindtægt                                       V, A, C, F, Æ, I, B og D
+- = mindreudgift/merindtægt                                        10. september 2026
+
+
+
+            Kultur & Fritidsudvalget                                     900,0         700,0       700,0       700,0      3.000,0
+            Samlet drift                                                 900,0         700,0       700,0       700,0      3.000,0
+            Samlet anlæg/Finansiering                                       0,0          0,0          0,0         0,0         0,0
+
+
+
+            Fritid                                                       400,0         200,0       200,0       200,0      1.000,0
+            Ændringsforslag                                              400,0         200,0       200,0       200,0      1.000,0
+KFU 61-30   Sikring af bæredygtig drift og vedligehold                   400,0         200,0       200,0       200,0      1.000,0
+            af aktivitets- og historieparken Riplay
+
+
+            - Forhøjelse af årlig lejebetaling                            50,0          50,0        50,0        50,0        200,0    x
+            - Afsættelse pulje til nødvendigt større                     350,0         150,0       150,0       150,0        800,0    x
+              vedligehold
+
+
+            Kultur                                                       500,0         500,0       500,0       500,0      2.000,0
+            Ændringsforslag                                              500,0         500,0       500,0       500,0      2.000,0
+KFU 62-30   Flere midler til Arkivudvalget til støtte af lokal-           200,0        200,0        200,0       200,0       800,0    x
+            og sognearkiverne
+
+
+KFU 62-31   Vedligehold af kunst i det offentlige rum                     300,0        300,0        300,0       300,0     1.200,0    x
+
+
+            Sundhed, Omsorg & Socialudvalget                         -11.630,0     -17.130,0    -24.130,0   -24.130,0   -77.020,0
+            Samlet drift                                              -11.630,0    -17.130,0    -24.130,0   -24.130,0   -77.020,0
+            Samlet anlæg/Finansiering                                       0,0          0,0          0,0         0,0         0,0
+
+
+
+            Kommunal boligforsyning                                      500,0           0,0          0,0         0,0       500,0
+            Ændringsforslag                                              500,0           0,0          0,0         0,0       500,0
+SOS 73-30   Analyse af udvidelse af plejehjem med flere                   500,0           0,0         0,0         0,0       500,0    x
+            boliger i tidssvarende størrelse
+
+
+            Voksen Social                                            -12.130,0     -17.130,0    -24.130,0   -24.130,0   -77.520,0
+            Ændringsforslag                                          -12.130,0     -17.130,0    -24.130,0   -24.130,0   -77.520,0
+SOS 74-31   Borgere på botilbud tilbydes helhedstilbud                 -3.750,0      -3.750,0    -3.750,0    -3.750,0    -15.000,0   x
+            efter behov.
+
+
+SOS 74-33   Borgere i botilbud tilbydes aktivitetstilbud                 -380,0       -380,0       -380,0      -380,0     -1.520,0   x
+            tættere på bopælen
+
+
+SOS 74-35   Styrket styring og sammenhæng på                          -10.000,0     -15.000,0   -20.000,0   -20.000,0    -65.000,0   x
+            voksensocialområdet
+
+
+SOS 74-36   Pulje til forebyggelse på voksensocialområdet i             2.000,0      2.000,0                              4.000,0    x
+            to år
+
+
+
+
+                                                                              8                                         10-09-202614:50
+Budget 2027-30                                               Budgetforlig
++ = merudgift/mindreindtægt                             V, A, C, F, Æ, I, B og D
+- = mindreudgift/merindtægt                              10. september 2026
+
+
+
+Nr.         Aktivitet                                         2027             2028      2029          2030         Total
+                                                         1.000 kr.
+
+KATALOG MED FASTHOLDELSESFORSLAG,                         137.453,5        139.209,1    5.170,0       5.170,0       287.002,6
+DRIFT
+            Samlet drift                                   137.453,5        139.209,1    5.170,0       5.170,0       287.002,6
+            Samlet anlæg/Finansiering                                0,0          0,0        0,0           0,0              0,0
+
+
+
+            Klima & Erhvervsudvalget                        -4.756,5           -340,9     570,0         570,0         -3.957,4
+            Samlet drift                                     -4.756,5          -340,9     570,0         570,0         -3.957,4
+            Samlet anlæg/Finansiering                                0,0          0,0        0,0           0,0              0,0
+
+
+
+            Miljø                                           -4.756,5           -340,9     570,0         570,0         -3.957,4
+            Fastholdelsesforslag                            -4.756,5           -340,9     570,0         570,0         -3.957,4
+KE 32-80    Regulativ revision vandløb.                      -4.756,5          -340,9      570,0         570,0        -3.957,4    x
+            Permanentliggørelse af midlertidig
+            budgetbevilling
+
+
+            Familie & Beskæftigelsesudvalget                35.000,0         35.000,0        0,0           0,0        70.000,0
+            Samlet drift                                    35.000,0         35.000,0        0,0           0,0        70.000,0
+            Samlet anlæg/Finansiering                                0,0          0,0        0,0           0,0              0,0
+
+
+
+            Familie                                         35.000,0         35.000,0        0,0           0,0        70.000,0
+            Fastholdelsesforslag                            35.000,0         35.000,0        0,0           0,0        70.000,0
+FBU 44-80   Fastholdelse af budgetniveau                    35.000,0        35.000,0         0,0           0,0       70.000,0
+            Økonomisk balance Familie - rammebelagt         50.000,0         50.000,0        0,0           0,0       100.000,0    x
+            Økonomisk balance Familie (Særligt Dyre        -15.000,0        -15.000,0       -             -          -30.000,0    x
+            Enkeltsager, refusion) - ikke-rammebelagt
+
+
+
+            Børn & Skoleudvalget                             4.500,0          4.500,0   1.500,0       1.500,0         12.000,0
+            Samlet drift                                     4.500,0          4.500,0    1.500,0       1.500,0        12.000,0
+            Samlet anlæg/Finansiering                                0,0          0,0        0,0           0,0              0,0
+
+
+
+            Skole                                            1.500,0          1.500,0   1.500,0       1.500,0          6.000,0
+            Fastholdelsesforslag                             1.500,0          1.500,0   1.500,0       1.500,0          6.000,0
+BSU 51-80   Fastholdelse af 2 erhversplaymakere               1.500,0         1.500,0    1.500,0       1.500,0         6.000,0    x
+
+
+            Børn og dagtilbud                                3.000,0          3.000,0        0,0           0,0         6.000,0
+            Fastholdelsesforslag                             3.000,0          3.000,0        0,0           0,0         6.000,0
+BSU 52-80   Småjobbere i daginstitutioner                     3.000,0         3.000,0           0,0           0,0      6.000,0    x
+
+
+            Sundhed, Omsorg & Socialudvalget               102.710,0        100.050,0   3.100,0       3.100,0        208.960,0
+            Samlet drift                                   102.710,0        100.050,0    3.100,0       3.100,0       208.960,0
+            Samlet anlæg/Finansiering                                0,0          0,0        0,0           0,0              0,0
+
+
+            Sundhed og kommunal medfinansiering                550,0           550,0         0,0           0,0         1.100,0
+
+            Fastholdelsesforslag                               550,0           550,0         0,0           0,0         1.100,0
+SOS 72-80   Videreførelse af UngeLiv                            550,0           550,0        0,0           0,0         1.100,0    x
+
+
+
+
+                                                                       9                                            10-09-202614:50
+Budget 2027-30                                                          Budgetforlig
++ = merudgift/mindreindtægt                                        V, A, C, F, Æ, I, B og D
+- = mindreudgift/merindtægt                                         10. september 2026
+
+
+
+            Voksen Social                                             102.160,0      99.500,0   3.100,0   3.100,0   207.860,0
+            Fastholdelsesforslag                                      102.160,0      99.500,0   3.100,0   3.100,0   207.860,0
+SOS 74-80   Effektiv drift af et voksensocialområde i                  98.200,0      96.400,0                       194.600,0   x
+            balance
+
+
+SOS 74-81   Reden Esbjerg - Ansøgt om 1 mio. kr. årligt                 1.000,0                                       1.000,0   x
+
+
+SOS 74-82   Kirkens Korshær - Ansøgt om 1,075 mio. kr.                    750,0                                         750,0   x
+            årligt
+
+
+SOS 74-83   Ballast - Ansøgt om 0,7 mio. kr. årligt                       700,0                                         700,0   x
+
+SOS 74-84   Bindeleddet - Ansøgt om 1,295 mio. kr. årligt                 750,0                                         750,0   x
+
+
+SOS 74-85   Headspace - Ansøgt om 0,95 mio. kr. årligt                    760,0                                         760,0   x
+            (0,7 mio. kr. til driftstilskud + 0,25 mio. kr. til
+            fremskudt kommunal medarbejder)
+
+
+
+SOS 74-86   Pulje til Frivilligt socialt arbejde. Prioriteres af                      3.100,0   3.100,0   3.100,0     9.300,0   x
+            Sundhed, Omsorg & Socialudvalget.
+
+
+
+
+                                                                              10                                    10-09-202614:50
+Budget 2027-30                                                     Budgetforlig
++ = merudgift/mindreindtægt                                   V, A, C, F, Æ, I, B og D
+- = mindreudgift/merindtægt                                    10. september 2026
+
+
+
+Nr.        Aktivitet                                                2027          2028      2029         2030     Total
+                                                               1.000 kr.
+
+EKSTERNE FORSLAG, DRIFT, ANLÆG OG                                12.113,3       6.254,3    4.235,0    28.240,0    50.842,6
+FINANSIERING
+           Samlet drift                                            6.694,7       5.653,6    1.775,0     1.327,0    15.450,3
+           Samlet anlæg/Finansiering                               5.418,6         600,7    2.460,0    26.913,0    35.392,3
+
+
+
+           Ændringsforslag                                        12.113,3       6.254,3   4.235,0     28.240,0    50.842,6
+           Samlet drift                                            6.694,7       5.653,6    1.775,0     1.327,0    15.450,3
+           Samlet anlæg/Finansiering                               5.418,6         600,7    2.460,0    26.913,0    35.392,3
+
+
+
+           Ændringsforslag                                        12.113,3       6.254,3   4.235,0     28.240,0    50.842,6
+EKS 01     Ansøgning om permanent vederlag på 1 mio.                  800,0        800,0                            1.600,0      x
+           kroner til Destination Vadehavskysten, drift
+
+
+
+EKS 02     Ribe Østersfestival (Destination                           250,0        250,0                              500,0      x
+           Vadehavskysten), drift
+
+
+EKS 03     Esbjerg City, minimum, drift                               800,0        800,0                            1.600,0      x
+
+EKS 04     Bramming Handelsstandsforening, drift                      250,0        250,0                              500,0      x
+
+EKS 05     Ribe Handelsstandsforening, drift                          800,0        800,0                            1.600,0      x
+
+EKS 06     Energiens Folkemøde, driftstilskud                         500,0                                           500,0      x
+
+EKS 07     Jon & Dittes Hus, anlæg                                    400,0                                           400,0      x
+
+EKS 08     Bypyloner, Bramming, anlæg                                                         460,0                   460,0      x
+
+EKS 10     Udvidelse af Esbjerg Strand Lystbådehavn,                                        2.000,0                 2.000,0      x
+           anlæg
+
+
+EKS 17     Forlængelse af fortovet på Vejrup                       1.000,0           0,0        0,0         0,0     1.000,0
+           Storegade, anlæg
+           - Anlæg                                                 1.000,0                                          1.000,0      x
+
+EKS 20     Sportslig og kulturel udvikling af området ved              65,0                                               65,0   x
+           Idræts Allé, anlæg
+
+
+EKS 23     Museum Fyrskib, anlægstilskud på 2.000.000                                                   1.575,0     1.575,0      x
+           kr. når fonden har samlet resterende
+           fondsmidler/egenfiansiering.
+
+
+EKS 24     Ribe Kunstmuseum, anlægstilskud på 150.000                 118,1                                           118,1      x
+           kr. til skiltning
+
+
+EKS 25     Vadehavscentret, anlægstilskud på 139.300 til              110,3                                           110,3      x
+           p-pladser
+
+
+EKS 26     Esbjerg Kammermusik Festival, driftstilskud på              78,0         78,0                              156,0      x
+           80.000 kr.
+
+
+EKS 27     Museum Vest - Kommunegaranti til en                                                                                   x
+           kassekredit til det forventede driftstab i
+           forbindelse med ombygningen
+
+
+EKS 28     Esbjerg Kunstmuseum, ekstra driftstilskud på               562,5        562,5                            1.125,0      x
+           600.000 kr. i to år, til øget personale
+
+
+EKS 29     Ribe Kulturnat, øget driftstilskud på 32.000 kr.            28,8         28,8                                  57,6   x
+
+
+EKS 30     Esbjerg Sangakademi, øget driftstilskud på                 269,5        269,5                              539,0      x
+           276.400 kr.
+
+
+EKS 31     Fuzzfestival, driftstilskud på 75.000 kr.                   73,1         73,1                              146,2      x
+
+
+
+
+                                                                           11                                     10-09-202614:50
+Budget 2027-30                                                      Budgetforlig
++ = merudgift/mindreindtægt                                    V, A, C, F, Æ, I, B og D
+- = mindreudgift/merindtægt                                     10. september 2026
+
+
+
+
+EKS 32     Udvidelse af skoleteaterordning, Den Ny                                  275,0   275,0       275,0             825,0    x
+           Opera, drift
+
+
+EKS 33     Ribe Børnefestival,kr. driftstilskud på 125.000               112,5      112,5                                 225,0    x
+           kr., drift
+
+
+EKS 35     Folk & Fæstival, driftstilskud 250.000 kr., drift             243,8      243,8                                 487,6    x
+
+
+EKS 36     SKUMKLANG                                                      91,0      91,9     0,0          0,0            182,9
+           - Anlægsudgift til lydanlæg og videoudstyr                     27,6       23,6                                  51,2    x
+           - Driftstilskud                                                63,4       68,3                                131,7     x
+
+EKS 37     Udvidelse af publikumskapaciteten på                          539,5                                            539,5    x
+           Spillestedet Tobakken, anlæg
+
+
+EKS 39     FRESH Education – fra deltager til medskaber                  250,0                                            250,0    x
+           på tre Esbjerg-skoler, drift
+
+
+EKS 40     Reetablering af området omkring 1911-                        500,0                         1.700,0          2.200,0     x
+           bygningen i Gørding, anlæg
+
+
+EKS 42     Ribe Fritidscenter - tilskud til renovering af                172,3                                            172,3    x
+           halgulv i Hal 2, anlæg
+
+
+EKS 43     Ribe Fritidscenter - tilskud til daginstitutioner              26,0                                             26,0    x
+           og dagplejeres motoriktræning i hallen, drift
+
+
+
+EKS 44     Kongeåhallen - tilskud til nyt tag, anlæg, og                 2.849,4                                         2.849,4   x
+           kommunegaranti til de resterende 50% med
+           deponeringsfritagelse
+
+
+EKS 47     Korskro Motorsportscenter - Færdiggørelse af                  771,9                                            771,9    x
+           strøm og lys i pit-området ved EMS Auto,
+           anlægstilskud på 930.000 kr.
+
+
+EKS 48     Gørding Idræts- og Kulturcenter - tilskud til                 215,4                                            215,4    x
+           renovering af halgulv, anlæg
+
+
+EKS 49     Bramming Boldklub - forbedring af                             243,0                                            243,0    x
+           parkeringsforhold, anlæg
+
+
+EKS 50     Ribe Fritidscenter - Riplay, anlægstilskud til                 83,0                                             83,0    x
+           indhegning og flyt af indgangen på 100.000 kr.
+
+
+
+EKS 51     Tennis Center Vest Danmark – etablering                         0,0        0,0    0,0    23.190,0         23.190,0
+           af indendørs tennishal med 3 baner som
+           kommunalt anlægsprojekt og kommunal
+           overtagelse af eksisterende faciliteter,
+           anlæg og drift. Reserveres i 2030. Kan
+           fremrykkes, når ekstern finansiering er
+           på plads.
+
+           Køb gl. tennishal inkl. adk, anlæg                                                        7.250,0           7.250,0     x
+           Etablering af ny indensdørs tennishal, anlæg                                             36.000,0          36.000,0     x
+           Kontant indskud fra Esbjerg Tennisklub, anlæg                                             -6.000,0         -6.000,0     x
+           Ekstern medfinansiering fonde, anlæg                                                     -16.500,0        -16.500,0     x
+           Fondsmoms 17,5%, anlæg                                                                    2.888,0           2.888,0     x
+           Sum - anlæg netto                                                                        23.639,0          23.639,0
+           -
+           Afledt drift - tilskud til SEPE                                                             539,0             539,0     x
+           Afledt drift - lokaletilskud og gebyr Fritid                                               -987,0            -987,0     x
+           Sum - drift netto                                                                          -448,0            -448,0
+
+
+EKS 54     Skjoldbo: De Sociale Flyttemænd, drift                        600,0      600,0                              1.200,0     x
+
+EKS 56     Fortsat tværkommunalt samarbejde om grøn                      345,0                                            345,0    x
+           energi (GESEK), drift
+
+
+EKS 57     Opstilling af skulptur "ESEPIGER", anlæg                                 577,1                                 577,1    x
+
+
+
+
+                                                                              12                                   10-09-202614:50
+Budget 2027-30                                                    Budgetforlig
++ = merudgift/mindreindtægt                                  V, A, C, F, Æ, I, B og D
+- = mindreudgift/merindtægt                                   10. september 2026
+
+
+
+EKS 58     Bramming Kosmorama, driftstilskud til                    270,0         270,0                           540,0   x
+           baggårdsfestival på 300.000 kr.
+
+
+EKS 59     Bramming Kosmorama, øget driftstilskud på                172,1         172,1                           344,2   x
+           187.100 kr.
+
+
+EKS 60     Dieselstander Esbjerg Søsport, anlæg                     550,0                                        550,0    x
+
+EKS 61     Bramming Byfest, driftstilskud til 60-års               200,0                                          200,0   x
+           jubilæum på 200.000
+
+
+EKS 62     SEPE - Etablering af aktivitetsområde med                622,5                                         622,5   x
+           fodbold-minigolf og fodboldskills ved Veldtofte
+           Idrætspark, anlægstilskud på 750.000 kr.
+
+
+
+EKS 63     Kulturpulje, ny pulje til Kultur &                                             1.500,0   1.500,0     3.000,0   x
+           Fritidsudvalgets prioritering
+
+
+
+
+                                                                        13                                    10-09-202614:50
+

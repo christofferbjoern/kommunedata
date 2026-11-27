@@ -1,0 +1,180 @@
+# kilde: filer/_ukendt_kommune/upload_ukendt_3_bilag_budgetaftale_2027_2030.pdf | metode: pdftotext
+
+Budgetaftale 2027-2030
+Mio. kr.
+Negative beløb = indtægter/overskud
+Positive beløb = udgifter/underskud                    Budget      Budget      Budget      Budget
+(Drift i 2026-priser - øvrige poster i årets priser)    2027        2028        2029        2030
+Finansiering
+Skatter                                                 -1.534,4    -1.566,5    -1.607,3    -1.650,2
+Skatter, tilskud og udligning - selvbudgettering            -1,6         0,0         0,0         0,0
+Tilskud og udligning                                      -329,4      -335,3      -344,3      -346,9
+Finansiering i alt                                      -1.865,5    -1.901,8    -1.951,6    -1.997,2
+Drift
+Basisbudget juni 2026 i 2026 p/l-niveau                  1.850,1     1.855,4     1.862,5     1.861,5
+Ændringer til basisbudgettet
+Indarbejdede ændringer                                     -97,2       -89,8       -85,6       -78,2
+Lov- og cirkulæreændringer                                  12,6        12,4        12,0        12,0
+Serviceudgifter ud over vedtaget service                     3,4         3,3         2,1         2,1
+Prioriteringsforslag                                        -6,9       -27,9       -47,9       -67,9
+Drift i alt i 2026 p/l-niveau                            1.762,0     1.753,3     1.743,1     1.729,6
+Pris- og lønstigninger vedrørende drift                     52,8        94,3       145,3       198,8
+Drift i alt i årets p/l-niveau                           1.814,7     1.847,6     1.888,5     1.928,3
+Renter                                                      -0,5        -0,5        -0,5        -0,5
+Resultat af ordinær drift                                  -51,2       -54,6       -63,6       -69,3
+Afdrag på lån                                               23,7        23,6        24,1        22,9
+Resultat strukturel balance                                -27,5       -31,1       -39,5       -46,4
+Anlæg
+Anlægsudgifter                                              47,1        63,7        53,0        60,6
+Anlægsindtægter                                             -3,7       -22,5        -2,5        -2,5
+Anlæg i alt                                                 43,5        41,2        50,5        58,1
+Finansforskydninger
+Låneoptagelse                                               -5,0        -5,0        -5,0        -5,0
+Balanceforskydninger
+Finansforskydninger i alt                                   -5,0        -5,0        -5,0        -5,0
+Resultat skattefinansieret område                           11,0         5,1         6,0         6,6
+Brugerfinansieret område
+Basisbudget                                                 -5,7        -5,7        -5,7        -5,7
+Drift                                                        0,0         0,0         0,0         0,0
+Pris- og lønfremskrivning                                    1,1         0,6         0,1        -0,5
+Anlæg                                                        0,0         0,0         0,0         0,0
+Resultat brugerfinansieret område                           -4,6        -5,0        -5,6        -6,2
+Samlet kassetræk                                             6,4         0,1         0,4         0,4
+                                                                       Ændringer - Valgte forslag
+Ud over vedtaget service - Budget 2027-2030                    Budget    Budget       Budget      Budget
+I 1000 kr.                                                      2027      2028         2029        2030
+                                                                  3.410      3.250       2.050       2.050
+
+Nr.      Økonomiudvalget (ØU)                                       700        700         700        700
+   1.460 Beredskabskoordinator                                      700        700         700        700
+
+Nr.      Udvalget for Social, Sundhed og Kultur                   1.310        960         960        960
+   2.415 AI sensorer og dørlåse på plejecentrene                    795        495         495        495
+   2.416 Opnormering - hjemmetræning                                465        465         465        465
+   2.420 Forundersøgelse af kulturhus ved Ellehallen model 1         50          0           0          0
+         Forebyggelse af ensomhed                                     0          0           0          0
+
+Nr.      Udvalget for Familier, Børn og Læring                        0          0           0          0
+         Forebyggelse af ufrivillig skolefravær                     500        500         500        500
+         Modsvarende beløb - ufrivillig skolefravær                -500       -500        -500       -500
+
+Nr.      Udvalget for Erhverv, Unge og Fritid                     1.400      1.590         390        390
+   4.460 Beskæftigelsereform (sygedagpenge)                         600        600           0          0
+   4.462 Midlertidig boligplacering                                 600        600           0          0
+   4.463 Erhvervsrygsæk                                             200        200         200        200
+   4.464 Afledt drift kunstgræsbane Store Heddinge                    0        190         190        190
+                                                                                     Ændringer - Valgte forslag
+Lov- og cirkulæreændringer - Budget 2027-2030                                Budget    Budget       Budget      Budget
+I 1000 kr.                                                                    2027      2028         2029        2030
+                                                                               12.553     12.384      12.000      12.000
+
+Nr.      Økonomiudvalget (ØU)                                                       0          0           0          0
+
+Nr.      Udvalget for Social, Sundhed og Kultur                                 1.055      1.030       1.030      1.030
+   2.300 Loft over egenbetaling for Madservice                                    800        800         800        800
+   2.301 Skærmtræning i trænings-enheden                                          175        150         150        150
+   2.302 Kræftplan V - palliation                                                  80         80          80         80
+
+Nr.     Udvalget for Familier, Børn og Læring                                  11.354     11.354      10.970     10.970
+        Dagtilbud - Ændring i opgørelse af minimumsnormeringer,
+        nedsættelse af forældrebetaling og ændringer i tilskud til private
+  3.310 pasningsordninger                                                       8.307      8.307       8.307      8.307
+
+  3.330 SFO - Forlængelse af minimumsnormeringer frem til skolestart            2.600      2.600       2.600      2.600
+  3.350 Sundhedsplejen - Bedre hjælp til børn med svær overvægt                    63         63          63         63
+        Lettilgængeligt behandlingstilbud - Akutplan for børne og unge
+  3.351 psykiatrien                                                               384        384           0          0
+
+Nr.      Udvalget for Plan, Miljø og Teknik                                       144          0           0          0
+   5.340 Vandområdeplaner 2021 -2027                                              144          0           0          0
+                                                                                 Ændringer - Valgte forslag
+Prioriteringsforslag budget 2027-2030                                    Budget    Budget       Budget      Budget
+I 1000 kr.                                                                2027      2028         2029        2030
+                                                                           -6.850    -27.850     -47.850     -67.850
+
+Nr.     Økonomiudvalget (ØU)                                                 -350    -20.350     -40.350    -60.350
+        Reduktion i udgiftsprespulje                                         -600       -600        -600       -600
+
+        Rammebesparelse på systemer og administration, kontorhold m.m.       -500       -500        -500       -500
+        Ansætte endnu en kontraktforhandler                                   750        750         750        750
+        Ikke defineret rammebesparelse                                          0    -20.000     -40.000    -60.000
+
+Nr.     Udvalget for Social, Sundhed og Kultur                             -3.750      -3.750     -3.750     -3.750
+        Reduktion i forventning til Botilbud                               -2.500      -2.500     -2.500     -2.500
+        Reduktion i forventning til kontrakter og udbud                    -1.250      -1.250     -1.250     -1.250
+
+Nr.     Udvalget for Familier, Børn og Læring                              -1.250      -1.250     -1.250     -1.250
+        Reduktion i forventning til kontrakter og udbud                    -1.250      -1.250     -1.250     -1.250
+
+Nr.     Udvalget for Erhverv, Unge og Fritid                               -1.500      -2.500     -2.500     -2.500
+        Reduktion i forventning til overførsesudgifter                     -1.500      -1.500     -1.500     -1.500
+        Erhvervsservice (kontrakt med Stevns E. udløber ultimo 2027)            0      -1.000     -1.000     -1.000
+                                                                                                    Ændringer - Valgte forslag
+Anlæg - Budget 2027-2030                                                                    Budget    Budget       Budget      Budget
+I 1000 kr.                                                                         Udvalg    2027      2028         2029        2030
+Total valgte forslag                                                                          43.473     41.181      50.521      58.050
+Anlægsudgifter i alt                                                                          47.135     63.681      53.021      60.550
+Anlægsindtægter i alt                                                                         -3.662    -22.500      -2.500      -2.500
+
+Tilbagevendende anlægspuljer
+  30.000 Faglige indsatsmiljøer                                                     FBL            0      1.000       1.000      1.000
+  30.001 Folkeskoler - IT                                                           FBL            0        500         500        500
+  30.002 Kommunale legepladser                                                      FBL        1.250      1.500       1.500      1.500
+  44.001 Pulje til bymidteudvikling                                                 EUF          100        400         500        500
+  50.001 Kommunale bygninger, større vedligehold (PP)                               PMT        5.000      7.000       7.000      7.000
+  50.002 Brorenovering (PP)                                                         PMT        1.500      1.500       1.500      1.500
+  50.003 Energiforbedringer (PP)                                                    PMT        5.000      5.000       5.000      5.000
+  50.004 Naturpulje                                                                 PMT          750        750         750        750
+  50.005 Landsby- og udviklingspulje                                                PMT        1.350      1.350       1.350      1.350
+  50.006 Private dræn under offentlig vej og oversvømmelser                         PMT          800        800         800        800
+  50.007 Stevns som helårsdestination                                               PMT          500        500         500        500
+  50.008 Trafiksikkerhedsplan samt tiltag                                           PMT        1.500      1.500       1.500      1.500
+  50.009 DK2020 - klimahandleplan Step 2                                            PMT          250        250         250        250
+  50.010 Kystsikring                                                                PMT        1.000      1.000       1.000      1.000
+  50.011 Klimasikring                                                               PMT        2.000      2.000       2.000      2.000
+
+Igangsatte anlæg
+  50.013 Indsatsplan og BNBO                                                        PMT          750        750         250          0
+  50.017 Vandområdeplan - projekter - indtægt                                       PMT         -662          0           0          0
+  50.015 Rødvigvej/Overdrevsvej - Trafikananlyse                                    PMT        1.500          0           0          0
+         Kommunalt fællesprojekt kystbeskyttelse
+  50.014 Strøby Egede/Strøby Ladeplads                                              PMT        1.500          0           0          0
+  10.002 Fælleskommunal drift af basis IT                                            ØU          200        200         200          0
+  20.001 Tiltag langs Stevns Klint                                                  SSK        1.000      1.600           0          0
+  10.001 Investeringscase, udvikling af velfærd                                      ØU            0      1.000       1.025          0
+
+Ikke igangsatte anlæg
+  44.003 Borgerønske: Udbygning af Strøby Idrætscenter                              EUF            0      6.500       5.000          0
+  44.004 Borgerønske: Springgrav                                                    EUF            0          0           0      1.200
+  44.005 Kunstgræsbane Hårlev                                                       EUF            0      4.000           0          0
+         Borgerønske: Rødvig fodboldbaner, boldbanerenovering og
+  44.006 klubfaciliteter                                                            EUF        3.000          0           0          0
+  44.007 Pulje til turismetiltag                                                    EUF          300          0           0          0
+  50.033 Undersøgelser/udbedring af skader på rørlagte vandløb                      PMT          300        300         300        300
+  50.023 Indsats - "Levende Bymidter"                                               PMT            0      2.000       2.000          0
+  10.006 Pulje til beredskab                                                         ØU        1.500          0           0          0
+  50.018 Signalanlæg, Valnøddevej/Stevnsvej                                         PMT          385          0           0          0
+  50.019 Forhøjelse af Tingvej v. Tryggevælde Å                                     PMT          500          0       4.000      5.500
+  50.021 Bjælkerupvej, diverse tiltag                                               PMT          815      4.638        -314          0
+  50.022 Fællesstier, færdiggørelse langs Stevnsvej                                 PMT          555      3.160        -215          0
+  50.024 Dobbeltrettet cykelsti langs Hårlevvej                                     PMT            0      1.000       3.325          0
+  50.025 Fællesstier gennem Hellested                                               PMT            0          0           0      6.600
+  50.026 Fællesstier gennem Store Tårnby                                            PMT            0          0           0      7.500
+  44.002 Klintebussen                                                               EUF          300          0           0          0
+         Folkeskolereform - Kvalitet i folkeskolen - Investering i bedre lokaler
+  30.003 (Finansieres via bloktilskuddet)                                           FBL        2.000      1.500           0          0
+  30.005 Skoler - Udmøntning af helhedsplan og skolepolitisk vision                 FBL        2.800          0           0          0
+  30.006 Kapacitet på dagtilbudsområdet 2025-2028                                   FBL        6.000     10.000      11.000     14.000
+  20.004 Ønske om tilbygning af personalerum på Hotherhaven                         SSK            0        683           0          0
+  10.007 Etablering forsikringskrav Stevns Fyr m.fl.                                PMT        1.130          0           0          0
+         §17, stk. 4-udvalg - kickstart af anbefalinger                                          300          0           0          0
+
+Køb og salg af jord og ejendomme - Igangsat
+ 10.003 Projekt nye boliger                                                         ØU             0    -20.000           0          0
+ 10.004 Diverse grundsalg - salgsindtægt                                            ØU        -2.500     -2.500      -2.500     -2.500
+ 10.004 Diverse grundsalg - salgsomkostninger                                       ØU           300        300         300        300
+
+Køb og salg af jord og ejendomme - Ikke igangsat
+ 10.005 Strategisk jordopkøb                                                        ØU         1.000      1.000       1.000          0
+         Sælge spejderhytte i Hellested                                             ØU          -500          0           0          0
+

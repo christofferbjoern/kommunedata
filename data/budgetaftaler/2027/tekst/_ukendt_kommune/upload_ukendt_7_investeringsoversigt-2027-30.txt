@@ -1,0 +1,299 @@
+# kilde: filer/_ukendt_kommune/upload_ukendt_7_investeringsoversigt-2027-30.pdf | metode: pdftotext
+
+Opsummering (i 1.000 kr.)
+                                                                                     Oprindeligt     NYT Oprindeligt     NYT Oprindeligt     NYT
+        Kategori         Oprindeligt 2027                                 NYT 2027
+                                                                                          2028      2028      2029      2029      2030      2030
+Anlægsdrift                        48.757                                   48.057       48.557    47.857     48.307   47.607     48.707   48.307
+Budgetgrundlag                     46.450                                   21.950       37.950    31.839     18.350   25.850     19.350   15.750
+Nye projekter                               0                               46.072             0   15.661          0   25.530          0   28.700
+I alt                              95.207                                  116.079       86.507    95.357     66.657   98.987     68.057   92.757
+
+
+
+
+Anlægsdrift (i 1.000 kr.)
+                                                                                     Oprindeligt     NYT Oprindeligt     NYT Oprindeligt     NYT    Oprindeligt
+        Kategori          Udvalg                             Projekt                                                                                            NYT 2030
+                                                                                          2027      2027      2028      2028      2029      2029         2030
+
+                   Udvalget for Børn og         Ventilationsanlæg skoler og
+Anlægsdrift                                                                                 750      750         750     750        750      750          750       750
+                   Familie                      dagtilbud
+                   Udvalget for Børn og
+Anlægsdrift                                                                                 750      750         750     750        750      750          750       750
+                   Familie Total
+                   Udvalget for Klima og        Anlægsopsp.
+Anlægsdrift                                                                               2.000     2.000      2.000    2.000      2.000    2.000        2.000     2.000
+                   Landdistrikter               Klimasikringsformål
+                   Udvalget for Klima og        Pulje -
+Anlægsdrift                                                                               1.500     1.500      1.500    1.500      1.500    1.500        1.500     1.500
+                   Landdistrikter               Landdistriktsudviklingsplaner
+                   Udvalget for Klima og
+Anlægsdrift                               Udvikling af landsbyerne                          300      300         300     300        300      300          300       300
+                   Landdistrikter
+Anlægsdrift        Udvalget for Klima og Landdistrikter Total                             3.800     3.800      3.800    3.800      3.800    3.800        3.800     3.800
+                   Udvalget for Kultur og
+Anlægsdrift                               Haller m.m.                                     1.500     1.500      1.500    1.500      1.500    1.500        1.500     1.500
+                   Fritid
+                   Udvalget for Kultur og Jernbaneskinner,
+Anlægsdrift                                                                                 250      250         250     250        250      250          250       250
+                   Fritid                 Veteranjernbanen
+                   Udvalget for Kultur og
+Anlægsdrift                               Kulturinstitutioner                               700      700         700     700        700      700          700       700
+                   Fritid
+                   Udvalget for Kultur og Separatkloakering klubhuse,
+Anlægsdrift                                                                                 200      200         200     200        200      200          200       200
+                   Fritid                 haller m.v.
+                   Udvalget for Kultur og Vedligeholdelsespulje
+Anlægsdrift                                                                                 250      250         250     250           0       0             0         0
+                   Fritid                 svømmehaller
+                   Udvalget for Kultur og
+Anlægsdrift                                                                               2.900     2.900      2.900    2.900      2.650    2.650        2.650     2.650
+                   Fritid Total
+                   Udvalget for Sundhed
+Anlægsdrift                               It-udstyr til handicapområdet                        0       0         400     400           0       0          400       400
+                   og Omsorg
+Anlægsdrift        Udvalget for Sundhed og Omsorg Total                                        0       0         400     400           0       0          400       400
+                   Udvalget for Teknik og
+Anlægsdrift                                     Asfalt By - rammeaftale                   4.000     4.000      4.000    4.000      4.000    4.000        4.000     4.000
+                   Miljø
+                   Udvalget for Teknik og
+Anlægsdrift                                     Asfalt Landet - rammeaftale               7.450     7.450      7.450    7.450      7.450    7.450        7.450     7.450
+                   Miljø
+                   Udvalget for Teknik og
+Anlægsdrift                                     Byinventar                                  200      200         200     200        200      200          200       200
+                   Miljø
+                   Udvalget for Teknik og
+Anlægsdrift                                     Cykelstier (Trafikplan)                   1.000     1.000      1.000    1.000      1.000    1.000        1.000     1.000
+                   Miljø
+                   Udvalget for Teknik og       Drift og vedligehold af
+Anlægsdrift                                                                                 750      750         750     750        750      750          750       750
+                   Miljø                        underføringer
+                   Udvalget for Teknik og Gadelys
+Anlægsdrift                                                                                 200      200         200     200        200      200          200       200
+                   Miljø                  (udskiftning/kabellægning)
+                   Udvalget for Teknik og
+Anlægsdrift                                     Gadelyskontrakt                             500      500         500     500        500      500          500       500
+                   Miljø
+                   Udvalget for Teknik og
+Anlægsdrift                                     Havnerenoveringer, løbende                1.200     1.200      1.200    1.200      1.200    1.200        1.200     1.200
+                   Miljø
+                   Udvalget for Teknik og       Landsbypuljer / Byfornyelse -
+Anlægsdrift                                                                                 125      125         125     125        125      125          125       125
+                   Miljø                        Nedriv.
+                   Udvalget for Teknik og
+Anlægsdrift                                     Omlægning af fortove                      3.500     3.500      3.500    3.500      3.500    3.500        3.500     3.500
+                   Miljø
+                   Udvalget for Teknik og
+Anlægsdrift                                     Parkeringshandleplan                        500      500         300     300        500      500          500       500
+                   Miljø
+                   Udvalget for Teknik og
+Anlægsdrift                                     Rabatudvidelse                                 0       0           0       0        500      500          500       500
+                   Miljø
+                   Udvalget for Teknik og       Rekreative stier i
+Anlægsdrift                                                                                 200      200         200     200        200      200          200       500
+                   Miljø                        landdistrikterne
+                   Udvalget for Teknik og
+Anlægsdrift                                     Renovering af legepladser                   200      200           0       0        200      200          200       200
+                   Miljø
+                   Udvalget for Teknik og
+Anlægsdrift                                     Renovering af offentlige toiletter          200      200         200     200        200      200          200       200
+                   Miljø
+                    Udvalget for Teknik og
+Anlægsdrift                                Signalanlæg - renovering                      800      800         800     800        300      300          300       300
+                    Miljø
+                    Udvalget for Teknik og
+Anlægsdrift                                Tilgængelighedsprojekter                      200      200         200     200        200      200          200       200
+                    Miljø
+                    Udvalget for Teknik og
+Anlægsdrift                                Trafikplan - projekter                        800      800         800     800        800      800          800       800
+                    Miljø
+                    Udvalget for Teknik og
+Anlægsdrift                                Trafiksikkerhed - planlægning                 500      500         500     500        500      500          500       500
+                    Miljø
+                    Udvalget for Teknik og Udskiftning/renovering af
+Anlægsdrift                                                                            1.600     1.600      1.600    1.600      1.600    1.600        1.600     1.600
+                    Miljø                  mindre broer
+                    Udvalget for Teknik og
+Anlægsdrift                                Vejanlæg - vejudskillelse                     200      200         200     200        200      200          200       200
+                    Miljø
+                    Udvalget for Teknik og Vildthegn Lille Vildmose
+Anlægsdrift                                                                              200      200           0       0           0       0             0         0
+                    Miljø                  fredningen
+                    Udvalget for Teknik og
+Anlægsdrift                                                                           24.325    24.325     23.725   23.725     24.125   24.125      24.125     24.425
+                    Miljø Total
+Anlægsdrift         Økonomiudvalget          Energiinvesteringer                       4.000     4.000      4.000    4.000      4.000    4.000        4.000     4.000
+Anlægsdrift         Økonomiudvalget          Håndtering af Asbest                      1.000     1.000      1.000    1.000      1.000    1.000        1.000     1.000
+Anlægsdrift         Økonomiudvalget          IT - KL's vision m.v.                     1.400      700       1.400     700       1.400     700         1.400      700
+
+                                             Vedligeholdelse af kommunale
+Anlægsdrift         Økonomiudvalget                                                   10.082    10.082     10.082   10.082     10.082   10.082      10.082     10.082
+                                             bygninger
+
+                                             Vedligeholdelse af kommunens
+Anlægsdrift         Økonomiudvalget                                                      500      500         500     500        500      500          500       500
+                                             rådhuse
+                    Økonomiudvalget
+Anlægsdrift                                                                           16.982    16.282     16.982   16.282     16.982   16.282      16.982     16.282
+                    Total
+Anlægsdrift i alt                                                                     48.757    48.057     48.557   47.857     48.307   47.607      48.707     48.307
+
+
+
+Budgetgrundlag - eksisterende projekter (i 1.000 kr.)
+                                                                                  Oprindeligt     NYT Oprindeligt     NYT Oprindeligt     NYT    Oprindeligt
+    Kategori               Udvalg                          Projekt                                                                                           NYT 2030
+                                                                                       2027      2027      2028      2028      2029      2029         2030
+                    Udvalget for Børn og     Havbakkeskolen - Håndværk og
+Budgetgrundlag                                                                          1000     1000           0       0           0       0             0         0
+                    Familie                  Design
+                    Udvalget for Børn og     Havbakkeskolen - Renovering af
+Budgetgrundlag                                                                           900      900           0       0           0       0             0         0
+                    Familie                  Kriblebo
+                    Udvalget for Børn og
+Budgetgrundlag                               IT-investering / udskiftning af IT             0       0           0       0           0       0         1800      1800
+                    Familie
+                    Udvalget for Børn og     Mariager skole - Faglokaler,
+Budgetgrundlag                                                                          4200     4200           0       0           0       0             0         0
+                    Familie                  skolegård m.m.
+                    Udvalget for Børn og
+Budgetgrundlag                                                                         6.100     6.100          0       0           0       0         1.800     1.800
+                    Familie Total
+                    Udvalget for Sundhed
+Budgetgrundlag                            It-udstyr til plejepersonale                   800      800           0       0        800      800             0         0
+                    og Omsorg
+                    Udvalget for Sundhed
+Budgetgrundlag                            Plejecentre - modernisering                   2500     2500       2500     1889       2500        0         2500          0
+                    og Omsorg
+Budgetgrundlag      Udvalget for Sundhed og Omsorg Total                               3.300     3.300      2.500    1.889      3.300     800         2.500         0
+                    Udvalget for Teknik og   Bro Viborg Landevej, Sdr. Onsild
+Budgetgrundlag                                                                              0       0       2400     2400           0       0             0         0
+                    Miljø                    st.
+                    Udvalget for Teknik og
+Budgetgrundlag                               Diverse mindre anlægsprojekter                 0       0         400     400        900      900         3900      2300
+                    Miljø
+                    Udvalget for Teknik og
+Budgetgrundlag                               Fjordstrategi                              1000     1000         500     500        500      500          500      1000
+                    Miljø
+                    Udvalget for Teknik og Fortov Havndalvej til Sødisbakke
+Budgetgrundlag                                                                              0    1500       1500        0           0       0             0         0
+                    Miljø                  Hohøj, Mariager
+                    Udvalget for Teknik og
+Budgetgrundlag                               Modulvogntog                                100      100         100     100        100      100          100       100
+                    Miljø
+                    Udvalget for Teknik og   Pulje: Tilgængelighed ved Fjord
+Budgetgrundlag                                                                           250      250         250     250        250      250          250       250
+                    Miljø                    og kyst
+                    Udvalget for Teknik og   Renov. fra Søndervang til
+Budgetgrundlag                                                                              0       0           0       0       3000     3000             0         0
+                    Miljø                    Mariagervej
+                    Udvalget for Teknik og   Renovering af Brogade incl.
+Budgetgrundlag                                                                          1700     1700           0       0           0       0             0         0
+                    Miljø                    krydsombygni
+                    Udvalget for Teknik og Signalanlæg
+Budgetgrundlag                                                                          1500     1500           0       0           0       0             0         0
+                    Miljø                  Randersvej/Mariagervej
+                    Udvalget for Teknik og
+Budgetgrundlag                             Tiltag forbedringer på Hærvejen               300      300         300     300        300      300          300       300
+                    Miljø
+                    Udvalget for Teknik og Ålborgvej /Glerupvej -
+Budgetgrundlag                                                                          1200     1200           0       0           0       0             0         0
+                    Miljø                  modulvogntog
+                 Udvalget for Teknik og
+Budgetgrundlag                          Aalykkevej (fortov)                       3000        0           0    3000           0       0             0         0
+                 Miljø
+                 Udvalget for Teknik og
+Budgetgrundlag                                                                   9.050     7.550      5.450    6.950      5.050    5.050        5.050     3.950
+                 Miljø Total
+Budgetgrundlag   Økonomiudvalget          Arden Bytorv                            7000     4000           0    3000           0       0             0         0
+
+Budgetgrundlag   Økonomiudvalget          Brolandingen i Hadsund                  1000     1000           0       0           0       0             0         0
+
+Budgetgrundlag   Økonomiudvalget          Campus Hobro                           10000        0           0       0           0   10000             0         0
+
+Budgetgrundlag   Økonomiudvalget          Infrastruktur - Campus                      0       0      20000    20000           0       0             0         0
+
+                                          Investeringer i strukturelle
+Budgetgrundlag   Økonomiudvalget                                                 10000        0      10000        0      10000    10000        10000     10000
+                                          tilpasninger
+                 Økonomiudvalget
+Budgetgrundlag                                                                  28.000     5.000     30.000   23.000     10.000   20.000      10.000     10.000
+                 Total
+Budgetgrundlag   Budgetgrundlag total                                           46.450    21.950     37.950   31.839     18.350   25.850      19.350     15.750
+
+
+
+
+Nye projekter (i 1.000 kr.)
+                                                                            Oprindeligt     NYT Oprindeligt     NYT Oprindeligt     NYT    Oprindeligt
+    Kategori             Udvalg                        Projekt                                                                                         NYT 2030
+                                                                                 2027      2027      2028      2028      2029      2029         2030
+                 Udvalget for Børn og
+Nye projekter                             Ressourcecentret                            0        0          0        0          0   12.630            0         0
+                 Familie
+                 Udvalget for Børn og
+Nye projekter                             Etablering af vuggestue i Als               0    2.000          0        0          0        0            0         0
+                 Familie
+                 Udvalget for Børn og
+Nye projekter                             Renovering af Rosendalskolen                0   10.000          0    3.400          0        0            0         0
+                 Familie
+                 Udvalget for Børn og
+Nye projekter                                                                         0   12.000          0    3.400          0   12.630            0         0
+                 Familie Total
+                 Udvalget for Sundhed
+Nye projekter                             Botilbud Kærvej                             0   18.272          0        0          0        0            0         0
+                 og Omsorg
+                 Udvalget for Sundhed Plejecentre - Tilpasning af
+Nye projekter                                                                         0       0           0     611           0    2.500            0    2.500
+                 og Omsorg            fysiske rammer
+                 Udvalget for Sundhed
+Nye projekter                         Sundhedshus Hobro                               0       0           0   5.000           0   10.000            0    5.000
+                 og Omsorg
+                 Udvalget for Sundhed
+Nye projekter                         Foranalyse plejeboligkapacitet                  0       0           0     250           0       0             0         0
+                 og Omsorg
+                 Udvalget for Sundhed
+Nye projekter                         Sundhedshus Hadsund                             0   10.000          0       0           0       0             0         0
+                 og Omsorg
+                 Udvalget for Sundhed
+Nye projekter                                                                         0   28.272          0    5.861          0   12.500            0     7.500
+                 og Omsorg Total
+                 Udvalget for Teknik og   Forbindelsesvej etape 1
+Nye projekter                                                                         0        0          0        0          0        0            0    20.000
+                 Miljø                    (Ålykkevej-Fyrkatvej)
+                 Udvalget for Teknik og
+Nye projekter                             Ombygning af Hegedalsvej                    0        0          0        0          0        0            0       800
+                 Miljø
+                 Udvalget for Teknik og
+Nye projekter                             Badebro Øster Hurup                         0     600           0        0          0        0            0         0
+                 Miljø
+                 Udvalget for Teknik og Renovering af offentlig sti ved
+Nye projekter                                                                         0     200           0        0          0        0            0         0
+                 Miljø                  saltcenteret i Mariager
+                 Udvalget for Teknik og
+Nye projekter                           Hundeskov i Hobro                             0     300           0        0          0        0            0         0
+                 Miljø
+                 Udvalget for Teknik og
+Nye projekter                                                                         0    1.100          0        0          0        0            0    20.800
+                 Miljø Total
+                 Udvalget for Kultur og
+Nye projekter                           Himmerland Teater                             0        0          0    6.000          0        0            0         0
+                 Fritid
+                 Udvalget for Kultur og Tilskud Valsgård IF
+Nye projekter                                                                         0    3.000          0        0          0        0            0         0
+                 Fritid                 kunstgræsbane
+                 Udvalget for Kultur og
+Nye projekter                                                                         0    3.000          0    6.000          0        0            0         0
+                 Fritid Total
+Nye projekter    Økonomiudvalget          Cemtec                                      0     900           0        0          0        0            0         0
+
+Nye projekter    Økonomiudvalget          Nordig (Nordjysk IT-samarbejde)             0     800           0     400           0     400             0       400
+                 Økonomiudvalget
+Nye projekter                                                                         0    1.700          0     400           0     400             0       400
+                 Total
+
+
+Nye projekter    Nye projekter i alt                                                  0   46.072          0   15.661          0   25.530            0    28.700
+

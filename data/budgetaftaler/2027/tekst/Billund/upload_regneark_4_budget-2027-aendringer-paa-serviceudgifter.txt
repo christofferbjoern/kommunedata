@@ -1,0 +1,49 @@
+# kilde: filer/Billund/upload_regneark_4_budget-2027-aendringer-paa-serviceudgifter.pdf | metode: pdftotext
+
+Ændringer på serviceudgifter - Budgetforlig 2027-2030
+
+1.000 kr.                                                              2027     2028     2029     2030
+
+Indarbejdet i Økonomi-, Erhvervs- og Turismeudvalgets budgetforslag
+Prognosenotat på det specialiserede socialområde                      23.500   29.000   23.700   24.100
+Etablering af IT-servicecentre                                           300
+
+Råderumsforslag
+R01: Øget digitalisering og optimering af systemer                      -500     -500     -500     -500
+R02: Indkøbsbesparelser                                                 -500     -500     -500     -500
+R03: Fuld udrulning af automatisering af fakturabetaling                -400     -400     -400     -400
+R04: Reduktion af rådhusets drift                                       -100     -100     -100     -100
+R05: Reduktion af pulje til tjenestemandspensioner                    -1.000   -1.000   -1.000   -1.000
+R06: Reduktion af puljer til juridisk rådgivning                        -250     -250     -250     -250
+R07: Reduktion af puljer til erhverv                                    -500     -500     -500     -500
+R08: Reduktion af pulje til udvikling af økonomisystem                  -100     -100     -100     -100
+R09: Rammebesparelse på udvalgets område                              -1.100   -1.100   -1.100   -1.100
+R16: Lukkedage uge 30 og sidste hverdag før jul                       -1.961   -1.961   -1.961   -1.961
+R17: Alternativ pasning samles i Grindsted                              -236     -236     -236     -236
+R20: Egenbetaling for tandpleje udført af privat tandlæge               -100     -100     -100     -100
+R23a: Investering i netværksanbringelse og matching                     -150     -150     -150     -700
+R24: Øget fokus på plejefamilier                                        -400     -400     -400     -400
+R23b: Investering i netværksanbringelse og matching                     -600     -600     -600     -600
+R28: Reduktion af puljen til indsatsen Offentligt løntilskud            -200     -200     -200     -200
+R30: Opsigelse af aftaler på kultur- og fritidsområdet                  -154     -154     -154     -154
+R37: Overvågning med velfærdsteknologi                                  -500     -500     -500     -500
+R38: Løbende kontraktforhandling                                        -525        0        0        0
+R40: Hedelyng - senere opnormering af daghjemspladser                   -650        0        0        0
+R43: Omorganisering af madproduktion på Ældreområdet                     250     -500   -1.000   -1.000
+R44: Justering og omorganisering af elevområdet                         -515     -515     -515     -515
+R47: Sundhedsklinikker som førstevalg                                   -550     -550     -550     -550
+R49a: Reduktion af rengøring på rådhuset                                -150     -150     -150     -150
+R51: Ændret praksis for græsklipning i kommunen                         -400     -400     -400     -400
+R52: Salg af feje- og sugebil                                           -300     -300     -300     -300
+
+Yderligere indarbejdet i endeligt budgetforlig
+Implementering af Borgertip                                              200      100      100      100
+Fællesskabspulje til Ungerådet                                            50       50       50       50
+Pulje til kollektiv trafik                                             1.160    1.160    1.160    1.160
+Genindførsel af busrute 181 mellem Sønder Omme og Grindsted              400      400      400      400
+Pulje til etablering af distriktshold inden for idræt                    200      200      200      200
+Ensretning af vilkår for private og kommunale vuggestuer                 535      535      535      535
+Huslejefritagelse for Grindsted Kino                                      54       54       54       54
+
+Ændringer i alt                                                       14.808   20.333   14.533   14.383
+

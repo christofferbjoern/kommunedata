@@ -1,0 +1,29 @@
+# kilde: filer/_ukendt_kommune/upload_ukendt_6_hovedoversigt-2027-2030.pdf | metode: pdftotext
+
+Hovedoversigt 2027-2030
+
+Mio. kr.                               2027       2028        2029        2030
+Skatter og tilskud                  -2.331,4   -2.395,4   -2.361,5    -2.424,4
+Serviceudgifter                      1.673,1    1.689,0    1.688,0     1.689,7
+Overførselsudgifter                    566,3      573,8      579,7       593,2
+Renter                                  -0,5       -0,5        -0,5        -0,5
+Løn- og prisstigninger                             52,1      115,5       181,8
+Resultat ordinær drift                 -92,6      -80,9       21,1        39,8
+Afdrag vedr. ældreboliger                5,6        5,6         5,6         5,6
+Anlæg                                   90,0       90,5        90,6        82,8
+Jordforsyning udgifter                  23,5       20,5        26,1        25,5
+Jordforsyning indtægter                -19,9      -19,9      -24,1       -19,9
+Løn- og prisstigninger                              1,6         3,3         4,8
+Resultat skattefinansieret område       6,6        17,4      122,5       138,6
+Brugerfinansieret område                0,7         0,7         0,7         0,7
+Løn- og prisstigninger                              0,0         0,1         0,1
+Resultat i alt                          7,3        18,1      123,3       139,5
+                                                                              -
+
+
+Mio. kr.                              2027        2028       2029        2030
+Serviceramme                        1.673,1
+Anlægsramme                           113,6
+Gennemsnitlig likviditet                356        361        309         197
+Skattefinansieret gæld                    0          0          0           0
+

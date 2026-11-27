@@ -1,0 +1,63 @@
+# kilde: filer/Læsø/upload_regneark_1_Finansieringsoversigt-incl.-renter---Budget-2027---2030-Læsø-Kommune.pdf | metode: pdftotext
+
+Finansieringsoversigt - Budget 2027 - 2030
+
+                                                           Budget 2027           Budget 2028          Budget 2029          Budget 2030
+
+
+Finansiering i alt incl. renter excl.
+                                                            -214.861.412         -208.494.923          -213.666.776        -220.129.892
+Kassefinansiering
+
+    Renter                                                       1.088.000              902.489                 718.454          718.454
+      Renter pengeinstitut - udgifter                               4.037                 4.037                   4.037            4.037
+      Renter pengeinstitut - indtægter                            -212.000             -212.000                -212.000         -212.000
+      Renter af tilgodh.i betalingsk.-udgifter                      1.000                 1.000                   1.000            1.000
+      Renter af tilgodh.i betalingsk-indtægter                      -1.000               -1.000                   -1.000           -1.000
+      Renteindtægter fra Opus Debitor                              -14.000              -14.000                 -14.000           -14.000
+      Renter af andre langf. udlån - tilgodeh.                     -26.000              -26.000                 -26.000           -26.000
+      Renter af udlæg vedr. Vesterø havn                          -100.000             -100.000                -100.000         -100.000
+      Renter af udlæg vedr. Østerby havn                          -162.183             -162.183                -162.183         -162.183
+      Rente Hypotekbanken                                           5.000                 5.000                   5.000            5.000
+      Renter Kommunekreditforeningen                             1.781.671            1.596.160               1.422.125        1.422.125
+
+      Renter Ældreboliger Kommunekreditforenin                    151.600               151.600                 151.600          151.600
+
+      Renteudgifter lønmodtagernes feriem                          43.000                43.000                  33.000           33.000
+      Garantiprovision                                            -383.125             -383.125                -383.125         -383.125
+
+
+    Tilskud og udligning                                      -104.434.000          -97.508.000          -103.273.818        -109.569.934
+      Kommunal - Landsudligning                                -15.060.000          -15.060.000           -15.060.000         -15.060.000
+      Statstilskud ordinært                                    -12.228.000          -12.228.000           -12.228.000         -12.228.000
+      Statstilskud betinget                                       -828.000             -828.000                -828.000         -828.000
+      Statstilskud betinget ved. anlæg                            -276.000             -276.000                -276.000         -276.000
+      Udligning af selskabsskat                                 -1.656.000           -1.656.000               -1.656.000       -1.656.000
+      Udligning af dækningsafgift                                  -24.000              -24.000                 -24.000           -24.000
+      Udlign. bidrag - indvandrer-efterkommere                   1.080.000            1.080.000               1.080.000        1.080.000
+      Udlign. tilskud-indvandrer-efterkommer                      -192.000             -192.000                -192.000         -192.000
+      Kommunalt udviklingsbidrag                                  230.000               230.000                 230.000          230.000
+      Tilskud - særl. vanskeligt stillede kom.                 -12.000.000
+      "Tilskud til ""ø-kommuner"""                             -54.305.000          -54.305.000           -54.305.000         -54.305.000
+      Tilskud til styrket kvalitet i ældreplej                    -708.000             -708.000                -708.000         -708.000
+      Tilskud til bedre kvalitet dagtilbud                        -120.000             -120.000                -120.000         -120.000
+      Tilskud til et generelt løft af ældreple                    -528.000             -528.000                -528.000         -528.000
+      Tilskud til styrekelse af kom. likviditi                  -1.320.000           -1.320.000               -1.320.000       -1.320.000
+      Tilskud bekæmpelses af ensomhed                              -72.000              -72.000                 -72.000           -72.000
+      Tilskud til værdig ældrepleje                               -732.000             -732.000                -732.000         -732.000
+      Tilskud udsatte Ø og yder kommmuner                       -2.628.000           -2.628.000               -2.628.000       -2.628.000
+      Tilskud til skattenedsætning                                -552.000             -552.000                -552.000         -552.000
+      Kompensation ændring dækningsafgift                         -192.000             -192.000                -192.000         -192.000
+      Tilskud Sundhedsreform                                    -2.323.000           -2.323.000               -2.323.000       -2.323.000
+      PL regulering                                                     0            -5.074.000           -10.839.818         -17.135.934
+
+    Skatter                                                   -111.515.412         -111.889.412          -111.111.412        -111.278.412
+      Forskudsbeløb af kommunal indk.skat                      -94.712.000          -94.712.000           -94.712.000         -94.712.000
+      Afregning af selskabsskat m.v.                              -966.412             -966.412                -966.412         -966.412
+      Grundskyld                                               -15.837.000          -16.211.000           -15.433.000         -15.600.000
+
+
+
+
+                                       Finansieringsoversigt incl. renter - Budget 2027 - 2030 Læsø Kommune                         Side 1
+

@@ -1,0 +1,145 @@
+# kilde: filer/Samsø/upload_regneark_1_Oversigt-over-budgetforslag-2027.pdf | metode: pdftotext
+
+Samlet oversigt - alle budgetændringer
+
+                                                                                                              Budget 2027         Budget 2028      Budget 2029      Budget 2030
+Arbejdspapir            NR.                      Tværgående områder og stabsfunktioner                                                  Budgetudvidelser
+01 økonomisk potitik       8 Forhøjet anlægspulje, bl. a. ifbm. almene boliger                                 kr.   2.970.000    kr.        -     kr.       -      kr.       -
+03 UPS                     7 Medlemskab i fond                                                                 kr.      36.000    kr.     36.000   kr.    36.000    kr.    36.000
+03 UPS                   10 Værk og Virke                                                                      kr.         -      kr.     80.000   kr.    80.000    kr.    80.000
+04 prioteringskatalog      4 Socialpuljen                                                                      kr.     102.000    kr.    102.000   kr.   102.000    kr.   102.000
+                                                                                                               kr.   3.108.000    kr.    218.000   kr.   218.000    kr.   218.000
+
+                                                                                                              Budget 2027         Budget 2028      Budget 2029      Budget 2030
+Arbejdspapir            NR.                        Tværgående områder og stabsfunktioner                                                Budgetreduktioner
+02 G2                    28 Tjenestemandspensioner, budget reduceres                                           kr.      -50.000   kr.    -50.000   kr.    -50.000   kr.    -50.000
+04 prioteringskatalog      1 Reduktion af budgetrammen ifbm. sammenlægning af advokat- og risikopuljen         kr.     -806.000   kr.   -806.000   kr.   -806.000   kr.   -806.000
+04 prioteringskatalog      2 Reduktion af rekrutterings- og fastholdelsespuljen med 50%                        kr.      -53.000   kr.    -53.000   kr.    -53.000   kr.    -53.000
+04 prioteringskatalog      5 Reduktion af valgkontoen, der forventes ingen valghandling i 2027                 kr.     -110.000   kr.        -     kr.        -     kr.        -
+04 prioteringskatalog      6 Udfasning af Citrix som adgangsplatform til fjernskrivebord / fagsystemer         kr.     -200.000   kr.   -300.000   kr.   -300.000   kr.   -300.000
+05 fokuspunkter          6,7 Kommunal opkrævning - stigning i gebyr                                            kr.      -30.000   kr.    -30.000   kr.    -30.000   kr.    -30.000
+                                                                                                               kr.   -1.249.000   kr. -1.239.000   kr. -1.239.000   kr. -1.239.000
+
+                                                                                            Budgetudvidelser: kr.     3.108.000 kr.    218.000 kr.    218.000 kr.    218.000
+                                                                                           Budgetreduktioner: kr.    -1.249.000 kr. -1.239.000 kr. -1.239.000 kr. -1.239.000
+                                                                                                        Total: kr.    1.859.000 kr. -1.021.000 kr. -1.021.000 kr. -1.021.000
+                                                                                                                              Budget 2027         Budget 2028         Budget 2029         Budget 2030
+Arbejdspapir            NR. Børn-, Unge- og Kulturforvaltningen                                                                                            Budgetudvidelser
+02 G2                      3 Dagplejen - Tilpasning i forhold til pengene følger barnet                                        kr.     606.000    kr.      606.000    kr.      606.000    kr.      606.000
+02 G2                      5 Børnehuset - Tilpasning pengene følger barnet                                                     kr.     265.000    kr.      265.000    kr.      265.000    kr.      265.000
+02 G2                      6 Fripladser og søskenderabat i dagpleje, børnehave og SFO og korrigeret af indtægtsbudget          kr.      40.000    kr.       40.000    kr.       40.000    kr.       40.000
+02 G2                      7 Øget udgifter vedr. mellemkommunal afregning for undervisning af anbragte børn og unge            kr.     205.000    kr.      205.000    kr.      205.000    kr.      205.000
+02 G2                      8 Færrer indtægter vedr. mellemkommunal afregning for undervisning af anbragte børn og unge         kr.     524.000    kr.      524.000    kr.      524.000    kr.      524.000
+02 G2                    10 Familieafdeling - anbringelsesområdet Statsrefusion, fald i forventet indtægter                    kr.     263.000    kr.      263.000    kr.      263.000    kr.      263.000
+02 G2                    11 Tabt arbejdsfortjeneste, ved forsørgelse af børn med nedsat funktionsevne (Barnetslov § 87)        kr.     171.000    kr.      171.000    kr.      171.000    kr.      171.000
+02 G2                    13 DUT- sag vedr. Let tilgængelige tilbud til børn og unge i psykologisk mistrivsel                   kr.      67.000    kr.       67.000    kr.       67.000    kr.       67.000
+02 G2                    14 Honorarstøttet, Statens Kunstfonds Projektstøtteudvalg for Musik                                   kr.      10.000    kr.       10.000    kr.       10.000    kr.       10.000
+03 UPS                     2 Oprettelse af en kommunal musikskole nmed prøve handlinger i 2028                                 kr.      18.000    kr.      135.000    kr.      135.000    kr.      135.000
+                                                                                                                               kr.   2.169.000    kr.    2.286.000    kr.    2.286.000    kr.    2.286.000
+
+                                                                                                                              Budget 2027         Budget 2028         Budget 2029         Budget 2030
+Arbejdspapir            NR. Børn-, Unge- og Kulturforvaltningen                                                                                           Budgetreduktioner
+02 G2                      1 Betaling vedr. frie skoler og efterskoler, recurering af antal børn                               kr.     -332.000   kr.      -332.000   kr.      -332.000   kr.      -332.000
+02 G2                      2 Tildeling Kompetencecenteret og Oasen                                                             kr.   -1.224.000   kr.    -1.224.000   kr.    -1.224.000   kr.    -1.224.000
+02 G2                      4 Rumlepotten - Tilpasning pengene følger barnet og fjernelse pavilonner                            kr.     -459.000   kr.      -519.000   kr.      -519.000   kr.      -519.000
+02 G2                      9 Familieafdeling - anbringelsesområdet, fald i forventet udgifter                                  kr.     -164.000   kr.      -164.000   kr.      -164.000   kr.      -164.000
+02 G2                    12 Merudgiftsydelse ved forsørgelse af børn med nedsat funktionsevne (Barnetslov §86)                 kr.       -2.000   kr.        -2.000   kr.        -2.000   kr.        -2.000
+04 prioteringskatalog      8 Sommeraktiviteter for Samske skolebørn i skolernes sommerferie                                    kr.      -50.000   kr.       -50.000   kr.       -50.000   kr.       -50.000
+04 prioteringskatalog    13 Betaling 12 mdr. i SFO                                                                             kr.      -72.000   kr.       -72.000   kr.       -72.000   kr.       -72.000
+04 prioteringskatalog    14 Biblioteket - reduktion af nye bøger, magasiner og aviser                                          kr.      -30.000   kr.       -30.000   kr.       -30.000   kr.       -30.000
+04 prioteringskatalog    21 Familieområdet - ændring af aflønningsmodel til pleje- og aflastningsfamilier                      kr.     -200.000   kr.      -200.000   kr.      -200.000   kr.      -200.000
+04 prioteringskatalog    22 Godt børneliv - Budgettet reduceres med samme beløb som tildelt i 2026                             kr.      -37.000   kr.       -37.000   kr.       -37.000   kr.       -37.000
+                                                                                                                               kr.   -2.570.000   kr.    -2.630.000   kr.    -2.630.000   kr.    -2.630.000
+
+                                                                                                            Budgetudvidelser: kr.     2.169.000 kr.       2.286.000 kr.       2.286.000 kr.       2.286.000
+                                                                                                           Budgetreduktioner: kr.    -2.570.000 kr.      -2.630.000 kr.      -2.630.000 kr.      -2.630.000
+                                                                                                                        Total: kr.     -401.000 kr.        -344.000 kr.        -344.000 kr.        -344.000
+                                                                                                                                        Budget 2027          Budget 2028         Budget 2029         Budget 2030
+Arbejdspapir            NR. Social-, Sundhed- og Beskæftigelseforvaltningen                                                                                          Budgetudvidelser
+01 økonomisk potitik    11,1 Ældrereform - implementering                                                                                kr.      300.000    kr.          -      kr.          -      kr.          -
+01 økonomisk potitik    11,2 Seniorrådet, budget øges til i alt 8 årlige møder med sekretærbistand                                       kr.       20.000    kr.       20.000    kr.       20.000    kr.       20.000
+02 G2                     20 Madservice, loft over egenbetalingen                                                                        kr.      126.000    kr.      126.000    kr.      126.000    kr.      126.000
+02 G2                     21 Botilbud og aktivitetstilbud til voksne med særlig behov                                                    kr.    2.467.000    kr.    2.467.000    kr.    2.467.000    kr.    2.467.000
+02 G2                     23 Voksen Handicap og Psykiatri - Sikrede pladser                                                              kr.       66.000    kr.       66.000    kr.       66.000    kr.       66.000
+02 G2                     24 Mellemkommunale betalinger ældreområdet                                                                     kr.      192.000    kr.      192.000    kr.      192.000    kr.      192.000
+02 G2                     25 Voksenhandicap og Psykiatri Afklaringpladser udvides                                                        kr.      109.000    kr.      109.000    kr.      109.000    kr.      109.000
+02 G2                     26 Øvrige konjunkturændringer på Overførselsindkomster/ forsørgelse                                            kr.      850.000    kr.      850.000    kr.      850.000    kr.      850.000
+03 UPS                     8 17.4 Opgave-udvalg: Kildemosens fysiske rammer                                                              kr.      179.000    kr.          -      kr.          -      kr.          -
+                                                                                                                                         kr.    4.309.000    kr.    3.830.000    kr.    3.830.000    kr.    3.830.000
+
+                                                                                                                                        Budget 2027          Budget 2028         Budget 2029         Budget 2030
+Arbejdspapir            NR. Social-, Sundhed- og Beskæftigelseforvaltningen                                                                                         Budgetreduktioner
+02 G2                     15 Den kommunale medfinansierings af sundhedsudgifter afskaffes fra 2027                                       kr.   -20.972.000   kr.   -20.972.000   kr.   -20.972.000   kr.   -20.972.000
+02 G2                     16 Samarbejdsaftale Samsø Syge og Akuthus, kommunes sengepladser reduceres                                     kr.    -1.893.000   kr.    -1.893.000   kr.    -1.893.000   kr.    -1.893.000
+02 G2                     17 Resterende elementer af sundhedsreform, opgaver reduceres                                                   kr.      -819.000   kr.      -819.000   kr.      -819.000   kr.      -819.000
+02 G2                     19 Administrationsbidrag Udbetaling Danmark, budget reduceres                                                  kr.       -70.000   kr.       -70.000   kr.       -70.000   kr.       -70.000
+02 G2                     22 Refusion for særlig dyre enkeltsager for voksne, forventet refusion øges                                    kr.      -110.000   kr.      -110.000   kr.      -110.000   kr.      -110.000
+03 UPS                   1,1 Udmøntning beskæftigelsesreform, reduktion af administrativ budget og organisationsændring                  kr.      -425.000   kr.      -425.000   kr.      -425.000   kr.      -425.000
+03 UPS                   1,2 Udmøntning beskæftigelsesreform, reduktion af aktiveringsindsatser (anvendelsen af mentorer)                kr.      -504.000   kr.      -624.000   kr.      -672.000   kr.      -672.000
+04 prioteringskatalog   25,1 Hjemmeplejen budgetreduktion pga. Aktivitetsudvikling                                                       kr.      -300.000   kr.      -300.000   kr.      -300.000   kr.      -300.000
+04 prioteringskatalog     26 Hjælpemidler. Udbringning af (genbrugs-) hjælpemidler fra 5 til 2 gange/ uge                                kr.       -60.000   kr.       -60.000   kr.       -60.000   kr.       -60.000
+04 prioteringskatalog     27 Hjælpemidler, Handicap/Psykiatri, budget reduceres                                                          kr.      -100.000   kr.      -100.000   kr.      -100.000   kr.      -100.000
+04 prioteringskatalog     28 Hjælpemidler, Ældre / omsorg, budget reduceres                                                              kr.      -100.000   kr.      -100.000   kr.      -100.000   kr.      -100.000
+04 prioteringskatalog     33 Automatisk beregning af supplerende fleksløntilskud til borgere, der er i flexjob                           kr.      -126.000   kr.      -126.000   kr.      -126.000   kr.      -126.000
+04 prioteringskatalog     38 Reduktion af Sundhedspuljen                                                                                 kr.           -     kr.      -100.000   kr.      -100.000   kr.      -100.000
+04 prioteringskatalog     39 Fælles uddannelsespulje i SSB                                                                               kr.      -100.000   kr.           -     kr.           -     kr.           -
+04 prioteringskatalog     41 Bofællesskab, fjernelse af pulje til natdækning                                                             kr.       -25.000   kr.       -25.000   kr.       -25.000   kr.       -25.000
+                                                                                                                                         kr.   -25.604.000   kr.   -25.724.000   kr.   -25.772.000   kr.   -25.772.000
+
+                                                                                                                       Budgetudvidelser: kr.     4.309.000 kr.       3.830.000 kr.       3.830.000 kr.       3.830.000
+                                                                                                                     Budgetreduktioner: kr.    -25.604.000 kr.     -25.724.000 kr.     -25.772.000 kr.     -25.772.000
+                                                                                                                                  Total: kr.   -21.295.000 kr.     -21.894.000 kr.     -21.942.000 kr.     -21.942.000
+                                                                                                                                             Budget 2027         Budget 2028      Budget 2029      Budget 2030
+Arbejdspapir         NR.                                                     Teknisk Forvaltning                                                                       Budgetudvidelser
+03 UPS                3,4 Samsø Flyveplads, anlægsprojekt vedr. forbedringer flyveplads og bidrag til projektarbejde                          kr.     365.000    kr.        -     kr.        -     kr.        -
+03 UPS                  4 Udviklingsplan Sambiosen, Anlægsprojekt: Nyt vindfang og opgradering og udvidelse af køkkenfaciliteter              kr.   1.500.000    kr.        -     kr.        -     kr.        -
+05 fokuspunkter       1,1 Planlægger fast, dog med medfinansiering i form af reduktion på konsulentbistand til byggesagsbehandling            kr.     590.000    kr.    590.000   kr.    590.000   kr.    590.000
+06 Budgetforslag        1 Drift af nyindkøbte arealer, vedr. græsklipning, pleje beplantning og øvrige opgaver                                kr.      25.000    kr.     25.000   kr.     25.000   kr.     25.000
+                                                                                                                                              kr.   2.480.000    kr.    615.000   kr.    615.000   kr.    615.000
+
+                                                                                                                                             Budget 2027         Budget 2028      Budget 2029      Budget 2030
+Arbejdspapir          NR.                                                      Teknisk Forvaltning                                                                     Budgetreduktioner
+03 UPS                 3,3 Samsø Flyveplads, indtægt fra permanent ekstensivering                                                             kr.     -550.000   kr.        -     kr.        -     kr.        -
+04 prioteringskatalog   43 Reduktion af Klimapuljen                                                                                           kr.      -73.000   kr.        -     kr.        -     kr.        -
+04 prioteringskatalog   44 Salg af Tingvej 10 (drift)                                                                                         kr.     -150.000   kr.   -150.000   kr.   -150.000   kr.   -150.000
+04 prioteringskatalog   45 Salg af Den Nye Real (drift)                                                                                       kr.      -85.000   kr.    -85.000   kr.    -85.000   kr.    -85.000
+04 prioteringskatalog   46 Asfaltaftale, mindre asfalt på veje, stier og pladser                                                              kr.     -131.000   kr.   -131.000   kr.   -131.000   kr.   -131.000
+04 prioteringskatalog   47 Vejvæsenet - Der skæres i budgettet til løbende vedligehold                                                        kr.      -44.000   kr.    -44.000   kr.    -44.000   kr.    -44.000
+04 prioteringskatalog   48 Havne - 7 måneders sæsonansættelse ændres til en 3 måneders i højsæsonen                                           kr.     -100.000   kr.   -100.000   kr.   -100.000   kr.   -100.000
+04 prioteringskatalog   49 Øge lystbådehavnenes indtjening gennem målrettet markedsføringsindsats                                             kr.          -     kr.   -150.000   kr.        -     kr.        -
+04 prioteringskatalog   50 Katteaflivning - Puljen nedlægges                                                                                  kr.      -30.000   kr.    -30.000   kr.    -30.000   kr.    -30.000
+04 prioteringskatalog   51 Ophør af Biodiversitetspulje                                                                                       kr.     -100.000   kr.   -100.000   kr.   -100.000   kr.   -100.000
+05 fokuspunkter        6,1 Byggesagsbehandling - 10 % stigning                                                                                kr.      -25.000   kr.    -25.000   kr.    -25.000   kr.    -25.000
+                                                                                                                                              kr.   -1.288.000   kr.   -815.000   kr.   -665.000   kr.   -665.000
+
+                                                                                                                            Budgetudvidelser: kr.    2.480.000 kr.      615.000 kr.      615.000 kr.      615.000
+                                                                                                                          Budgetreduktioner: kr.    -1.288.000 kr.     -815.000 kr.     -665.000 kr.     -665.000
+                                                                                                                                       Total: kr.    1.192.000 kr.     -200.000 kr.      -50.000 kr.      -50.000
+                                                                                                            Budget 2027          Budget 2028         Budget 2029         Budget 2030
+Arbejdspapir   NR. Trafik (Rederi og Bus)                                                                                                Budgetudvidelser
+03 UPS            6 Telebus, supplerende morgendækning mellem kl. 05.00 og 08.00 opretholdes uændret         kr.      228.000    kr.          -      kr.          -      kr.          -
+07 rederiet     10 Fokuspunkt - Budget til dokning af Lilleøre                                               kr.      163.000    kr.          -      kr.          -      kr.          -
+07 rederiet     11 Fokuspunkt - Opsparing af pulje til vedligehold af hovedmotorer                           kr.      300.000    kr.      300.000    kr.      300.000    kr.      300.000
+07 rederiet     12 Evt. udgifter vedr. reservefærge                                                          kr.      220.000    kr.      220.000    kr.      220.000    kr.      220.000
+                                                                                                             kr.      911.000    kr.      520.000    kr.      520.000    kr.      520.000
+
+                                                                                                            Budget 2027          Budget 2028         Budget 2029         Budget 2030
+Arbejdspapir   NR.                                      Trafik (Rederi og Bus)                                                          Budgetreduktioner
+07 rederiet       1 Løft af indtægtsbudgettet for billetindtægter                                            kr.    -1.500.000   kr.    -1.500.000   kr.    -1.500.000   kr.    -1.500.000
+07 rederiet       3 Forøgelse af biltaksterne for Fritidssamsinge med 10%                                    kr.      -347.000   kr.      -347.000   kr.      -347.000   kr.      -347.000
+07 rederiet       4 Harmonisering af takster for standard gående voksne på Isabella                          kr.      -463.000   kr.      -463.000   kr.      -463.000   kr.      -463.000
+07 rederiet       5 Forhøjelse af biltakst for høje biler på Isabella                                        kr.      -350.000   kr.      -350.000   kr.      -350.000   kr.      -350.000
+07 rederiet       6 Forhøjelse af cykeltaksten på Lilleøre                                                   kr.      -102.000   kr.      -102.000   kr.      -102.000   kr.      -102.000
+07 rederiet       7 Undlade prisfremskrivning af bufferpuljer                                                kr.       -81.000   kr.       -81.000   kr.       -81.000   kr.       -81.000
+                                                                                                             kr.    -2.843.000   kr.    -2.843.000   kr.    -2.843.000   kr.    -2.843.000
+
+                                                                                          Budgetudvidelser: kr.        911.000 kr.         520.000 kr.         520.000 kr.         520.000
+                                                                                        Budgetreduktioner: kr.      -2.843.000 kr.      -2.843.000 kr.      -2.843.000 kr.      -2.843.000
+                                                                                                     Total: kr.     -1.932.000 kr.      -2.323.000 kr.      -2.323.000 kr.      -2.323.000
+
+
+                                                                                           Samsø Kommune                  2027                2028                2029                2030
+                                                                                 Total for budgetudvidelser: kr.    12.977.000 kr.       7.469.000 kr.       7.469.000 kr.       7.469.000
+                                                                                Total for budgetreduktioner: kr.   -33.554.000 kr.     -33.251.000 kr.     -33.149.000 kr.     -33.149.000
+                                                                                                      Total: kr.   -20.577.000 kr.     -25.782.000 kr.     -25.680.000 kr.     -25.680.000
+

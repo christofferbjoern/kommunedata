@@ -1,0 +1,72 @@
+# kilde: filer/Billund/upload_regneark_2_anlaegsoversigt-2027-2030.pdf | metode: pdftotext
+
+Anlægsoversigt - Budgetforlig
+
+Beløbsangivelse i 2027-prisniveau
+Overskift                                                          2027          2028          2029          2030
+
+Buffer - anlæg                                                        0     15.000.000    15.000.000    15.000.000
+Beredskabspulje                                                1.018.000     1.018.000     1.018.000     1.018.000
+Destination Trekantområdet                                      362.578       362.578       362.578       362.578
+Børnenes Hovedstad - indskud CoC                               6.000.000     6.000.000     6.000.000     6.000.000
+Vedligeholdelse IT-infrastruktur                               1.872.713     1.872.713     1.872.713     1.872.713
+Økonomi-, Erhvervs- og Turismeudvalget i alt                   9.253.291    24.253.291    24.253.291    24.253.291
+Pavillonløsning v. Travbanen                                   1.860.854            0             0             0
+Udbyggelse af daginstitutionspladser Billund                  34.124.989            0             0             0
+Helhedsplan Billundskolen                                             0     15.398.370    17.790.568    19.036.600
+Forundersøgelse - Vuggestue i Hejnsvig                          500.000             0             0             0
+Trivselspulje - renovering af BillundSkolen                           0       100.000       100.000       100.000
+Børne- og Familieudvalget i alt                               36.485.843    15.498.370    17.890.568    19.136.600
+Renovering af hovedbygning på Mødestedet                              0      5.350.000            0             0
+GrandSeniorhuset - renovering                                   918.000             0             0             0
+Voksen- og Sundhedsudvalget i alt                               918.000      5.350.000            0             0
+Grindsted Svømmehal                                            4.000.000     3.227.800            0             0
+Prod.køkken Vorbasse Fritidscenter                             1.300.495            0             0             0
+Vedligeholdelsespulje til idrætsfaciliteter                     150.000       150.000       150.000       150.000
+Unge-, Beskæftigelses-, Kultur- og Frivillighedsudvalget i
+                                                               5.450.495     3.377.800      150.000       150.000
+alt
+Borgerdrevede naturprojekter                                   1.560.594     1.560.594     1.560.594     1.560.594
+Natur-, trafik- og byggeprojekter                              2.600.990     2.600.990     2.600.990     2.600.990
+Natura2000-projekter                                            166.464       166.464       166.464       166.463
+Pulje til Cykelstier og fortove                                4.247.416     7.888.803    15.270.000     8.958.400
+DK2020 - udviklingsprojekter                                   3.494.586     3.494.587     3.494.587     3.494.586
+Nedrivningspulje - strukturanalyse                              426.562             0             0             0
+Saneringspulje                                                  712.600      1.221.600      712.600       712.600
+Pulje til områdefornyelse                                       285.675      1.058.673     1.058.675     1.058.674
+Trafiksikkerhedspulje                                          1.480.172     1.480.171     1.480.171     1.480.171
+Legepladser - legepladsrenoveringer                            1.040.396     1.040.396     1.040.396     1.040.396
+Udviklingspulje byliv Grindsted midtby                         1.771.275     1.771.274     1.771.275     1.771.274
+Bygningsfornyelsespulje Grindsted midtby                        500.000       500.000      1.000.000     1.000.000
+Omdannelse af Torvet/Byrum i Grindsted                         3.000.000            0             0             0
+Iniviativpulje - Grindsted Bymidte                              125.000       125.000       125.000       125.000
+Udvikling og miljøvurdering Billund Lufthavn                    520.198      2.600.990            0             0
+Analyse af ny forbindelsesvej i Billund                        1.040.396            0             0             0
+Realisering udviklingsplan Billund Midtby                      2.362.115     2.362.115     2.362.116     2.362.115
+Planlægning af nyt erhvervsområde i Billund                    2.000.000     2.000.000     2.000.000            0
+Omdannelse af Hovedgaden i Billund                             2.000.000     4.000.000     5.000.000     5.000.000
+Asfaltering af grusveje                                        1.560.594            0             0      1.560.594
+Fortovslinjer                                                         0             0      1.560.594            0
+Sideudvidelser                                                        0      1.560.593            0             0
+Klimasikring Vejlevej/Grindstedvej                             2.600.990            0             0             0
+Oprettelse af Vejkapital                                       1.018.000     3.054.000     4.072.000     4.072.000
+Trafikprojekter børn/unge - udgifter                             75.000        75.000        75.000        75.000
+Trafikprojekter børn/unge - sponsorat                            -75.000       -75.000       -75.000       -75.000
+Energitiltag                                                   2.341.400     2.341.400     2.341.400     2.341.400
+Mobilitetsplan/Trafikmodel                                      700.000      1.200.000      700.000             0
+Den Skæve Bane - rydning af del af strækning                    380.000             0             0             0
+Teknik-, Plan- og Klimaudvalget i alt                         37.935.423    42.027.650    48.316.862    39.305.257
+Anlæg skattefinansieret i alt                                90.043.052    90.507.111    90.610.721    82.845.148
+Buffer - Jordforsyning                7.700.000     5.000.000     5.000.000     5.000.000
+Hejnsvig - byggemodning                       0             0     1.527.000             0
+Billund Syd - byggemodning                    0             0     4.000.000    10.000.000
+Erhverv - nye stikveje                  533.203       533.203       533.203       533.203
+Nye områder - erhvervsbyggemodning   10.180.000    15.000.000    15.000.000    10.000.000
+Vorbasse - byggemodning               5.118.748             0             0             0
+Jordforsyning udgifter i alt         23.531.951    20.533.203    26.060.203    25.533.203
+Billund Syd etape 5 salgsindtægter   -12.157.131   -12.157.028   -12.157.027   -12.157.027
+Erhvervsområder salgsindtægter        -2.772.655    -2.772.655    -2.772.655    -2.772.655
+Morsbøl Søpark - salgsindtægter       -2.879.401    -2.879.295    -7.079.296    -2.879.296
+Øvrige områder - salgsindtægter       -2.132.812    -2.132.812    -2.132.812    -2.132.812
+Jordforsyning indtægter i alt        -19.941.999   -19.941.790   -24.141.790   -19.941.790
+

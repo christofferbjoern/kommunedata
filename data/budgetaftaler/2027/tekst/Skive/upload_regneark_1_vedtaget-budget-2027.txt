@@ -1,0 +1,642 @@
+# kilde: filer/Skive/upload_regneark_1_vedtaget-budget-2027.pdf | metode: pdftotext
+
+ Budget 2027
+
+
+Resultatopgørelse
+Bevillingsoversigt
+Takstoversigt
+
+
+
+
+Skive Kommune
+Oktober 2026
+Budget 2027
+Mio. kr.                                   2027       2028       2029       2030
+Det skattefinansierede område
+Indtægter
+Skatter                                   2.611,0    2.603,8    2.731,5    2.802,0
+Tilskud og udligning                      1.059,6    1.105,8    1.053,1    1.075,9
+
+Indtægter i alt                           3.670,6    3.709,6    3.784,6    3.877,9
+
+
+Driftsudgifter
+Service                                   -2.504,4   -2.484,7   -2.452,9   -2.446,3
+Overførselsudgifter                       -1.064,2   -1.106,9   -1.139,2   -1.184,5
+Pris- og lønstigninger vedr. drift                    -104,1     -197,8     -309,3
+
+Driftsudgifter i alt                      -3.568,5   -3.695,8   -3.789,9   -3.940,1
+Renter m.v.                                    8,5        8,1        8,1        7,7
+
+Resultat af ordinær drift                  110,6        21,9        2,8      -54,5
+Anlæg
+Anlægsudgifter                               -99,5      -53,7      -33,2      -25,8
+Anlægsudgifter vedr. jordforsyning           -15,5      -16,5      -16,5       -8,0
+Anlægsindtægter vedr. salg af grunde          8,0         8,0        8,0        8,0
+
+Nettoanlægsudgifter i alt                  -107,0       -62,2      -41,7      -25,8
+
+
+Resultat - skattefinansieret område (A)        3,6      -40,3      -39,0      -80,4
+
+Forsyningsvirksomheder
+Driftsresultat*                               0,0         0,0        0,0        0,0
+Anlægsresultat                                 0,0        0,0       0,0         0,0
+
+Resultat - forsyningsvirksomheder (B)*         0,0        0,0       0,0         0,0
+
+
+Resultat ialt (A+B)                           3,6      -40,3      -39,0      -80,4
+
+Pengestrømme
+Resultat i alt                                 3,6      -40,3      -39,0      -80,4
+Afdrag på lån                                -54,4      -53,1      -49,2      -49,8
+Lånoptagelse                                  2,6         5,5        5,7        5,4
+Øvrige finansforskydninger                   -11,9       -1,9       -1,9       -1,9
+
+Likviditetsstyrkelse(+)/-forbrug(-)         -60,0      -89,7      -84,4     -126,6
+             Budget 2027-2030
+
+
+             Skatter
+
+             1000 kr.                                                                                     2027            2028            2029           2030
+
+             Skatteprocent                                                                               25,50           25,50           25,50           25,50
+
+             Indkomstskat                                                                                   0,0             0,0             0,0            0,0
+
+             Skrå skatteloft                                                                                0,0             0,0             0,0            0,0
+
+             Provenuændring                                                                                 0,0             0,0             0,0            0,0
+
+             Grundskyldspromille                                                                         11,60           11,60           11,60           11,60
+
+             Provenuændring                                                                                 0,0             0,0             0,0            0,0
+
+             Dækningsafgift af erhvervsejendomme                                                              0               0              0               0
+
+             Provenuændring                                                                                0,00            0,00           0,00            0,00
+
+             Note 1: Jf. forliget "Kompensation til boligejerne og fortsat tryghed om boligbeskatningen" er det aftalt at de kommunale grundskyldspromiller
+             og dækningsafgifter ikke kan sættes op i 2021 til 2028. Sættes grundskyldspromillen ned vil der ikke være kompensation for dette.
+
+             Note 2: Såfremt der ønskes en løbede skattestigning/-sænkning, skal Økonomisk Sekretariat kontaktes.
+
+             Note 3: Der er med økonomiaftalen for 2027 afsat en ramme på 200 mio. kr. til at kommuner kan sænke indkomstskatten med tilskud, samt
+             en tilsvarende ramme til forhøjelse af indkomstskatten i 2027 uden risiko for individuel samktion. Hensigten er at understøte en samlet
+             uændret kommunal skat. Fristen for ansøgning om at hæve indkomstskatten er d. 1. september. Fristen for at søge om andel af puljen til
+             skattenedsættelse med tilskud er d. 7. september. Tilskudsprocenten kan højst udgøre 75% af provenutabet i 2027, 50% i 2028 og 2029 og
+             25% i 2030. Modellens beregninger tager ikke højde for et tilskud til reduktion af indkomstskatten, da det er uvist, hvor stor tilskudsprocenten i
+             givet fald vil være for Skive Kommune.
+
+
+
+
+             Skattefinansierede driftsudgifter
+
+Side Udvalg Besparelser: angives med + og i 1000 kr.                                                      2027            2028            2029           2030 Noter
+
+             1% Beredskabskatalog
+
+ 9     UU    Planlægning - 1 % Beredskabskatalog                                                             20             20              20              20
+
+10    KTMU Besparelse på almindelig bygningsvedligehold                                                    413            113              113             113
+
+11    KTMU Besparelse på almindelig teknisk vedligehold                                                    113            113              113             113
+
+13    KTMU Vejmyndighed og Drift, Reduktion i driftsbudget til kunstværker                                 100            100              100             100
+
+14    KTMU Beredskabsforslag - Vandløbsvedligeholdelse                                                     208             208             208             208
+
+15    KTMU Skive Lufthavn - Beredskabskatalog på 1 %                                                         20             20              20              20
+
+16    KTMU Energibyen - Beredskabskatalog på 1 %                                                           100              20              20              20
+
+       NY    Gratis busser udgår på grund af ændrede forudsætninger                                       5900           5.900            5900
+
+17     KFU   Generel reduktion, fælles                                                                     100            100              100             100
+
+18     KFU   Nedlæggelse af Spontanitetspuljen                                                               86             86              86              86
+
+19     KFU   Drivhuset - reduktion af åbningstid og aktiviteter                                            100            100              100             100
+
+20     KFU   Skive Theater, bygning                                                                        100            100              100             100
+
+21     KFU   Europæisk Kulturregion                                                                          84             84              84              84
+
+22     KFU   Skulpturguiden - Besparelse på hjemmesidevedligehold                                            15             15              15              15
+
+23     KFU   Reduktion af aktivitetspuljen - Selvejende haller                                             150            150              150             150
+
+24     KFU   Kulturcenter Skive, rammeaftale                                                               125            125              125             125
+
+25     KFU   Maritim Center Skive, reduktion af tilskud                                                    100            100              100             100
+
+26     KFU   Start- og udviklingspuljen for foreninger reduceres                                             15             15              15              15
+27   KFU    Reducerede driftsudgifter ved anskaffelse af ny biblioteksbus                        0      250       250      250
+
+28   KFU    Museum Salling, reduktion af serviceniveau og åbningstider                          65       65        65       65
+
+30   SSFU   Sundhedscentret - udgifter til borgeres kørsel                                     300       300      300      300
+
+31   SSFU   Center for Psykiatri og Rusmiddel - nedlæggelse af afdelingslederstilling          550       550      550      550
+
+33   SSFU   Sundhedscentret - ophør af indsats mod ukontrolleret overspisning                  200       200      200      200
+
+37   SSFU   Kørselsbudget aktivitetstilbuddet Idavang                                          110      110      110      110
+
+38   SSFU   Allerede opnået besparelse ved aktivitetstilbuddet Idavang                          56       56       56       56
+
+39   SSFU   Virtuel bostøtte                                                                   300      300      300      300
+
+41   SSFU   Rammereduktion på Botilbuddet Limfjordsbakken                                      100      100      100      100
+
+44   SSFU   AI monitoreringssystem                                                             701      701      701      701
+
+46   SSFU   Allerede opnået besparelse på kombinationsstillinger som følge af budget 2025      330      330      330      330
+
+NY   SSFU   Generel reduktion                                                                  350      350      350      350
+
+48   SU     Tomgangshusleje i Rønbjerg                                                         760      760      760      760
+
+49   SU     Uforbrugte midler i pulje til kompetenceløft                                       750      750      750      750
+
+50   SU     Besparelse ved implementering af DigiRehab                                       1.500     2.620    2.620    2.620
+
+52   SU     Optimering af ressourcer på dagcentrene                                            150      150      150      150
+
+53   SU     Reduktion af 'Fast-vagt'-pulje                                                     250       250      250      250
+
+55   EAU    Generel reduktion på Arbejdsmarkedsområdet                                         837       837      837      837
+
+56   EAU    Generel reduktion på området for Erhvervsservice og erhvervsudvikling              163       163      163      163
+
+     NY     Reduktion af KL's skøn for overførelsesudgifter i Skive Kommune.                 25.000                              Note 1
+57   BFU    Undervisning af plejeanbragte/over kommunegrænser                                 2.500    2.500    2.500    2.500
+
+58   BFU    Befordring af elever                                                              2.000    2.000    2.000    2.000
+
+65   BFU    Pris pr. elev på Krabbeshus Heldagsskole                                          1.400    1.400    1.400    1.400
+
+     NY     Reduktion af specialskoleområdet                                                  2.675    2.675    2.675    2.675
+
+                                                                                                                                 Note 2
+     NY     Stærke skoler og dagtilbud (budget 2026 - note 6)                                          2.000    4.000    6.000
+
+
+67   ØK     Generel reduktion på politisk organisation                                         180       180      180      180
+
+68   ØK     Administrative reduktioner - Seniorområdet                                         247       247      247      247
+
+69   ØK     Administrative reduktioner - Arbejdsmarkedsområdet                                 493       493      493      493
+
+70   ØK     Administrative reduktioner konto 5 - Socialområdet                                 124       124      124      124
+
+72   ØK     Administrative reduktioner konto 6 - Socialområdet                                  21        21       21       21
+
+73   ØK     Administrativt besparelsesforslag - Teknik, Miljø & Udvikling                      341       341      341      341
+
+74   ØK     Administrative reduktioner - Sundhedsområdet                                        96        96       96       96
+
+75   ØK     Administrative reduktioner - Kultur- og Fritidsudvalgets områder                   194       194      194      194
+
+76   ØK     Administrative reduktioner - Børne- og Familieudvalgets områder                    597       597      597      597
+
+77   ØK     Administrative reduktioner - Stabsområdet                                          282      282      282      282
+
+78   ØK     Administrativ besparelse i Social- og Arbejdsmarkedsforvaltningens sekretariat      75       75       75       75
+
+     NY     Generel reduktion i p/l (0,5%)                                                            12.000   24.000   36.000
+
+            Besparelser i alt                                                                51.446   41.436   55.436   63.536
+Side Udvalg Udvidelser: angives med + og 1000 kr.                                                   2027    2028    2029    2030
+
+81     UU     Skivemødet 2027-2030                                                                  1.200   1.200
+
+83     UU     Skive Festival 2027-2029                                                               250     250
+
+85     UU     Ungeråd                                                                                100     100     200     100
+
+86     UU     Lobbyarbejde                                                                           500     500     500     500
+
+87     UU     Skive fH - elitesportsmarkedsføringsaftale                                             250       0       0       0
+              Opstart af ny samlet branding-, kommunikations- og markedsføringsindsats for
+88     UU                                                                                            500
+              Skive Kommune
+92     UU     Styrket indsats i forhold til landdistriktsudvikling                                  1.000   1.000   1.000   1.000
+
+95    KTMU Sikring af arbejder på tage inkl. faldsikring                                             200     100     100      50
+
+96    KTMU Asbest - håndtering af indbygget asbest i fm. vedligehold af klimaskærm                   300
+
+97    KTMU BigBlue Skive - Afledt drift                                                              150     150     150     150
+
+98    KTMU Fursund Færgeri: Driftsudvidelse til vedligeholdelse af begge færger                      200     200     200     200
+
+99    KTMU Fursund Færgeri: Årlig vedligeholdelse af færgelejerne                                    500     500     500     500
+
+100   KTMU UNESCO relaterede driftsudgifter på Fur                                                   107     107     107     107
+
+102   KTMU Byggemodning - boligformål - afledt drift                                                 150
+
+103   KTMU Hvalpsund-Sundsøre Færgeri – Ekstraordinært tilskud                                      1.250      0       0       0
+
+104   KTMU Drift af offentlige toiletter                                                             200     200     200     200
+
+105   KTMU Busskure - vedligeholdelse                                                                 60      60      60      60
+
+108   KTMU Renovering af tærede rør                                                                  500
+
+112   KTMU Undersøgelse af prisen på en bro over eller tunnel under Sønder Boulevard                 500       0       0       0
+
+114   KTMU Skoleskov Marienlyst                                                                      150     100      15      15
+
+115   KTMU Etablering af Fjordfond til styrkelse af Limfjorden                                       800     400     400     350
+
+              Kollektive trafik – rute 41 - transport mellem Glyngøre og uddannelsesstederne i
+119   KTMU                                                                                           300     300     300     300
+              Skive
+
+122   KTMU Kollektiv trafik - betjening af Vejby                                                      44      44      44      44
+
+       NY     Mobilitetsplan                                                                         500                            Note 3
+127    KFU    Skive Lykke Festival - Udvidelse af målgruppen                                          50      50      50      50
+
+128    KFU    Jenle - Vedligeholdelse af bygninger                                                    50      50      50      50
+
+130    KFU    Driftsønsker fra høringssvar - Annexet, driftstilskud (koncertdel udgår)                50      50      50      50
+
+131    KFU    Driftsønsker fra høringssvar - Kulturelt Samråd Skive - forhøjelse af driftstilskud    120     120     120     120
+
+138    KFU    Skive Tennis Klub - drift af kommunale baner                                           150     150     150     150
+
+139    KFU    Stadions- og bæredygtig opdatering af maskinpark                                       200                            Note 4
+140    KFU    Ny Skivehus - Faste driftsudgifter - vedligehold og rengøring                           75      75      75      75
+
+142    KFU    Driftsønsker fra høringssvar - SISKA - driftstilskud                                   950    1.400      0       0
+
+143    KFU    Musicalprojekt i samarbejde mellem Ungdomsskolen Skive og Skive Musikskole             200     200     200     200
+
+145    KFU    UNESCO's verdensarv - Fur Museum                                                       850     850     850     850
+
+147    KFU    UNESCO-sekretariat                                                                     903     903     903     903
+149   SSFU   Sundhedscentret - tidlig indsats til borgere med vedvarende søvnproblemer                    375      375       375       375
+
+151   SSFU   Center for Psykiatri og Rusmiddel - styrket indsats vedr. digitalisering og velfærdsteknologi 200     200       200       200
+
+153   SSFU   Trivselspulje                                                                                325      325       325       325 Note 5
+
+154   SSFU   Demografi                                                                                  7.860     7.860    7.860     7.860 Note 6
+
+156   SSFU   Opgave- og jobspotter på beskæftigelsesområdet                                               500      500       500       500
+
+158   SSFU   Stigning i betaling for sikrede pladser på Kofoedsminde                                      500      500       500       500
+
+159   SSFU   Ung i fritidsjob                                                                             250      250       250       250
+
+163   SU     Demografi                                                                                  4.900     4.900    4.900     4.900
+
+164   SU     Udvidelse af sygepleje i hjemmeplejen                                                      2.960     2.960    2.960     2.960
+
+166   SU     Mestringsterapeuter på plejecentrene                                                         900      900       900       900 Note 7
+
+170   EAU    Arbejdet med en egnsdrevet vækststrategi 2.0                                                 500      500       500       500
+
+171   BFU    MiniSkills                                                                                   300      300       300       300
+
+173   BFU    Forældrekurser – Tryghedscirklen                                                             580      580       580       580
+
+175   BFU    Styrket overgangsindsats for unge i Ungdomsskolen og Springbrættet                           450      450       450       450
+
+176   BFU    Tildeling til specialskoler                                                                5.675     5.675    5.675     5.675
+                                                                                                                                              Note 2
+      NY     Stærke skoler og dagtilbud                                                                           2.000    4.000     6.000
+
+      NY     Pulje til sikker bustrasport på skoleområdet                                               1.500     1.500    1.500     1.500 Note 8
+
+      NY     Skolefraværsindsats                                                                        1.000     1.000    1.000     1.000
+             Medarbejder til opdatering af plan- og administrationsgrundlaget på
+185   ØK                                                                                                  600      600
+             kolonihaveområdet
+187   ØK     Medarbejdere til målrettet erhvervsvækst og -udvikling                                       600      600       600       600
+
+189   ØK     Medarbejder til spildevandsområdet                                                           600      600       600       600
+
+191   ØK     Personale- og organisationsredegørelse vedrørende administration og ledelse                                                      Note 9
+
+      NY     Fokus på det fremtidige rekrutteringsbehov                                                                                       Note 10
+      NY     Vækstpuljen                                                                                  500      500       500       500
+
+
+
+             Udvidelser i alt                                                                          44.384    42.134   40.699    42.499
+
+             Pris- og lønjusteringer                                                                                18      -847     -1.864
+
+             Driftsudgifter i alt                                                                      -7.062      716    -15.584   -22.901
+             Skattefinansieret anlæg
+Side Udvalg 1000 kr.                                                              2027     2028     2029     2030 Noter
+
+             Salg af grunde: angives med +
+
+             Udgifter angives med -
+
+256   KTMU Salg af bolig- og erhvervsgrunde                                      -8.000   -8.000   -8.000   -8.000
+
+257   KTMU Byggemodning - arealerhvervelser                                          0    1.000     1.000   1.000
+
+259   KTMU Byggemodning - erhvervsformål                                         2.000    2.000     2.000   2.000
+
+261   KTMU Byggemodning - boligformål                                            5.000    5.000     5.000   5.000
+
+285   KTMU Byggemodning – GreenLab II – etape 1                                  8.500    8.500     8.500       0
+
+
+
+             Byggemodning i alt                                                  7.500    8.500     8.500       0
+
+             Anlægsudgifter angives med +
+
+             Reserverede anlæg
+
+             TEKNIK & MILJØUDVALGET
+
+      KTMU 015094 Helhedsplan for Fur                                             915
+
+      KTMU 015094 Helhedsplan for Fur                                             -467
+
+      KTMU Helhedsplan for Hjerteklyngen Højslev, Nr. Søby og Dommerby           1.110    1.145    1.975     915
+
+      KTMU Helhedsplan for Hjerteklyngen Højslev, Nr. Søby og Dommerby            -592     -611    -1.053    -488
+
+197    UU    Cykelsti langs Humlevej                                               200    1.000         0       0
+
+198    UU    Etablering af parkering - UNESCOs verdensarv på Fur                 2.000    2.000         0       0
+
+199    UU    Områdefornyelse - Helhedsplan igangsat 2026                           480      960      960    1.440
+
+200   KTMU Separatkloakering af Skivehus Skole                                       0    3.000         0       0
+
+201   KTMU Gyrovej 5 - Nyetablering af salthal                                   3.000        0         0       0
+
+202   KTMU Gyrovej 5 - Efterisolering af bygningens ydervægge                        0      300         0       0
+
+203   KTMU Gyrovej 5 - Nyt indgangsparti                                           350        0         0       0
+
+206   KTMU Højslev Skole - Tagrenovering fløj I                                  1.500        0         0       0
+
+211   KTMU Balling Skole - vinduesudskiftning i klassefløj mod vest                800        0         0       0
+
+213   KTMU Daginstitution Hedemarken - udskiftning af pyramideovenlys              600        0         0       0
+
+215   KTMU Smøgen 2 - Renovering af naturskifertag                               1.000                  0       0
+
+218   KTMU Analyse af hele den kommunale bygningsmasse                             500        0                 0
+
+221   KTMU Pulje til håndtering af akutte hændelser                              1.500
+
+223   KTMU Ledningsrenoveringer – andel af udgifter til fællesprojekter          1.500
+
+225   KTMU Matrikulær udskillelse af kommuneveje                                   200      220      220      220
+
+227   KTMU Handicaprådet - forbedring af tilgængeligheden i det offentlige rum       0      400      400      400
+
+228   KTMU Renovering/udskiftning af bro ved diget Sdr. Lem Vig                  1.450        0         0       0
+
+229   KTMU Forskønnelse af ældre boligområder                                    1.500
+
+231   KTMU Nedlæggelse af kommunale brandhaner                                     400      300      300      300
+
+233   KTMU Renovering/udskiftning af vejbroer og rørunderføringer                  400    1.400     1.400   1.400
+
+235   KTMU Renovering/udskiftning af støttemure og trapper ved veje                400      400      400      400
+
+236   KTMU Renovering af p-plads ved Asylgade                                    3.300    4.500         0       0
+
+238   KTMU Ny belægning på Holstebrovej                                          4.800        0         0       0
+
+240   KTMU Vej afvanding                                                           250    1.000     1.000   1.000
+
+241   KTMU Ekstraordinære vedligeholdelsesprojekter - tekniske anlæg               500      500      500      500
+
+242   KTMU Udskiftning af forældede CTS-styringer                                  500      500      500      500
+244   KTMU Nedrivning af huse i små byer og landdistrikter                                        800     800     800     800
+
+246   KTMU Kondemneringer jf. byfornyelsesloven - myndighedsopgave                                300     300     300     300
+
+248   KTMU Fursund Færgeri / Sleipner: Begge Hovedmotorer (HVM) renoveres jf. producentens anbefaling
+                                                                                                   750      0       0       0
+
+249   KTMU Posthustorv - Færdiggørelse                                                          1.000    1.000      0       0
+             Fursund Færgeri: Forundersøgelse og Projektering af nyt billetsystem i land i
+251   KTMU                                                                                        250     250       0       0
+             Branden
+252   KTMU Pulje til cykelstier                                                                     0    5.000   5.000   5.000
+
+254   KTMU Big Blue - Forlægning af Brårupgade                                                  5.000       0       0       0
+
+263   KTMU Pulje til trafiksikkerhedsprojekter                                                    250     500    1.000   1.000
+
+265   KTMU Tryghedsfremmende tiltag på skoleveje                                                  500     500     500     500
+
+267   KTMU Stibro over Viborgvej                                                                  500    3.500   3.000      0
+
+268   KTMU Ombygning af Gymnasiekrydset                                                             0       0     500    3.000
+
+269   KTMU Pulje til opkøb af ejendomme til nedrivning                                              0       0     150     150
+
+271   KTMU Ombygning af indercirkel i rundkørsel ved Holstebrovej-Ballingvej-Katkjærvej             0       0     300       0
+
+272   KTMU Kåstrupvej - udvidelse og forstærkning af vejen                                      4.500    4.500      0       0
+
+274   KTMU Katodisk beskyttelse af havneanlæg                                                       0    1.200      0       0
+
+276   KTMU Sikring af kajanlæg ved Skive søsport                                                    0     500    4.700      0
+
+277   KTMU Skive Havn – Ny asfaltslidlag i område 8 og 11                                           0       0     700       0
+
+278   KTMU Skive Havn - Udskiftning af belægning på Dronningekajen                                  0       0       0    1.800
+
+279   KTMU Havne Eftersyn og tilstandsregistrering                                                  0     500       0       0
+
+281   KTMU Furhavn Renovering af Molehoved                                                          0     500    1.100      0
+
+284   KTMU GreenLab - færdiggørelse af vejanlæg, bassiner m.m.- udenfor rammen                      0    4.400      0       0
+
+287   KTMU Lager og lagerstyring til brug for genbrugsmaterialer på Gyrovej                       250     250       0       0
+
+289   KTMU Skive Havn – Ny vaskepladsfacilitet                                                      0       0     250       0
+
+290   KTMU Cykelsti Hagens Mølle - Grønning                                                       500    2.000   1.645      0
+
+291   KTMU Etablering af grønt i forbindelse med lednings- og vejrenovering                       250     500     500     500
+
+293   KTMU Konvertering til fjernvarme eller varmepumpe                                           500    1.500   1.000   1.000
+
+295   KTMU Jebjerg Bypark - Oprensning af sø                                                      250               0       0
+
+297   KTMU Udvidelse af asfalt p-plads, Strandtangen Skive                                          0     300       0       0
+
+298   KTMU Naturpark Flyndersø og Naturpark Sdr. Lem Vig                                        1.000    1.000   1.000   1.000
+
+300   KTMU Vådområde- og lavbundsprojekter - Lokal Grøn Trepart                                                                  NOTE 11
+
+300   KTMU Vådområde- og lavbundsprojekter - Lokal Grøn Trepart                                                                  NOTE 12
+
+302   KTMU Klima, skov og natur pulje                                                           2.500
+
+304   KTMU Implementering af stiplan og stiprojekter                                              250
+
+       NY    Kapitalbevarende asfaltsopgaver                                                   15.000
+
+308    KFU   Anlægsønsker fra høringssvar - Væksthus Spøttrup – Center for selvforsyning        1.500    1.500      0       0
+
+309    KFU   Anlægsramme - pulje KF-udvalget (SIS)                                              3.000    3.000   3.000   3.000
+
+310    KFU   Pulje til renovering af kommunale/selvejende idrætsanlæg                           1.000    1.000   1.000   1.000
+
+313    KFU   Spejdersamrådet i Skive                                                              200     200     200     200
+
+314    KFU   Anskaffelse af ny biblioteksbus                                                    3.215       0       0       0
+
+316    KFU   Bedre faciliteter for Skive Musikskole                                             3.500       0       0       0
+
+319    KFU   Spøttrup Borgs renæssance - opgradering af formidling                              2.500       0       0       0
+
+369    KFU   Kulturcenter Skive, tilskud til udvidelse af publikumsfaciliteter                  3.000
+
+       NY    Nr. Søby friluftsbad - teknisk anlæg                                               2.500    2.000
+321   SSFU   Botilbud Gefionsvej - etablering af yderligere to boliger                        2.800            0             0       0
+
+323   SSFU   Anlægspulje til vedligeholdelse af bygninger                                     1.000
+
+325   SSFU   Ændring af bygninger på Aktivitetstilbuddet Skovly                               1.000            0             0       0
+
+327   BFU    Pulje til bygningsvedligehold                                                    3.000
+
+328   BFU    Pulje til legepladser og skolegårde                                              1.000
+
+330   BFU    Pulje til bedre faglokaler, jf. Aftale om folkeskolens kvalitetsprogram 2025     7.000            0             0       0
+
+331    ØK    BigBlue Skive                                                                    3.000
+             Nyt kort- og låsesystem til rådhusene (Torvegade 10, Den Blå Diamant og Det
+333    ØK                                                                                     1.300            0             0       0
+             Gamle Rådhus)
+       NY    Negativ anlægspulje                                                              -3.500
+
+
+
+             Anlægsudgifter i alt                                                            99.461        53.714       33.247   25.837
+
+
+
+             Kommunegarantier
+Side Udvalg 1000 kr.                                                                        AnsøgerGaranteret lån   Deponering
+
+312   KFU    Anlægsønsker fra høringssvar - Glyngørehallen, Tag inkl. solceller                             1.479        1.479
+
+             Kommunegarantier i alt                                                                         1.479        1.479
+
+
+
+             Indskud i Landsbyggefonden
+             1000 kr.                                                                          2027         2028          2029    2030
+
+             Kapitaltilførsel støttet byggeri                                                10.000            0             0       0
+
+             Indskud i Landsbyggefonden                                                      10.000            0             0       0
+
+
+
+             Låneramme
+             1000 kr.                                                                          2027         2028          2029    2030
+
+             Arealerhvervelser, 85%                                                               0          850           850     850
+
+             Byfornyelse, 95 %                                                                  456          912           912    1.368
+
+             Områdefornyelser landsbyer, 95 %                                                   918          507           876     406
+
+             Kommunale havne                                                                      0         1.700        2.050    1.800
+
+             Fursund Færgeri                                                                    750            0             0       0
+
+             Installation af el- og varmeproducerende anlæg                                     500         1.500        1.000    1.000
+
+             Låneoptagelse i alt                                                              2.624         5.469        5.688    5.424
+                         Noter til Budget 2027
+         I forbindelse med behandlingen af overførsler fra 2026 til 2027 i
+         marts 2027, vil forventede 25 mio. kr. fra Arbejdsmarkedsområdet
+Note 1
+         overskud blive overført til arbejdsmarkedsområdets budget 2027 i
+         stedet for at blive lagt i kassen som hidtidig praksis.
+         Samlet set bliver specialskoleområdet i budget 2027 tilført 3 mio.
+         kr. Herefter er budgettet fastlåst på 2027-niveau. Desuden
+         fremgår det af handleplanens spor 2, at budgettet for hele
+         specialområdet reduceres med mindst 2,7 % af budgettet i 2027-
+         prisniveau. Fremover styres der efter modellen for
+Note 2
+         specialundervisning i specialklasserækker og enkeltintegration og
+         det vil således ikke være muligt at demografiregulere i tilfælde af
+         flere elever, men hvis de øvrige indsatser i handleplanen har en
+         positiv effekt ved yderligere faldende elevtal, så kan budgettet
+         nedreguleres tilsvarende.
+         Der er afsat midler til at lave en undersøgelse af en bedre
+Note 3   mobilitetsplan samt evt. udvidelse af tele-taxa/flex-trafik,
+         knudepunkter, minibusser og evt. nedlæggelse af byzone.
+         Det skal undersøges om der kan afsøges mulighed for samarbejde
+Note 4
+         med Park og Vej.
+         Det undersøges om ordningen skal udbredes tværfagligt i Budget
+Note 5
+         2028.
+Note 6   Der gives til demografi, men ikke de 0,5 mio.kr. til sagsbehandler.
+Note 7   Restbeløbet på 0,9 mio.kr. findes indenfor Seniorområdet budget.
+         Den nuværende skolebus dækning leverer ikke den ønskede
+         service for folkeskoleelever i vores randområder. Derfor ønskes
+         der iværksat bedre skolebus dækning for 0 - 9 klassetrin i
+Note 8   randområderne så ingen elever skal forlade undervisning før tid
+         eller vente unødigt længe for transport til og fra skole. Det er
+         vigtigt at alle elever i vores randområder sikres god og stabil
+         skolebus uanset klassetrin.
+           Der udarbejdes et budgetoplæg med fokus på, at belyse mulige
+          effektiviseringer på optimering og centralisering af de
+          administrative funktioner i hele Skive Kommune. Der sigtes efter et
+Note 9
+          niveau af effektivisering på minimum 1 mio. kr. årligt.
+          Budgetanalysen indgår i budgetbehandlingen for budget 2028 med
+          den nødvendige høringsproces.
+Note 10   Igangsættes inden for eget budget.
+          Beløbet vil blive nulstillet jf. økonomiudvalgets behandling af
+Note 11
+          Budgetstatus pr. 18. august 2026.
+          Beløbet vil blive nulstillet jf. økonomiudvalgets behandling af
+Note 12
+          Budgetstatus pr. 18. august 2026.
+          Der igangsættes en undersøgelse om fremtidig placering af
+Note 13
+          Krabbeshus heldagsskole.
+Budget 2027, drift på bevillingsniveau i 1.000 kr.
+Budget, 1000 kr.                                     2027         2028         2029         2030
+Udviklingsudvalget                                  6.300        5.545        4.189        4.089
+Klima-, Teknik- og Miljøudvalget                  164.284      160.688      159.885      165.725
+Beredskabskommisionen                              14.613       14.613       14.613       14.613
+Kultur og Fritidsudvalget                         106.542      106.542      105.142      105.142
+Sundhed, Social og Forebyggelsesudvalget          386.503      385.936      384.934      384.934
+Seniorudvalget                                    539.286      538.617      538.650      538.650
+Erhvervs-, Turisme- og Arbejdsmarkedsudvalget   1.090.275    1.107.137    1.138.288    1.183.168
+Børne og Familieudvalget                          956.416      955.479      952.945      953.102
+Økonomiudvalget                                   329.302      317.069      293.439      281.399
+Service i alt                                   2.504.370    2.484.683    2.452.862    2.446.314
+Overførselsudgifter i alt                       1.064.152    1.106.944    1.139.225    1.184.510
+Skattefinansieret drift i alt                   3.568.522    3.591.627    3.592.087    3.630.824
+Brugerfinansieret drift i alt                            0            0            0            0
+
+
+
+
+Likviditet
+

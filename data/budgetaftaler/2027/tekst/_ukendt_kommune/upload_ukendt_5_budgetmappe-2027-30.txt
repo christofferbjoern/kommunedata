@@ -1,0 +1,151 @@
+# kilde: filer/_ukendt_kommune/upload_ukendt_5_budgetmappe-2027-30.pdf | metode: pdftotext
+
+                           Samlet overblik
+Overskrift                                 2027       2028      2029      2030
+Reguleret udgangspunkt
+
+
+Resultatopgørelse pr. 12.08.2026            -22.665    40.395    72.600     92.629
+Lån - botilbudspuljen                       -18.200
+VE-pulje                                     -2.349
+I alt - Nyt udgangspunkt                    -43.214    40.395    72.600     92.629
+
+Drift
+Omprioriteringer
+Økonomiudvalget                              -8.000 -4.000 -5.000           -6.000
+Udvalget for Børn og Familie                 -7.069 -5.069 -5.069           -5.069
+Udvalget for Sundhed og Omsorg               -1.922 -3.896 -4.896           -4.896
+Udvalget for Arbejdsmarked og Uddannelse          0       0       0              0
+Udvalget for Kultur og Fritid                     0       0       0              0
+Udvalget for Teknik og Miljø                   -450    -800    -800           -800
+Udvalget for Klima og Landdistrikter              0       0       0              0
+I alt - Omprioriteringer                    -17.441 -13.765 -15.765        -16.765
+
+Driftsudvidelser
+Økonomiudvalget                                 850       800       800        800
+Udvalget for Børn og Familie                 18.600     5.600     5.600      5.600
+Udvalget for Sundhed og Omsorg                7.300     5.300     5.300      5.300
+Udvalget for Arbejdsmarked og Uddannelse          0         0         0          0
+Udvalget for Kultur og Fritid                   326       326       326        326
+Udvalget for Teknik og Miljø                  4.166     3.995     2.896      2.896
+Udvalget for Klima og Landdistrikter              0         0         0          0
+I alt - Driftsudvidelser                     31.242    16.021    14.922     14.922
+
+Difference mellem Omprioriteringer og
+Driftsudvidelser                             13.801     2.256      -843     -1.843
+
+Anlæg
+Samlet ændringer                             20.079      -643     2.987     -3.243
+I alt - Anlæg                                20.079      -643     2.987     -3.243
+
+
+
+Balance                                      -9.334    42.008    74.744     87.543
+                     Økonomiudvalget
+                                                                                     Bevillings-
+Overskrift                       2027         2028         2029         2030         type
+Omprioriteringer
+Systemtilpasning på IT-området     -1.000       -1.000       -2.000       -2.000 Drift
+Kunstig intelligens (KI)           -2.000       -3.000       -3.000       -4.000 Drift
+Reduktion buffer 2027              -5.000              0            0            0 Drift
+Sum Omprioriteringer               -8.000       -4.000       -5.000       -6.000
+Driftsudvidelser
+Venskabsbyer                            300          300          300          300 Drift
+Fonden for bevarelse af gamle
+bygninger i Mariager                     50            0            0            0 Drift
+Udviklingspulje                         100          500          500          500 Drift
+Folkehaven i Hobro                      400            0            0            0 Drift
+Sum Driftsudvidelser                    850          800          800          800
+Udvalget for Sundhed og Omsorg
+                                                                                        Bevillings-
+Overskrift                            2027         2028         2029         2030       type
+Omprioriteringer
+Vederlagsfri fysioterapi                -1.422       -1.896       -1.896       -1.896 Drift
+Lejemål Brogade                                0            0     -1.000       -1.000 Drift
+
+Etablering af 12 botilbudspladser              0     -1.500       -1.500       -1.500
+på Kærvej – afledt driftsbesparelse                                                     Drift
+Nedlæggelse af faglig lederstilling       -500         -500         -500         -500 Drift
+Sum Omprioriteringer                    -1.922       -3.896       -4.896       -4.896
+Driftsudvidelser
+Investering på ældreområdet              7.000        5.000        5.000        5.000 Drift
+Fastholdelse af serviceniveau
+                                             300          300          300          300 Drift
+vedrørende nødkaldssytemer
+Sum Driftsudvidelser                     7.300        5.300        5.300        5.300
+     Udvalget for Børn og Familie
+                                                                                 Bevillings-
+Overskrift                           2027       2028       2029       2030       type
+Omprioriteringer
+Justering af grundbudget på
+familieområdet                         -6.000     -4.000     -4.000     -4.000 Drift
+Reduktion i uddannelsesmidler på
+dagtilbud                                -273       -273       -273       -273 Drift
+Harmonisering af dagtilbudsledelse
+– Fuglereden                             -120       -120       -120       -120 Drift
+Tilpasning af budgettet til
+Erhvervsplaymaker                        -100       -100       -100       -100 Drift
+Særlig dagtilbud                         -576       -576       -576       -576 Drift
+Sum Omprioriteringer                   -7.069     -5.069     -5.069     -5.069
+Driftsudvidelser
+Specialundervisning
+(visitationspulje)                     13.000          0          0          0 Drift
+Løft af almenområdet på
+folkeskolerne                           3.500      3.500      3.500      3.500 Drift
+Pædagogisk ledelse på
+dagtilbud                               2.100      2.100      2.100      2.100 Drift
+Sum Driftsudvidelser                   18.600      5.600      5.600      5.600
+  Udvalget for Arbejdsmarked og
+           Uddannelse
+                                                                   Bevillings-
+Overskrift             2027       2028       2029       2030       type
+Omprioriteringer
+
+
+
+Sum Omprioriteringer          0          0          0          0
+Driftsudvidelser
+
+
+
+Sum Driftsudvidelser          0          0          0          0
+       Udvalget for Kultur og Fritid
+                                                                                        Bevillings-
+Overskrift                          2027         2028         2029         2030         type
+Omprioriteringer
+
+
+Sum Omprioriteringer
+Driftsudvidelser
+Frie midler til Kultur- og
+Fritidsaktiviteter                          50           50           50           50 Drift
+Øster Hurup lokalhistoriske arkiv           26           26           26           26 Drift
+Fritidsvejleder                            250          250          250          250 Drift
+Sum Driftsudvidelser                       326          326          326          326
+      Udvalget for Teknik og Miljø
+                                                                                    Bevillings-
+Overskrift                           2027        2028        2029        2030       type
+Omprioriteringer
+Kollektiv trafik                         -350        -700        -700        -700 Drift
+Rendestenstømning                        -100        -100        -100        -100 Drift
+Sum Omprioriteringer                     -450        -800        -800        -800
+Driftsudvidelser
+NT                                      2.631       2.460       1.361       1.361 Drift
+Vejafvandingsbidrag                     1.500       1.500       1.500       1.500 Drift
+Håndtering af særlige udfordringer
+med vilde katte                             35          35          35          35 Drift
+Sum Driftsudvidelser                    4.166       3.995       2.896       2.896
+   Udvalget for Klima og Landdistrikter
+                                                                          Bevillings-
+Note   Overskrift             2027       2028       2029       2030       type
+       Omprioriteringer
+
+
+
+       Sum Omprioriteringer          0          0          0          0
+       Driftsudvidelser
+
+
+
+       Sum Driftsudvidelser          0          0          0          0
+

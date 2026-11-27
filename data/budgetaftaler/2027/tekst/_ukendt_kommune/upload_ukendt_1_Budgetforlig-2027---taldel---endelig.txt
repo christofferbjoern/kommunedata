@@ -1,0 +1,387 @@
+# kilde: filer/_ukendt_kommune/upload_ukendt_1_Budgetforlig-2027---taldel---endelig.pdf | metode: pdftotext
+
+Budgetforlig 2027-2030
+                                                                                                                                                                                                I 1.000 kr.        I 1.000 kr.        I 1.000 kr.        I 1.000 kr.       I 1.000 kr.
+Inden valgte forslag:                                                                                                                                                                                2027      2028      2029      2030                                         2031
+Styringsbalance                                                                                                                                                                                    38.372    28.205    70.878    91.332
+Likviditet (365-dages regel ultimo året)                                                                                                                                                          410.986   378.539   330.075   246.099
+Serviceudgifter                                                                                                                                                                                 3.817.578 3.928.419 4.094.650 4.254.809
+Anlægsudgifter                                                                                                                                                                                    215.346   215.346   215.346   215.346
+Valgte forslag:
+Ændringer i alt, 2027-priser                                                                                                                                                                        -30.384           -60.493            -83.415            -90.915
+ - Heraf administrative besparelser, 2027-priser                                                                                                                                                   -16.252           -23.823            -23.823            -23.823
+Pris- og lønfremskrivning af ændringer (drift og anlæg)                                                                                                                                                                -1.505             -4.362             -7.300
+Efter valgte forslag:
+Effektiviserings- og omprioriteringskatalog i alt                                                                                                                                                 -63.062   -94.973 -103.648 -106.648
+Styringsbalance                                                                                                                                                                                     7.988   -33.793   -16.900    -6.883
+Likviditet (365-dages regel ultimo året)                                                                                                                                                          426.178   439.922   466.346   475.366 524.474
+Serviceudgifter                                                                                                                                                                                 3.782.701 3.867.877 4.007.472 4.157.494
+Anlægsudgifter                                                                                                                                                                                    211.522   203.139   215.346   215.346
+Serviceramme 2027                                                                                                                                                                               3.857.774
+Overholdelse af serviceramme                                                                                                                                                                      -75.073
+Anlægsramme 2027                                                                                                                                                                                  251.913
+
+Overholdelse af anlægsramme                                                                                                                                                                         -40.391
+
+
+
+                                                  + (positive tal) = mindreindtægt/merudgift, - (negative tal) = merindtægt/mindreudgift                                                        I 1.000 kr.        I 1.000 kr.        I 1.000 kr.        I 1.000 kr.
+
+ Nr.                    Udvalg                                Overskrift                                                 Kort beskrivelse                                      Udgiftstype 2027                   2028               2029               2030
+
+                                    Tekniske korrektioner mellem 1. og 2. behandling                                                                                         Sum af valgte:          -3.735            -4.041             -4.441             -4.641
+                                                                                         Nulstilling af pulje til L & C, flyt af indtægter vedr. refusion af statsrefusion af
+  1    Økonomiudvalget                                                                   særligt dyre enkeltsager, skævdeling af lønnen vedr. Ungecentrum samt                Drift - service     -125.241          -131.218           -135.813           -140.125
+                                                  Teknisk korrektion ØU - drift          fælleskommunalt it-system
+                                                                                         Udmøntning af L&C program samt flyt af indtægter vedr. refusion af
+  2    Ældre- og Sundhedsudvalget                                                                                                                                            Drift - service          5.327              5.314              5.320              5.320
+                                                  Teknisk korrektion ÆSU - drift         statsrefusion af særligt dyre enkeltsage
+
+  3    Teknik- og Ejendomsudvalget                                                                                                                                           Drift - service          2.113              2.188              1.128              1.128
+                                                  Teknisk korrektion TEU - drift         Udmøntning af L&C program samt nulstilling af husleje på gymnasievej
+
+  4    Social- og Beskæftigelsesudvalget                                                                                                                                     Drift - service         66.264            70.358             73.824             76.565
+                                                  Teknisk korrektion SBU - drift         Udmøntning af L&C program samt skævdeling af lønnen vedr. Ungecentrum
+
+  5    Plan-, Grøn- og Landdistriktsudvalget                                                                                                                                 Drift - service             276              -142               -186               -186
+                                                  Teknisk korrektion PGLU - drift Udmøntning af L&C program
+                                                                                  Udmøntning af L&C program samt tekniske korrektioner vedr. opdatering af
+  6    Kultur- og Idrætsudvalget                                                                                                                                             Drift - service         48.653            50.588             51.287             52.658
+                                                  Teknisk korrektion BUSU - drift elevtal
+
+  7    Teknik- og Ejendomsudvalget                                                                                                                                           Anlæg - udgifter        -1.128            -1.128                       0                  0
+                                                  Teknisk korrektion TEU - anlæg Finansiering af husleje på gymnasievej på anlæg vedr. Fremtidens Rådhus
+                                                Direktionens anbefalinger                                                                                                    Sum af valgte:          23.042            28.747             15.438             11.438
+                                                                                         Tilpasning af udgiftsbudget ifm. sundhedsreform. Sundhedsreformen blev
+                                                                                         allerede i budget 2026 søgt indarbejdet i kommunens budget fra 2027, men
+  8    Ældre- og Sundhedsudvalget                 ÆSU 1 Sundhedsreformen                 opdaterede tal til budget 2027 viser behov for justering af tidligere indarbejde Drift - service             9.043              9.043              9.043              9.043
+                                                                                         tal. Posten modsvares af indtægter på 11,4 mio. kr. under finansiering, der
+                                                                                         indgår i balancen.
+                                                  ØU 23 Pulje: Fortsættelse af ny
+                                                                                  Budgetlægning af næste trin på trappemodellen for det specialiserede
+                                                  budgetmodel på Det
+  9    Økonomiudvalget                                                            område (2030). Samtidig budgetlægning med råderumspulje på 12 mio. kr., Drift - service                                     0                  0                  0                  0
+                                                  specialiserede socialområde i hvorved forslaget går i nul. Kræver udmøntning af pulje inden 2030.
+                                                  2030
+                                                                                         Forslag om at reservere det ekstraordinære tilskud på 9,3 mio. kr. i 2028 i en
+                                                  ØU 25 Ekstraordinært
+ 10 Økonomiudvalget                                                                      pulje til 2-årig budgetlægning. Tilskuddet ophører efter 2028. Posten          Drift - service                       0          9.309                      0                  0
+                                                  finansieringstilskud i 2028            modsvares af 9,3 mio. kr. under finansiering, der indgår i balancen.
+
+                                                  ØU 27 Beredskab: Ny kontrakt Forventede merudgifter ifm. afluttende udbud og etableringen af et
+ 11 Økonomiudvalget                                                                                                                                                          Drift - service             677             1.073              1.073              1.073
+                                                  under udarbejdelse pga udbud selvstændigt beredskabsselskab.
+
+                                                  BUSU 3 Det specialiserede
+                                                  børneområde - varig udfordring
+ 12 Børn-, Unge- og Skoleudvalget                                                Udgiftspres på det specialiserede børneområde.                                              Drift - service          9.000              6.000              3.000                      0
+                                                  (skal ses i sammenhæng med
+                                                  SBU 9)
+
+                                                  SBU 9 Varig udfordring spec.
+                                                                                         Korrektion til dækning af udgiftspres som følge af stigende priser på sociale
+ 13 Social- og Beskæftigelsesudvalget             område 2. ØR 2026 (skal ses i                                                                                              Drift - service          3.000              2.000              1.000                      0
+                                                                                         tilbud.
+                                                  sammenhæng med BUSU 3)
+
+                                                  SBU 18 Specialiseret
+                                                                                         Denne hænger sammen med ÆSU 1 ovenfor, men vedrører en del af
+ 14 Social- og Beskæftigelsesudvalget             Rehabilitering                                                                                                             Drift - service          1.321              1.321              1.321              1.321
+                                                                                         sundhedsområdet, som nu ligger under SBU.
+                                                  (Sundhedsreform)
+                                                     Forslag til politisk drøftelse                                                                                          Sum af valgte:           7.250              9.650              9.650              9.650
+                                                                                         Hvis Kommunalbestyrelsen ønsker at fremrykke byudviklingen af ”Sun
+                                                  ØU 20 Ekstra ressourcer i
+                                                                                         Chemical-grunden” er der behov for at udvide administrationen i Teknik- og
+ 15 Økonomiudvalget                               forbindelse med udvikling af                                                                                               Drift - service          1.600              4.000              4.000              4.000
+                                                                                         Miljøforvaltningen til varetagelse af planlægnings- og myndighedsopgaver
+                                                  Sun Chemical-grunden                   svarende til op mod 5 årsværk årligt, indtil projektet er afsluttet.
+
+ 16 Økonomiudvalget                               ØU 24 Borgerrådgiver                   Aktivitetsbudget til borgerrådgiver.                                                Drift - service            -150              -150               -150               -150
+
+                                                  BUSU 8 Specialområdet -
+ 17 Børn-, Unge- og Skoleudvalget                 Rammekorrektion ift. aktuelt           Udgiftspres på det specialiserede børneområde.                                      Drift - service          5.000              5.000              5.000              5.000
+                                                  udgiftsniveau (5-8 mio. kr.)
+
+                                                  SBU 22 Veterankoordinator -
+ 18 Social- og Beskæftigelsesudvalget                                                    Varig finansiering af veterankoordinator fra 2027 og frem.                          Drift - service             800               800                800                800
+                                                  Løn og aktiviteter
+                                 Effektiviserings- og omprioriteringskatalog                                                                                                 Sum af valgte:         -59.763           -92.674          -103.349           -107.349
+                                                  BUSU 4: Reduktion i antal              Antallet af områdeledere reduceres fra fem til fire. De resterende ledere får
+ 22 Børn-, Unge- og Skoleudvalget                                                                                                                                            Drift - service            -325              -650               -650               -650
+                                                  dagtilbudsområder                      ansvar for flere dagtilbud.
+                                       BUSU 5a: Reduktion i              Antallet af dagplejeledere reduceres fra tre til to. Ledelsesopgaver fordeles
+23 Børn-, Unge- og Skoleudvalget                                                                                                                         Drift - service     -250     -500     -500     -500
+                                       dagplejeledelse                   på færre personer.
+
+
+                                       BUSU 6: Reduktion i ledelse på Budget til ledelse reduceres generelt på dagtilbudsområdet. Implementering
+26 Børn-, Unge- og Skoleudvalget                                                                                                                    Drift - service          -600    -1.200   -1.200   -1.200
+                                       dagtilbudsområdet              sker lokalt.
+                                       BUSU 10: Reduktion af tilskud Tilskud til pasning af egne børn reduceres med 5 %. Ordningen bevares, men
+30 Børn-, Unge- og Skoleudvalget                                                                                                                    Drift - service           -75     -100     -100     -100
+                                       til egenpasning                med lavere udbetaling.
+                                       BUSU 11:
+                                                                      Pulje til dækning af langtidsfravær fjernes. Udgifter skal fremover håndteres
+31 Børn-, Unge- og Skoleudvalget       Langtidsfraværspuljen                                                                                        Drift - service          -500     -500     -500     -500
+                                                                      inden for dagtilbuddenes egne rammer.
+                                       nedlægges
+                                       BUSU 12: Centralt              Reduktion af centrale puljer til bl.a. uddannelse og støttetimer.
+32 Børn-, Unge- og Skoleudvalget                                                                                                                    Drift - service         -1.300   -1.300   -1.300   -1.300
+                                       administrerede konti           Aktivitetsniveau tilpasses lavere ramme.
+                                                                         Pulje til praktik og uddannelse reduceres. Reduktion af opkvalificering og
+33 Børn-, Unge- og Skoleudvalget       BUSU 13b: Praktikpulje                                                                                            Drift - service     -900     -950     -950     -950
+                                                                         understøttelse af praktikforløb.
+                                                                         SFO ledelsestildelingen gøres delvis afhængig af antal børn i SFO'en og
+39 Børn-, Unge- og Skoleudvalget       BUSU 18: SFO-ledelse                                                                                              Drift - service        0     -600     -600     -600
+                                                                         reduceres samlet set.
+
+40 Børn-, Unge- og Skoleudvalget       BUSU 19b: Modtagelsesklasse Modtagelsesklasser. Fra 6 til 5 klasser men stadig to år.                             Drift - service     -417    -1.000   -1.000   -1.000
+
+                                                                      Budget til lejrskoler fjernes som en rammebesparelse. Skoler må finansiere
+41 Børn-, Unge- og Skoleudvalget       BUSU 20: Lejrskoler bortfalder                                                                                    Drift - service    -1.458   -3.500   -3.500   -3.500
+                                                                      eller undlade aktiviteter.
+                                                                         Reduktion af centrale puljer til kompetenceudvikling og sygdom. Mindre
+42 Børn-, Unge- og Skoleudvalget       BUSU 21: Centrale puljer                                                                                          Drift - service     -800     -800     -800     -800
+                                                                         økonomisk råderum til fælles indsatser.
+                                       BUSU 22: Maks. 24 elever          Særlig tildeling til klasser med høje klassekvotienter bortfalder. Mindre
+43 Børn-, Unge- og Skoleudvalget                                                                                                                         Drift - service    -1.420   -3.400   -3.400   -3.400
+                                       afskaffes                         holddeling/tolærerordning i Dansk og Matematik.
+47 Børn-, Unge- og Skoleudvalget       BUSU 26: Tilpasning PPR           Ressourcer reduceres. PPR-indsatsen tilpasses.                                  Drift - service     -200     -400     -400     -400
+                                       BUSU 27:
+48 Børn-, Unge- og Skoleudvalget                                         Konsulentressourcer reduceres. Mindre kapacitet til tværgående opgaver.         Drift - service     -300     -600     -600     -600
+                                       Medarbejder/konsulent
+                                                                         Udgifter til lægeerklæringer reduceres gennem strammere anvendelse.
+50 Social- og Beskæftigelsesudvalget   SBU 2: Lægeerklæringer                                                                                            Drift - service     -950     -950     -950     -950
+                                                                         Færre erklæringer forventes indhentet.
+                                       SBU 3: Psykologbehandling         Tilbud om psykologbehandling tilpasses og reduceres. Mindre omfang af
+51 Social- og Beskæftigelsesudvalget                                                                                                                     Drift - service     -425     -875     -875     -875
+                                       KRB                               behandlingsforløb.
+                                       SBU 4: Pårørendesamtaler          Pårørendesamtaler varetages internt frem for eksternt. Reducerer udgifter til
+52 Social- og Beskæftigelsesudvalget                                                                                                                   Drift - service       -100     -100     -100     -100
+                                       hjemtages                         eksterne leverandører.
+                                                                         Styrket opfølgning via flowindsats skal reducere udgifter på botilbud. Bedre
+55 Social- og Beskæftigelsesudvalget   SBU 7: Flowindsats botilbud                                                                                       Drift - service       50     -500     -500     -500
+                                                                         styring af borgerforløb.
+                                       ÆSU 1: Ophør af køb af            Udgifter til P-licenser ophører som følge af ny parkeringsordning.
+56 Ældre- og Sundhedsudvalget                                                                                                                            Drift - service      -50      -50      -50      -50
+                                       kommunale P-licenser              Besparelsen vedrører interne driftsudgifter uden ændring i servicen.
+
+                                       ÆSU 3: Reduktion af indsatsen Specialistteam reduceres med én stilling, og indsatsen målrettes komplekse
+58 Ældre- og Sundhedsudvalget                                                                                                                   Drift - service              -250     -500     -500     -500
+                                       i specialistteamet            forløb. Mindre komplekse opgaver håndteres i øvrige enheder.
+
+
+                                       ÆSU 4: Reduktion i           Helhedsplejen reduceres med ét årsværk baseret på flere digitale
+59 Ældre- og Sundhedsudvalget                                                                                                                            Drift - service     -500     -500     -500     -500
+                                       helhedsplejen via skærmbesøg skærmbesøg. Fysiske besøg erstattes delvist af virtuelle løsninger.
+
+                                       ÆSU 6: Tilpasning af              Træningsenheden reduceres med to stillinger via omlægning af opgaver.
+61 Ældre- og Sundhedsudvalget                                                                                                                            Drift - service     -475     -950     -950     -950
+                                       træningsopgaver                   Fokus på mere effektiv træningsform og organisering.
+                                       ÆSU 8: Lukning af daghjem på      Daghjemmet lukkes og kapacitet samles på færre lokationer. Tilpasning sker
+64 Ældre- og Sundhedsudvalget                                                                                                                       Drift - service         -1.600   -3.200   -3.200   -3.200
+                                       Tingstedet                        pga. lav belægning.
+
+                                       ÆSU 11: Reduktion af rengøring Rengøring reduceres midlertidigt i sommerperioden. Justering sker for at
+67 Ældre- og Sundhedsudvalget                                                                                                                            Drift - service     -250     -250     -250     -250
+                                       i sommerperioden               opnå besparelse.
+
+                                       ÆSU 14: Reduktion i           Ressourcer til kvalitetsudvikling nedjusteres. Mindre kapacitet til opfølgning
+70 Ældre- og Sundhedsudvalget                                                                                                                            Drift - service     -350     -700     -700     -700
+                                       kvalitetsudvikling            og udvikling.
+                                       ÆSU 15: Nedlæggelse af
+                                                                     Kommunale undersøgelser nedlægges. Nationale undersøgelser anvendes
+71 Ældre- og Sundhedsudvalget          brugertilfredshedsundersøgels                                                                                     Drift - service     -175     -175     -175     -175
+                                                                     fremover.
+                                       er
+                                       ÆSU 16: Investering i         Der investeres i digitalt planlægningsværktøj. Effektivisering forventes på
+72 Ældre- og Sundhedsudvalget                                                                                                                            Drift - service      500    -1.500   -1.500   -1.800
+                                       besøgsplanlægning             sigt.
+                                       ÆSU 17: Justering af          Budgetmodel ændres ved justering af demografiregulering. Plejeboliger
+73 Ældre- og Sundhedsudvalget                                                                                                                            Drift - service   -11.100   -9.100   -4.400   -5.100
+                                       demografiregulering           håndteres særskilt.
+                                       ÆSU 18: Justering pga. sund   Fremskrivning ændres med afsæt i udsat plejebehov. Forbrug flyttes til
+74 Ældre- og Sundhedsudvalget                                                                                                                            Drift - service    -2.000   -2.500   -2.700   -2.900
+                                       aldring                       senere alder.
+                                       ÆSU 19: Justeret              Budget tilpasses faktisk belægning. Giver mere retvisende økonomiske
+75 Ældre- og Sundhedsudvalget                                                                                                                            Drift - service    -1.600   -3.200   -3.200   -3.200
+                                       budgettildeling plejeboliger  rammer.
+                                       ÆSU 20: Udfasning af
+76 Ældre- og Sundhedsudvalget                                        Plejehjem udfases gradvist. Kapaciteten tilpasses fremtidigt behov.                 Drift - service      300    -1.000   -3.500   -5.300
+                                       Sandmarksbo
+                                                                    Plejehjem udfases i forbindelse med nye pladser. Kapaciteten tilpasses
+77 Ældre- og Sundhedsudvalget          ÆSU 21: Udfasning af Møllebo                                                                                      Drift - service      600    -1.700   -6.100   -6.100
+                                                                    fremtidigt behov.
+                                       KIU 1: Musikskolen
+78 Kultur- og Idrætsudvalget                                             Administrative og ledelsesmæssige opgaver i musikskolen omstruktureres.         Drift - service     -220     -330     -330     -330
+                                       omstrukturering
+                                       KIU 2: Øgede indtægter
+79 Kultur- og Idrætsudvalget                                             Flere elever og aktiviteter øger indtægten.                                     Drift - service      -45      -70      -70      -70
+                                       musikskole
+                                       KIU 3: SMS påmindelser
+80 Kultur- og Idrætsudvalget                                             Indførsel af SMS-påmindelser reducerer udeblevne afleveringer.                  Drift - service      -56      -56      -56      -56
+                                       bibliotek
+82 Kultur- og Idrætsudvalget           KIU 5: Gebyr bibliotek            Genindførsel af gebyr ved for sen aflevering.                                   Drift - service     -300     -300     -300     -300
+83 Kultur- og Idrætsudvalget           KIU 6: Inventar bibliotek         Reduktion i midler til inventar og vedligehold.                                 Drift - service      -50      -50      -50      -50
+85 Kultur- og Idrætsudvalget           KIU 8: Bogindkøb bibliotek        Reduktion i indkøb af bøger og digitale ressourcer.                             Drift - service      -80      -80      -80      -80
+
+86 Kultur- og Idrætsudvalget           KIU 9: Svømmeland arbejdstid Medarbejdere reducerer arbejdstid.                                                   Drift - service      -35      -35      -35      -35
+
+                                       KIU 10: Øget indtægt
+87 Kultur- og Idrætsudvalget                                             Øgede indtægter fra garderobe og salg.                                          Drift - service     -150     -130     -130     -130
+                                       arrangementer
+88 Kultur- og Idrætsudvalget           KIU 11: Deling grafiker           Grafikerstilling deles med biblioteker.                                         Drift - service     -196        0        0        0
+                                       KIU 12: Samdrift
+89 Kultur- og Idrætsudvalget                                             Øget samarbejde mellem kulturhuse og biblioteker.                               Drift - service        0     -400     -400     -400
+                                       kultur/bibliotek
+90 Kultur- og Idrætsudvalget           KIU 13: Tilskud haller            Reduktion af tilskud til selvejende haller.                                     Drift - service     -443     -674     -674     -674
+
+91 Kultur- og Idrætsudvalget           KIU 14: Reduktion tilskud MAPS Tilskud til museum reduceres.                                                      Drift - service        0     -145     -221     -221
+
+                                       KIU 15: Reduktion tilskud
+92 Kultur- og Idrætsudvalget                                             Tilskud til museum og vikingeborg reduceres.                                    Drift - service        0        0     -199     -199
+                                       MSØD/Borgring
+                                            KIU 17: Voksenundervisning
+94 Kultur- og Idrætsudvalget                                                    Tilskud til aftenskoler reduceres.                                                 Drift - service    -139      -211      -211      -211
+                                            reduktion
+
+                                            KIU 18: Yderligere
+95 Kultur- og Idrætsudvalget                                                    Yderligere reduktion af tilskud til aftenskoler.                                   Drift - service    -253      -253      -253      -253
+                                            voksenundervisning
+                                            KIU20: Udviklings- og
+142 Kultur- og Idrætsudvalget                                                   KIU 20: Udviklings- og temapuljer: Puljen forøges med 200.000 kr.                  Drift - service     200       200       200       200
+                                            temapuljer
+
+143 Kultur- og Idrætsudvalget               KIU23: Breddeidræt og events KIU 23: Breddeidræt og events: Puljen forøges med 200.000 kr.                             Drift - service     200       200       200       200
+
+                                            KIU 24: Prioritering opgaver og
+101 Kultur- og Idrætsudvalget                                               Opgaver og projekter prioriteres lavere.                                               Drift - service    -300      -300      -300      -300
+                                            projekter
+                                            KIU 25: Samdrift
+102 Kultur- og Idrætsudvalget                                               Kommunikationsopgaver samles på tværs.                                                 Drift - service    -100      -100      -100      -100
+                                            kommunikation
+
+                                            KIU 26: Demografitilskrivning
+103 Kultur- og Idrætsudvalget                                                   Demografiregulering pauses i 2027.                                                 Drift - service    -389      -389      -389      -389
+                                            pause
+
+106 Plan-, Grøn- og Landdistriktsudvalget   PGLU 2: Klimaplan budget            Budget til klimaplan reduceres. Færre midler til gennemførelse af klimatiltag. Drift - service         -75       -80       -80       -80
+                                                                                Tilpasning af kommunens flådestyring baseret på analyse. Effektivisering af
+108 Teknik- og Ejendomsudvalget             TEU 1: Flådestyring                                                                                                    Drift - service   -1.000    -1.500    -1.500    -1.500
+                                                                                køretøjsdrift.
+                                                                                Kommunal rengøring udliciteres yderligere. Skal reducere driftsudgifter
+109 Teknik- og Ejendomsudvalget             TEU 2b: Udlicitering rengøring                                                                                         Drift - service   -2.000    -6.000    -6.000    -6.000
+                                                                                gennem konkurrence. Mulighed for at institutionerne hjemtager
+                                                                                Besparelser på udekørende drift fordeles på vej- og parkområdet. Mindre
+110 Teknik- og Ejendomsudvalget             TEU 3b: Vej, Park og Byrum                                                                                             Drift - service    -700     -1.300    -1.300    -1.300
+                                                                                vedligeholdelsesniveau.
+                                                                               Takst på flextur øges og buffer fjernes. Reducerer kommunens udgifter til
+111 Teknik- og Ejendomsudvalget             TEU 4: Flextur og kollektiv trafik                                                                                     Drift - service   -4.700    -4.700    -4.700    -4.700
+                                                                               transport.
+112 Teknik- og Ejendomsudvalget             TEU 5: Parkområder                  Reduktion i vedligehold af legepladser og parker.                                  Drift - service    -100      -100      -100      -100
+                                                                                Øgede indtægter fra udlejning af kommunale arealer. Forbedrer
+113 Teknik- og Ejendomsudvalget             TEU 6: Lejeindtægter arealer                                                                                           Drift - service   -1.500    -1.500    -1.500    -1.500
+                                                                                driftsøkonomien.
+                                                                                ØU 1: Vederlag budget: Budget til politiske vederlag tilpasses. Tilpasning til
+150 Økonomiudvalget                         ØU1: Vederlag                                                                                                          Drift - service    -143      -143      -143      -143
+                                                                                aktuelt niveau.
+                                                                                ØU 2: Konferencer og kurser: Budget til konferencer og kurser reduceres.
+151 Økonomiudvalget                         ØU2: Konferencer og kurser                                                                                             Drift - service    -188      -188      -188      -188
+                                                                                Tilpasning til aktuelt niveau.
+                                            ØU 3: Myndighed
+116 Økonomiudvalget                                                             Ressourcer reduceres. Myndighedsområdet tilpasses.                                 Drift - service    -275      -550      -550      -550
+                                            ældre/hjælpemidler
+                                                                                Reduktion i myndighedsudgifter på socialområdet. Mindre administrativt
+117 Økonomiudvalget                         ØU 4: Myndighed social                                                                                                 Drift - service    -500      -500      -500      -500
+                                                                                niveau.
+118 Økonomiudvalget                         ØU 5: Borgerservice                 Ressourcer reduceres. Borgerservice tilpasses.                                     Drift - service    -550      -550      -550      -550
+119 Økonomiudvalget                         ØU 6: Praktikpladsfond              Nedlæggelse af praktikpladsfond. Sparer bidrag til ordningen.                      Drift - service    -450      -450      -450      -450
+                                            ØU 7: Reduktion
+120 Økonomiudvalget                                                             Reduktion svarende til to sekretariatschefer. Mindre ledelse.                      Drift - service   -2.100    -2.100    -2.100    -2.100
+                                            sekretariatschefer
+121 Økonomiudvalget                         ØU 8: VF-sekretariat                Reduktion i sekretariatsfunktion. Mindre administrativ kapacitet.                  Drift - service    -225      -550      -550      -550
+
+122 Økonomiudvalget                         ØU 9: Driftssikring boligbyggeri Reduktion af budget til driftssikring. Mindre støtte til boligprojekter.              Drift - service    -400      -400      -400      -400
+
+123 Økonomiudvalget                         ØU 10: ØKS årsværk                  Reduktion i lønsum svarende til 2-4 årsværk. Mindre administrativ kapacitet. Drift - service         -1.197    -1.771    -1.862    -2.335
+125 Økonomiudvalget                         ØU 12: TMF årsværk                  Reduktion svarende til ét årsværk. Mindre kapacitet i forvaltningen.               Drift - service    -400      -800      -800      -800
+126 Økonomiudvalget                         ØU 13: Teknologiskifte              Skift af teknologi. Effektivisering af drift.                                      Drift - service    -270      -270      -270      -270
+                                                                                Reduktion i lønsum. Tilpasning af Udbud og Indkøb med tilslutning af flere
+127 Økonomiudvalget                         ØU 14: HR og Jura årsværk                                                                                              Drift - service    -603      -805      -714      -241
+                                                                                standardaftaler.
+                                                                                Indkøbsbesparelse gennem bedre aftaler og øget compliance. Reducerer
+128 Økonomiudvalget                         ØU 15b: Indkøb                                                                                                         Drift - service   -3.500    -4.500    -5.500    -6.500
+                                                                                udgifter til indkøb.
+161 Økonomiudvalget                         AI og digitalisering                Investering i Digitalisering, AI og procesoptimering                               Drift - service   2.000     2.000      2.000     2.000
+161 Økonomiudvalget                         AI og digitalisering                Effektivisering vha. AI og digitalisering                                          Drift - service                       -2.000    -2.000
+129 Økonomiudvalget                         ØU 16: BKF årsværk                  Reduktion 3-5 årsværk inkl. chef. Tilpasning af Børne- og Kulturforvaltningen. Drift - service       -1.900    -2.820    -2.820    -2.820
+
+130 Økonomiudvalget                         ØU 17: Rådgiverydelser salg         Reduktion i rådgiverydelser til salgsfremme. Mindre eksternt forbrug.              Drift - service    -800      -800      -800      -800
+
+131 Økonomiudvalget                         ØU 18: Rådgiverydelser plan         Reduktion i rådgiverydelser til planlægning. Lavere ekstern bistand.               Drift - service       0      -550      -550      -550
+
+132 Økonomiudvalget                         ØU 19: Staben                       Reduktion i lønsum. Tilpasning af staben.                                          Drift - service    -300      -430      -430      -430
+                                                                                Bedre udnyttelse af bygninger reducerer arealudgifter. Større effektivitet i
+133 Økonomiudvalget                         ØU 20b: Arealoptimering                                                                                                Drift - service   -5.000   -10.000   -15.000   -15.000
+                                                                                anvendelse.
+                                            TVÆR 1: Centralisering af           Fakturahåndtering samles centralt i organisationen. Mindre
+134 Tværgående                                                                                                                                                     Drift - service    -737     -2.947    -2.947    -2.947
+                                            fakturahåndtering                   ressourceforbrug, ensartede processer og mulighed for øget digitalisering.
+
+                                                                                Ressource til skolernes sekretariater i forlængelse af TVÆR 1. Centralisering
+154 Børn-, Unge- og Skoleudvalget           Skolernes sekretariater                                                                                           Drift - service          326     1.303     1.303     1.303
+                                                                                af fakturahåndtering
+                                            TVÆR 2: Centralisering af           Rekrutteringsopgaven samles centralt. Mindre ressourceforbrug, ensartede
+135 Tværgående                                                                                                                                                     Drift - service    -700      -700      -700      -700
+                                            rekruttering                        processer og mulighed for øget digitalisering.
+                                            TVÆR 3: Eksterne
+136 Tværgående                                                                  Forbruget af eksterne konsulenter reduceres. Flere opgaver løses internt.          Drift - service   -2.000    -2.000    -2.000    -2.000
+                                            konsulentydelser
+                                            TVÆR 4: Tilpasning af MED-          MED-organisationen tilpasses i omfang og struktur. Reducerer møde- og
+137 Tværgående                                                                                                                                                     Drift - service       0      -100      -100      -100
+                                            organisation                        ressourceforbrug.
+                                            TVÆR 5: Fælles skabeloner og        Standardisering af skabeloner og onboardingprocesser. Effektivisering af
+138 Tværgående                                                                                                                                                     Drift - service    -500      -500      -500      -500
+                                            onboarding                          arbejdsgange.
+
+                                                  Egne forslag                                                                                                     Sum af valgte:    2.822     -2.099     -399       301
+153 Børn-, Unge- og Skoleudvalget           Fællesledelse                       Fællesledelse mellem Mælkebøtten og Idrætsbørnehaven                               Drift - service    -250       -250     -250      -250
+154 Børn-, Unge- og Skoleudvalget           Udvidet åbningstid                  Reducere puljen til udvidet åbningstid                                             Drift - service    -269       -269     -269      -269
+155 Børn-, Unge- og Skoleudvalget           BKF                                 Besparelse af en ekstra stilling i BKF                                             Drift - service    -780       -780     -780      -780
+
+156 Børn-, Unge- og Skoleudvalget           Dagtilbud og skoler                 Rammebesparelse på dagtilbud og skoler                                             Drift - service   -4.000    -4.000    -4.000    -4.000
+
+158 Ældre- og Sundhedsudvalget              Hjemmepleje                         Investering i hjemmepleje                                                          Drift - service   2.000     3.000     5.000     6.000
+                                                                                Stilling i TMF/naturteamet, der pt er budgetlagt i naturbudgettet flyttes til ØU
+162 Plan-, Grøn- og Landdistriktsudvalget   Naturteam                                                                                                              Drift - service    -600      -600      -600      -600
+                                                                                konto 6 ligesom alle andre stillinger (budgetneutral)
+                                                                                Stilling i TMF/naturteamet, der pt er budgetlagt i naturbudgettet flyttes til ØU
+163 Økonomiudvalget                         Naturteam                                                                                                              Drift - service     600       600       600       600
+                                                                                konto 6 ligesom alle andre stillinger (budgetneutral)
+                                                                                Realisering af Naturstrategien/Naturhandleplanen. Efter de seneste
+164 Plan-, Grøn- og Landdistriktsudvalget   Naturstrategi                       nedskæringer i foråret 2026 vil der være mindre end 180 til de påtrængende         Drift - service     500       500       500       500
+                                                                                indsatser i naturen
+                                                                                                                                                    Finansiering -
+     Økonomiudvalget                        Udligning                 Ekstra udligning                                                              skatter/tilskud/u       0      -300     -600     -900
+                                                                                                                                                    dligning
+                                            Anlæg
+                                                                      ØU01: Nulstilling af anlægspulje til råderum. Dette sker ifm. udmøntning af
+169 Økonomiudvalget                         Råderum                                                                                                 Anlæg - udgifter    -6.712    -6.165   -3.969   -2.208
+                                                                      råderummet (puljen finansierer nye anlæg)
+
+176 Plan-, Grøn- og Landdistriktsudvalget   Skovrejsning              Pulje til skovrejsning                                                        Anlæg - udgifter    1.000     1.000    1.000    1.000
+
+170 Teknik- og Ejendomsudvalget             Modernisering af skoler   Modernisering af skoler - et almentområde, der kan mere for flere             Anlæg - udgifter    5.712     5.165    2.969    1.208
+
+186 Teknik- og Ejendomsudvalget             Modernisering af skoler   Modernisering af skoler - et almentområde, der kan mere for flere             Anlæg - udgifter    2.500     2.500    2.500    2.500
+
+
+187 Teknik- og Ejendomsudvalget             Vedligeholdelse           TEU101: Vedligehold af kommunens ejendomme                                    Anlæg - udgifter    -2.500    -2.500   -2.500   -2.500
+
+                                                                                                                                                    Anlæg -
+188 Teknik- og Ejendomsudvalget             Køge Marina               TEU42: Køge Marina infrastruktur (anlægsindtægt nulstilles)                                       8.317    10.782
+                                                                                                                                                    indtægter
+
+189 Teknik- og Ejendomsudvalget             Køge Marina               TEU42: Køge Marina infrastruktur (fremrykning)                                Anlæg - udgifter    -2.696   -10.782
+

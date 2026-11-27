@@ -1,0 +1,180 @@
+# kilde: filer/Langeland/upload_regneark_2_Budgetforhandlingsoversigt-for-budget-2027-2030.pdf | metode: pdftotext
+
+Budgetforhandlingsoversigt 2027-2030
+
+
+       (Beløb er angivet i hele tusinde)                                                                                                         2027       2028      2029       2030
+
+Udgangspunkt:                 Resultat af ordinær drift ved budgetforslag til 1. behandling i KMB den 14. september 2026 (- = driftsoverskud)      9.667     23.647    32.505     43.244
+
+  F           Tekniske        Specifikation af tekniske budgetændringer efter 1. behandlingen:
+  I      budgetændringer      Opdateret skøn for skatteindtægter i 2025, til regulering i 2028 grundet selvbudgettering                                 0     5.968          0          0
+  N             efter
+  A       1. behandlingen
+  N
+  S                           I alt                                                                                                                     0     5.968          0          0
+
+  T           Tekniske        Specifikation af tekniske budgetændringer efter 1. behandlingen:
+  E      budgetændringer
+  K             efter         ØK - Lovpligtige planer og sektorplaner                                                                               -100       -100      -100       -100
+  N       1. behandlingen     ØK - Tjenestemandspensioner                                                                                           -300       -400      -400       -400
+  I                           ØK - Transitionsaftalen (TSA) og øvrige systemer relaterende til TSA mellem KMD og KL                                 -500       -500      -500       -500
+  S                           ØK - Voldgiftskendelse vedr. overtidsbetaling, indgår ikke i servicerammen                                          -5.300          0         0          0
+  K                           THU - Reparation af Strynøfærgen herunder afløserfærgen                                                              1.000          0         0          0
+  E                           THU - Vedligeholdelse af diget ved Vejlen                                                                              500          0         0          0
+                              EKU - Kulturregion Fyn, budgettilpasning                                                                               -30        -30       -30        -30
+                              EKU - Kontanthjælp, overførselsskøn                                                                                 -2.000     -2.000    -2.000     -2.000
+                              EKU - Øvrig vejledning og opkvalificering i beskæftigelsesindsatsen, overførselsskøn                                 2.000      2.000     2.000      2.000
+                              EKU - Lokaletilskud - folkeoplysningsområdet                                                                          -100       -100      -100       -100
+                              ÆSU - Overdragelse af Rudkøbing Plejehjem, IT-udstyr mv.                                                               250          0         0          0
+                              ÆSU - Reduktion i budget på området for bilstøtte efter servicelovens § 114                                         -1.142     -1.142    -1.142     -1.142
+                              ÆSU - Reduktion i Fællestillidsrepræsentants tid (FTR) på ældre- og sundhedsområdet (gennemført i 2026)                -86       -172      -172       -172
+                              ÆSU - Reduktion i TR og AMR timer på FOA området (gennemført i 2026)                                                  -410       -410      -410       -410
+                              BSU - Elevtalsregulering, skoleområdet almen                                                                          -392       -392      -392       -392
+                              BSU - Børnetalsregulering, dagtilbudsområdet                                                                           -95        -95       -95        -95
+                              BSU - Børnetalsregulering, dagtilbudsområdet, forældrebetaling                                                          36         36        36         36
+                              I alt                                                                                                               -6.669     -3.305    -3.305     -3.305
+
+  K          Politiske        Specifikation af politiske ændringsforslag efter 1. behandlingen:
+  A      ændringsforslag      Budgetkatalog 2027 - Forslag nr. 1: Nedsat elafgift i 2027                                                          -1.500          0         0          0
+  T            efter          Budgetkatalog 2027 - Forslag nr. 2: Reduktion på skolernes IT-personale, svarende til en halv stilling                -250       -250      -250       -250
+  A      1. behandlingen      Budgetkatalog 2027 - Forslag nr. 3: Reduktion på budget til leasing af IT-udstyr på skoleområdet                      -150       -150      -150       -150
+  L                           Budgetkatalog 2027 - Forslag nr. 4 Reduktion i SFO - Reducere normering fra 13,25 til 16 børn pr. voksen              -710       -710      -710       -710
+  O                           Budgetkatalog 2027 - Forslag nr. 5: Omklassificering af ældreboliger til flygtningeboliger (gennemføres ikke)            0          0         0          0
+  G                           Budgetkatalog 2027 - Forslag nr. 6: Reduktion i planlægger på baggrund af ruteplanlægningssystem                      -338       -450      -450       -450
+                              Budgetkatalog 2027 - Forslag nr. 7: Reduktion og omlægning af demografimodel på ældreområdet                        -5.476     -7.074    -9.868     -9.868
+                              Budgetkatalog 2027 - Forslag nr. 8: Gevinster ved bl.a. effektiviserede arbejdsgange på børne- og familieområdet      -750       -750      -750       -750
+                              Budgetkatalog 2027 - Forslag nr. 9: Gevinster på voksensocialområdet som følge af besluttet proces med                -400       -400      -400       -400
+                                                               eksterne konsulenter
+                              Budgetkatalog 2027 - Forslag nr. 10: Styrkelse af kontraktforhandling og opfølgning af anbringelser                   -350       -750      -750       -750
+                              Budgetkatalog 2027 - Forslag nr. 11: Familiehuset nedlægges i sin nuværende form og lejemål opsiges                   -405       -810      -810       -810
+                                                                Beløb til fortsat aktivitetstilbud                                                    55        100       100        100
+                              Budgetkatalog 2027 - Forslag nr. 12: Gevinstrealisering via udbud og konkurrenceudsættelse                          -1.372     -1.285    -1.285     -1.285
+                              Budgetkatalog 2027 - Forslag nr. 13: Ingen ansættelse af administrativ kontorelev i 2027                              -118       -359      -267          0
+                              Budgetkatalog 2027 - Forslag nr. 14: Effektivisering vedr. serviceaftaler om serverhosting                            -480       -480      -480       -480
+                              Budgetkatalog 2027 - Forslag nr. 15: Opjustering af forventninger aktier og renter                                    -800       -800      -800       -800
+                              I alt                                                                                                              -13.044    -14.168   -16.870    -16.603
+
+  Æ          Politiske        Specifikation af politiske ændringsforslag efter 1. behandlingen:
+  N      ændringsforslag      Nødreperation af Byarkivet                                                                                             500          0         0          0
+  D            efter          SHORES medarbejder (Finansiering af afledt drift i 2027, opnormering fra 18 til 25 timer)                                0        365       365        365
+  R      1. behandlingen      Kommunikations- og webmedarbejder (omlægning af vakant stilling vedr. webkonsulent)                                    150        150       150        150
+  I                           Elbiler - ladestandere - første lokation (kan finansieres via overførsel af driftsmidler fra 2026 til 2027)              0          0         0          0
+  N                           Elbiler - ladestandere - fremtidige udvidelser                                                                         190        190       190        190
+  G                           Elbiler - flådestyringskoordinator og vedligeholdelse af ladestandere samt beredskabsopgaver                           690        690       690        690
+  E                           Samlet udviklingsplan for Langeland                                                                                    500        500         0          0
+  R                           Timeaftale med Svendborg Kommune på Natur- og Miljøområdet                                                             109        109       109        109
+                              Fremtidig struktur for Nordskolen (mere ledelse)                                                                        85        200       200        200
+                              Rudkøbing Bymølle - tilskud hæves                                                                                       15         15        15         15
+                              Foreningskonsulent - 2 årig forsøgsordning på 7 timer ugentligt                                                        125        125         0          0
+                              Erhvervskonsulent - 2 årig forsøgsordning til etablering af frivillig-netværk til understøttelse af iværksætteri       100        100         0          0
+                              Styrket indsats omkring ungemiljøet                                                                                    125          0         0          0
+                              Midler til vedligeholdelse af badeanstalten                                                                            200          0         0          0
+                              Bedre udnyttelse af kommunens bygninger, omrokeringsplaner                                                           1.000          0         0          0
+                              I forbindelse med flytning af Værkstedsgården lukkes "73" bygningen med henblik på salg                               -113       -450      -450       -450
+                              I alt                                                                                                                3.677      1.994     1.269      1.269
+
+  R          Politiske        Specifikation af politiske ændringsforslag efter 1. behandlingen:
+  E      ændringsforslag      Børne og Skoleudvalget
+  D            efter          Udviklingspuljen på skoleområdet reduceres                                                                            -314       -314      -314       -314
+  U      1. behandlingen      Junior- og Ungdomsklub - øget brugerbetaling                                                                          -100       -100      -100       -100
+  K                           Reduktion i Ungdomsskolen (intet tilbud om skitur)                                                                       0       -100      -100       -100
+  T                           2 matrikler på Børnehaveområdet (Vejlen/Simmerbølle) som integrerede institutioner                                    -500     -1.000    -1.000     -1.000
+  I                           Opsigelse af Elevpraktik.dk                                                                                            -20        -20       -20        -20
+  O                           Tilpasning af serviceniveau vedr. pasningsgaranti i dagpleje/vuggestue                                                   0       -400      -400       -400
+  N                           Rammebesparelse - børneområdet                                                                                        -150       -600      -600       -600
+  E                           Rammebesparelse - skoleledelse                                                                                        -292       -700      -700       -700
+  R                           Rammebesparelse - Ørstedskolen                                                                                        -208       -500      -500       -500
+
+                              Erhverv- og Kulturudvalget
+                              Udmeldelse af Femern Bælt                                                                                                0        -39       -39        -39
+                              Nedlæggelse af gåhold som aktiveringstilbud                                                                              0       -140      -140       -140
+                              Investering med midler fra den Sociale Kapitalfond, Projekt på a-dagpenge og jobklare kontanthjælpsmodtagere             0     -1.200    -1.100       -300
+                              Investering med midler fra den Sociale Kapitalfond, sygedagpengemodtager                                                 0     -1.200    -1.100       -300
+                              Lokaletilskud - Forslag fra Folkeoplysningsudvalget vedr. nye vedtægter for lokaletilskud imødekommes                    0          0         0          0
+                              Gennemgang af kommunale arbejdsgange mv.                                                                                 0     -2.000    -3.000     -3.000
+                              Indsatser vedr. sygedagpenge-området                                                                                -1.000     -1.000    -1.000     -1.000
+                              Rammebesparelse: Langelands Museum                                                                                    -200       -200      -200       -200
+                              Afskaffelse af bogbilen november 2027, etablering af ubemandet udlåning i nord og syd                                  137        -75       -75        -75
+                              Nedlæggelse af aktivitetstilbud Rådhuskælderen                                                                        -550       -930      -930       -930
+                      Afklaring vedr. salgmuligheder og eventuel flytning af byarkivet                                                     0      -127      -127      -127
+
+                      Socialudvalget
+                      Etablering af børne- og ungehjem                                                                                  2.000     2.000         0         0
+                      Reduktion som følge af etablering af børne og ungehjem                                                                0    -2.400    -3.200    -3.200
+                      Teamleder til det specialiserede voksenområde                                                                       650       650       650       650
+                      Det specialiserede voksensområde                                                                                 -1.500    -2.150    -2.150    -2.150
+                      Værkstedsgården, reduktion ½ normering                                                                             -200      -300      -300      -300
+                      Indsatser i Familieafdelingen, egne tilbud                                                                         -400      -400      -400      -400
+
+                      Teknik- og Havneudvalget
+                      Færgetakster (p/l fremskrivning svarende til 2027-priser samt at takster fremadrettet p/l fremskrives årligt)     -375      -375      -375      -375
+                      Øgede indtægter på Teknik- og Havneudvalgets område                                                                -50      -200      -200      -200
+
+                      Ældre og Sundhed
+                      Revisitering vedr. ændring af rengøringsfrekvens i hjemmeplejen fra hver 2. til hver 4. uge                        300          0         0         0
+                      Ændring af rengøringsfrekvens i hjemmeplejen fra hver 2. til hver 4. uge                                          -503       -671      -671      -671
+                      Robotstøvsuger på plejecentre og i eget hjem                                                                      -211       -884      -884      -884
+                      Lukning af Stigtebo Plejecenter                                                                                  2.012     -6.448   -10.181   -10.181
+                      Lukning af Stigtebo Plejecenter - tilskud til flytteomkostninger                                                   360          0         0         0
+                      Biretter på plejecentre kun i weekend                                                                             -820       -820      -820      -820
+                      Tilpasning af sygeplejersker på plejecentre                                                                       -200       -200      -200      -200
+                      Hybridløsning vedr. mad på plejecentrene                                                                          -650     -1.300    -1.300    -1.300
+                      Reduktion af ruteplanlægger                                                                                       -338       -450      -450      -450
+
+                      Økonomiudvalget
+                      Ophør af tilskud til Svedekassen                                                                                   -188      -188      -188      -188
+                      Tilpasning og optimering af IT-drift samt overgang til nye IT-driftscentre                                       -1.350    -1.350    -1.350    -1.350
+                      Gevinstrealisering via udbud og konkurrenceudsættelse                                                              -286      -286      -286      -286
+                      Opgave og kompetenceafklaring ift. organisationen - analyse                                                         500         0         0         0
+                      Opgave og kompetenceafklaring ift. organisationen                                                                  -500    -2.000    -2.000    -2.000
+
+                      Besparelser - ledelse og administration                                                                          -2.285    -5.170    -5.920    -5.920
+
+                      I alt                                                                                                            -7.231   -33.587   -41.670   -40.070
+
+       Renter         Specifikation af politiske ændringsforslag efter 1. behandlingen:
+                      Yderligere opjustering af forventning til aktier og renter                                                       -1.050    -1.050    -1.050    -1.050
+                      Renter på lån - Ørstedbyen Etape 2                                                                                    0      -120      -240      -300
+                      I alt                                                                                                            -1.050    -1.170    -1.290    -1.350
+
+                      Resultat af ordinær drift                                                                                       -14.650   -20.621   -29.361   -16.815
+                      Anlæg:
+
+                      Jordforsyning
+                      002205 Udstykning Ørstedbyen Etape 2 - Byggemodning                                                               4.000     4.000     2.000         0
+                      002205 Udstykning Ørstedbyen Etape 2 - Indtægt ved salg af grunde                                                     0    -4.000    -4.000    -2.000
+                      002205 Udstykning Rue Mark - Indtægter ved salg af grunde                                                        -4.000    -4.000    -2.000         0
+                      Faste ejendomme
+                      002515 Landsby- og områdefornyelse                                                                                 400       400         0         0
+                      Cykelstier
+                      Ansøgning til Cykelpuljen 2027-2030 (0 kr. i 2027, 19,063 mio. kr. i 2028 og 2029, -15,251 mio. kr. i 2030)          0     1.200     2.000         0
+                      Vandløb
+                      Vandløbsreguleringsprojekt Mejerigrøften                                                                           111         0         0         0
+                      Redningsberedskab
+                      005895 Sløjfning af brandhaner                                                                                       0       500       500       500
+                      Daginstitutioner
+                                                                                                                                       3.500     3.000     8.000         0
+                      Havne
+                      023540 4-årig investeringsplan havnene                                                                           7.500     7.500         0         0
+                      Helhedsplan Rudkøbing Havn - Proces og organisering med henblik på sikring af fremdrift og realisering             500         0     1.500         0
+                      Turisme
+                      064862 Medfinansieringspulje Erhverv og Turisme (forhøjes fra 2028 med 100.000 kr. og overføres til drift)          98       355       400       400
+                      Generelle reserver
+                      065276 Resterende anlægsramme til senere disposition                                                                 0         0       500    11.728
+
+                      KMB beslutninger
+                      Energirenovering Hovedgaden 64 - Humble Skole (KMB 27.04.2026)                                                     224         0         0         0
+                      Energirenovering Snødevej 138 - Nordskolen (KMB 27.04.2026)                                                          0         0       102         0
+                      Energirenovering Ahlefeldtsgade 13 – Borgerhuset (KMB 27.04.2026)                                                    0         0         0       166
+                      Energirenovering Havnegade 7A – Lokalhistorisk Arkiv (KMB 27.04.2026)                                                0         0         0       206
+
+                        Anlæg i alt                                                                                                   12.333      8.955     9.002   11.000
+                        Resultat af det skattefinansierede område                                                                     -2.317    -11.666   -20.359   -5.815
+                        Afdrag på lån                                                                                                 17.088     17.484    17.864   18.164
+                        Afdrag på lån i Ørstedbyen                                                                                         0      4.000     4.000    2.000
+                        Lånoptagelse                                                                                                  -7.500     -7.500    -7.500   -7.500
+                        Øvrige balanceforskydninger og kursreguleringer                                                                    0          0         0        0
+                        Samlet likviditetsændring*                                                                                     7.271      2.318    -5.995    6.849
+* Påvirkningen af pris- og lønudviklingen for overslagsårene 2028-2030 er ikke indregnet i den samlede likviditetsændring ovenfor.
+

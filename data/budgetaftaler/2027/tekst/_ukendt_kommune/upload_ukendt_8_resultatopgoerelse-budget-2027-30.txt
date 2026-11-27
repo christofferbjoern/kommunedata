@@ -1,0 +1,95 @@
+# kilde: filer/_ukendt_kommune/upload_ukendt_8_resultatopgoerelse-budget-2027-30.pdf | metode: pdftotext
+
+Budget 2027 - 2030
+Resultatopgørelse og finansieringsoversigt
+
+Resultatopgørelse
+                                                     Budget                    Budgetoverslag
+Beløb i 1.000 kr.                                     2027         2028            2029          2030
+
+
+Indtægter
+Skatter                                              -5.003.879   -5.114.819      -5.236.014    -5.419.429
+Generelle tilskud mv.                                -1.922.391   -2.000.319      -2.016.040    -2.051.197
+Indtægt i alt                                        -6.926.270   -7.115.138     -7.252.054     -7.470.626
+
+
+Driftsudgifter
+Økonomiudvalget                                        790.223      799.144         806.594       805.545
+  1.01 Beredskab                                         24.047       21.093         21.093         21.093
+  1.02 Administration                                   550.750      558.953        565.978        563.619
+  1.03 Tværgående områder og initiativer                 11.326       11.229         11.229         11.229
+  1.05 Køb og salg af ejendomme m.m.                       -343         -343           -343             -343
+  1.06 Kommunale Ejendomme                              204.443      208.212        208.637        209.947
+Sundhedsudvalget                                       121.978      123.118         122.474       122.749
+  2.01 Sundhed og forebyggelse                           83.992       84.748         84.104         84.379
+  2.02 Medfinansiering                                        0            0              0               0
+  2.03 Tandpleje                                         37.986       38.370         38.370         38.370
+Klima- og Miljøudvalget                                 18.185       19.838          19.783        19.783
+  3.01 Klima og Miljø                                    18.185       19.838         19.783         19.783
+Social- og Beskæftigelsesudvalget                    2.668.982    2.685.390       2.714.212     2.778.147
+  4.01 Handicap, Psykiatri og Misbrug                   672.275      681.307        681.307        681.307
+  4.02 Arbejdsmarkedsområdet                            877.798      860.976        854.322        852.757
+  4.03 Førtidspensioner og boligstøtte                1.016.788    1.045.460       1.081.720     1.147.220
+  4.04 Koordineret Ungeindsats                          102.120       97.647         96.863         96.863
+Kultur-, Fritids- og Turismeudvalget                   129.032      130.035         130.032       130.032
+  5.01 Kultur og Fritid                                 122.905      123.846        123.843        123.843
+  5.02 Turisme                                            6.127        6.189          6.189          6.189
+Erhvervs- og Udviklings-, og Landdistriktsudvalget     203.156      210.201         211.275       211.275
+  6.01 Havne og Færgedrift                               21.588       26.705         27.695         27.695
+  6.02 Drift og Teknik                                  172.964      174.805        174.889        174.889
+  6.03 Plan og Landdistriktsudvikling                     3.118        3.150          3.150          3.150
+  6.04 Erhverv                                            5.486        5.541          5.541          5.541
+Senior- og Omsorgsudvalget                             986.946    1.006.701       1.016.787     1.032.068
+  7.01 Pleje og Omsorg                                  986.946    1.006.701       1.016.787     1.032.068
+Familie-, Børne- og Uddannelsesudvalget              1.724.164    1.713.960       1.714.759     1.715.939
+  8.01 Skole                                            872.605      860.220        859.656        859.757
+  8.02 Dagtilbud                                        421.530      418.427        419.790        420.869
+  8.03 Sundhedspleje                                     15.789       15.948         15.948         15.948
+  8.04 Børn og Familie                                  388.626      393.556        393.556        393.556
+  8.05 Forberedende Grunduddannelse                      25.614       25.809         25.809         25.809
+Driftsudgifter i alt                                 6.642.665    6.688.387       6.735.916     6.815.538
+
+
+P/L vedr. drift                                               0      162.833        354.744        557.010
+Resultat af ordinær drift                             -283.605     -263.918        -161.394       -98.078
+Budget 2027 - 2030
+Resultatopgørelse og finansieringsoversigt
+
+
+Resultatopgørelse
+                                                               Budget                    Budgetoverslag
+Beløb i 1.000 kr.                                               2027          2028           2029         2030
+Anlægsudgifter
+
+
+Anlæg i alt                                                      214.933      229.759         232.588      264.520
+
+
+Resultat af det skattefinansierede område                         -68.672      -34.159         71.194      166.442
+
+
+BRUGERFINANSIERET OMRÅDE
+Klima- og Miljøudvalget
+  3.01 Klima og Miljø                                               -6.000      -6.000          -6.000       -6.000
+Resultat af det brugerfinansierede område                          -6.000       -6.000         -6.000       -6.000
+
+
+Resultat før renter                                               -74.672      -40.159         65.194      160.442
+Renteindtægter og -udgifter netto                                   -2.914        -426          -4.801       -5.649
+Resultat efter renter                                             -77.586      -40.585         60.393      154.793
+
+
+
+
+Finansieringsoversigt
+                                                               Budget                    Budgetoverslag
+Beløb i 1.000 kr.                                               2027          2028           2029         2030
+Resultat efter renter                                             -77.586      -40.585         60.393      154.793
+Optagne lån Ældreboliger og handicapboliger                               0          0               0            0
+Optagne lån                                                        -34.186      -1.749         -23.756       -1.763
+Afdrag på lån                                                      82.448      142.273         70.855       65.217
+Finansforskydninger                                                -29.771     -45.582              32           32
+Balance (+ = kasseforbrug)                                        -59.095      54.357         107.524      218.279
+Bemærk: Positive tal angiver udgifter og negative tal angiver indtægter
+

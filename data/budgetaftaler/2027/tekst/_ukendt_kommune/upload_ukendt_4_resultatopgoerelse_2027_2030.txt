@@ -1,0 +1,43 @@
+# kilde: filer/_ukendt_kommune/upload_ukendt_4_resultatopgoerelse_2027_2030.pdf | metode: pdftotext
+
+Resultatopgørelse for budget 2027-2030
+Mio. kr.
+Negative beløb = indtægter/overskud
+Positive beløb = udgifter/underskud                    Budget      Budget      Budget      Budget
+(Drift i 2026-priser - øvrige poster i årets priser)    2027        2028        2029        2030
+Finansiering
+Skatter                                                 -1.534,4    -1.566,5    -1.607,3    -1.650,2
+Skatter, tilskud og udligning - selvbudgettering            -1,6         0,0         0,0         0,0
+Tilskud og udligning                                      -329,4      -335,3      -344,3      -346,9
+Finansiering i alt                                      -1.865,5    -1.901,8    -1.951,6    -1.997,2
+Drift
+Basisbudget juni 2026 i 2026 p/l-niveau                  1.850,1     1.855,4     1.862,5     1.861,5
+Ændringer til basisbudgettet
+Indarbejdede ændringer                                     -97,2       -89,8       -85,6       -78,2
+Lov- og cirkulæreændringer                                  12,6        12,4        12,0        12,0
+Serviceudgifter ud over vedtaget service                     3,4         3,3         2,1         2,1
+Prioriteringsforslag                                        -6,9       -27,9       -47,9       -67,9
+Drift i alt i 2026 p/l-niveau                            1.762,0     1.753,3     1.743,1     1.729,6
+Pris- og lønstigninger vedrørende drift                     52,8        94,3       145,3       198,8
+Drift i alt i årets p/l-niveau                           1.814,7     1.847,6     1.888,5     1.928,3
+Renter                                                      -0,5        -0,5        -0,5        -0,5
+Resultat af ordinær drift                                  -51,2       -54,6       -63,6       -69,3
+Afdrag på lån                                               23,7        23,6        24,1        22,9
+Resultat strukturel balance                                -27,5       -31,1       -39,5       -46,4
+Anlæg
+Anlægsudgifter                                              47,1        63,7        53,0        60,6
+Anlægsindtægter                                             -3,7       -22,5        -2,5        -2,5
+Anlæg i alt                                                 43,5        41,2        50,5        58,1
+Finansforskydninger
+Låneoptagelse                                               -5,0        -5,0        -5,0        -5,0
+Balanceforskydninger
+Finansforskydninger i alt                                   -5,0        -5,0        -5,0        -5,0
+Resultat skattefinansieret område                           11,0         5,1         6,0         6,6
+Brugerfinansieret område
+Basisbudget                                                 -5,7        -5,7        -5,7        -5,7
+Drift                                                        0,0         0,0         0,0         0,0
+Pris- og lønfremskrivning                                    1,1         0,6         0,1        -0,5
+Anlæg                                                        0,0         0,0         0,0         0,0
+Resultat brugerfinansieret område                           -4,6        -5,0        -5,6        -6,2
+Samlet kassetræk                                             6,4         0,1         0,4         0,4
+
