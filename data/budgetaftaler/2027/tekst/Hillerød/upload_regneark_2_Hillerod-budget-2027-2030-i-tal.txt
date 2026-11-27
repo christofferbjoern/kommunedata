@@ -1,0 +1,1205 @@
+# kilde: filer/Hillerød/upload_regneark_2_Hillerod-budget-2027-2030-i-tal.pdf | metode: pdftotext
+
+                       Budgetaftale 2027-2030
+
+                       Mio.kr. , netto, årets priser                                                                                        2026                   2027                2028              2029                      2030
+                                                                                                                                     Korrigeret
+                                                                                                                                      Budget                Budget              Budget             Budget                Budget              27 28 29 30
+                       DRIFTS OG ANLÆGSUDGIFTER:
+                       Skatter                                                                                                             -4.299,0         -4.691,291          -4.751,489 -4.838,381                      -5.052,403
+                       Refusion købsmoms                                                                                                        0,0              0,000               0,000      0,000                           0,000
+                       Tilskud og udligning                                                                                                  -153,1            302,582             351,090    317,141                         371,494
+                       Driftsudgifter                                                                                                       4.225,1          3.987,984           4.053,425 4.066,588                        4.060,196
+                       Renter                                                                                                                  -2,1             -5,646              -5,596     -5,546                          -5,546
+                       Resultat af ordinær drift                                                                                             -229,2           -406,371            -352,570   -460,198                        -626,259
+                       Anlægsudgifter (HK 0, 2-6)                                                                                             313,3            189,203             705,589    313,553                         230,317
+                       Anlægsindtægter (HK 0, 2-6)                                                                                                             -11,700              -9,045    -10,645                           0,000
+                       Skattefinansieret område ialt                                                                                             84,1         -228,868             343,974   -157,290                        -395,942
+                       Anlægsudgifter (HK 1 - brugerfinansieret og uden for anlægsloft)                                                                          0,000               0,000      0,000                           0,000
+                       Brugerfinansieret område ialt                                                                                                             0,000               0,000      0,000                           0,000
+                       Pris og lønskøn FF&AU                                                                                                                                        -1,658     -4,416                          -8,378
+                       Pris og lønskøn AØ                                                                                                                                            2,325      2,989                           2,329
+                       Pris og lønskøn i alt                                                                                                      0,0            0,000             119,622    250,265                         389,250
+                       Årets resultat, ekskl. HK 1 - brugerfinansieret anlæg                                                                     84,1         -228,868             464,263     91,547                         -12,741
+
+                       KAPITALBEVÆGELSER:
+                       Årets resultat, inkl. HK 1 - brugerfinansieret anlæg                                                                      84,1         -228,868             464,263            91,547                   -12,741
+                       Låneoptagelse                                                                                                            -29,2           -2,600             -27,447           -15,024                   -15,025
+                       Afdrag på lån                                                                                                             35,4           34,282              34,732            35,485                    35,752
+                       Finansforskydninger                                                                                                       57,9          -12,713             -12,943           -10,409                    -6,629
+
+                       Ændring af likviditet ('POSITIVT TAL er lig med forbrug af likvider)
+                       ** inkl. korrektioner vedr. likviditetstræk                                                                             148,1          -209,899             458,605           101,599                      1,357
+                       + = udgift/underskud - = indtægt/overskud
+
+
+                                                                                                                                   forventet kasse ult.   forventet kasse   forventet kasse ult. forventet kasse
+                                                                                                                                          2026                ult.2027             2028              ult. 2029   forventet kasse ult. 2030
+                       Likviditet ultimo juni 2026 (608,406 mio. kr.)                                                                      458,959             668,858             210,252           108,654                   107,297
+                       OBS - udgangspunkt for kassen
+
+
+                       Korrektion af kasse - fremrykket vedr. FBC effekt i 2026                                                                     1,3
+
+
+
+                       NØGLETAL:
+                       Skatteprocent                                                                                                          25,60               25,60               25,60             25,60                    25,60
+                       Grundskyldspromille *) - Produktionsjord                                                                                5,85                5,85                5,85              5,85                     5,85
+                       Grundskyldspromille *) - Øvrige ejendomme                                                                               6,60                6,60                6,60              6,60                     6,60
+                       Langfristet gæld - skattefinans.                                                                                       635,4               603,7               596,5             576,0                    555,3
+                       Servicerammen (med pl - dvs i løbende priser) overslagsår beregnet                                                   3.090,9             3.189,7             3.275,8           3.360,9                  3.455,0
+                       Udgifter indenfor servicerammen (med pl - dvs i løbende priser)                                                                          3.234,7             3.355,8           3.497,2                  3.609,4
+                       + = udgift/underskud - = indtægt/overskud
+
+                       *) fra 2024 omlægges beskatning for boligejere fra afgiftspligtige grundværdier til beskatning direkte på
+                       grundværdien for ejendomsejere. Grundskyldspromillen fastsættes ved lov.
+
+18-09-2026 kl. 08:32                                                                                                                                                                                                                                       Budget 2027-2030 i tal
+FINANSIERINGSFORSLAG. FORSLAG DER ER MARKERET MED X I HØJRE KOLONNE INDGÅR I BUDGETFORSLAGET
+
+
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+Finansieringsforslag til budget
+
+
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                                                          Akt. Service          2027      2028      2029      2030    Områdets            Godkendte
+Finansieringsforslag                                                                                                   -88.754   -60.374   -62.674   -59.549    budget             korrektioner
+Akt. 11, Administrationen
+
+11FF2027-001 Indkøbsprovenu                                                                           11 100             -800      -800      -800      -800      1.206.400               x
+NY11FF2027-001 Indkøbsprovenu                                                                         11 100             -500                                                            x
+11FF2027-002 Ydelsesstøtte og info-aktiviteter                                                        11 100              -225      -225      -225      -225           1.046             x
+11FF2027-003 Systemudgifter                                                                           11 100            -1.000    -1.000    -1.000    -1.000           1.106             x
+11FF2027-004 Automatisering                                                                           11 100              -800      -800      -800      -800 relevante lønsummer         x
+NY11FF2027-004 Automatisering                                                                         11 100             -200      -200      -200      -200                              x
+11FF2027-005 Opkrævningsgebyrer                                                                       11 100              -100      -100      -100      -100          -993               x
+11FF2027-006 Tjenestemandspensioner                                                                   11 100            -1.400    -1.400    -1.400    -1.400        21.560               x
+NY11FF2027-006 Tjenestemandspensioner                                                                 11 100             -400                                                            x
+11FF2027-007 Justering af pulje til tiltag i forbindelse med forsikringspolitikken                    11 100             -221      -221      -221      -221          1.021               x
+NY11FF2027-007 – Forsikringspulje.                                                                    11 100             -150      -150      -150      -150                              x
+11FF2027-008 Justering af pulje til reparation af skader på biler                                     11 100             -150      -150      -150      -150          1.846               x
+NY11FF2027-008 – reparation af bilskader                                                              11 100              -25       -25       -25       -25                              x
+11FF2027-009 Tilpasning af budget til generelt kontorhold                                             11 100               -50       -50       -50      -50            180               x
+11FF2027-010 Begravelseshjælp, befordringsgodtgørelse og lægeerklæringer                              11 100              -140      -140      -140     -140          1.400               x
+11FF2027-011 Administrativ lønreduktion - residual til senere udmøntning                              11 100              -533      -533      -533     -533        281.448               x
+11FF2027-011 Administrativ lønreduktion - rammebesparelse i Familiesektionen – reduktion af rådgivere.11 100              -650      -650      -650     -650
+11FF2027-011 Administrativ lønreduktion - klimaplanens indsats med virksomheder og boligejere om      11   100
+                                                                                                  energibesparelser.      -770      -770      -770     -770
+11FF2027-011 Administrativ lønreduktion - tværgående hygiejneindsats                                  11 100              -300      -300      -300     -300                              x
+NY FF flytning af projektledelsesressourcer fra drift til anlæg (Ejendomme og By og Miljø)            11 100            -6.355    -3.425    -3.325     -200                              x
+NYUspecificeret Rammebesparelse på alle aktivtetsområder og arbejdspladser 0,25 pct (1/400 del) -
+ex. dagtilbud                                                                                         11 100            -7.276    -7.276    -7.276    -7.276                             x
+
+
+
+
+18-09-202608:32                                                                                   Side 2 af 35                                                            Budget 2027-2030 i tal
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                                                   Akt. Service    2027     2028     2029     2030    Områdets         Godkendte
+Akt. 12, Ejendomme
+12FF2027-001 Renovering af kommunale bygninger                                                 12   100    -1.502   -1.502   -1.502   -1.502        7.655              x
+12FF2027-002 Husleje, grunde og bygninger                                                      12   100    -1.100   -1.100   -1.100   -1.100       40.391              x
+NY12FF2027-002 – Husleje – yderligere                                                          12   100      -200     -200     -200     -200                           x
+12FF2027-003 Øvrige ejendomsudgifter                                                           12   100      -100     -100     -100     -100        1.391              x
+NY12FF2027-003 – Øvrige ejendomsudgifter.                                                      12   100       -25      -25      -25      -25                           x
+NY12FF2027-003 – Øvrige ejendomsudgifter Udbedring af brandforhold                             12   100      -200     -200     -200     -200                           x
+NY12FF2027-003 – Øvrige ejendomsudgifter Forbrugsudgifter - varme                              12   100      -150     -150     -150     -150                           x
+NY12FF2027-003 – Øvrige ejendomsudgifter forbrugsudgifter - el                                 12   100      -100     -100     -100     -100                           x
+NY12FF2027-003 – Øvrige ejendomsudgifter forbrugsudgifter - vand                               12   100       -50      -50      -50      -50                           x
+NY12FF2027-003 – Øvrige ejendomsudgifter Indvendig vedligehold af ejendomme - yderligere
+reduktion                                                                                      12   100     -228     -228     -228     -228                            x
+NY Midlertidige pavilloner på Skolen ved Skoven – konvertering fra drift til anlæg i 2027      12   100     -500        0        0        0                            x
+
+Akt. 13, Rengøring - Bestiller
+13FF2027-001 Affald, følere og forskudt tid                                                    13   100     -260     -260     -260     -260         2.195
+NY13FF2027-001 Affald og forskudt tid                                                          13   100     -190     -190     -190     -190         2.195              x
+13FF2027-002 Hovedrengøring, skoler efter sommerferien                                         13   100     -201     -201     -201     -201         1.508
+13FF2027-003 Batteriskift og måtter                                                            13   100     -100     -100     -100     -100           344              x
+13FF2027-004 Sundhedscentret                                                                   13   100      -70      -70      -70      -70            70              x
+
+Akt. 21, Natur, Miljø og Klima
+21FF2027-001 Reduceret drift af grønne arealer og færre affaldsspande                          21   100     -200     -200     -200     -200         2.600              x
+
+Akt. 23, Kirkegårde
+23FF2027-001 Fjernelse af bænke                                                                23   100      -50      -50      -50      -50         3.397
+NY23FF2027-001 Fjernelse af bænke                                                              23   100      -27      -27      -27      -27                            x
+
+Akt. 27, Ejendomme - Grøn drift
+ingen forslag
+
+Akt. 28, By og Miljø
+28FF2027-001 Reduktion af drift på kommuneplan                                                 28   100      -16      -16      -16      -16           459              x
+
+Akt. 31, Beskæftigelsesindsats
+
+
+18-09-202608:32                                                                             Side 3 af 35                                                  Budget 2027-2030 i tal
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                                                           Akt. Service    2027     2028     2029     2030    Områdets       Godkendte
+31FF2027-001 Reduktion i lønudgifter til borgere i kommunale løntilskud                                31   100      -50      -50      -50      -50           733          x
+
+
+
+Akt. 32, Specialiseret voksenområde
+32FF2027-001 Personalereduktioner på tilbuddene på det specialiserede voksenområde                     32   100     -869     -869     -869     -869       117.500            x
+32FF2027-002  Rammebesparelse
+32FF2027-003 Hjemtagelse         på den
+                           af borgere   socialfagligetilmyndighed
+                                      på klubtilbud     kommunens tilbud (investeringsforslag) –       32   100    -3.790   -3.790   -3.790   -3.790      323.935            x
+forudsætter vedtagelsen af 32AU2027-001 ”Videreudvikling af klubtilbuddet Oasen samt udvidelse af
+åbningstid”                                                                                            32   100    -1.400   -1.400   -1.400   -1.400        3.403            x
+32FF2027-004 Udmøntning af analyse af særligt dyre enkeltsager                                         32   100     -500     -500     -500     -500        84.000            x
+
+Akt. 33, Forsørgelsesydelser
+ingen forslag
+
+Akt. 34, Ældre
+34FF2027-001 UDGÅR
+34FF2027-001
+34FF2027-001 A  Plejehjem -- yderligere
+              B Plejehjem    Rammebesparelse
+                                        rammebesparelse- ses i sammenhæng med 34FF2027-001A            34   100    -3.018   -3.018   -3.018   -3.018      260.931
+Plejehjem - Rammebesparelse                                                                            34   100    -3.018   -3.018   -3.018   -3.018      260.931
+34FF2027-002 Nedlæggelse af tilbuddet om at lette demente borgeres overgang til plejehjem              34   100      -223     -210     -210     -210          223            x
+NY34FF2027-099 Ændret disponering af ældrelovspulje                                                    34   100    -2.000   -2.000   -2.000   -2.000                         x
+
+Akt. 35 Sundhed
+35FF2027-001 Sparet drift ved at tre pladser på Rehabiliteringsafdelingen overtages af Region
+Østdanmark                                                                                             35   100    -3.000   -3.000   -3.000   -3.000        3.000            x
+
+
+
+Akt. 38, Erhverv og Uddannelse
+38FF2027-001 Bortfald af støtte til C4 bygningsdrift                                                   38   100     -123     -123     -123     -123           123            x
+38FF2027-002 Reduktion af digitaliseringspuljen                                                        38   100     -188     -188     -188     -188         4.638            x
+NY38FF2027-002 Yderligere reduktion af Digitaliseringspulje                                            38   100     -750     -500     -500     -500                          x
+38FF2027-003 UDGÅR                                                                                     38   100        0        0        0        0                          x
+38FF2027-004 Rammebesparelse på UUH svarende til 1,5 %                                                 38   100     -104     -104     -104     -104         6.907            x
+38FF2027-005 Rammebesparelse på STU svarende til 1,5 %                                                 38   100     -300     -300     -300     -300        11.246            x
+
+Akt. 41, Dagtilbud børn
+41FF2027-001 UDGÅR                                                                                     41   100        0        0        0        0         9.952
+
+
+18-09-202608:32                                                                                     Side 4 af 35                                                Budget 2027-2030 i tal
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                  Akt. Service     2027     2028     2029     2030   Områdets       Godkendte
+41FF2027-002 Ændring af uddannelsesmæssig sammensætning       41   100    -4.327   -4.327   -4.327   -4.327      272.987
+
+
+
+
+18-09-202608:32                                            Side 5 af 35                                                Budget 2027-2030 i tal
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                                                                 Akt. Service    2027     2028     2029     2030    Områdets         Godkendte
+Akt. 42, Skoler Reduktion af rammebeløb til almenundervisning, ledelse og adm. 1.-9. klasse –
+42FF2027-001
+Scenarie  A
+42FF2027-001    Reduktion af rammebeløb til almenundervisning, ledelse og adm. 1.-9. klasse –                42   100    -8.093   -8.093   -8.093   -8.093      215.000
+Scenarie  B
+42FF2027-001    Reduktion af rammebeløb til almenundervisning, ledelse og adm. 1.-9. klasse –                42   100    -6.218   -6.218   -6.218   -6.218      215.000
+Scenarie C                                                                                                   42   100    -4.343   -4.343   -4.343   -4.343      215.000
+NYFF2027-999 Reduktion af almen undervisning                                                                 42   100    -1.667   -2.550   -2.550   -2.550                           x
+NYFF2027-999 Reduktion af specialundervisning                                                                42   100    -4.000   -4.000   -4.000   -4.000                           x
+42FF2027-002 Besparelse som følge af at tilbyde andre skoletilbud til elever i behandlings- og
+specialundervisningstilbud, som ikke opnår trivsel og udvikler sig i deres specialiserede tilbud - skal
+ses sammen med 42AU2027-005 - EFFEKT på akt.omr. 42                                                          42   100     -300     -700     -700     -700       128.200              x
+42FF2027-002 Besparelse som følge af at tilbyde andre skoletilbud til elever i behandlings- og
+specialundervisningstilbud, som ikke opnår trivsel og udvikler sig i deres specialiserede tilbud - skal
+ses sammen med 42AU2027-005 - EFFEKT på akt.omr. 44                                                          44   100     -300     -900     -900     -900        18.300              x
+42FF2027-003 Tilpasning af den økonomiske ramme for Kompetencecenter Grønnevang                              42   100     -500     -500     -500     -500        25.300              x
+NY42FF2027-003 om KCG kan hæves med 500.000 kr., så den samlet er 1 mio.                                     42   100     -500     -500     -500     -500                            x
+42FF2027-004 Tilpasning af den økonomiske ramme for Kompetencecenter Vest                                    42   100    -1.000   -1.000   -1.000   -1.000       23.800              x
+42FF2027-005 Rammebesparelse på takstfinansierede specialskoletilbud på 1,5 %                                42   100      -928     -928     -928     -928       86.900
+42FF2027-006 Reduktion af kørselsudgifter                                                                    42   100      -500     -500     -500     -500       15.100              x
+NY42FF2027-006 om kørsel kan hæves med 250.000 kr. til samlet 750.000                                        42   100     -250     -250     -250     -250                            x
+
+
+
+Akt. 43, Kriminalpræventive- og boligsociale aktiviteter
+43FF2027-001 Reduktion i Basen og SSP                                                                        43   100      -72      -72      -72      -72         4.757
+43FF2027-002 Reduktion i pulje til boligsociale aktiviter( ikke aftalebundne midler)                         43   100      -40      -40      -40      -40           459
+
+
+
+Akt. 44 Familier
+44FF2027-001 Reduktion i udgifter til aflastning gennem en styrket rekrutteringsindsats vedrørende       44    100
+                                                                                                   aflastningsfamilier   -1.200   -1.200   -1.200   -1.200       27.300              x
+44FF2027-002 Lavere udgifter til anbringelser                                                            44 100            -930     -930     -930     -930       55.600              x
+44FF2027-003 Rammebesparelse i Familiehuset                                                              44 100          -1.200   -1.200   -1.200   -1.200       22.200
+44FF2027-004 Implementering af den evidensbaseret metode Minding The Baby og Styrk Familierne
+(skal ses sammen med 44AU2027-002)                                                                       44 100            -90     -580     -980     -980        10.800              x
+
+
+
+
+18-09-202608:32                                                                                           Side 6 af 35                                                  Budget 2027-2030 i tal
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                                                            Akt. Service    2027    2028    2029   2030   Områdets         Godkendte
+Akt. 45, Kultur, Idræt og Lokalsamfund
+45FF2027-001 Reduktion i budget til Frederiksborgcentret                                                45   100     -746     -746   -746   -746       49.747
+NY45FF2027-001 Reduktion i budget til Frederiksborgcentret                                              45   100     -500        0      0      0       49.747              x
+NY45FF2027-001 Frederiksborgcentret - reduktion på 2 mio. kr. i 2027 ved at flytte udgifter til p-
+pladser til 2028                                                                                        45    100   -2.000   2.000     0      0                            x
+NY45FF2027-001 Frederiksborgcentret - flytte investeringsmidler fra 2027 til 2026 i bof-3               45    100   -1.300       0     0      0                            x
+45FF2027-002 Bortfald af tilskud til klatrevæg hos GaK Hillerød klatreklub                              45    100     -639                                639              x
+45FF2027-003 Udfasning af samarbejdet om Jump4Fun                                                       45    100      -53    -106   -106   -106          106
+45FF2027-004 Reducering af pulje til sommerferieaktiviteter                                             45    100        0     -67    -67    -67          113
+45FF2027-005 Bibliotek, Model A (udelukker Model B)                                                     45    100        0    -402   -402   -402       26.815
+45FF2027-005 Bibliotek, Model B (udelukker Model A)                                                     45    100        0    -200   -200   -200       26.815
+45FF2027-006 Hillerød Musikskole, scenarie A - mindreudgifter                                           45    100        0    -115   -115   -115       10.905
+45FF2027-006 Hillerød Musikskole, scenarie B - merindtægter                                             45    100        0    -115   -115   -115       -3.198
+45FF2027-007 Kulturkontrakt Cafe Slotsbio                                                               45    100      -56     -56    -56    -56           56
+45FF2027-008 Kulturkontrakt Mastodonterne                                                               45    100      -56     -56    -56    -56           56              x
+NY45FF2027-(ny) Regionale kulturtilskud                                                                 45    100     -293    -293   -293   -293                           x
+
+
+
+Akt. 46, Folkeoplysning
+46FF2027-001 Folkeoplysningsudvalget rammereduktion                                                     46    100     -93      -93    -93    -93        6.158
+NY46FF2027-001 Udviklingspuljen kan halveres, så den lander på 75.000 kr. årligt, en besparelse på
+78.000 kr.                                                                                              46   100      -78     -78     -78    -78                           x
+
+
+
+Akt. 50, Trafik og Mobilitet
+50FF2027-001 Færre trafiksikkerhedsfremmende tiltag                                                     50   100     -300    -300    -300   -300        2.000              x
+
+NY50FF2027-001 Yderligere reduktion af trafiksikkerhedspuljen så puljen ender på 1.400.000 kr.          50   100     -300    -300    -300   -300                           x
+50FF2027-002 Generel besparelse på drift af veje                                                        50   100     -700    -700    -700   -700       14.868              x
+50FF2027-003 Elforbrug – belysning                                                                      50   100     -400    -400    -400   -400        3.196              x
+50FF2027-004 Justering af budget for vejbidrag til kloak                                                50   100     -400    -400    -400   -400        5.160              x
+
+NY50FF2027-004 Yderligere reduktion af budget for vejbidrag, så puljen ender på 4.560.000 kr.           50   100     -200    -200    -200   -200                           x
+
+
+
+
+18-09-202608:32                                                                                      Side 7 af 35                                             Budget 2027-2030 i tal
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                                                          Akt. Service     2027      2028      2029      2030    Områdets         Godkendte
+
+Flytning af driftsramme til anlægsramme - tæller ikke med i summen i linje 11 - ER indberettet i
+budgetgrundlaget
+Belægning - er indberettet i direktionens budgetoplæg                                                 50   100    -17.569        0         0         0                            x
+Ejendomme - ex FF-bidrag er indberettet i direktionens budgetoplæg                                    12   100       -152        0         0         0                            x
+Digitaliseringspulje er indberettet i direktionens budgetoplæg                                        38   100     -2.000        0         0         0                            x
+
+Ejendomme - husleje vedr. pavilloner på Grønnevangskole - med kodet modpost på XA-0000030166
+Grønnevang Skole                                                                                      12   100    -10.950   -10.950   -10.950   -10.950       10.950              x
+STU - reduktion af budgetramme                                                                        38   100     -1.000    -1.000    -1.000    -1.000                           x
+STU - flytning af service til overførsler                                                             38   100     -1.730    -1.730    -1.730    -1.730                           x
+STU - flytning af service til overførsler                                                             38   200      1.730     1.730     1.730     1.730                           x
+
+
+
+
+18-09-202608:32                                                                                    Side 8 af 35                                                      Budget 2027-2030 i tal
+AKTIVITETSUDVIDELSER. ØNSKER DER ER MARKERET MED X I HØJRE KOLONNE INDGÅR I BUDGETFORSLAGET
+
+
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+
+
+
+Aktivitetsudvidelser
+
+
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                                               Akt.
+                                                                                          Service       2027     2028     2029     2030 Områdets          Godkendte
+
+
+Aktivitetsudvidelser                                                                                   58.892   82.886   80.577   59.984   budget         korrektioner
+
+Akt. 11, Administration
+
+11AU2027-001 Opfølgning på ILO-konvention nr. 94 i Hillerød Kommunes kontrakter           11   100        175      175      175      175          0             x
+11AU2027-002 Omdannelse af Hillerød Hospital                                              11   100      1.155    1.155    1.155    1.155      8.857
+11AU2027-002 Omdannelse af Hillerød Hospital                                              28   100        200      200      200      200      1.179
+11AU2027-003 Projektledelse af opgaver knyttet til Arresø Treparten                       11   100        257      257      257      257     17.052
+11AU2027-004 Strategi og handleplan for cirkularitet i kommunens bygninger                11   100        750      750      750        0     24.439
+11AU2027-005 Ekstra ressource til teknik – og vedligeholdelsesteam                        11   100        800      800      800      800     24.439
+11AU2027-006 Øge procent fra 3% til 4% til lønsum fra anlægsprojekter                     11     A      2.500    2.500    2.500    2.500     24.439
+NY11AU2027-006 Øge procent fra 3% til 4% til lønsum fra anlægsprojekter - halv effekt     11     A        625    1.250    1.250    1.250     24.439
+11AU2027-007 Beredskab – krav undersøgelse af tilstanden af sikringsrum                   11   100        385      385        0        0      8.469
+11AU2027-007 Beredskab – krav undersøgelse af tilstanden af sikringsrum                   28   100        215      215        0        0          0
+11AU2027-008 Byggesagsbehandling – kortere sagsbehandlingstider                           11   100        770      770      770      770      8.469             x
+11AU2027-008 Byggesagsbehandling – kortere sagsbehandlingstider - takstindtægt            28   100       -100     -100     -100     -100     -1.395             x
+11AU2027-009 Grøn trepart - Realisering af Hillerød Kommunes Omlægningsplan               11   100      3.080    3.080    3.080    3.080     17.716
+11AU2027-009 Grøn trepart - Realisering af Hillerød Kommunes Omlægningsplan               21   100      2.000    2.000    2.000    2.000     13.453
+NY11AU2027-009 Grøn trepart og Arresø Trepart - Realisering af Hillerød Kommunes
+Omlægningsplan                                                                            11 100        3.080    3.080    3.080    3.080                        x
+NY11AU2027-009 Grøn trepart og Arresø Trepart - Realisering af Hillerød Kommunes
+Omlægningsplan                                                                            21 100        2.000    2.000    2.000    2.000                        x
+NY11AU2027-009 Grøn trepart - Realisering af Hillerød Kommunes Omlægningsplan             11 100        2.310    3.080    3.080    3.080     17.716
+NY11AU2027-009 Grøn trepart - Realisering af Hillerød Kommunes Omlægningsplan             21 100        1.500    2.000    2.000    2.000     13.453
+
+
+
+18-09-202608:32                                                                         Side 9 af 35                                                  Budget 2027-2030 i tal
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                                                 Akt.
+                                                                                            Service       2027    2028    2029    2030 Områdets        Godkendte
+11AU2027-010 Resurser til lokalplanlægning                                                 11 100         1.540   1.540   1.540   1.540    8.857
+NY11AU2027-010 Øgede ressourcer til lokalplanlægning, herunder omdannelse af
+Hillerød Hospital og Hillerød Stadion                                                       11 100        2.460   3.000   3.000   3.000    8.857             x
+NY11AU2027-010 Øgede ressourcer til lokalplanlægning, herunder omdannelse af
+Hillerød Hospital og Hillerød Stadion                                                       28   100       164     200     200     200                       x
+11AU2027-011 Drikkevandsforsyning – reduktion af venteliste                                 11   100       770     770     770     770    17.716             x
+11AU2027-011 Drikkevandsforsyning – reduktion af venteliste                                 21   100       500     500     500     500     1.899             x
+11AU2027-012 Indførelse af social ansvarlighedsmærkning                                     11   100       330     330     330     330    13.910
+11AU2027-013 Natur på kommunale arealer                                                     11   100       385     385     385     385    17.716
+11AU2027-013 Natur på kommunale arealer indtægter                                           12   100               302     302     302
+11AU2027-014 Øget sortiment af hjælpemidler og åbningstid i Kvikkassen                      11   100       700     700       0       0    16.286
+11AU2027-015 Programledelse og ekstern finansiering til større byggeprojekter               11   100       790     790     790     790     6.678             x
+11AU2027-016 Midler til foreningen Jordnær, ekstern rådgiver                                11   100       150       0       0       0         0
+11AU2027-017 Dyrevelfærd, scenarie A udelukker Scenarie B Cafeladen                         11   100       130     130     130     130
+11AU2027-017 Dyrevelfærd, scenarie A udelukker Scenarie B Det specialiserede                32   100       108     108     108     108
+11AU2027-017 Dyrevelfærd, scenarie A udelukker Scenarie B Ældre                             34   100        57      57      57      57
+11AU2027-017 Dyrevelfærd, scenarie A udelukker Scenarie B Dagtilbud                         41   100       556     556     556     556
+11AU2027-017 Dyrevelfærd, scenarie A udelukker Scenarie B Skoler                            42   100        47      47      47      47
+11AU2027-017 Dyrevelfærd, scenarie A udelukker Scenarie B Familie og Sundhed                44   100         5       5       5       5
+11AU2027-017 Dyrevelfærd, scenarie B udelukker Scenarie A Cafeladen                         11   100       199     199     199     199
+11AU2027-017 Dyrevelfærd, scenarie B udelukker Scenarie A Det specialiserede                32   100       145     145     145     145
+11AU2027-017 Dyrevelfærd, scenarie B udelukker Scenarie A Ældre                             34   100        90      90      90      90
+11AU2027-017 Dyrevelfærd, scenarie B udelukker Scenarie A Dagtilbud                         41   100       826     826     826     826
+11AU2027-017 Dyrevelfærd, scenarie B udelukker Scenarie A Skoler                            42   100        78      78      78      78
+11AU2027-017 Dyrevelfærd, scenarie B udelukker Scenarie A Familie og Sundhed                44   100         8       8       8       8
+11AU2027-018 Fortsættelse af Friby-ordningen                                                11   100               365     325
+
+Akt. 12, Ejendomme
+12AU2027-001 Snerydning på kunstgræsbanerne i Skævinge og Brødeskov                         12 100          40      40      40      40     8.225             x
+12AU2027-002 Ny kunst-klimalegeplads ved Hillerød bibliotek og Kulturaksen – drifts- og
+vedligeholdelsesudgifter                                                                    12   100         0      20      20      20     8.225             x
+12AU2027-003 Fejning institutioner                                                          12   100       230     230     230     230     8.225
+12AU2027-004 Arealer der skal holdes byg- og salgbare                                       12   100       150     100     100     100     8.225
+12AU2027-005 Vagtordning på Hillerød Bibliotekerne                                          12   100       240     240     240     240         0             x
+12AU2027-006 Genindførelse af vagt på Rådhuset om onsdagen                                  12   100       133     133     133     133       554
+
+
+
+
+18-09-202608:32                                                                           Side 10 af 35                                            Budget 2027-2030 i tal
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                                     Akt.
+                                                                                Service       2027   2028   2029   2030 Områdets        Godkendte
+Akt. 13, Rengøring - Bestiller
+13AU2027-001 Øget rengøring i GrønnegadeCentret                                 13   100        90     90     90    90        140
+13AU2027-002 Øget rengøring Kulturaksen                                         13   100       345    345    345   345      1.707
+13AU2027-003 Øget rengøring på skoler                                           13   100       975    975    975   975     21.985
+13AU2027-004 Åbning af haller i ferieperioder Forslag 1 udelukker Forslag 2     13   100       163    163    163   163
+13AU2027-004 Åbning af haller i ferieperioder Forslag 1 udelukker Forslag 2     12   100
+13AU2027-004 Åbning af haller i ferieperioder Forslag 1 udelukker Forslag 2     11   100        21     21     21    21
+13AU2027-004 Åbning af haller i ferieperioder Forslag 2 udelukker Forslag 1     13   100       307    307    307   307
+13AU2027-004 Åbning af haller i ferieperioder Forslag 2 udelukker Forslag 1     12   100
+13AU2027-004 Åbning af haller i ferieperioder Forslag 2 udelukker Forslag 1     11   100        21     21     21    21
+NY13AU2027-004 Åbning af haller i ferieperioder Forslag 3, ramme                13   100       100    100    100   100                        x
+NY13AU2027-004 Åbning af haller i ferieperioder Forslag 3, ramme                12   100                                                      x
+NY13AU2027-004 Åbning af haller i ferieperioder Forslag 3, ramme                11   100        21     21     21    21                        x
+
+Akt. 21, Natur, Miljø og Klima
+21AU2027-001 Spildevand - ny lovgivning                                         21   100       400    400    400   400     13.453             x
+21AU2027-001 Spildevand - ny lovgivning                                         11   100       385    385    385   385     17.716             x
+21AU2027-002 Implementering af ny spildevandsplan                               21   100       400    400    400   400     13.453
+21AU2027-002 Implementering af ny spildevandsplan                               11   100       385    385    385   385     17.716
+21AU2027-003 Spildevand - reduktion af sagsbehandlingstid                       21   100       500    500      0     0     13.453
+21AU2027-004 Natur på kommunale arealer Udgår/Erstattes af 11AU2027-013         21   100
+
+
+Akt. 23, Kirkegårde
+ingen forslag
+
+Akt. 27, Ejendomme - Grøn drift
+ingen forslag
+
+
+Akt. 28, By og Miljø
+ingen forslag
+
+
+
+
+18-09-202608:32                                                               Side 11 af 35                                         Budget 2027-2030 i tal
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                                                  Akt.
+                                                                                             Service       2027    2028    2029    2030 Områdets        Godkendte
+Akt. 32, Specialierseret voksenområde
+32AU2027-001 Videreudvikling af klubtilbuddet Oasen samt udvidelse af åbningstid
+(investeringsforslag). Forudsætning for vedtagelse af 32FF2027-003 – ”Hjemtagelse af
+borgere på klubtilbud til kommunens tilbud”                                                  32 100         900     900     900     900     3.403             x
+
+Akt 31, Beskæftigelsesindsats
+AMU
+
+Akt. 33, Forsørgelsesydelser
+ingen forslag
+
+
+Akt. 34, Ældre
+34AU2027-001 Styrket vejlederindsats som svar på fremtidens rekrutteringsudfordringer -      34 100                                        28.084
+34AU2027-001 A - Styrket vejlederindsats som svar på fremtidens
+rekrutteringsudfordringer scenarie 1 - Anbefalet                                             34 100        2.346   2.346   2.346   2.346   28.084
+34AU2027-001 B - Styrket vejlederindsats som svar på fremtidens
+rekrutteringsudfordringer                                                                    34 100        1.866   1.866   1.866   1.866   28.084
+34AU2027-001 C - Styrket vejlederindsats som svar på fremtidens
+rekrutteringsudfordringer - Hjemmeplejen                                                     34   100      1.135   1.135   1.135   1.135   28.084             x
+34AU2027-002 Demenshandleplan                                                                34   100        568     568     568     568
+34AU2027-003 Skævinge Aktivitetscenter - fast årligt tilskud                                 34   100         40      40      40      40        0             x
+34AU2027-004 Hjælpemiddeldepot                                                               34   100        615     615     615     771    4.560             x
+
+Akt. 35, Sundhed,
+35AU2027-001 Øget aktivitet på træningsområdet                                               35 100        1.400   1.400   1.400   1.400   45.658
+
+Akt. 38, Erhverv og Uddannelse
+38AU2027-001 ”Unge i praksis” - et uddannelses- og erhvervsrettet forløb for elever i 7.
+klasse                                                                                       38 100         100     100     100     100     6.907             x
+38AU2027-002 Partneraftale med Nordsjælland Håndbold                                         38 100         100     100     100     100         0
+
+
+
+
+18-09-202608:32                                                                            Side 12 af 35                                            Budget 2027-2030 i tal
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                                                    Akt.
+                                                                                               Service        2027     2028     2029     2030 Områdets         Godkendte
+Akt. 41, Dagtilbud børn
+41AU2027-001 Ny lovgivning for Dagtilbud (forslag 1: 60%/40%)                                  41 100        11.351   11.351   11.351   11.351   272.987
+41AU2027-001 Ny lovgivning for Dagtilbud (forslag 2: 54%/46%)                                  41 100         7.487    7.487    7.487    7.487   272.987
+NY41AU2027-001 Ny lovgivning for Dagtilbud (forslag 2: 57%/43%)                                41 100         8.920    8.920    8.920    8.920   272.987             x
+
+Akt 42, Skoler
+42AU2027-001 Flere fagprofessionelle i undervisningen i 2. klasse                              42 100         1.667    4.000    4.000    4.000   215.000             x
+42AU2027-002 Implementering af vision for Hillerød Fritidsordninger (HFO) –
+Opnormering af budget                                                                          42 100         2.100    2.100    2.100    2.100    49.600
+42AU2027-003 Opnormering af antal PPR-medarbejdere                                             42 100         1.930    1.930    1.930    1.930     8.163
+
+42AU2027-004 PPR-vejlederteamet – ny finansiering af de tværgående ressourcepersoner           42 100          616     1.750    1.750    1.750     2.400
+42AU2027-005 Investeringsforslag som følge af at tilbyde andre skoletilbud til elever i
+behandlings- og specialundervisningstilbud, som ikke opnår trivsel og udvikler sig i deres
+specialiserede tilbud - skal ses sammen med 42FF2027-002                                       42 100         1.300    1.300    1.300    1.300    18.300             x
+NY2027-006 Pulje til frivillige foreningers samarbejde med HFO                                 42 100           100      100      100      100                       x
+
+
+Akt. 43, Kriminalpræventive- og boligsociale aktiviteter
+ingen forslag
+
+
+
+Akt. 44, Familier
+44AU2027-001 Balance i tandplejens økonomi og kapacitet                                        44 100         1.150    1.150    1.150    1.150   20.900
+44AU2027-002 Styrkelse af Sundhedsplejens indsat i Stærke Fællesskaber (skal ses
+sammen med 44FF2027-004) - match til FF-forslag (neutral effekt)                               44 100           90      580      980      980    10.800              x
+44AU2027-002 Styrkelse af Sundhedsplejens indsat i Stærke Fællesskaber (skal ses
+sammen med 44FF2027-004) - AU-indsats herudover                                                44 100         1.617     936      496      534    10.800
+
+
+
+
+18-09-202608:32                                                                              Side 13 af 35                                                 Budget 2027-2030 i tal
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                                                        Akt.
+                                                                                                   Service       2027    2028    2029    2030 Områdets        Godkendte
+Akt. 45, Kultur, Idræt og Lokalsamfund
+45AU2027-001 Disc Golf banen Eghjorten – tilskud til drift                                         45   100       107      80      80      80        0
+45AU2027-002 Fortsættelse af TUFF–midler, tilskud til Frivilligcenter Hillerød                     45   100       679     679     679     679      800
+NY45AU2027-002 Fortsættelse af TUFF–midler, tilskud til Frivilligcenter Hillerød                   45   100       335     335     335     335                       x
+45AU2027-003 Klub Vest/Klub Vest+, foreningstilskud til drift og aktiviteter                       45   100       150     150     150     150        0              x
+45AU2027-004 UDGÅR                                                                                 45   100         0       0       0       0        0
+45AU2027-005 Ressourcer til at understøtte kultur, erhverv og brobyggende aktiviteter i
+Hillerød bymidte i samarbejde med C4 Videncenter                                                   45 100         300     300     300            43.768
+
+
+
+Akt. 46, Folkeoplysningsudvalget
+46AU2027-001 Forøgelse af medlemstilskud til børn og unge under 25 år                              46 100        1.000   1.000   1.000   1.000    2.076
+46AU2027-002 Fortsættelse af Fritidspas                                                            46 100          200     200     200     200        0
+
+Akt. 50, Trafik og Mobilitet
+50AU2027-001 Belægninger – udvidelse af budget                                                     50 100        1.000   1.000   1.000   1.000   16.785
+50AU2027-002 Trafikbestilling 2027 Del 1: 60E & 375 R                                              50 100          550   1.100   1.100   1.100   49.743
+50AU2027-002 Trafikbestilling 2027 Del 1: 60E & 375 R                                              50 100                2.500   2.500   2.500   49.743
+50AU2027-003 – Trafikbestilling 2027 Del 2: Pilotprojekt 303 og 307 'Flere i bussen med
+gratis bus og flere afgange' (gratis bus på linje 303)                                             50 100        1.000   1.000                   49.743
+50AU2027-003 – Trafikbestilling 2027 Del 2: Pilotprojekt 303 og 307, 'Flere i bussen med
+gratis bus og flere afgange' (Merdrift linje 307: driftsperiode, øget drift hele dagen)
+                                                                                                   50 100                3.300   3.300   3.300   49.743
+50AU2027-003 – Trafikbestilling 2027 Del 2: Pilotprojekt 303 og 307, 'Flere i bussen med
+gratis bus og flere afgange' (Merdrift på linje 307, driftsperiode i myldretiden kl. 6-9 & kl.
+14-18.30)                                                                                          50 100         750    1.500   1.500   1.500   49.743
+50AU2027-004 Fortsat drift af Favrholm nord for overdrevsvejen                                     50 100         350      700       0       0        0
+
+
+
+
+18-09-202608:32                                                                                  Side 14 af 35                                            Budget 2027-2030 i tal
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                                      Akt.
+                                                                                 Service        2027     2028     2029     2030 Områdets       Godkendte
+
+
+
+
+Tekniske korrektioner på de specialiserede områder - faldende profil
+Tekniske korrektioner på det specialiserede voksenområde, jfr. Notat             32   100      10.741   20.891   19.953   13.302                     x
+Tekniske korrektioner på specialpladser efter Barnets lov, jfr. Notat            41   100         800    3.473     -192   -6.530                     x
+Tekniske korrektioner på udlagt specialundervisning, jfr. Notat                  42   100       8.099   10.599   10.566    7.917                     x
+Teknisk korrektion anbringelser og forebyggende indsatser jf. notat              44   100      12.105   17.357   19.284   14.173                     x
+
+Tekniske korrektioner på de specialiserede områder - profil uden reduktion i
+overslagsår
+Tekniske korrektioner på det specialiserede voksenområde, jfr. Notat             32   100                         6.651   13.302
+Tekniske korrektioner på specialpladser efter Barnets lov, jfr. Notat            41   100                         6.337   12.675
+Tekniske korrektioner på udlagt specialundervisning, jfr. Notat                  42   100                         2.650    5.299
+Teknisk korrektion anbringelser og forebyggende indsatser jf. notat              44   100                         6.428   14.172
+
+
+
+
+18-09-202608:32                                                                Side 15 af 35                                               Budget 2027-2030 i tal
+Anlægskorrektioner til budget
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+i 1000 kr.                                                                                2027      2028      2029      2030
+Vedtaget anlægsbudget, oktober 2025                                                     541.546   278.807   242.382        0
+
+
+
+Forslag til anlægsbudget 2026-2029 - Bruttoanlægsudgifter                         A     164.999   636.026   259.049   198.835        Godkendte
+
+Forslag til anlægsbudget 2026-2029 - Bruttoanlægsindtægter                        I     -10.800    -3.500   -10.500        0         korrektioner
+
+
+
+ANLÆG DER ER MARKERET MED X I HØJRE KOLONNE INDGÅR I DEN VEDTAGNE ANLÆGSPLAN
+
+                                                                                                                                      Kolonne11
+
+Jordforsyning
+XA-0000000203 Generationernes Kvarter, byggemodning                               A      1.516    14.153          0        0
+XA-0000000203 Generationernes Kvarter, byggemodning                               A        516    15.153          0        0               x
+XA-0000000208 Ullerød Nord - Infrastruktur og byggemodning                        A        885         0          0        0               x
+XA-0000000238 Favrholm Syd, arkæologiske udgravninger                             A      1.067         0          0        0               x
+XA-0000000238 Favrholm Syd, arkæologiske udgravninger                             I          0         0    -10.500        0               x
+XA-0000000242 Salg af Petras Hus, Hulvejen 31                                     A        125         0          0        0               x
+XA-0000000242 Salg af Petras Hus, Hulvejen 31                                     I     -4.400         0          0        0               x
+XA-0000000303 Favrholm, byggemodning til erhverv, Favrholm alle                   A      6.138         0          0        0
+XA-0000000303 Favrholm, byggemodning til erhverv, Favrholm alle                   A      1.138     5.000          0        0               x
+Faste ejendomme
+XA-0000001048 Favrholm, Generationernes Kvartershus                               A        723    17.404    29.157    87.651               x
+XA-0000001054 Vedligeholdelse af bygninger                                        A        152         0         0         0               x
+XA-0000001057 Energibesparende foranstaltninger 2027                              A      7.923    17.924    12.924    12.925
+XA-0000001057 Energibesparende foranstaltninger 2027                              A        500    25.347    12.924    12.925               x
+XA-0000001061 Genopretning af bygninger 2028                                      A          0     3.198     3.200     3.199               x
+XA-0000001064 Returvandstemperatur, tiltag for at mindske strafafgift             A          0       781         0         0               x
+XA-0000001068 Tilgængelighedsindsats 2026-2029                                    A        199       818       508         0               x
+
+
+
+18-09-202608:32                                                         Side 16 af 35                                           Budget 2027-2030 i tal
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+i 1000 kr.                                                                                 2027     2028    2029    2030
+XA-0000001302        Trollesbro, udskiftning af tag                                A      7.161   10.029      0       0
+XA-0000001302        Trollesbro, udskiftning af tag                                A        300   16.891      0       0               x
+Fritidsfaciliteter
+XA-0000003132        Kunstgræsbane i Hillerød Øst                                  A          0       0     233     114               x
+XA-0000003134        Hillerød Stadion, løbelys og minibane                         A          0       0     913       0               x
+XA-0000003136        Hillerød Svømmehal rep. inkl. hydraulik                       A      9.153       0       0       0               x
+XA-0000003139        Renovering af Hillerød Stadion K1                             A      2.697       0       0       0               x
+Vandløbsvæsen
+XA-0000007108        Kritiske vandløbsstrækninger, opretning 2027-2029             A       610      407     407       0               x
+Kommunale veje
+XA-0000022200        Infrastruktur i Favrholm                                      A     12.215   14.973       0       0
+XA-0000022200        Infrastruktur i Favrholm                                      A      2.215   24.973       0       0              x
+XA-0000022202        Favrholm, to signalkryds på Overdrevsvejen                    A          0        0   3.071       0              x
+XA-0000022213        Favrholm, Pøleå sti til Milnersvej                            A     11.436        0       0       0
+XA-0000022213        Favrholm, Pøleå sti til Milnersvej                            A        436   11.000       0       0              x
+XA-0000022219        Cykelinfrastruktur, pulje                                     A      7.490        0       0       0
+XA-0000022219        Cykelinfrastruktur, pulje                                     A        490    7.000       0       0              x
+XA-0000022220        Cykelinfrastruktur, Frederiksværksgade/Slotsgade              A        110        0       0       0              x
+XA-0000022221        Cykelinfrastruktur, Brødeskovvej                              A     11.204        0       0       0
+XA-0000022221        Cykelinfrastruktur, Brødeskovvej                              A      6.204    5.000       0       0              x
+XA-0000022227        Cykelsti Peder Oxes Alle, Kjeldsvangkilen                     A      6.648    3.026       0       0              x
+XA-0000022227        Cykelsti Peder Oxes Alle, Kjeldsvangkilen                     I     -3.300   -2.100       0       0              x
+XA-0000022228        Cykelløsninger i åbent land                                   A          0      500       0       0              x
+XA-0000022229        Cykellandeveje                                                A      1.003        0       0       0
+XA-0000022229        Cykellandeveje                                                A          3    1.000       0       0              x
+XA-0000022230        Cykelsti langs Frederiksværksgade                             A      2.969    2.942       0       0              x
+XA-0000022231        Stil til Enebakken                                            A        702        0       0       0              x
+XA-0000022343        Markedspladsen, busparkering og trafikafvikling               A          0        0   3.809   3.641              x
+XA-0000022345        Øget fremkommelighed på det overordnede vejnet                A      2.338        0       0       0
+XA-0000022345        Øget fremkommelighed på det overordnede vejnet                A        338    2.000       0       0              x
+XA-0000022372        Brødeskovvej, cykelstirabat                                   A        692    2.688       0       0              x
+
+
+18-09-202608:32                                                          Side 17 af 35                                     Budget 2027-2030 i tal
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+i 1000 kr.                                                                                2027      2028      2029     2030
+XA-0000022374 Vejbelysning, energirenovering 2024-2026                            A         29     2.142     2.142       0               x
+XA-0000022377 Vejafvanding, renovering af stikledninger og brønd                  A      3.051     3.052     3.051       0
+XA-0000022377 Vejafvanding, renovering af stikledninger og brønd                  A        551     5.552     3.051       0               x
+XA-0000022378 Mobilitetsplan mod trængsel                                         A        517         0         0       0               x
+XA-0000022379 Busvendeplads på Guldhalevej                                        A      2.797         0         0       0
+XA-0000022379 Busvendeplads på Guldhalevej                                        A        797     2.000         0       0               x
+XA-0000022380 Byrumsmarkører Helsingørsgade                                       A        284         0         0       0               x
+XA-0000022382 4. spor på Peder Oxes alle                                          A      2.507         0         0       0               x
+XA-0000022390 Asfaltrenovering 2027                                               A     17.569         0         0       0               x
+Folkeskolen m.m.
+XA-0000030161 Frederiksborg Byskole, etape 2, klassefløjen                        A      8.465    50.000         0        0
+XA-0000030161 Frederiksborg Byskole, etape 2, klassefløjen                        A        465    58.000         0        0              x
+XA-0000030166 Grønnevang Skole, 0.-5. klasse                                      A     52.586   228.107   110.854   27.375
+XA-0000030166 Grønnevang Skole, 0.-5. klasse                                      A      2.586   278.107   110.854   27.375              x
+XA-0000030166 Grønnevang Skole, 0.-5. klasse                                      A     10.950    10.950    10.950   10.950              x
+XA-0000030168 Hillerødsholmskolen, afd. Gadevang, kapacitetsudvidelse             A          0         0       763        0              x
+XA-0000030170 Grønnevang skole, afd. Nødebo                                       A      2.824    26.788     5.509        0              x
+XA-0000030174 Hillerød Vest Skolen, afd. Ålholm, kapacitetsudvidelse              A     63.306    22.082     3.914        0              x
+XA-0000030175 Hillerødsholmskolen, kapacitetsudvidelse                            A     10.047    29.873    40.822   39.812              x
+XA-0000030176 Sophienborgskolen, kapacitetsudvidelse                              A         86    26.176    13.157   12.365              x
+XA-0000030179 Grønnevang skole, genhusning                                        A     10.170         0     9.832        0
+XA-0000030179 Grønnevang skole, genhusning                                        A      1.000     9.170     9.832        0              x
+XA-0000030802 Skolen ved Skoven, midlertidig kapacitet                            A      2.939         0         0      602
+XA-0000030802 Skolen ved Skoven, midlertidig kapacitet                            A        439     2.500         0      602              x
+XA-0000030802 Skolen ved Skoven, midlertidig kapacitet                            A        500         0         0        0              x
+Dagtilbud til børn og unge
+XA-0000051430 Børnehuset Troldehøjen, udbygning                                   A      3.865         0        0        0
+XA-0000051430 Børnehuset Troldehøjen, udbygning                                   A        365     3.500        0        0               x
+XA-0000051437 Daginstitutioner, pulje til funktionsopgradering                    A        199       817      509        0               x
+Tilbud til børn og unge med særlige behov
+XA-0000052105 Hillerød Dagbehandlingsskole, sammenlægning                         A      5.867        0         0        0
+
+
+18-09-202608:32                                                         Side 18 af 35                                         Budget 2027-2030 i tal
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+i 1000 kr.                                                                                                     2027     2028     2029     2030
+XA-0000052105 Hillerød Dagbehandlingsskole, sammenlægning                                          A            367    5.500       0        0               x
+XA-0000052107 Børnehuset Buen, renovering af tag mv                                                A          3.051        0       0        0
+XA-0000052107 Børnehuset Buen, renovering af tag mv                                                A            200    2.851       0        0               x
+Administrativ organisation
+XA-0000065106 Bevaringsværdige bygninger, før 1940                                                 A            509        0       0        0               x
+XA-0000065164 Planlægning af byudvikling i Favrholm                                                A            408      260       0        0               x
+XA-0000065206 Digitaliseringspulje - skærmbesøg i ældreplejen                                      A            260      406       0        0               x
+XA-0000065211 Digitaliseringspulje 2027                                                            A          2.000        0       0        0               x
+XA-0000065402 Biodiversitetsplan                                                                   A            407        0       0        0               x
+XA-0000065504 Grøn trepart, Arresø                                                                  I        -2.500        0       0        0               x
+XA-0000065505 Grøn trepart, Ved Hestehaver                                                         A            300      400       0        0               x
+XA-0000065505 Grøn trepart, Ved Hestehaver                                                          I          -300     -700       0        0               x
+XA-0000065506 Grøn trepart, Ved Pibemølle                                                          A            300      400       0        0               x
+XA-0000065506 Grøn trepart, Ved Pibemølle                                                           I          -300     -700       0        0               x
+                NY FF flytning af projektledelsesressourcer fra drift til anlæg (Ejendomme og By ogAMiljø)    6.355    3.425    3.325      200              x
+Anlægsønsker 2026 - 2029 - bruttoanlægsudgifter                                                    A         24.205   69.563   54.504   31.482
+Anlægsønsker 2026 - 2029 - Bruttoanlægsindtægter                                                    I          -900   -5.545     -145        0
+
+
+
+ANLÆG DER ER MARKERET MED X I HØJRE KOLONNE INDGÅR SOM ÆNDRING TIL UDSENDT ANLÆGSPLAN
+
+NY11AU2027-006 Øge procent fra 3% til 4% til lønsum fra anlægsprojekter - halv effekt              A            625    1.250    1.250    1.250              x
+
+Økonomiudvalget
+Kapacitet
+60AØ2027-020        Krematorie, kapacitetsudvidelse                                                A          1.200        0        0        0
+60AØ2027-020        Krematorie, kapacitetsudvidelse                                                11            36        0        0        0
+60AØ2027-021        Hillerød Vest Skole, afd. Ålholm, kapacitet – tillægsbevilling, senarie 1      A          4.577    9.154   11.442   11.442
+
+60AØ2027-021        Hillerød Vest Skole, afd. Ålholm, kapacitet – tillægsbevilling, senarie 1      11          275      275      275      275
+
+
+
+18-09-202608:32                                                                         Side 19 af 35                                            Budget 2027-2030 i tal
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+i 1000 kr.                                                                                              2027      2028      2029     2030
+60AØ2027-021       Hillerød Vest Skole, afd. Ålholm, kapacitet – tillægsbevilling, senarie 1    12       868     1.458     1.458    1.458
+
+60AØ2027-021       Hillerød Vest Skole, afd. Ålholm, kapacitet – tillægsbevilling, senarie 1    13        70       118      118      118
+
+60AØ2027-021       Hillerød Vest Skole, afd. Ålholm, kapacitet – tillægsbevilling, senarie 1    42        45        45       45       45
+
+60AØ2027-021       Hillerød Vest Skole, afd. Ålholm, kapacitet – tillægsbevilling, senarie 2    A     -55.779   -21.066   -3.202   -3.142
+
+60AØ2027-021       Hillerød Vest Skole, afd. Ålholm, kapacitet – tillægsbevilling, senarie 2,   A          0         0     4.830       0
+                   køb af pavilloner
+60AØ2027-021       Hillerød Vest Skole, afd. Ålholm, kapacitet – tillægsbevilling, senarie 2,   A      -3.142        0        0     3.142
+                   køb af pavilloner
+60AØ2027-021       Hillerød Vest Skole, afd. Ålholm, kapacitet – tillægsbevilling, senarie 2    11       388         0        0        0
+
+60AØ2027-021       Hillerød Vest Skole, afd. Ålholm, kapacitet – tillægsbevilling, senarie 2    12       681     1.056      650      360
+
+60AØ2027-021       Hillerød Vest Skole, afd. Ålholm, kapacitet – tillægsbevilling, senarie 2    13        53        90       90       90
+
+60AØ2027-021       Hillerød Vest Skole, afd. Ålholm, kapacitet – tillægsbevilling, senarie 2    42        65         0        0        0
+
+NY60AØ2027-021 Hillerød Vest Skole, afd. Ålholm - Kapacitet i pavilloner, etablering af         A     -54.795    3.451    30.130   17.022              x
+               faglokaler - scenarie 3
+NY60AØ2027-021 Hillerød Vest Skole, afd. Ålholm - Kapacitet i pavilloner, etablering af         A          0         0     4.830       0               x
+               faglokaler - scenarie 3
+NY60AØ2027-021 Hillerød Vest Skole, afd. Ålholm - Kapacitet i pavilloner, etablering af         A        374       441      546      638               x
+               faglokaler - scenarie 3
+NY60AØ2027-021 Hillerød Vest Skole, afd. Ålholm - Kapacitet i pavilloner, etablering af         12     -2.331    -1.594     -286     -711              x
+               faglokaler - scenarie 3
+NY60AØ2027-021 Hillerød Vest Skole, afd. Ålholm - Kapacitet i pavilloner, etablering af         13      -359      -386      -358     -358              x
+               faglokaler - scenarie 3
+
+
+
+18-09-202608:32                                                                       Side 20 af 35                                         Budget 2027-2030 i tal
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+i 1000 kr.                                                                                          2027     2028      2029      2030
+NY60AØ2027-021 Hillerød Vest Skole, afd. Ålholm - Kapacitet i pavilloner, etablering af     42       73        73        90       106               x
+               faglokaler - scenarie 3
+NY60AØ2027-021 Hillerød Vest Skole, afd. Ålholm - Udskudt etablering af Drivhuset og         A        0         0     7.847    15.695
+               udvidelse af ”fingrene - scenarie 4
+NY60AØ2027-021 Hillerød Vest Skole, afd. Ålholm - Udskudt etablering af Drivhuset og        11        0         0       393       393
+               udvidelse af ”fingrene - scenarie 4
+NY60AØ2027-021 Hillerød Vest Skole, afd. Ålholm - Udskudt etablering af Drivhuset og        12        0         0        65       425
+               udvidelse af ”fingrene - scenarie 4
+NY60AØ2027-021 Hillerød Vest Skole, afd. Ålholm - Udskudt etablering af Drivhuset og        13        0         0         0        90
+               udvidelse af ”fingrene - scenarie 4
+NY60AØ2027-021 Hillerød Vest Skole, afd. Ålholm - Udskudt etablering af Drivhuset og        42        0         0        65        65
+               udvidelse af ”fingrene - scenarie 4
+60AØ2027-022   Hillerødsholmskolen kapacitetsudvidelse - tillægsbevilling, senarie A         A        0         0         0         0               x
+
+60AØ2027-022       Hillerødsholmskolen kapacitetsudvidelse - tillægsbevilling, senarie A     A      182       182       182       182               x
+
+60AØ2027-022       Hillerødsholmskolen kapacitetsudvidelse - tillægsbevilling, senarie A    12       46        46        46        71               x
+
+60AØ2027-022       Hillerødsholmskolen kapacitetsudvidelse - tillægsbevilling, senarie A    13        0         0         0        13               x
+
+60AØ2027-022       Hillerødsholmskolen kapacitetsudvidelse - tillægsbevilling, senarie A    42       46        46        46        46               x
+
+60AØ2027-022       Hillerødsholmskolen kapacitetsudvidelse - tillægsbevilling, senarie B     A        0         0         0         0
+
+60AØ2027-022       Hillerødsholmskolen kapacitetsudvidelse - tillægsbevilling, senarie B    11       47        47        47        47
+
+60AØ2027-022       Hillerødsholmskolen kapacitetsudvidelse - tillægsbevilling, senarie B    12       12        12        12        12
+
+60AØ2027-022       Hillerødsholmskolen kapacitetsudvidelse - tillægsbevilling, senarie B    42       12        12        12        12
+
+60AØ2027-023       Sophienborgskolen – tilpasning af kapacitetsudvidelse                     A     9.791   -26.099   -13.188   -12.329              x
+
+
+18-09-202608:32                                                                    Side 21 af 35                                         Budget 2027-2030 i tal
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+i 1000 kr.                                                                                            2027     2028     2029     2030
+60AØ2027-023       Sophienborgskolen – tilpasning af kapacitetsudvidelse                     A          55        0       0        0               x
+60AØ2027-023       Sophienborgskolen – tilpasning af kapacitetsudvidelse                     12         10        0       0        0               x
+60AØ2027-024       Etablering af Hillerød Dagbehandlingsskole i Alsønderup -                 A       4.400    4.400       0        0               x
+                   tillægsbevilling
+60AØ2027-024       Etablering af Hillerød Dagbehandlingsskole i Alsønderup -                  A       132      132        0        0               x
+                   tillægsbevilling
+60AØ2027-024       Etablering af Hillerød Dagbehandlingsskole i Alsønderup -                 12       442       92        0        0               x
+                   tillægsbevilling
+60AØ2027-024       Etablering af Hillerød Dagbehandlingsskole i Alsønderup -                 42        22       22        0        0               x
+                   tillægsbevilling
+60AØ2027-025       Nødebo Skole skole – tilpasning af kapacitet, etablering af parkering –    A         0        0     2.100       0               x
+                   tillægsbevilling
+60AØ2027-025       Nødebo Skole skole – tilpasning af kapacitet, etablering af parkering –    A         0        0       63        0               x
+                   tillægsbevilling
+60AØ2027-025       Nødebo Skole skole – tilpasning af kapacitet, etablering af parkering –   12         0        0       10        0               x
+                   tillægsbevilling
+60AØ2027-025       Nødebo Skole skole – tilpasning af kapacitet, etablering af parkering –   42         0        0       11        0               x
+                   tillægsbevilling
+60AØ2027-026       Vuggestuen Margrethevej – udvidelse af overdækning                        A       1.795       0        0        0               x
+60AØ2027-026       Vuggestuen Margrethevej – udvidelse af overdækning                        A          54       0        0        0               x
+60AØ2027-027       Kapeludvidelse ved Hillerød Kirke                                         A       1.150       0        0        0
+60AØ2027-027       Kapeludvidelse ved Hillerød Kirke                                         11         35       0        0        0
+60AØ2027-027       Kapeludvidelse ved Hillerød Kirke                                         23          0       0        0        0
+
+Nedslidning
+60AØ2027-040   Genopretning af kommunale bygninger og udearealer                             A      15.000   15.000   15.000   15.000
+60AØ2027-040   Genopretning af kommunale bygninger og udearealer                             11        450      450      450      450
+NY60AØ2027-040 Genopretning af kommunale bygninger og udearealer                             A      15.000        0        0        0              x
+NY60AØ2027-040 Genopretning af kommunale bygninger og udearealer                             A         450        0        0        0              x
+60AØ2027-041   Genopretning af bygninger og tekniske installationer, takstfinansierede       A           0    2.000    2.000    2.000
+               institutioner
+
+
+18-09-202608:32                                                                     Side 22 af 35                                       Budget 2027-2030 i tal
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+i 1000 kr.                                                                                          2027    2028   2029   2030
+60AØ2027-041       Genopretning af bygninger og tekniske installationer, takstfinansierede   11       0      60     60     60
+                   institutioner
+60AØ2027-042       Renovering af Brødeskov kunstgræs                                         A        0    3.650     0      0               x
+60AØ2027-042       Renovering af Brødeskov kunstgræs                                         A               109                            x
+60AØ2027-043       Renovering af FIF Klubhus, FIF alene                                      A       500   4.500     0      0
+60AØ2027-043       Renovering af FIF Klubhus, FIF alene                                      11       75      75     0      0
+60AØ2027-043       Renovering af FIF Klubhus, og 1. sal til HVRunners                        A       500   9.730     0      0
+60AØ2027-043       Renovering af FIF Klubhus, og 1. sal til HVRunners                        11      154     154
+60AØ2027-044       Udskiftning af vandbehandlingsanlæg i Hillerød Svømmehal                  A    15.000   5.000     0      0               x
+60AØ2027-044       Udskiftning af vandbehandlingsanlæg i Hillerød Svømmehal                  A       300     300     0      0               x
+
+Udvikling
+60AØ2027-080       Solceller på tage på kommunale ejendomme, jf. Klimahandleplan pkt.        A     3.163   3.163     0      0               x
+                   1.4.6.
+60AØ2027-080       Solceller på tage på kommunale ejendomme, jf. Klimahandleplan pkt.        A       95      95      0      0               x
+                   1.4.6.
+60AØ2027-080       Solceller på tage på kommunale ejendomme, jf. Klimahandleplan pkt.        12      27      27     27     27               x
+                   1.4.6.
+60AØ2027-081       Klimaplanen i Ejendomme                                                   A      100     100    100    100
+60AØ2027-081       Klimaplanen i Ejendomme                                                   11       3       3      3      3
+60AØ2027-082       Genbrugslager og cirkularitet i Ejendomme, jf. klimahandleplan pkt.       A      200     200    200    200               x
+                   4.2.1
+60AØ2027-082       Genbrugslager og cirkularitet i Ejendomme, jf. klimahandleplan pkt.       11     106     106    106    106               x
+                   4.2.1
+60AØ2027-082       Genbrugslager og cirkularitet i Ejendomme, jf. klimahandleplan pkt.       12      60      60     60     60               x
+                   4.2.1
+60AØ2027-083       Forøgelse af grøn beplantning på kommunale institutioner, jf.             A      500     500    500    500
+                   klimahandleplan pkt. 5.2.1
+60AØ2027-083       Forøgelse af grøn beplantning på kommunale institutioner, jf.             11      15      15     15     15
+                   klimahandleplan pkt. 5.2.1
+
+
+
+18-09-202608:32                                                                   Side 23 af 35                                  Budget 2027-2030 i tal
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+i 1000 kr.                                                                                          2027     2028     2029   2030
+60AØ2027-083       Forøgelse af grøn beplantning på kommunale institutioner, jf.            12         0       30      60     60
+                   klimahandleplan pkt. 5.2.1
+60AØ2027-084       Nedrivning Rønnevangalle 3                                               A          0      825       0      0               x
+60AØ2027-084       Nedrivning Rønnevangalle 3                                               A          0       25       0      0               x
+60AØ2027-085       Bedre kollektive trafikforbindelser i Nordsjælland                       A        200        0       0      0               x
+60AØ2027-085       Bedre kollektive trafikforbindelser i Nordsjælland                       A         50        0       0      0               x
+60AØ2027-086       Skiltning af røgfrie legepladser                                         A        261        0       0      0
+60AØ2027-086       Skiltning af røgfrie legepladser                                         11         7        0       0      0
+60AØ2027-086       Skiltning af røgfrie legepladser                                         12         0        7       7      7
+NYAØ2027-999       11AU2027-016 Midler til foreningen Jordnær, ekstern rådgiver             A        150        0       0      0               x
+
+Børn, Familie og Ungeudvalget
+Kapacitet
+60AØ2027-120       Udbygning af Børnehuset Troldehøjen, Nødebo - tillægsbevilling,           A     6.178    9.708    1.765     0
+                   senarie 1
+60AØ2027-120       Udbygning af Børnehuset Troldehøjen, Nødebo - tillægsbevilling,          11       177      177     177      0
+                   senarie 1
+60AØ2027-120       Udbygning af Børnehuset Troldehøjen, Nødebo - tillægsbevilling,          12       205      188     255    255
+                   senarie 1
+60AØ2027-120       Udbygning af Børnehuset Troldehøjen, Nødebo - tillægsbevilling,          13        82       61     225    225
+                   senarie 1
+60AØ2027-120       Udbygning af Børnehuset Troldehøjen, Nødebo - tillægsbevilling,          41        29       29      29      0
+                   senarie 1
+60AØ2027-120       Udbygning af Børnehuset Troldehøjen, Nødebo - tillægsbevilling,           A     6.178    9.708    1.765     0               x
+                   senarie 1 inkl 3 mio.kr.
+60AØ2027-120       Udbygning af Børnehuset Troldehøjen, Nødebo - tillægsbevilling,           A     -1.000   -2.000                             x
+                   senarie 1 inkl 3 mio.kr.
+60AØ2027-120       Udbygning af Børnehuset Troldehøjen, Nødebo - tillægsbevilling,           A       177      177     177      0               x
+                   senarie 1
+60AØ2027-120       Udbygning af Børnehuset Troldehøjen, Nødebo - tillægsbevilling,          12       205      188     255    255               x
+                   senarie 1
+
+
+18-09-202608:32                                                                    Side 24 af 35                                    Budget 2027-2030 i tal
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+i 1000 kr.                                                                                        2027     2028   2029   2030
+60AØ2027-120       Udbygning af Børnehuset Troldehøjen, Nødebo - tillægsbevilling,        13       82       61    225    225               x
+                   senarie 1
+60AØ2027-120       Udbygning af Børnehuset Troldehøjen, Nødebo - tillægsbevilling,        41       29       29     29      0               x
+                   senarie 1
+
+60AØ2027-120   Udbygning af Børnehuset Troldehøjen, Nødebo - tillægsbevilling,             A     2.362     787      0      0
+               senarie 2
+60AØ2027-120   Udbygning af Børnehuset Troldehøjen, Nødebo - tillægsbevilling,             A       47       47      0      0
+               senarie 2
+60AØ2027-120   Udbygning af Børnehuset Troldehøjen, Nødebo - tillægsbevilling,            12      119      255     50      0
+               senarie 2
+60AØ2027-120   Udbygning af Børnehuset Troldehøjen, Nødebo - tillægsbevilling,            13       48       82      0      0
+               senarie 2
+60AØ2027-120   Udbygning af Børnehuset Troldehøjen, Nødebo - tillægsbevilling,            41        8        8      0      0
+               senarie 2
+60AØ2027-121   Tulstrup Børnehus, renoveringsbehov - tillægsbevilling, senarie 1          A      6.000    5.837     0      0
+60AØ2027-121   Tulstrup Børnehus, renoveringsbehov - tillægsbevilling, senarie 1          11       187      187     0      0
+NY60AØ2027-121 Tulstrup Børnehus, renoveringsbehov - tillægsbevilling, senarie 1          A      7.610    7.610     0      0
+NY60AØ2027-121 Tulstrup Børnehus, renoveringsbehov - tillægsbevilling, senarie 1          11       254      254     0      0
+60AØ2027-121   Tulstrup Børnehus, renoveringsbehov - tillægsbevilling, senarie 1          A        745        0     0      0
+               udskiftning af vinduer og døre
+60AØ2027-121   Tulstrup Børnehus, renoveringsbehov - tillægsbevilling, senarie 1          11       22        0      0      0
+               udskiftning af vinduer og døre
+60AØ2027-121   Tulstrup Børnehus, ny byg , senarie 2                                       A     5.500   15.000     0      0               x
+60AØ2027-121   Tulstrup Børnehus, ny byg , senarie 2                                       A       360      360     0      0               x
+60AØ2027-140   Fastholdelse af kapacitet i område Trollesminde, Børnehjørnet på            A       700        0     0      0
+               hospitalsgrunden
+60AØ2027-140   Fastholdelse af kapacitet i område Trollesminde, Børnehjørnet på           11       21        0      0      0
+               hospitalsgrunden
+
+Nedslidning
+
+
+
+18-09-202608:32                                                                  Side 25 af 35                                  Budget 2027-2030 i tal
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+i 1000 kr.                                                                                        2027    2028    2029    2030
+60AØ2027-160       Vedligeholdelse af udstyr og inventar i Tandplejen                       A     350    2.450   2.450   2.450              x
+60AØ2027-160       Vedligeholdelse af udstyr og inventar i Tandplejen                       A      59       59      59      59              x
+
+Udvikling
+
+
+
+Erhverv og Uddannelsesudvalget
+
+Kultur, Idræt og Lokalsamfundsudvalget
+Nedslidning
+60AØ2027-360       Uvelse Idrætsforening, afd. fodbold, genanvendelse af lysbane i Uvelse   A     195       0       0       0               x
+
+60AØ2027-360       Uvelse Idrætsforening, afd. fodbold, genanvendelse af lysbane i Uvelse   A       6       0       0       0               x
+
+60AØ2027-360       Uvelse Idrætsforening, afd. fodbold, genanvendelse af lysbane i Uvelse   45     35      35      35      35               x
+
+60AØ2027-361       Hillerød Bueskyttelaug, renovering af skydebane                          A     680       0       0       0
+60AØ2027-361       Hillerød Bueskyttelaug, renovering af skydebane                          11     21       0       0       0
+60AØ2027-361       Hillerød Bueskyttelaug, renovering af skydebane                          45      0      10      10      10
+60AØ2027-362       Udgået
+60AØ2027-363       Renovering af kunstgræsbanen ved Frederiksborgcenteret                   A     200    3.340      0       0               x
+60AØ2027-363       Renovering af kunstgræsbanen ved Frederiksborgcenteret                   A      55       55      0       0               x
+
+Udvikling
+60AØ2027-380       Installation af handicaplift på Annaborg                                 A     300    1.000   1.000      0
+60AØ2027-380       Installation af handicaplift på Annaborg                                 11     23       23      23      0
+60AØ2027-380       Installation af handicaplift på Annaborg                                 12      0        0       0     20
+60AØ2027-381       Ålholm IF Fodbold, kunstgræsbane ved Hillerød Vest Skolen, afd.          A     300        0       0      0               x
+                   Ålholm
+60AØ2027-381       Ålholm IF Fodbold, kunstgræsbane ved Hillerød Vest Skolen, afd.          A       9       0       0       0               x
+                   Ålholm
+
+
+18-09-202608:32                                                                   Side 26 af 35                                  Budget 2027-2030 i tal
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+i 1000 kr.                                                                                         2027    2028    2029     2030
+60AØ2027-382    Etablering af sportsfaciliteter i Nødebo                                    A       500     500   4.100   15.100
+60AØ2027-382    Etablering af sportsfaciliteter i Nødebo                                    11      253     253     253      253
+60AØ2027-382    Etablering af sportsfaciliteter i Nødebo                                    12       42      42      42       42
+60AØ2027-382    Etablering af sportsfaciliteter i Nødebo                                    42       42      42      42       42
+60AØ2027-383   Projektudvikling af 1. divisionsfaciliteter på Højbanerne                    A       920     230       0        0
+60AØ2027-383   Projektudvikling af 1. divisionsfaciliteter på Højbanerne                    11       18      18       0        0
+60AØ2027-383   Projektudvikling af 1. divisionsfaciliteter på Højbanerne                    11    1.950   1.950     825      825
+60AØ2027-384   Lokalplan for Hillerød Stadion                                               A     1.000   1.000       0        0
+NY60AØ2027-384 Lokalplan for Hillerød Stadion, ekstern rådgivning                           A       500   1.000       0        0              x
+60AØ2027-384   Lokalplan for Hillerød Stadion                                               11       30      30       0        0
+60AØ2027-384   Lokalplan for Hillerød Stadion                                               11    1.950   1.950     825      825
+
+Natur, Miljø og Klimaudvalget
+Udvikling
+60AØ2027-480       Naturlegeplads ved Munkeengen                                            A      200     100       0        0               x
+60AØ2027-480       Naturlegeplads ved Munkeengen                                            A      200     200       0        0               x
+60AØ2027-481       Registrering af bevaringsværdige træer                                   A      200     200       0        0
+60AØ2027-481       Registrering af bevaringsværdige træer                                   11     385     385       0        0
+
+Plan og Byudviklingsudvalget
+Udvikling
+60AØ2027-580       Registrering af bevaringsværdige bygninger, 1940-1980 – forarbejde til   A        0     540     540        0               x
+                   bevarende lokalplaner
+60AØ2027-580       Registrering af bevaringsværdige bygninger, 1940-1980 – forarbejde til   11       0     190     190        0               x
+                   bevarende lokalplaner
+
+Trafik og Mobilitetsudvalget
+Sikkerhed og myndighedskrav
+60AØ2027-660       Fruervadvej, udvidelse af en strækning af Fruervadvej                    A     5.500       0       0        0              x
+60AØ2027-660       Fruervadvej, udvidelse af en strækning af Fruervadvej                    A       200       0       0        0              x
+60AØ2027-660       Fruervadvej, udvidelse af en strækning af Fruervadvej                    50        0     -60     -60      -60              x
+
+
+18-09-202608:32                                                                   Side 27 af 35                                    Budget 2027-2030 i tal
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+i 1000 kr.                                                                                         2027      2028      2029      2030
+
+
+Udvikling
+60AØ2027-680   Cykelsti på Milnersvej                                                    A        1.800    14.090       290         0              x
+60AØ2027-680   Cykelsti på Milnersvej                                                     I        -900    -5.545      -145         0              x
+60AØ2027-680   Cykelsti på Milnersvej                                                    A          260       260       260         0              x
+60AØ2027-680   Cykelsti på Milnersvej                                                    50           0         0       270       270              x
+60AØ2027-681   Søstien, brinksikring og ny stibelægning, forundersøgelse                 A          150         0         0         0              x
+60AØ2027-681   Søstien, brinksikring og ny stibelægning, forundersøgelse                 50         100         0         0         0              x
+60AØ2027-682   Udviddelse af Peder Oxes Allé og dobbeltkryds ved Milnersvej-             A        4.900    16.560    22.080    21.240              x
+               rundkørslen
+60AØ2027-682   Udviddelse af Peder Oxes Allé og dobbeltkryds ved Milnersvej-              A        385       770       770       770               x
+               rundkørslen
+60AØ2027-683   Cykelstipulje                                                             A           0      9.000     9.000     9.000
+60AØ2027-683   Cykelstipulje                                                             11        770        770       770       770
+60AØ2027-683   Cykelstipulje                                                             50          0          0       450       900
+NY60AØ2027-683 Cykelstipulje, missing link, herunder forundersøgelse Hillerød            A         500      9.000                                  x
+               St./Milnersvej
+NY60AØ2027-683 Cykelstipulje, missing link, herunder forundersøgelse Hillerød             A          0       770                                   x
+               St./Milnersvej
+NY60AØ2027-683 Cykelstipulje                                                             50
+60AØ2027-684   Pulje til trængselstiltag                                                 A           0      5.000     5.000     5.000
+60AØ2027-684   Pulje til trængselstiltag                                                 11        385        385       385       385
+60AØ2027-685   Grøn infrastruktur i Vølundsvej-Industrivænget – planer                   A         350        150         0         0
+60AØ2027-685   Grøn infrastruktur i Vølundsvej-Industrivænget – planer                   11         50         50         0         0
+
+Ældre, Social og Sundhedsudvalget
+
+Nye Korrektioner i alt - netto                                                                   23.305    64.018    54.359    31.482
+
+
+
+Nyt anlægsbudget                                                                                177.503   696.544   302.908   230.317
+
+
+18-09-202608:32                                                                 Side 28 af 35                                           Budget 2027-2030 i tal
+AFLEDT DRIFT SOM FØLGE AF VEDTAGNE ANLÆGSØNSKER UDEN FOR
+
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+
+
+Afledt drift uden for rammen til budget
+18-sep-2026
+
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                  2027     2028    2029   2030   Godkendte
+Afledt drift udenfor rammen                               -1.407   -1.065   696     85    korrektioner
+
+Akt. 11, Administration
+Afledt drift på anlægsønsker                                106      296    296    106         x
+
+Akt. 12, Ejendomme
+Afledt drift på anlægsønsker                              -1.541   -1.181   112    -298        x
+
+Akt. 13 Rengøring, bestiller
+Afledt drift på anlægsønsker                               -277     -325    -133   -120        x
+
+Akt. 27 Ejendomme - Grøn drift
+Afledt drift på anlægsønsker                                  0        0      0      0         x
+
+Akt. 21. Natur, Miljø og Klima
+Afledt drift på anlægsønsker                                  0        0      0      0         x
+
+Akt. 23. Kirkegårde
+Afledt drift på anlægsønsker                                  0        0      0      0         x
+
+Akt. 28. By og Miljø
+Afledt drift på anlægsønsker                                  0        0      0      0         x
+
+Akt. 30. Ungdommens Uddannelsesvejledning
+Afledt drift på anlægsønsker                                  0        0      0      0         x
+
+Akt. 31. Beskæftigelsesindsats
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                 2027   2028   2029   2030   Godkendte
+                                                            0      0      0      0        x
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                  2027   2028   2029   2030   Godkendte
+
+
+Akt. 33. Forsørgelsesydelser
+Afledt drift på anlægsønsker                                 0      0      0      0        x
+
+Akt. 32. Specialiseret voksenområde
+Afledt drift på anlægsønsker                                 0      0      0      0        x
+
+Akt. 34. Ældreområdet
+Afledt drift på anlægsønsker                                 0      0      0      0        x
+
+Akt. 35. Sundhedsområdet
+Afledt drift på anlægsønsker                                 0      0      0      0        x
+
+Akt. 38, Erhverv og Uddannelse
+Afledt drift på anlægsønsker                                 0      0      0      0        x
+
+Akt. 41. Dagtilbud børn
+Afledt drift på anlægsønsker                                29     29     29      0        x
+
+Akt. 42. Skoler
+Afledt drift på anlægsønsker                               141    141    147    152        x
+
+Akt. 43, Kriminalpræventive- og boligsociale aktiviteter
+Afledt drift på anlægsønsker                                 0      0      0      0        x
+
+Akt. 44. Familier
+Afledt drift på anlægsønsker                                 0      0      0      0        x
+
+Akt. 45. Kultur, Idræt og Lokalsamfund
+Afledt drift på anlægsønsker                                35     35     35     35        x
+
+Akt. 46. Folkeoplysning
+Afledt drift på anlægsønsker                                 0      0      0      0        x
+
+Akt. 50, Trafik og Mobilitet
+Afledt drift på anlægsønsker                               100     -60   210    210        x
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                 2027   2028   2029   2030   Godkendte
+SKAT, TILSKUD OG UDLIGNING SAMT FINANSPOSTER. DE ANFØRTE
+BELØB ER ÆNDRINGER TIL OPRINDELIGT BUDGET
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+
+
+korrektioner vedrørende Finansiering mm
+18-sep-2026
+
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                                                            2027          2028          2029          2030
+                                                                                              -4.474.933     -4.662.764    -4.821.193    -4.821.193
+
+Skatter                                                                                         -125.937           860       -24.818      -238.840
+
+justering af skatteindtægter vedr. pl stigning fra 2029 til 2030 - artskonto 69080001                                                      -149.089
+justering af skatteindtægter vedr. pl stigning fra 2029 til 2030 - artskonto 69080001                                                        -5.381
+justering af skatteindtægter vedr. pl stigning fra 2029 til 2030 - artskonto 69080001                                                         6.525
+V. 7.7.2026 - bry                                                                                 -127.308      -217.591      -119.375      -191.560
+v. 12.08.2026                                                                                       -2.061       -2.061        -2.061        -2.061
+v. 12.08.2026 - omplacering til tilskud        Komp.tilsk. vedr. nettotab sfa. ændring i dæk.afgift 3.432             0             0             0
+
+Rettelse indkomstskat - septemberkørsel                                                                        120.397       107.944       118.965
+Rettelse efterregulering af 2025 - komp. for selvbudgettering                                                  100.115
+Rettelse af selskabsskat - septemberkørsel                                                                                    -11.326       -16.239
+
+Refusion af købsmoms                                                                                    0             0             0             0
+
+
+
+Tilskud og udligning                                                                             222.053       272.746       336.263       390.616
+
+V. 7.7.2026 - bry                                                                                225.485       456.797       419.942       477.132
+
+
+18-09-202608:32                                                              Side 33 af 35                                                  Budget 2027-2030 i tal
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                                                          2027       2028     2029       2030
+v. 12.08.2026                                                                                          0    -2.149        0          0
+v. 12.08.2026 - omplacering fra skat         Komp.tilsk. vedr. nettotab sfa. ændring i dæk.afgift -3.432         0        0          0
+Rettelse til udligning                                                                                 0      -149        0          0
+
+Rettelse udligning, septemer kørsel                                                                        -58.689   -49.929   -59.642
+Rettelse statstilskud - september kørsel                                                                   -70.938   -37.213   -31.821
+Rettelse efterregulering af 2025 - komp. for selvbudgettering                                              -52.126
+Rettelse selskabsskatter- september kørsel                                                                            3.463     4.947
+
+Låneoptagelse                                                                                   11.922     -12.925     -502      -503
+
+Tilretning af låneoptagelse vedr. ESCO projekter                                                   -501       -502     -502      -503
+BOF 2 - 2026 Tilretning af låneoptagelse vedr. ESCO projekter                                     5.000     -5.000        0         0
+Udskyde energibesparende foranstaltninger flytter også låneoptagelse                              7.423     -7.423
+
+
+Renter                                                                                           -8.987     -8.987    -8.987    -8.987
+
+Budgetopfølgning 1 - 2026                                                                        -6.635     -6.635    -6.635    -6.635
+BOF 2 2026 - tilretning af garatiprovision                                                       -2.352     -2.352    -2.352    -2.352
+
+
+
+
+Afdrag                                                                                           2.132      2.082     2.335     2.602
+
+Budgetopfølgning 1 - 2026                                                                         2.132      2.082    2.335     2.602
+
+
+
+Finansforskydninger                                                                             -1.636      -2.665      168     3.948
+
+Budgetopfølgning 3 - 2025                                                                          -267     -1.296     -220      -220
+Deponering vedr. Generationernes Kvartershus - ind i 2030                                             0          0        0    69.982
+Budgetopfølgning 1 - 2026                                                                        -1.369     -1.369      388     4.168
+
+
+18-09-202608:32                                                            Side 34 af 35                                       Budget 2027-2030 i tal
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                                     2027       2028       2029       2030
+Deponering vedr. Generationernes Kvartershus - ud af 2030                        0         0          0     -69.982
+
+
+Nye korrektioner i alt                                                      99.547   251.111    304.459    148.836
+
+
+
+
+18-09-202608:32                                             Side 35 af 35                                   Budget 2027-2030 i tal
+
