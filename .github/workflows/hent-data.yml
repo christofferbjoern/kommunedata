@@ -6,6 +6,9 @@ on:
       hvad:
         description: "Hvad skal hentes (alt, dokumenter, dst)"
         default: "alt"
+      tabeller:
+        description: "Kun disse DST-tabeller (mellemrumsadskilt, tom = alle)"
+        default: ""
   schedule:
     - cron: "0 4 * * 1"   # hver mandag kl. 05/06 dansk tid
   push:
@@ -58,7 +61,7 @@ jobs:
           git pull --rebase && git push
       - name: Hent DST-data
         if: ${{ github.event.inputs.hvad != 'dokumenter' }}
-        run: python scripts/hent_dst.py
+        run: python scripts/hent_dst.py ${{ github.event.inputs.tabeller }}
       - name: Gem DST-data
         if: ${{ github.event.inputs.hvad != 'dokumenter' }}
         run: |

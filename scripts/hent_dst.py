@@ -32,6 +32,23 @@ TABELLER = {
     "INDKP101": "Personindkomster efter område",
     "HFUDD11": "Befolkningens højest fuldførte uddannelse efter område",
     "PSKAT": "Kommunale skatteprocenter",
+    "ARE207": "Areal efter område (km2)",
+    "FOLK1A": "Befolkningen den 1. i kvartalet efter område, køn, alder og civilstand",
+    "BEV107": "Befolkningsregnskab efter kommune og bevægelsesart",
+    "RAS201": "Erhvervs- og beskæftigelsesfrekvenser efter område, alder og køn",
+    "RAS301": "Beskæftigede efter bopælsområde, branche, alder og køn",
+    "AUP01": "Fuldtidsledige i procent af arbejdsstyrken efter område",
+    "NGLK": "Udvalgte kommunale regnskabsnøgletal",
+}
+
+# Variabler, hvor kun den første værdi (normalt "i alt") hentes, og evt. kun
+# ét tidspunkt pr. år (fx første kvartal), så filerne holdes små.
+FILTRE = {
+    "FOLK1A": {"total": ["KØN", "CIVILSTAND"], "tid": "K1"},
+    "BEV107": {"total": ["KØN"]},
+    "RAS201": {"total": ["HERKOMST", "KØN"]},
+    "RAS301": {"total": ["KØN"]},
+    "AUP01": {"total": ["KØN"]},
 }
 
 
@@ -48,7 +65,9 @@ def post(endpoint: str, body: dict, stream: bool = False) -> requests.Response:
     return r
 
 
-def vaelg_vaerdier(var: dict) -> list:
+def vaelg_vaerdier(var: dict, tabel: str = "") -> list:
+    if var["id"].upper() in [x.upper() for x in FILTRE.get(tabel, {}).get("total", [])]:
+        return [var["values"][0]["id"]]
     if var["id"].upper() == "PRISENHED":
         for v in var["values"]:
             if "løbende" in v["text"].lower():
@@ -70,6 +89,9 @@ def hent_tabel(tabel: str) -> None:
     aar_map: dict = {}
     for v in tidvar["values"]:
         aar = v["id"][:4]
+        tidfilter = FILTRE.get(tabel, {}).get("tid")
+        if tidfilter and not v["id"].endswith(tidfilter):
+            continue
         if aar.isdigit() and int(aar) >= FRA_AAR:
             aar_map.setdefault(aar, []).append(v["id"])
     alle_aar = sorted(aar_map)
@@ -77,7 +99,7 @@ def hent_tabel(tabel: str) -> None:
         fil = mappe / f"{aar}.csv.gz"
         if fil.exists() and aar not in alle_aar[-2:]:
             continue
-        variabler = [{"code": v["id"], "values": aar_map[aar] if v.get("time") else vaelg_vaerdier(v)}
+        variabler = [{"code": v["id"], "values": aar_map[aar] if v.get("time") else vaelg_vaerdier(v, tabel)}
                      for v in info["variables"]]
         body = {"table": tabel, "format": "BULK", "lang": "da", "valuePresentation": "CodeAndValue",
                 "variables": variabler}
