@@ -1,0 +1,93 @@
+# kilde: filer/Fanø/upload_regneark_2_Fano-hovedoversigt-budgetgrundlag-2027-2030.pdf | metode: pdftotext
+
+Hovedoversigt - Budgetgrundlag                                          2027             2028        2029          2030
+Driftsudgifter
+Hovedkonto 0                                                             9,452            9,512       9,388         9,388
+Hovedkonto 2                                                            10,410           10,398      10,490        10,490
+Hovedkonto 3                                                            44,690           44,707      45,120        45,120
+Hovedkonto 4                                                            10,629           10,629      10,630        10,630
+Hovedkonto 5                                                           142,143          141,667     143,723       143,723
+Hovedkonto 6                                                            54,740           54,656      54,615        54,615
+
+Tekniske ændringer                                                       4,461            4,146       3,685         3,685
+Budgetforslag drift - se specifikation nedenfor                          4,587            3,537       3,187         3,187
+
+Renter                                                                         74            -70           -75          -75
+Pris- og lønfremskrivning                                                       0         8,048      17,793        27,387
+Skattefinansierede nettoudgifter                                       281,186          287,230     298,554       308,148
+Finansiering
+Tilskud og udligning                                                     -7,471           -8,195    -16,871       -12,872
+Skatter                                                               -288,823         -294,464    -295,703      -308,633
+Finansiering i alt                                                    -296,294         -302,659    -312,574      -321,505
+
+Netto Ordinært driftsbudget                                            -15,108           -15,429    -14,020       -13,357
+Målsætning ordinær drift                                                 -8,000           -8,000     -8,000        -8,000
+Afdrag på lån                                                           36,981            3,005       3,048         3,048
+Afdrag på lån TÆ                                                       -33,912           34,112            100          100
+Økonomisk spillerum før anlæg                                          -12,039           21,688     -10,872       -10,209
+
+Anlæg
+Budgetforslag - se specifikation nedenfor                                4,700            8,248       6,050         3,900
+Anlæg i alt, skattefinansieret område                                    4,700            8,248       6,050         3,900
+Forsyningsvirksomhed, drift                                              -2,490           -2,490     -2,490        -2,490
+Forsyningsvirksomhed, anlæg                                                   200
+Forsyningsvirksomhed i alt                                               -2,290           -2,490     -2,490        -2,490
+
+Finansforskydninger                                                    -21,068            5,832        -168          -168
+TÆ finansforskydninger                                                  23,865           -22,037       -135          -135
+
+
+Samlet påvirkning af kassebeholdningen,                                  -6,832          11,241      -7,615        -9,102
++=forbrug, -=tilførsel
+Forventet kassebeholdning                                             -35,020          -23,779     -31,393       -40,495
+´+=forbrug, -=tilførsel
+
+Budgetforslag
+Drift                                                                    2027             2028        2029          2030
+Teknikudvalget
+Naturpleje                                                               850               850        850           850
+Materielgård - tilpasning af drift                                       270               175         25            25
+Private fællesveje til kommunal vej                                      650                35         35            35
+Gratis bus                                                               250               250        250           250
+Opgradering af cykelsti Klingebjergvej og Albuevej                        70                10         10            10
+Teknikudvalget i alt                                                   2,090             1,320      1,170         1,170
+
+Velfærdsudvalget
+Pulje - biler - udskift. Til el                                              400            400       400           400
+Kompetenceløft social/familieområdet                                         200
+Alkohol, kompetenceudvikling og tidl. Opsporing                               80
+Ændring fra 60/40 til 70/30 i dagpasningen, samt forventet takstniveau ift.1,067
+                                                                             Esbj.Kommune 1,067     1,067         1,067
+Velfærdsudvalget i alt                                                   1,747            1,467     1,467         1,467
+
+Økonomiudvalget
+Styrkelse af adm. Bopælspligt                                            250               250        250           250
+Bosætning                                                                200               200        200           200
+Beredskab                                                                100               100        100           100
+Tilskud til destination Vadehavskysten                                   200               200
+Økonomiudvalget i alt                                                    750               750        550           550
+
+Drift i alt                                                            4,587             3,537      3,187         3,187
+
+Anlæg                                                                    2027             2028        2029          2030
+Teknikudvalget
+Diger Sønderho                                                          3,000            5,500      15,000        3,500
+Diger finansiering - digelaug Sdr.ho                                   (3,000)          (5,500)    (15,000)      (3,500)
+Diger Nordby                                                            1,000            4,000       2,000        7,500
+Diger finansiering - digelaug Nordby                                                    (2,500)     (2,000)      (7,500)
+Klimatilpasning                                                        1,200             1,000         -          3,000
+Infrastrukturplan                                                        500               500         500          500
+Restfinansiering cykelprojekt                                            700               -           -            -
+Energioptimering                                                         -                 400         400          400
+Teknikudvalget i alt                                                   3,400             3,400         900        3,900
+
+Velfærdsudvalget
+Køkken/stue til træning - plejecenter                                     -                335         -            -
+Velfærdsudvalget i alt                                                    -                335         -            -
+
+Økonomiudvalget
+Alt under ét tag                                                       1,300             4,513      5,150           -
+Økonomiudvalget i alt                                                  1,300             4,513      5,150           -
+
+Anlæg i alt                                                            4,700             8,248      6,050         3,900
+
