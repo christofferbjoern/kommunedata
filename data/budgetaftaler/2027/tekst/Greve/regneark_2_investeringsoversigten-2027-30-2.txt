@@ -1,0 +1,140 @@
+# kilde: filer/Greve/regneark_2_investeringsoversigten-2027-30-2.pdf | metode: pdftotext
+
+                                                                    1                                                     25-012039-46
+                                                                                                                                 SOET
+
+Bilag 8 - Investeringsoversigt anlæg 2027-30
+       Investeringsoversigten (1.000 kr.)                                         2027      2028      2029      2030         Sum
+       Investeringsoversigten                                                     171.541   210.886   198.022   229.271      809.720
+       Køb og Salg                                                                 -4.648    -4.648    -4.648    -4.648       -18.592
+       Fondsmidler                                                                -11.786   -24.688   -16.477         0       -52.951
+       - betyder mindreudgift eller merindtægt, + betyder merudgift eller mindreindtægt
+
+       Økonomi- og Erhvervsudvalget                                                5.487      3.467     3.467     3.468       15.889
+ 612   Udskiftning af netværksudstyr                                               2.899        880       880       880        5.538
+ 614   Udskiftning af it-arbejdspladser                                            2.588      2.588     2.588     2.588       10.351
+
+
+       Trafik- og Miljøudvalget                                                 160.766     202.631   189.767   221.015      774.179
+  38   Vej og landskab - nye anlæg til fordeling                                  7.740      10.000    10.000    10.000       37.740
+ 331   Pulje til genopretning o.l.                                               15.000      20.000    20.000    20.000       75.000
+ 333   Flygtningeboliger                                                              0           0         0     1.557        1.557
+ 406   Strandskolen - Idrætsfac. hos Karlsl. IF                                   1.000      5.000     7.000     7.317        20.317
+ 436   Krogårdskolen, pcb renovering SFO (P)                                     22.450          0         0         0        22.450
+ 449   Strandskolen IT, inventar og skolegårde                                     1.560          0         0         0        1.560
+ 450   Lovpligtig opgrad daginst.køkkener                                          2.000      2.000     3.500     3.500       11.000
+ 451   Kloakpulje                                                                  2.000      2.000     2.000     2.000        8.000
+ 469   Efteriso. og renovering Karlslunde og Bettys Hus                                0          0         0         0            0
+ 496   Mosede Fort                                                                12.945     40.222    28.794         0       81.961
+ 497   Budgetanalyse - rækkefølgeplan 10 år                                       23.800     20.800    24.500    79.700      148.800
+ 499   Indeksregulering igangværende projekter                                     2.201      1.060       692       420        4.373
+ 564   Renovering af Tune skole - Samling                                          2.650      8.000     2.000         0       12.650
+ 590   10-årsplan for renovering af veje og stier                                 10.000     10.000    10.000    10.000       40.000
+ 591   Byudvikling - infrastrukturudgifter                                         2.000      2.000     5.500     2.500       12.000
+ 592   Tune Skole, samling - trafikale tiltag                                      3.100      5.700     5.000     2.000       15.800
+ 601   Karlslunde Centervej - 2 i 1-vej                                            1.000          0         0         0        1.000
+ 602   Mosede Klimapark                                                            4.867      1.768         0         0        6.635
+ 625   Pulje til nye Klimatiltag                                                   1.000      1.000         0         0        2.000
+ 627   Indpumpning af sand                                                           421        421       421       421        1.684
+ 628   Modernisering af kommunens vejbelysning Pulje                               1.500      1.500     1.500     1.500        6.000
+ 632   Opkøb af jord til skov                                                      1.000      1.000     1.000     1.000        4.000
+ NY    Ressourcemodel                                                             10.000     10.000    10.000    10.000       40.000
+ NY    Hjemmepleje/hjemmesygepleje - Privat Tune løsning                             100      3.000         0         0        3.100
+ NY    Midlertidige plejehjemspladser - Møllehøj                                     500          0         0         0          500
+ NY    Midlertidige plejehjemspladser - 30 pladser                                     0      2.400    12.000     9.000       23.400
+ NY    Plads til mere daghjem                                                        500      4.800         0         0        5.300
+ NY    Aktivitetsmålere                                                              150        150       150       150          600
+ NY    Fysiske rammer, trivsel og læring - Flytning til eksisterende skole         1.000      5.850         0         0        6.850
+ NY    Tidlig indsats - udvidelse af A-klasserne                                     500      4.000    12.800         0       17.300
+ NY    Forlængelse af pavilloner Klub Godset                                       1.500      3.000     3.000     3.000       10.500
+ NY    Kap.udfordringer på dagtilbud - Nybyg eller udvidelse                         500        500     4.000    27.000       32.000
+ NY    Pulje til legepladser                                                       1.100      1.100     1.100     1.100        4.400
+ NY    Kystsikring - Karlslunde                                                    2.000      3.000     4.000     4.000       13.000
+ NY    Kystsikring - Nord for Mosede Havn                                              0      2.000     3.000     4.000        9.000
+ NY    Energi- og indeklimapuljen                                                  5.000      5.000     5.000    10.000       25.000
+ NY    Klimahandlingsplan - Ladestander infrastruktur                                660        660       660       660        2.640
+ NY    Klimahandlingsplan - Øvrige                                                 2.950      1.700     1.650     1.440        7.740
+ NY    Renovering af atletikstadion på GIC                                         5.820          0         0         0        5.820
+ NY    Greve Svømmehal, renovering af bassiner                                     2.000     13.000         0         0       15.000
+ NY    Nedrivning af hus ved nyttehaverne i Hundige                                  350          0         0         0          350
+ NY    Trafiksikkerhedspulje 2027-2030                                             1.800      1.000     1.000     1.000        4.800
+ NY    Puljer til cykelstier - anlægsrammen                                        3.204     10.000    10.000    10.000       33.204
+ NY    Puljer til cykelstier - statstilskud - uden for anlægsramme                -1.602     -5.000    -5.000    -5.000      -16.602
+ NY    Forsøgspulje til trafikale forbedringer på Strandvejen                      1.500      3.000     1.500         0        6.000
+ NY    Lunden - klargøring til salg - Forundersøgelser                             1.000          0         0         0        1.000
+ NY    Lunden - klargøring til salg - Infrastruktur                                    0          0     2.000         0        2.000
+ NY    Helhedsplan for Hundige - mindre tiltag                                     1.000      1.000     1.000         0        3.000
+                                                           2                                               25-012039-46
+                                                                                                                  SOET
+      Investeringsoversigten (1.000 kr.)                       2027       2028       2029       2030          Sum
+NY    Byvejen 15A-D - Klargøring til salg                       1.000            0          0        0          1.000
+NY    Flygtningeboliger - nedrivning                                0            0          0    2.750          2.750
+
+      Skole- og Børneudvalget                                   4.788      4.288      4.288      4.288         17.652
+597   Tandlægestole - udskiftning                                 700        700        700        700          2.800
+616   IT-hardware på skolerne                                   2.588      2.588      2.588      2.588         10.352
+634   Pilotprojekter til indr. der understøtter læringsm        1.500      1.000      1.000      1.000          4.500
+
+      Plan- og Klimaudvalget                                      500        500        500        500          2.000
+630   Støjindsats Pulje                                           500        500        500        500          2.000
+
+      Køb og Salg af jord og ejendomme                          -4.648     -4.648     -4.648     -4.648        -18.592
+340   Bygningsoptimering - salgspulje                           -4.648     -4.648     -4.648     -4.648        -18.592
+
+      Fondsmidler mv.                                          -11.786    -24.688    -16.477           0       -52.951
+496   Mosede fort                                               -7.516    -22.938    -16.477           0       -46.931
+602   Mosede klimapark                                          -4.270     -1.750          0           0        -6.020
+
+
+
+
+      Enkeltprojekter overblik                                 2027       2028       2029       2030          Sum
+
+      Tune Skole                                               16.750     22.700     17.000     22.000         78.450
+497   Tune Skole - samling af skole                            11.000      9.000     10.000     20.000         50.000
+564   Renovering af Tune skole - Samling                        2.650      8.000      2.000          0         12.650
+592   Tune Skole, samling - trafikale tiltag                    3.100      5.700      5.000      2.000         15.800
+
+      Holmeagerskolen                                                 0    1.500      5.000     18.000         24.500
+497   Holmeagerskolen - renovering af SFO-bygning                     0    1.000      3.000      3.000          7.000
+497   Holmeagerskolen – udskiftning af tage og udhæng                 0      500      2.000     15.000         17.500
+
+      Krogårdsskolen                                           22.450          0          0          0         44.950
+436   Krogårdskolen, pcb renovering SFO (P)                    22.450          0          0          0         22.450
+497   Krogårdsskolen - tagrenovering etape 2                        0        500      2.000     20.000         22.500
+
+      Mosede Fort                                               5.429      17.284     12.317           0        35.030
+496   Mosede fort - Anlægsudgifter                             12.945      40.222     28.794           0        81.961
+496   Mosede fort - Fondsmidler                                -7.516     -22.938    -16.477           0       -46.931
+
+      Mosede Klimapark                                             597         18           0          0           615
+602   Mosede klimapark                                           4.867      1.768           0          0         6.635
+602   Mosede klimapark                                          -4.270     -1.750           0          0        -6.020
+
+497   Budgetanalyse - rækkefølgeplan 10 år                     23.800     20.800     24.500     79.700        148.800
+      Skoler
+497   Skoler, rammebeløb                                                                                            0
+497   Arenaskolen - renovering af vinduer og facader                         800      2.000     15.000         17.800
+497   Holmeagerskolen - renovering af SFO-bygning                          1.000      3.000      3.000          7.000
+497   Passiv brandsikring på skoler                             2.000      2.000      2.000      2.000          8.000
+497   Faglokaler på skoler                                      4.000      1.000      3.500          0          8.500
+497   Kritisk vedligehold af skoler                                 0          0          0          0              0
+497   Holmeagerskolen – udskiftning af tage og udhæng               0        500      2.000     15.000         17.500
+497   Hedelyskolen - renovering af tag på gymnastiksal          5.000          0          0          0          5.000
+497   Tune Skole - samling af skole                            11.000      9.000     10.000     20.000         50.000
+497   Krogårdsskolen - tagrenovering etape 2                        0        500      2.000     20.000         22.500
+497   Damagerskolen – ventilation og varme                          0          0          0          0              0
+497   Mosedeskolen - legeplads                                  1.800          0          0          0          1.800
+      Klubber                                                                                                       0
+497   Klub Brogården                                                  0          0          0          0            0
+497   Klub Oasen                                                      0          0          0          0            0
+                                           3                                           25-012039-46
+                                                                                              SOET
+      Investeringsoversigten (1.000 kr.)       2027       2028     2029       2030        Sum
+      Dagtilbud                                                                                 0
+497   Strandhuset                                     0        0          0        0            0
+497   Vesterbo                                        0    6.000          0        0        6.000
+497   Prinsesseparken                                 0        0          0        0            0
+497   Lillebo                                         0        0          0    2.700        2.700
+497   Mosebo                                          0        0          0    2.000        2.000
+

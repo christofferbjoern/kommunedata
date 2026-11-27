@@ -1,0 +1,358 @@
+# kilde: filer/Sorø/regneark_1_budgetberegner-budget-2027-2030-endelig.pdf | metode: pdftotext
+
+                                                                                                                                                                                                                                              1
+
+
+
+Budgetaftale 2027 (2028-30) (2027 PL)                                                                                                                                              2027          2028          2029          2030     Noter
+                                                                                                                                                                                (1.000 kr.)   (1.000 kr.)   (1.000 kr.)   (1.000 kr.)
+Serviceramme
+Serviceudgifter i alt                                                                                                                                                            1.750.043     1.748.347     1.750.714     1.752.560
+Serviceramme                                                                                                                                                                     1.743.046
+Forskel serviceudgifter i forhold til Serviceramme*                                                                                                                                  6.997
+
+Budgetbalancen
+Budgetbalance i det tekniske budgetforslag LIKVIDITETSUNDERSKUD (+) / LIKVIDITETSOVERSKUD (-)                                                                                       -53.571       -32.064       -51.713       -58.654
+Drift - ændringer serviceudgifter                                                                                                                                                    24.456        26.123        22.578        22.578
+Drift - ændringer indkomstoverførsler mv.                                                                                                                                              -250          -250          -250          -250
+Anlæg - ændringer i udgifter (fra Anlæg)                                                                                                                                              9.450        -1.000        16.350        29.250
+Anlæg - ændringer i indtægter (fra Anlæg)                                                                                                                                                 0        -4.000        -1.500        10.879
+Anlæg - ændringer i finansiering (fra Anlæg)                                                                                                                                              0             0        11.000        10.000
+Lån - ændringer                                                                                                                                                                           0             0             0       -13.000
+Renter - ændringer                                                                                                                                                                        0             0             0             0
+Afdrag - ændringer                                                                                                                                                                        0             0             0             0
+Finansiering - Skat og afgifter ændringer                                                                                                                                                 0             0             0             0
+Andre ændringer uden for servicerammen                                                                                                                                                    0             0             0             0
+KASSETRÆK (+) / KASSESTYRKELSE (-) (DENNE GIVER NUL KR. NÅR DER ER BUDGETBALANCE)                                                                                                   -19.915       -11.191        -3.535           803
+*) + Der er merforbrug i forhold til KL's tekniske serviceramme / - Der er mindreforbrug i forhold til KL's tekniske serviceramme)
+                                                                                                                                                                                  SAND          SAND          SAND          SAND
+                                                                                                                                                            Ønskes medtaget i
+                                                                                                                                                            ændringsforslag -      2027          2028          2029          2030
+Type         Nr.           Udvalg     Politikområde               Overskrift                                                 Udgiftstype   Center
+                                                                                                                                                            Vælg Ja eller       (1.000 kr.)   (1.000 kr.)   (1.000 kr.)   (1.000 kr.)
+                                                                                                                                                            Nej
+             Servicebudget - Administrationens anbefalinger (nødvendige)
+BØ_ADM       BØ_S.13     BUU        C470 Indsatser for barnet Fortsat genopretning og budgettilpasning på børne- og          Service       Børn og Familier Ja
+                                    og familien               familieområdet                                                                                                          5.000       10.000        10.000        10.000
+
+BØ_ADM       BØ_S.14       BUU        A120 Administration         Fastholdelse af ressourcer til omstilling af               Service       Børn og Familier Ja
+                                                                  Familierådgivningen
+                                                                                                                                                                                      1.500         1.500         1.500         1.500
+
+
+BØ_ADM       BØ_S.40       ØKU        A120 Administration         Bosætningspakke - del 2 - Spildevand                       Service       Teknik, Miljø og Ja
+                                                                                                                                           Drift                                        700           700           700           700
+
+BØ_ADM       BØ_S.41       ØKU        A120 Administration         Bosætningspakke - del 3 - Infrastrukturplan                Service       Teknik, Miljø og Ja
+                                                                                                                                           Drift                                        500             0             0             0
+
+BØ_ADM       BØ_S.42       ØKU        A120 Administration         Bosætningspakke - del 4 - Byggesagsbehandling              Service       Teknik, Miljø og Ja
+                                                                                                                                           Drift                                        700           700           700           700
+
+BØ_ADM       BØ_S.51       KMP        B320 Vej, Park og Trafik    Tilpasning af vintertjenesten til gennemsnitsforbrug for   Service       Teknik, Miljø og Ja
+                                                                  de sidste 4 år                                                           Drift                                      1.860         1.860         1.860         1.860
+
+BØ_ADM                     BUU        C470 Indsatser for barnet Løft af Indsatser til barnet og familien så udgiftsniveauet Service        Børn og Familier Ja
+                                      og familien               er som sammenligningskommunerne.                                                                                      7.000         3.000             0             0
+                                                                                                                                                                                                                             2
+
+
+
+                                                                                                                                                 Ønskes medtaget i
+                                                                                                                                                 ændringsforslag -      2027          2028          2029          2030
+Type   Nr.          Udvalg    Politikområde              Overskrift                                               Udgiftstype   Center
+                                                                                                                                                 Vælg Ja eller       (1.000 kr.)   (1.000 kr.)   (1.000 kr.)   (1.000 kr.)
+                                                                                                                                                 Nej
+                                                                                                                                                 Ønskes medtaget i
+                                                                                                                                                 ændringsforslag -      2027          2028          2029          2030
+Type   Nr.          Udvalg    Politikområde              Overskrift                                               Udgiftstype   Center
+                                                                                                                                                 Vælg Ja eller       (1.000 kr.)   (1.000 kr.)   (1.000 kr.)   (1.000 kr.)
+                                                                                                                                                 Nej
+       Servicebudget - Nye tekniske ændringer
+                   Tværgåen Vælg fra listen              ØR 2 beslutning                                          Service       Børn og Familier Ja
+                                                                                                                                                                           7.016         7.016         7.016         7.016
+                   de
+
+                                                                                                                                                 Ønskes medtaget i
+                                                                                                                                                 ændringsforslag -      2027          2028          2029          2030
+Type   Nr.          Udvalg    Politikområde              Overskrift                                               Udgiftstype   Center
+                                                                                                                                                 Vælg Ja eller       (1.000 kr.)   (1.000 kr.)   (1.000 kr.)   (1.000 kr.)
+                                                                                                                                                 Nej
+       Servicebudget - Finansieringsforslag
+
+FF     FF_S.7       BUU       C460 Dagtilbud             Tilpasning af dagtilbudskapacitet gennem reduktion af    Service       Børn og Familier Ja
+                                                                                                                                                                          -1.440        -1.440        -1.440        -1.440
+                                                         dagpleje
+FF     FF_S.13      BUU       C490 Skoler og             Reduktion af kulturelle aktiviteter på skoleområdet      Service       Børn og Familier Ja
+                                                                                                                                                                            -305          -305          -305          -305
+                              specialundervisning
+FF     FF_S.16      EBS       F720                       Løntilskud til ansatte i kommuner                        Service       Arbejdsmarked Ja
+                              Overførselsindkomster                                                                             og Borgerservice                            -220          -220          -220          -220
+
+FF     FF_S.21      EBS       F750 Voksen-               Nedlæggelse af Elefantgården                             Service       Social og        Ja
+                                                                                                                                                                            -155          -470          -470          -470
+                              /handicapområdet                                                                                  Sundhed
+FF     FF_S.22      EBS       F750 Voksen-               Socialtandplejen                                         Service       Social og        Ja
+                              /handicapområdet                                                                                  Sundhed
+                                                                                                                                                                            -250
+
+
+FF     FF_S.27      KMP       B320 Vej, Park og Trafik   Reduktion i midler til opsætning af flagallé i Sorø by   Service       Teknik, Miljø og Ja
+                                                                                                                                Drift
+                                                                                                                                                                             -50           -50           -50           -50
+                                                                                                                                                                                                                          3
+
+
+
+                                                                                                                                              Ønskes medtaget i
+                                                                                                                                              ændringsforslag -      2027          2028          2029          2030
+Type     Nr.         Udvalg    Politikområde              Overskrift                                          Udgiftstype   Center
+                                                                                                                                              Vælg Ja eller       (1.000 kr.)   (1.000 kr.)   (1.000 kr.)   (1.000 kr.)
+                                                                                                                                              Nej
+FF       FF_S.31     SÆU       E640 Pleje og              Nedlæggelse af 2 specialpladser på Egecenteret      Service       Social og         Ja
+                                                                                                                                                                       -1.500
+                               ældreomsorg                                                                                  Sundhed
+FF       FF_S.41     KFL       D530 Turisme               Åmosen budgettilpasning                             Service       Teknik, Miljø og Ja
+                                                                                                                                                                          -39           -39           -39           -39
+                                                                                                                            Drift
+FF       FF_S.48     KFL       D560 Ejendomme             Hjemtagelse af vinduesvask af kommunens bygninger   Service       Teknik, Miljø og Ja
+                                                                                                                                                                          -50           -50           -50           -50
+                                                                                                                            Drift
+FF       FF_S.57     ØKU       A120 Administration        Strategisk brug af lægekonsulent                    Service       Arbejdsmarked Ja
+                                                                                                                            og Borgerservice                             -400          -400          -400          -400
+
+FF       FF_S.58     ØKU       A120 Administration        Tolkebistand                                        Service       Arbejdsmarked Ja
+                                                                                                                            og Borgerservice                              -85           -85           -85           -85
+
+FF       FF_S.59     ØKU       A120 Administration        Forenklet arbejdsgang vedr. STU-visitation          Service       Arbejdsmarked Ja
+                                                                                                                            og Borgerservice                              -35           -35           -35           -35
+
+FF       FF_S.60     ØKU       A120 Administration        Besparelse på centralt inventar                     Service       Teknik, Miljø og Ja
+                                                                                                                            Drift                                         -74           -74           -74           -74
+
+FF       FF_S.61     ØKU       A120 Administration        Reduktion i budget til klimatrappens initiativer    Service       Teknik, Miljø og Ja
+                                                                                                                            Drift                                        -300          -300          -300          -300
+
+FF       FF_S.62     ØKU       A121 Fælles IT             Reduktion af It-systemudgifter                      Service       Økonomi og Stab Ja
+                                                                                                                                                                         -380          -380          -625          -625
+FF                   Skal      Vælg fra listen                                                                Skal vælges   Vælg fra listen   Skal vælges
+                     vælges
+
+                                                                                                                                              Ønskes medtaget i
+                                                                                                                                              ændringsforslag -      2027          2028          2029          2030
+Type     Nr.         Udvalg    Politikområde              Overskrift                                          Udgiftstype   Center
+                                                                                                                                              Vælg Ja eller       (1.000 kr.)   (1.000 kr.)   (1.000 kr.)   (1.000 kr.)
+                                                                                                                                              Nej
+         Budgetønsker - Fra administrationen
+
+BØ_ADM   BØ_TIL_ S.5 BUU       C460 Dagtilbud             Ændret ledelsesorganisering på dagtilbudsområder    Service       Børn og Familier Ja
+                                                          Scenarie 2                                                                                                    1.500         1.500         1.500         1.500
+
+BØ_ADM   BØ_S.50     KMP       B320 Vej, Park og Trafik   Kontrol af gravetilladelser og tilsyn               Service       Teknik, Miljø og Ja
+                                                                                                                                                                          250
+                                                                                                                            Drift
+BØ_ADM   BØ_S.57     KFL       D510 Kultur og Fritid      Fortsættelse af børneindsats: KUMULT                Service       Økonomi og Stab Ja
+                                                                                                                                                                          630           630           630           630
+                                                                                                                                                                                                                              4
+
+
+
+                                                                                                                                                  Ønskes medtaget i
+                                                                                                                                                  ændringsforslag -      2027          2028          2029          2030
+Type   Nr.         Udvalg    Politikområde              Overskrift                                                Udgiftstype   Center
+                                                                                                                                                  Vælg Ja eller       (1.000 kr.)   (1.000 kr.)   (1.000 kr.)   (1.000 kr.)
+                                                                                                                                                  Nej
+                                                                                                                                                  Ønskes medtaget i
+                                                                                                                                                  ændringsforslag -      2027          2028          2029          2030
+Type   Nr.         Udvalg    Politikområde              Overskrift                                                Udgiftstype   Center
+                                                                                                                                                  Vælg Ja eller       (1.000 kr.)   (1.000 kr.)   (1.000 kr.)   (1.000 kr.)
+                                                                                                                                                  Nej
+       Partiernes egne forslag
+                    ØKU        A190 Beredskab           Beredskabskoordinering jf. ønske fra Beredskabet          Service       Økonomi og Stab Ja
+                                                                                                                                                                              200           200           200           200
+
+                   ØKU       A120 Administration        Understøttelse af §17 stk. 4 udvalg                       Service       Teknik, Miljø og Ja
+                                                                                                                                                                              300           300
+                                                                                                                                Drift
+                   SÆU       E640 Pleje og              Løfte budgettet på ældre myndighedsområdet                Service       Social og        Ja
+                                                                                                                                                                            1.000         1.000         1.000         1.000
+                             ældreomsorg                                                                                        Sundhed
+                   BUU       C490 Skoler og             Løfte budgettet til specialundervisning                   Service       Børn og Familier Ja
+                                                                                                                                                                            1.000         1.000         1.000         1.000
+                             specialundervisning
+                   KMP       B320 Vej, Park og Trafik   Tilbagerulle tidligere besparelse på "sommervikar" hos    Service       Teknik, Miljø og Ja
+                                                                                                                                                                              400           400           400           400
+                                                        Vej og Park .                                                           Drift
+                   ØKU       A110 Tværgående            Annullere indfrielsen af lån til Slaglille plejeboliger   Lån           Økonomi og Stab Ja
+                                                                                                                                                                                                                    -13.000
+                             finansiering og puljer
+                   KMP       B320 Vej, Park og Trafik   Ophøre samfinansiering af energirådgiver                  Service       Teknik, Miljø og Ja
+                                                                                                                                                                             -300          -300          -300          -300
+                                                                                                                                Drift
+                   ØKU       A120 Administration        Tilpasse budgettet til enkeltydelser                      Overførsler   Arbejdsmarked Ja
+                                                                                                                                og Borgerservice                             -250          -250          -250          -250
+
+                   KMP       B320 Vej, Park og Trafik   Afspæring og skiltning i forbindelse med arrangementer. Service         Teknik, Miljø og Ja
+                                                                                                                                                                              100           100           100           100
+                                                                                                                                Drift
+                   ØKU       A110 Tværgående            Sorø kommunes andel til finansiering af Greater           Service       Økonomi og Stab Ja
+                                                                                                                                                                               18
+                             finansiering og puljer     Copenhagen jf. beslutning i KKR
+                   ØKU       D510 Kultur og Fritid      Forhøjelse af beløb til lederpris, ung lederpris og       Service       Økonomi og Stab Ja
+                                                                                                                                                                               15            15            15            15
+                                                        frivillighedspriserne.
+                   ØKU       A120 Administration        Styrket tilsyn med almene boliger                         Service       Økonomi og Stab Ja
+                                                                                                                                                                              350           350           350           350
+                   Skal      Vælg fra listen                                                                      Skal vælges   Vælg fra listen   Skal vælges
+                   vælges
+                   Skal      Vælg fra listen                                                                      Skal vælges   Vælg fra listen   Skal vælges
+                   vælges
+                   Skal      Vælg fra listen                                                                      Skal vælges   Vælg fra listen   Skal vælges
+                   vælges
+                                                                                                                                                                                                                                                            5
+
+
+
+Budgetaftale 2027 (2028-30) (2027 PL)                                                                                                                                                                  2027          2028          2029          2030
+                                                                                                                                                                                                    (1.000 kr.)   (1.000 kr.)   (1.000 kr.)   (1.000 kr.)
+Anlægsramme
+Anlægsudgifter                                                                                                                                                                                           87.828       89.713        94.213        98.413
+Anlægsramme                                                                                                                                                                                              87.558
+Forskel anlægsudgifter i forhold til Anlægsramme*                                                                                                                                                           270
+Anlægsindtægter                                                                                                                                                                                         -13.700       -22.706        -8.384       -16.876
+
+Anlægsændringer
+Anlæg - ændringer i udgifter                                                                                                                                                                              9.450        -1.000       16.350        29.250
+Anlæg - ændringer i indtægter                                                                                                                                                                                 0        -4.000       -1.500        10.879
+Anlæg - ændringer i finansiering                                                                                                                                                                              0             0       11.000        10.000
+Anlæg - KASSETRÆK (+) / KASSESTYRKELSE (-) (DENNE GIVER NUL KR. NÅR DER ER BUDGETBALANCE)                                                                                                                 9.450        -5.000       25.850        50.129
+*) + Der er merforbrug i forhold til KL's tekniske serviceramme / - Der er mindreforbrug i forhold til KL's tekniske serviceramme)
+                                                                                                                                                                                                      SAND          SAND          SAND          SAND
+                                                                                                                                                                         Ønskes medtaget i
+                                                                                                                                                                         ændringsforslag - Vælg Ja    2027           2028          2029          2030
+Type         Nr.           Udvalg            Politikområde              Overskrift                                                   Udgiftstype        Center
+                                                                                                                                                                         eller                     (1.000 kr.)    (1.000 kr.)   (1.000 kr.)   (1.000 kr.)
+                                                                                                                                                                         Nej
+             Anlægsbudget- Administrationens anbefalinger (nødvendige)
+BØ_ADM       BØ_S.74    ØKU              A810A By- og             Flytning af busterminal                                            Anlæg - Udgifter   Teknik, Miljø og Ja
+                                         Boligudviklingsprojekter                                                                                       Drift                                             2.000             0             0             0
+
+
+BØ_ADM       BØ_S.76       ØKU               A830A Kommunale        Kloakseparering i kommunale bygninger -1. etape                  Anlæg - Udgifter   Teknik, Miljø og Ja
+                                             ejendomme og matrikler                                                                                     Drift
+
+                                                                                                                                                                                                          2.000             0             0             0
+
+
+
+
+             BØ_S.75       ØKU               A830A Kommunale        Frederiksberg skole - 4-spor                                     Anlæg - Udgifter   Teknik, Miljø og Ja
+                                             ejendomme og matrikler                                                                                     Drift
+                                                                                                                                                                                                          3.800         4.000       25.000        27.000
+
+
+                           ØKU               A830A Kommunale        Modernisering af Holbergskolen, etape 2                          Anlæg - Udgifter   Teknik, Miljø og Ja
+                                             ejendomme og matrikler                                                                                     Drift
+                                                                                                                                                                                                                                                  10.000
+
+
+                           ØKU               A830A Kommunale        Reduktion af Energipuljen                                        Anlæg - Udgifter   Teknik, Miljø og Ja
+                                             ejendomme og matrikler                                                                                     Drift
+                                                                                                                                                                                                                      -11.000       -10.000       -10.000
+
+
+                           ØKU               F830A Kommunale        Reduktion af lånoptag til Engeripuljen                           Anlæg -            Tværgående       Ja
+                                             ejendomme og matrikler                                                                  Finansiering                                                                                   11.000        10.000
+                                                                                                                                                                                                                                                 6
+
+
+
+
+                                                                                                                                                               Ønskes medtaget i
+                                                                                                                                                               ændringsforslag - Vælg Ja    2027          2028          2029          2030
+Type   Nr.         Udvalg            Politikområde              Overskrift                                                Udgiftstype         Center
+                                                                                                                                                               eller                     (1.000 kr.)   (1.000 kr.)   (1.000 kr.)   (1.000 kr.)
+                                                                                                                                                               Nej
+       Budgetønsker - Fra politiker, bestyrelser råd og nævn
+       BØ_S.69    ØKU                 A850A Fagspecifikke       Åmosen - del 1                                            Anlæg - Udgifter    Teknik, Miljø og Ja
+                                      projekter                                                                                               Drift                                              150             0             0             0
+
+
+
+                                                                                                                                                               Ønskes medtaget i
+                                                                                                                                                               ændringsforslag - Vælg Ja    2027          2028          2029          2030
+Type   Nr.         Udvalg            Politikområde              Overskrift                                                Udgiftstype         Center
+                                                                                                                                                               eller                     (1.000 kr.)   (1.000 kr.)   (1.000 kr.)   (1.000 kr.)
+                                                                                                                                                               Nej
+       Partiernes egne forslag
+                    ØKU              B830A Kommunale        Frasalg af Regnbuen, Ruds Vedby ifm. opførelse af ny          Anlæg - Indtægter Økonomi og Stab Ja
+                                     ejendomme og matrikler daginstitution                                                                                                                                                -1.500
+
+                   ØKU               B830A Kommunale        Frasalg af Katrinlystgården                                   Anlæg - Indtægter Økonomi og Stab Ja
+                                     ejendomme og matrikler                                                                                                                                                 -4.000
+
+                   ØKU               A830A Kommunale        Løfte budgettet til bygningsvedligehold                       Anlæg - Udgifter    Teknik, Miljø og Ja
+                                     ejendomme og matrikler                                                                                   Drift                                            1.000           750           750           750
+
+                   ØKU               A810A By- og               Understøtte LBI halprojekt                                Anlæg - Udgifter    Teknik, Miljø og Ja
+                                     Boligudviklingsprojekter                                                                                 Drift                                                          5.000
+
+                   ØKU               A830A Kommunale        Salg af Slaglille plejeboliger annulleres og overgår til      Anlæg - Indtægter Teknik, Miljø og Ja
+                                     ejendomme og matrikler udlejning                                                                       Drift                                                                                      10.879
+
+                   ØKU               B810A By- og               Pris-og lønfremskrivning vedr. opførsel af nyt plejecenter Anlæg - Udgifter   Teknik, Miljø og Ja
+                                     Boligudviklingsprojekter   i Sorø                                                                        Drift                                                                          600         1.500
+
+                   ØKU               B830A Kommunale        Pulje til etablering af parkeringspladser (Stenlille)         Anlæg - Udgifter    Teknik, Miljø og Ja
+                                     ejendomme og matrikler Placering undersøges.                                                             Drift                                              250
+
+                   ØKU               B820A Fysisk               Trafiksikkerhed, fortov og cykelsti 2027-28               Anlæg - Udgifter    Teknik, Miljø og Ja
+                                                                                                                                                                                                 250           250
+                                     infrastruktur                                                                                            Drift
+Mio. kr. løbende priser                             2027           2028         2029          2030
+
+
+A. Skattefinansieret område
+Indtægter i alt                                      -2.533,8      -2.604,0     -2.645,4      -2.736,0
+
+Driftsudgifter (ekskl. forsyningsvirksomhed)
+
+Driftsudgifter i alt                                  2.389,5       2.463,2      2.541,4      2.624,4
+Heraf serviceudgifter                                 1.750,0       1.749,0      1.751,9       1.754,5
+Driftsresultat                                        -144,3        -140,9       -104,0        -111,6
+Renter og kursregulering                                    4,0           3,5          3,1         3,7
+Resultat af ordinær driftsvirksomhed                  -140,4        -137,4       -100,9        -107,9
+Anlægsudgifter (ekskl. forsyningsvirksomhed)
+Anlægsudgifter                                             87,8        89,7         94,8        100,0
+Anlægsindtægter                                            -13,7      -22,8            -8,4      -16,3
+Anlæg netto i alt                                          74,1        66,9         86,4          83,7
+Resultat af skattefinansieret område (A)                -66,2         -70,5        -14,5         -24,1
+B. Takstfinansieret område (forsyningsvirksomhed)
+Forsyning                                                   0,0           0,0          0,0         0,0
+Anlæg                                                       0,0           0,0          0,0         0,0
+Resultat af takstfinansieret område (B)                     0,0           0,0          0,0         0,0
+Resultat i alt (A+B)                                    -66,2         -70,5        -14,5         -24,1
+C. Ændring af likvide aktiver:
+Lånoptagelse m.v.                                          -10,8      -10,8        -30,6         -30,2
+Afdrag på lån                                              57,1        70,7         43,3          59,2
+Balanceforskydninger                                        0,0           0,0          0,0         0,0
+Finansiering i alt (C)                                     46,3        59,9         12,7          29,0
+Budgetbalancen (A+B+C)                                     -19,9      -10,6            -1,8        4,9
+
+
+Serviceudgifter i budgetforslaget                     1.750,0
+KL's tekniske serviceramme                            1.743,0
+Servicerammeudfordring                                    7,0             0,0          0,0         0,0
+
+
+KL's vejledende anlægsramme                                87,6
+
+
+Likviditetsberegning i mio. kr.                         2027          2028         2029          2030
+Beregnet gennemsnitslikviditet ultimo årene                88,2        89,8         87,1          87,1
+
+
+
+
+                          Med ændringer i budgetberegneren
+

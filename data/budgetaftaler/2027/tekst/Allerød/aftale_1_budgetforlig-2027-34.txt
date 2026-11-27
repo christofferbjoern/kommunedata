@@ -1,0 +1,1014 @@
+# kilde: filer/Allerød/aftale_1_budgetforlig-2027-34.pdf | metode: pdftotext
+
+AcadreRecipientPublicI
+dentity
+
+
+AcadreRecipientName
+
+
+AcadreRecipientSubTyp
+e
+
+
+AcadreRecipientAddres
+s
+
+          BUDGET 2027-34
+AcadreRecipientPostal
+Code
+
+
+AcadreRecipientPostOf
+ficeBox
+
+
+AcadreRecipientCity
+
+
+AcadreRecipientPostal
+CodeAndCity                                  Budgetforlig
+AcadreRecipientAttenti
+onName
+
+
+AcadreRecipientId
+                                   FREMTIDENS ALLERØD
+AcadreRecipientAddres             - det gode liv i hele livet
+sName
+
+
+AcadreRecipientPhoneP
+rimary
+                                         September 2026
+AcadreRecipientPhoneS
+econdary
+
+
+AcadreRecipientPhoneT
+ertiary
+
+
+AcadreRecipientEmailP
+rimary
+          Mellem følgende partier i Allerød Byråd:
+       - Venstre
+AcadreRecipientEmailS
+econdary- Det Konservative Folkeparti
+
+       - Socialistisk Folkeparti
+AcadreRecipientEmailLi
+st
+       - Socialdemokratiet
+       - Liberal Alliance
+       - Radikale Venstre
+AcadreRecipientFaxNrP
+rimary - Enhedslisten - De rød-grønne
+
+
+AcadreRecipientFaxNrL
+          er der indgået følgende aftale om Allerød Kommunes budget for 2027-34.
+ist
+
+
+AcadreDocumentAmount
+Number
+
+
+AcadreDocumentUnique
+Number
+
+
+AcadreDocumentNo
+                                                                                                        2
+Budget 2027-34: Borgmesterens udspil til budgetforhandlingerne
+
+
+
+
+Fremtidens Allerød – det gode liv hele livet
+Budgettet har til formål at understøtte kommunens strategiske udvikling på tværs af alle politiske
+udvalgsområder, indenfor de økonomiske muligheder, kommunen har. Der er tale om et
+udviklingsarbejde, der strækker sig over mange år.
+
+Fokus for denne budgetproces har været at få et budget i balance på kort – og lang sigt.
+Det har været en stor og udfordrende opgave, da de sidste mange års reformspor og
+driftsudvidelser på tværs af fagområderne ikke har været tilstrækkeligt finansieret. Det er både
+et ansvar, byrådet skal tage, sammenholdt med, at det er et rammevilkår, som Folketinget
+pålægger alle 98 kommuner og det går Allerød heller ikke fri af.
+
+Derfor har opgaven i dette budget været at finde et samlet finansieringsbehov på 200 mio. i
+perioden 2029-32 samt at realisere varige effektiviseringer på 13,6 mio. årligt, for at fastholde
+budgettets økonomiske balance på kort- og lang sigt.
+
+Som ny kommunalbestyrelse, der har skullet starte en periode, med at finde besparelser for så
+mange penge, har uden tvivl været svært. Men vi er lykkedes med opgaven, og endda er det
+lykkedes, med meget få undtagelser, at friholde besparelser på den grønne omstilling og de helt
+borgernære ydelser for børn, unge og ældre.
+
+For os har dialogen med råd, nævn, foreninger og borgere været væsentlig i denne svære
+opgave. Dialogen og engagementet, der har været op til budgettet, betyder meget for
+demokratiet og for den tillid, vi har til hinanden. Alle input er taget meget alvorligt i
+forhandlingerne.
+
+Byrådet har i foråret 2026 formuleret et arbejdsprogram for perioden 2026-29, der rammesætter
+de områder, hvor der er særlige ønsker om at fastholde og justere i kommunens strategiske
+udvikling og indsatser. Målet med budget 2027-34 er derfor at understøtte de besluttede
+strategiske temaer og indsatser i byrådets arbejdsprogram, samtidigt med at sikre et budget, der
+bliver ved med at være i balance fremadrettet.
+
+En anden væsentlig beslutning er, at dette budget er et toårigt budget med det formål at skabe
+ro i organisationen og at der samtidigt er tid til, at der politisk kan arbejdes med de investeringer
+og tiltag, som skal skabe en kommune, der arbejder for borgerne. I de to år skal vi sammen starte
+arbejdet med at skabe fremtidens Allerød, og det skal ske i fællesskab.
+
+Derfor ønsker forligspartierne at inddrage og lytte til borgere, erhvervsliv, frivillige, foreninger,
+brugerbestyrelser og forældrebestyrelser m.fl. i arbejdet med Allerød Kommunes udvikling.
+Gennem dialog og fælles løsninger skal arbejdsprogrammerne omsættes til konkrete resultater,
+når budgettet udmøntes, nye initiativer implementeres, og fremtidens velfærd formes.
+
+Ambitionen er et stærkt samarbejde mellem lokalsamfund og byråd om at udvikle Allerød
+Kommune som et attraktivt sted at bo, arbejde og leve det gode liv - hele livet.
+                                                                                                                     3
+Budget 2027-34: Borgmesterens udspil til budgetforhandlingerne
+
+
+
+
+Hovedtallene for budget 2027-34
+Budget 2027-34 i hovedtal
+
+Mio. kr.                                    2027       2028      2029      2030       2031      2032       2033          2034
+
+Skatter, tilskud og udligning              -1.973,1 -2.012,9 -2.107,1 -2.180,5 -2.263,7 -2.368,7 -2.475,2 -2.583,7
+
+Driftsudgifter                              1.888,2   1.913,2   1.981,5    1.990,5   2.014,1    2.048,4   2.088,3    2.128,7
+
+- Børne- og Skoleudvalget                     632,5     638,9     643,1      645,5     653,1      664,2     677,2        690,3
+
+- Kultur-, Idræt- og Fritidsudvalget          761,2     792,8     857,6      846,1     856,1      870,7     887,7        904,8
+
+- Miljø-, Erhvervs- og Byudvalget             189,5     176,9     174,1      174,1     176,2      179,2     182,7        186,2
+
+- Sundheds- og Beskæftigelsesudvalget          27,8      27,7       27,7      27,7      28,0       28,5      29,1         29,6
+
+- Økonomiudvalget                             277,1     276,9     279,0      297,1     300,7      305,8     311,7        317,8
+
+PL-regulering af drift                          0,0      49,4     107,4      165,4     226,7      292,1     361,9        435,5
+
+Effektiviseringer (ikke konkretiseret)          0,0     -11,5      -19,8     -27,9      -36,3     -45,1     -54,3         -63,9
+
+Overskud på drift (ekskl. renter)             -84,9     -61,7      -38,0     -52,5      -59,2     -73,3     -79,4         -83,4
+
+Anlægsbudget                                   45,2      97,3     117,2      114,8      70,6       25,6      49,1         55,6
+
+Renter, afdrag mv.                             17,3      18,0      -15,1       8,5      13,2       24,7      28,8         30,3
+
+Resultat (ændr. i kassebeholdning)            -22,4      53,6       64,0      70,8      24,7      -22,9       -1,5         2,6
+Note. Fordeling af driftsudgifter pr. udvalg er opgjort med forbehold for endelige opgørelse af adm. ændringer.
+
+Forventet gennemsnitlig likviditet (løbende priser)
+                                                                                                  4
+Budget 2027-34: Borgmesterens udspil til budgetforhandlingerne
+
+
+
+
+De politiske principper for budget 2027-34
+
+Forligspartierne er enige om at føre en ansvarlig og langsigtet økonomisk politik, hvor der
+budgetteres realistisk med kommunens indtægter og udgifter på både kort og langt sigt.
+Budgettet skal tage højde for den forventede udvikling i demografi, udgiftsbehov og
+indtægtsgrundlag samt indeholde de nødvendige effektiviseringer for at sikre en sund økonomi.
+Derfor gennemføres der ikke driftsudvidelser.
+
+Der afsættes derfor også puljemidler til politisk prioriterede projekter gennem
+arbejdsprogrammer på tværs af de stående udvalg. Midlerne skal understøtte udviklingen af
+kommunen og sikre fremdrift på de politiske målsætninger i arbejdsprogrammerne.
+En robust likviditet skal fortsat være et bærende princip for kommunens økonomistyring.
+Det indebærer, at balancen mellem driftsindtægter, driftsudgifter, anlægsinvesteringer samt
+udgifter til lån, renter og afdrag løbende vurderes, så kommunen bevarer en stærk og stabil
+økonomi.
+
+Forligspartierne ønsker samtidig at fremme investeringer, der på sigt kan reducere kommunens
+omkostninger. Investeringscases skal derfor prioriteres, når de kan dokumentere potentiale for
+effektiviseringer, bedre ressourceudnyttelse eller lavere driftsudgifter.
+Skattelettelser skal ske ansvarligt og under hensyntagen til kommunens samlede økonomiske
+balance, herunder likviditet, gældsudvikling og realiseringen af de økonomiske målsætninger i
+budgettet.
+
+Forligspartierne ønsker samtidig at skabe ro og stabilitet om kommunens drift. Nye initiativer
+skal derfor i højere grad følges af systematiske effektmålinger og kunne afspejles i
+arbejdsprogrammet. Derfor er forligspartierne enige om, at dette forlig vil have et toårigt
+budgetperspektiv, og der i mellemtiden arbejdes på en ny budgetproces samt et
+beredskabskatalog for budget 2029.
+
+Kommunens økonomiske politik vil blive revideret i løbet af 2027, så den afspejler kommunens
+aktuelle rammevilkår og politiske principper samt pejlemærker for de kommende år.
+
+Budget i balance
+Balancen i kommunens økonomi og dermed i sidste ende det serviceniveau, der er finansiering
+til, hænger uløseligt sammen med fremtidens effektiviseringer, udviklingen i
+finansieringsbehovet, hvordan skatten fastsættes, og hvilken gæld kommunen optager.
+
+Likviditeten udgør aktuelt 330 mio. kr. og ligger dermed over byrådets målsætning om, at
+kassebeholdningen i 2026 som minimum skal være på 83 mio. kr. Likviditeten vil falde de næste
+mange år, hvilket der særligt er to grunde til.
+
+Byrådet har for det første sparet op til etableringen af det nye Firkløveret og samlingen af
+Lillevang Skole. Tilsammen udgør disse to investeringer i alt 360 mio. kr. de kommende år.
+
+For det andet er der et varigt pres på økonomien fra ældreområdet, de specialiserede sociale
+områder, specialundervisning og udgifterne til førtids- og seniorpensioner på
+beskæftigelsesområdet. Der er tale om udgiftsstigninger på ca. 33 mio. kr. hvert eneste år, der
+løbende skaber et stort finansieringsbehov i kommunens økonomi. De seneste tre års relativt
+                                                                                                      5
+Budget 2027-34: Borgmesterens udspil til budgetforhandlingerne
+
+
+
+gunstige økonomiaftaler mellem Regeringen og KL ændrer ikke dette billede nævneværdigt.
+Områderne er helt grundlæggende underfinansieret fra statens side. Udgiftsstigningerne
+kompenseres typisk med ca. 15 mio. kr. om året af staten; resten skal kommunen selv finde.
+Derfor er der stort fokus på løbende at effektivisere kommunens drift, og det vil der også være
+de kommende år. Nye effektiviseringer indgår i budgettet med ca. 10 mio. kr. årligt.
+
+Lægges alt dette sammen, starter byrådet hvert år budgetforhandlingerne med at skulle finde de
+sidste ca. 8 mio. kr. årligt på den ene eller anden måde, for at budgettet bliver ved med at være i
+balance. Sådan har det været i de seneste mange år og sådan forventes det også at være de
+kommende mange år. Det er først, når den opgave er løst, at der er mulighed for at tale om nye
+initiativer, der koster penge, og finansieringen af disse skal så findes i tillæg til dem, der allerede
+skulle findes.
+
+ Budgetforligspartierne har skabt balance i budget 2027-34 ved:
+    • At finde konkrete effektiviseringer og andre økonomiske forbedringer af kommunens
+       drift på 14,0 mio. kr. årligt fuldt indfaset.
+    • At fastholde målsætningen for fremtidige effektiviseringer på gennemsnitligt 9 mio. kr.
+       årligt i 2028-34.
+    • At understøtte opnåelsen af fremtidige effektiviseringer, ved at arbejde systematisk
+       med investeringer i praksis, jf. det nedsatte opgaveudvalg om økonomistyring.
+    • At sætte en stram politisk ramme for økonomien gennem indgåelsen af et to-årigt
+       budgetforlig for perioden 2027-28.
+    • At samle og nedjustere de politiske drifts- og anlægspuljer, som løbende prioriteres af
+       fagudvalgene til nye investeringer og forbedringer, med gennemsnitligt 8,8 mio. kr.
+       årligt.
+    • At justere i serviceniveauet på nogle opgaver, svarende til ca. 0,2 mio. kr. fuldt indfaset,
+       samt foretage enkelte andre justeringer i budgettet.
+
+
+Der vedlægges en detaljeret oversigt over alle de økonomiske disponeringer som bilag til
+økonomiudvalgets og byrådets 2. behandling af budgettet.
+
+Fremtidens effektiviseringer og finansieringsbehov
+Der er gode erfaringer med at løse de økonomiske udfordringer skridt for skridt over årene. Det
+giver også organisationen tid til at komme med forslag til løsninger, og efterfølgende
+implementere dem i ordentlighed over for borgere og medarbejdere. Men det må også
+erkendes, at det er en skal-opgave for byrådet.
+
+Med budget 2027-34 gennemføres 19 af de 44 forslag, der indgik i kataloget med
+effektiviseringer og andre forslag til økonomiske forbedringer. Forslagene bidrager med varige
+effektiviseringer på samlet set 5,5 mio. kr. årligt fuldt indfaset, uden at serviceniveauet for
+borgerne reduceres.
+
+Derudover er der i foråret 2026 administrativt implementeret 28 konkrete effektiviseringstiltag i
+overensstemmelse med kommunens effektiviseringsstrategi. Tiltagene reducerer kommunens
+driftsudgifter med 11,4 mio. kr. i 2027 og 2028, 7,5 mio. kr. i 2029 samt 7,7 mio. kr. årligt fra
+2030 og frem. Ligeledes uden at serviceniveauet for borgerne reduceres. Endeligt er der vedtaget
+andre effektiviseringer i løbet af året, på 2,6 mio. kr. fuldt indfaset.
+                                                                                                            6
+Budget 2027-34: Borgmesterens udspil til budgetforhandlingerne
+
+
+
+I de kommende år budgetteres der fortsat med effektiviseringer/budgetforbedringer på 0,6% i
+2028 og yderligere 0,4% årligt herefter.
+
+Mio. kr. (2027-priser)                         2027     2028     2029    2030    2031    2032    2033    2034
+Effektiviseringer/budgetforbedringer              0,0   -11,5    -19,8   -27,9   -36,3   -45,1   -54,3   -63,9
+  Procent                                       0,0%    0,6%     1,0%    1,4%    1,8%    2,2%    2,6%    3.0%
+
+
+Effektiviseringsstrategien er altså helt afgørende for at holde kommunens budget i balance.
+Uden effektiviseringer skulle der gennemføres store serviceforringelser og rammebesparelser på
+alle områder. En opgørelse for de seneste 10 år viser, at organisationen har opsporet
+effektiviseringsforslag, der også er blevet godkendt af byrådet, på gennemsnitligt ca. 13,5 mio.
+kr. årligt. Effektiviseringerne udspringer af et særligt fokus på følgende fire områder:
+    • Velfærdsteknologi/digitalisering
+    • Organisering i bred forstand
+    • Konkurrenceudsættelse
+    • Kommunale samarbejder.
+
+Senest er der eksempelvis investeret i at skabe effektiviseringer via en skærpet indkøbsstrategi
+og styrket bemanding af indkøbsområdet.
+
+Opgaveudvalg om økonomistyring
+Byrådet har nedsat et opgaveudvalg om økonomistyring, der skal komme med anbefalinger til
+nye analyser med fokus på at investere i bedre løsninger, der på længere sigt så kan give et
+økonomisk afkast. Der er allerede en række af denne type af investeringscases i gang på flere
+fagområder, som alle har det til fælles, at investeringerne ligger i starten, mens gevinsterne først
+viser sig på længere sigt. Investeringer kan forstås på mange måder, men i denne sammenhæng
+er det et krav, at der økonomisk er tale om en positiv businesscase. Økonomiske effekter af nye
+investeringscases er forudsat at kunne udgøre et bidrag til opnåelsen af de budgetterede
+effektiviseringer også i de kommende år. Opgaveudvalget udarbejder endvidere anbefalinger til
+metode for, hvordan investeringscases udarbejdes og beregnes fremadrettet. Der afsættes
+samlet 1 mio. kr. i 2027 til at gennemføre de nødvendige analyser, der skal afdække
+fremadrettede investeringscases. Investeringen skal fraregnes i de investeringscases, der
+forventes igangsat som følge af opgaveudvalgets arbejde. Finansieringen sker derfor via
+effektiviseringspuljen og medfører dermed ikke en tillægsbevilling.
+
+Toårigt budgetforlig
+Budgetforligspartierne har besluttet at indgå et toårigt budget med henblik på at få ro i
+organisation og at udarbejde en ny budgetproces. Principperne for det toårige budgetforlig er:
+• Der er ikke politiske budgetforhandlinger om budget 2028-35, hvorved 1. og 2. behandlingen
+   af budgettet i 2027 sker ud fra et administrativt budgetgrundlag.
+• Hvis der opstår mer- eller mindreforbrug i perioden, der skal håndteres bevillingsmæssigt,
+   håndteres det ved at op- eller nedskrive finansieringsbehovet for det kommende års budget.
+   Budgettet for 2028-35 vil således politisk være identisk med budgettet for 2027-34.
+• Alle politiske ønsker om ændringer i budgettet, tillægsbevilling mv. i løbet af 2027 og 2028,
+   må som udgangspunkt afvente budgetprocessen 2029-36. Undtaget er fortsat sager, der
+   bevillingsmæssigt ligger under 100.000 kr.
+• Løbende effektiviseringer og investeringscases med gunstig businesscase kan fortsat
+   behandles og besluttes politisk.
+                                                                                                                7
+Budget 2027-34: Borgmesterens udspil til budgetforhandlingerne
+
+
+
+•   Udefra kommende ændringer, fx som følge af finansloven, økonomiaftalen eller andre
+    folketingsbeslutninger, gennemføres som udgangspunkt ud fra, hvad den billigste mulige
+    løsning er på det, med henblik på at der eventuelt kan blive set på igen i
+    budgetforhandlingerne for 2029-36.
+
+Alle større økonomiske dispositioner drøftes i aftalekredsen forud for udvalgsbehandling, hvis
+det tidsmæssigt er muligt. Ændringer kan gennemføres, når et mandatmæssigt flertal i
+aftalekredsen, som samtidig udgør et flertal i byrådet, tiltræder ændringerne.
+
+Hvis der opstår en meget stor økonomisk udfordring i løbet af de to år, der ikke kan afvente
+budget 2029-36, fremlægger Forvaltningen en sag med handlemuligheder for Økonomiudvalget
+og byrådet. Den budgetproces Forvaltningen fremlægger for budget 2028-35 vil som følge af, at
+der er indgået et toårigt budgetforlig, være anderledes på en lang række punkter og kun handle
+om de administrative og lovpligtige processer, der vil skulle gennemføres.
+
+Skat
+Indkomstskatten er uændret og udgør 25,3 pct. i 2027. Budgetforligspartierne er enige om, at
+budgettet fortsat skal være i balance på kort og langt sigt, med et løbende overskud på driften, et
+fornuftigt anlægsniveau, løbende renter og afdrag mv. på kommunens gæld samt at likviditeten
+ligger over byrådets minimumsmålsætning og at skatten nedsættes, så snart forudsætningerne
+for det er til stede.
+
+I budget 2027-34 indgår derfor en pulje til skattenedsættelse fra 2030. Skattenedsættelsen vil
+give en mindreindtægt for kommunen. I mindreindtægten er indregnet et forventet statsligt
+tilskud til at sænke skatten på 75% i 2030, 50% i 2031-32 og 25% i 2033.
+
+Mio. kr. (Anlæg)                              2027     2028      2029    2030    2031    2032    2033    2034
+Pulje til skattenedsættelse fra 2030             0,0      0,0      0,0     5,0    10,0    10,0    15,0    20,0
+
+
+Budgetforligspartierne er samtidig enige om, at eventuel optagelse af lån hverken kan gå til at
+finansiere skattenedsættelse eller serviceudvidelser. Derfor optages der som udgangspunkt slet
+ikke lån.
+
+Erhverv
+Allerød Kommunes stærke erhvervsliv er i høj grad med til at opretholde serviceniveauet i
+kommunen via de årlige selskabsskatter og dækningsafgifter. Selskabsskatten udgør brutto 90
+mio. kr. i 2027, hvilket er 10,0 mio. kr. højere end forventet. Det afspejler en bred og positiv
+udvikling i det lokale erhvervsliv. Merindtægterne modsvares dog delvist af merudgifter til
+udligningen, men ikke desto mindre er det et væsentligt bidrag til kommunens økonomi. Allerød
+Kommunes indtægter udgør ca. 30 mio. kr. årligt, og i modsætning til øvrige skatter er de pt. ikke
+omfattet af kommunal udligning.
+
+Som en del af planstrategiarbejdet vil der blive udarbejdet en ny erhvervspolitik, da det er
+væsentligt at øge samarbejdet med erhvervsdrivende i Allerød og først og fremmest sikre, at de
+også opnår den ønskede kvalitet i kommunens behandling af diverse erhvervsrelaterede sager og
+samarbejder.
+                                                                                                8
+Budget 2027-34: Borgmesterens udspil til budgetforhandlingerne
+
+
+
+Gæld og kapitalforvaltning
+Kommunens langfristede gæld, udgør aktuelt 346 mio. kr. og vil blive reduceret til ca. 200 mio.
+kr. over budgetperioden. Der indgår en målsætning i økonomiaftalen mellem Regeringen og KL
+om, at kommunernes samlede gæld skal nedbringes. Byrådet arbejder målrettet på at nedbringe
+den langfristede gæld og budgetforliget lever dermed op til økonomiaftalen.
+
+Byrådet har i april 2026 besluttet at afdrage en del af den langfristede gæld som kommunen har,
+i form af skyldige feriepenge til tidligere og nuværende medarbejdere. Dette indebar en varig
+rentebesparelse på ca. 0,8 mio. kr. om året.
+
+Der forelægges en sag for Økonomiudvalget med forslag til den fremtidige investeringsstrategi
+og rammerne for kommunens kapitalforvaltning. Strategien vil fortsat bygge på lav risiko i
+forvaltningen af kommunens likviditet, hvor hensynet til sikkerhed og robusthed vægtes højt.
+Den reviderede strategi forventes at øge det årlige afkast med ca. 1 mio. kr.
+
+Risikofaktorer
+Når der ses på de kommende år, er der en række store risikofaktorer, der kan påvirke
+kommunens indtægter og udgifter. På nuværende tidspunkt vurderes de største risikofaktorer
+særligt at være:
+• Udligningsreformen – der forventes besluttet i Folketinget i 2028 med indfasning i
+    kommunernes budgetter fra 2029.
+• Sundhedsreformen – hvor der dels foregår en større omlægning af opgaver mellem
+    kommuner og regioner i 2027, baseret på foreløbige økonomiske beregninger. I tillæg til
+    dette er der en risiko for, at der også fremadrettet vil ske en opgaveglidning, der koster
+    kommunerne penge.
+• Udviklingen i udgifterne på de specialiserede sociale områder, specialundervisning og
+    beskæftigelse – hvor selv små bevægelser i antallet af sager og den statslige kompensation i
+    økonomiaftalerne har stor betydning for kommunens økonomi.
+• Såfremt Regeringsgrundlaget gennemføres som det foreligger, må det også betragtes som en
+    økonomisk risikofaktor, alt efter hvordan de mange politiske tanker i praksis omsættes.
+
+Økonomisk beredskabskatalog
+Byrådet har derfor bestilt et økonomisk beredskabskatalog, der skal kortlægge, hvilke
+handlemuligheder byrådet har for at finde eventuelle besparelser, ud over de løbende
+effektiviseringer og investeringsmuligheder. Det økonomiske beredskabskatalog er ikke et forslag
+til, hvad der bør gennemføres, eller hvad nogen foreslår at gennemføre. Det er alene et overblik
+over, hvad der findes af handlemuligheder, hvis det er nødvendigt at gennemføre besparelser, fx
+som følge af uventede hændelser eller en udligningsreform, der vælter kommunens økonomi.
+Det er således et katalog, som byrådet kan vælge at aktivere efter behov og anvendes som fagligt
+grundlag for politiske drøftelser. Kataloget forventes udarbejdet og forelagt medio 2027.
+Beredskabskataloget vil også omfatte alle tidligere politiske serviceudvidelser.
+
+Ekstraordinær dispensering af underskud i kommunale virksomheder
+Byrådet har i april 2026 kompenseret underskud primært vedr. folkeskoler, dagtilbud og
+plejecentre på samlet set 6 mio. kr. Alle kommunale virksomheder er rammestyrede med ansvar
+for at overholde budgetterne fra år for år. Virksomhederne stod derfor til at skulle indhente
+underskuddene ved serviceforringelser lokalt. Underskuddene var dog opstået af forskellige
+udefrakommende forhold, og derfor besluttede byrådet ekstraordinært at dispensere fra den
+                                                                                                     9
+Budget 2027-34: Borgmesterens udspil til budgetforhandlingerne
+
+
+
+økonomiske politik og eftergive pengene. Det kan dog ikke forventes, at samme niveau af
+dispensationer vil blive givet fremadrettet.
+
+Jordsalg
+Det er et grundlæggende princip i kommunens økonomiske politik, at der ikke budgetteres med
+jordsalg og at penge fra jordsalg skal anvendes strategisk til bl.a. at muliggøre opkøb af jord til at
+give plads til natur, biodiversitet, vedvarende energi og friluftsliv. Kommunen ejer enkelte
+arealer, som potentielt vil kunne udvikles og eventuelt indebære et salgsprovenu. Det skal dog
+bemærkes, at værdien af et areal i væsentlig grad afhænger af de planmæssige rammer og
+udviklingsmuligheder. Et eventuelt salgsprovenu vil afhænge af en række forhold, herunder
+blandt andet den fremtidige anvendelse, bebyggelsesomfang, krav til infrastruktur, forsyning og
+regnvandshåndtering, eventuelle miljømæssige eller naturmæssige bindinger samt omkostninger
+til byggemodning. Hertil kommer markedsforholdene på tidspunktet for et eventuelt salg,
+herunder efterspørgslen efter byggegrunde og den generelle udvikling på ejendomsmarkedet.
+Eventuelle værdiansættelser vil først kunne foretages med en rimelig grad af sikkerhed, når de
+planmæssige rammer og de konkrete udviklingsforudsætninger for de enkelte arealer er
+nærmere afklaret.
+
+
+
+Børn og Skole
+Budgettet til børne- og skoleområdet udgør 632,5 mio. kr. Børne- og Skoleudvalget varetager
+kommunens opgaver vedrørende dagtilbud, skoler, ungdomsskole, specialundervisning, klubber,
+SSP, specialiserede tilbud til børn og unge, forebyggende og understøttende indsatser for børn og
+unge, sundhedspleje, tandpleje, mv. Børne- og Ungepolitikken sætter udviklingsretningen for
+området. Nedenfor fremgår aktuelle og nye politiske prioriteringer, opdelt efter de temaer, der
+indgår i byrådets arbejdsprogram for 2026-29.
+
+Tema: Børn og unge i trivsel
+• Med budget 2027-34 er serviceniveauet i kommunens dagtilbud styrket yderligere med i alt
+   13,2 mio. kr. ved at øge det pædagogiske personale, foretage en reduktion i
+   forældrebetalingen samt ved at fastholde normeringskravene, samtidig med at undtage de
+   ledelsesmæssige ressourcer i opgørelsen af den samlede normering. Ændringerne udspringer
+   af finansloven for 2026, som indebærer væsentlige lovændringer på dagtilbudsområdet med
+   ikrafttrædelse fra 2027. Der er modtaget medfinansiering fra staten til serviceløftet på 7,6
+   mio. kr. Byrådets beslutninger om udmøntningen af finansloven blev truffet på mødet den
+   26. februar 2026.
+• Der er foretaget en stor investering i en to-voksenordning i folkeskolerne. Investeringen
+   fastholdes i budget 2027-34 og udgør 9,4 mio. kr. årligt i 2026-27. Fra 2028 og frem stiger
+   beløbet, så det udgør 11,5 mio. kr. årligt. Senest har Børne- og Skoleudvalget truffet
+   beslutning om udmøntningen af den sidste del af investeringen i skoleåret 2026-27. Det
+   forventes, at investeringen i to-voksenordningen styrker børnenes faglige udvikling og trivsel
+   og på sigt mindsker udgiftsvæksten til specialtilbud.
+• Der blev sidste år afsat 0,26 mio. kr. til en evaluering af overgangen fra dagtilbud til skole
+   med det formål at styrke trivslen for alle børn i forbindelse med skoleopstart. Børne- og
+   Skoleudvalget har i foråret 2026 besluttet rammerne for evalueringen.
+                                                                                                         10
+Budget 2027-34: Borgmesterens udspil til budgetforhandlingerne
+
+
+
+•   Der er tidligere udlagt 2,9 mio. kr. til at styrke læringsmiljøerne på folkeskolerne, i
+    gruppeordninger samt på daginstitutionsområdet. Herudover er der afsat 1,8 mio. kr. til e-
+    tavler og chromebooks. Midlerne fastholdes i budget 2027-34.
+•   Der er tidligere investeret ca. 10 mio. kr. i at etablere et Makerspace på alle kommunens
+    skoler, hvoraf de 5,7 mio. kr. er doneret af Villumfonden. Skolernes Makerspace viser positive
+    effekter på børnenes deltagelse i legende læringsmiljøer. Det styrker motivationen og
+    variation i undervisningen - til gavn for alle børn. Projektet har nu opbygget en solid
+    kapacitet. For at sikre lokale vejledningsressourcer på almenskolerne til fortsat drift af
+    makerspace fra skoleåret 2027/28, skal en andel af de lokale læringsmiljøpuljer med budget
+    2027-34 gå til dette formål. Arbejdet med børn med høj kognitiv begavelse integreres med
+    budget 2027-34 i aktiviteterne i Makerspace med virkning fra det kommende skoleår. De
+    parallelle aktiviteter til 0,11 mio. kr. udfases dermed fra 2027.
+•   Der er tidligere investeret 1,6 mio. kr. årligt til at hjælpe elever med ufrivilligt skolefravær
+    tilbage i skole og fællesskabet samt 3,7 mio. kr. årligt til udvikling af lettere behandlingstilbud
+    lokalt i kommunen. Midlerne fastholdes i budget 2027-34.
+•   For at styrke arbejdet med bedre dyrevelfærd og klimavenlig madlavning blev der i 2026
+    igangsat et midlertidigt kompetenceforløb for køkkenpersonalet i dagtilbuddene. Målet er at
+    udfase brugen af turbokyllinger fra 2027 og udvikle klimavenlige alternativer, herunder andre
+    udskæringer. Til dette formål er der afsat 0,13 mio. kr. i 2027, hvorefter omlægningen er
+    udgiftsneutral.
+•   For at styrke den tidlige indsats og skabe øgede deltagelsesmuligheder for alle børn på
+    dagtilbudsområdet er der igangsat en ordning med ”flyver”-pædagoger, som i tæt
+    samarbejde med pædagogisk psykologisk rådgivning ad hoc kan understøtte institutionerne i
+    aktuelle pædagogiske udfordringer uden forudgående visitation. Der er fra budgetår 2026
+    afsat 1,2 mio. kr. årligt til indsatsen.
+•   Der er tidligere afsat 0,95 mio. kr. årligt til at bibeholde mellemmåltider i kommunens
+    dagtilbud. Midlerne fastholdes i budget 2027-34.
+•   Der er i Økonomiaftalen mellem Regeringen og KL modtaget et øget bloktilskud på 1,164 mio.
+    kr. til at sikre, at minimumsnormeringerne også gælder i mini-sfo-perioden. Der forelægges
+    en sag herom, når kravene til udmøntningen kendes.
+
+Tema: Kapacitet og de fysiske rammer
+• I budget 2027-34 er der afsat 89,3 mio. kr. til etablering af det nye Firkløveret på Sportsvej.
+   Det samlede budget er 95 mio. kr. inklusive tidligere budgetår. Projektet er i en tidlig fase, og
+   derfor er de skønnede udgifter som vanligt med forbehold for ændringer i fx markedspriser,
+   bygningsreglement mv.
+     Mio. kr. (Anlæg)                         2027     2028      2029    2030    2031   2032   2033   2034
+     Firkløveret                                 7,7    34,0      34,0    13,7
+•   Byrådet har i juni 2023 truffet en principbeslutning om at arbejde for, at Lillevang Skole
+    samles på Skovvangmatriklen. Det blev i foråret 2026 besluttet at fremrykke midler mhp. en
+    hurtigere gennemførelse af det samlede om- og tilbygningsprojekt. Der tages fortsat afsæt i
+    det tidligere analysearbejde og intentionerne i den tidligere udførte helhedsplan.
+    Anlægsarbejdet forventes igangsat ultimo 2027 og afsluttet i 2032. Der fremlægges sag
+    ultimo 2026 om den nærmere tilrettelæggelse af processerne. Der er afsat 265 mio. kr. i
+    perioden 2027-31 til projektet. Det samlede anlægsbudget er på 267 mio. kr. inklusive
+    tidligere budgetår.
+                                                                                                          11
+Budget 2027-34: Borgmesterens udspil til budgetforhandlingerne
+
+
+
+     Mio. kr. (Anlæg)                         2027     2028      2029    2030    2031    2032   2033   2034
+     Lillevang Skole                            20,0    50,0      75,0    75,0    45,0
+•   Der er gennemført en udbygning af Blovstrød Skole og klub samt en renovering af
+    Engholmskolen.
+•   Der er foretaget en række forbedringer af de fysiske rammer på folkeskolerne. Herunder en
+    opgradering af køkkenfaciliteterne på Engholmskolen ifm. det nationale forsøg med
+    skolemad og en opdatering af faglokaler i Blovstrød. I alt blev der med budget 2026-33 afsat
+    10,0 mio. kr. til formålet, finansieret inden for folkeskolens kvalitetsprogram. Løftet til dette
+    område skal ses i tillæg til de læringsmiljømidler, som skolerne lokalt kan prioritere, samt
+    løbende bygningsrenoveringer, der allerede pågår. Midlerne fastholdes i budget 2027-34.
+•   På dagtilbudsområdet er der i 2026 afsat 0,35 mio. kr. til at gennemføre en analyse af
+    vedligeholdelsesstanden og funktionaliteten i de nuværende rammer på dagtilbudsområdet i
+    Lynge mhp. vurdering af behov for en evt. samlet institution i tidssvarende rammer i
+    området. Analysen fremlægges medio 2027 for Børne- og Skoleudvalget.
+•   For at styrke kvalitetsudviklingen på dagtilbudsområdet og sikre løbende udvikling af
+    kapacitet og styring på området er der afsat 0,5 mio. kr. i 2026 og 1,1 mio. kr. årligt fra 2027
+    til ansættelse af en dagtilbudschef. Midlerne fastholdes i budget 2027-34.
+
+Tema: Attraktiv arbejdsplads / Fastholdelse og rekruttering
+• Der er afsat 2 mio. kr. årligt i 2025-27 og varigt 0,25 mio. kr. til at arbejde strategisk med
+   fastholdelse og rekruttering. Midlerne prioriteres på tværs af Børne- og Skoleudvalgets og
+   Sundheds- og Beskæftigelsesudvalgets områder, jf. sag på Økonomiudvalget den 17. juni
+   2025. Indsatsen er beskrevet nærmere under Økonomiudvalgets område.
+
+Tema: Inddragelse af civilsamfundet
+• Der er afsat 0,5 mio. kr. årligt i årene 2026-28 til en udvidet ordning for tilskud til
+   hjemmepasning af eget barn (3-6 årige). Midlerne fastholdes i budget 2027-34. Ordningen er
+   en afprøvning til og med 2028. Der fremlægges en status på ordningen for Børne- og
+   Skoleudvalget ultimo 2027.
+• Der er afsat 0,2 mio. kr. til ansættelse af unge under 18 år på dagtilbudsområdet i 2025-27.
+   Midlerne fastholdes i budget 2027-34.
+• Skolebus-venneordningen gennemføres fra efteråret 2026 som en forsøgsordning til og med
+   skoleåret 2028/2029 og kan holdes inden for det eksisterende budget.
+• Der har været tildelt et tilskud svarende til 0,038 mio. kr. til sidste skoledag for kommunens
+   9. klasse i 2026.
+• ”Alletiders fritid” er gjort til et fast tilbud i Allerød, så børn med handicap fortsat kan hjælpes
+   til deltagelse i fritidsfællesskaber. Til dette er der afsat 0,6 mio. kr. årligt fra 2025. Midlerne
+   fastholdes i budget 2027-34.
+• Der er etableret et ungeråd med fælles elevrådsrepræsentation i årene 2025-28 med det
+   formål at sikre et unge-repræsentantskab i denne periodes byrådsarbejde. Forligspartierne
+   ønsker, at børn og unge får en mere tydelig stemme i relevante beslutninger og processer. Til
+   dette er der afsat 0,04 mio. kr. i 2025, stigende til 0,08 mio. kr. årligt i 2026 og 2027. Sidste
+   bevilling er i 2028 og udgør 0,04 mio. kr.
+                                                                                                12
+Budget 2027-34: Borgmesterens udspil til budgetforhandlingerne
+
+
+
+Tema: Det specialiserede børneområde
+• Der er gennemført en større analyse og på baggrund af denne er der sket en omorganisering
+   og styrkelse af gruppeordningerne i skoler, SFO og klub. Formålet med analysen var at sikre
+   det rette niveau af kompetencer og skolenære læringsmiljøer med kendte voksne.
+• Byrådet har i 2026 afsat 0,66 mio. kr. til at ansætte en jurist til at understøtte arbejdet med
+   nedbringelse af omgørelsesprocenten på det sociale område samt skole- og
+   dagtilbudsområdet. Tilgangen i arbejdet vil være analyser, kompetenceudvikling af
+   medarbejdere og forstærket borgerinddragelse. Investeringen fastholdes til og med 2030 og
+   data følges løbende op med årlige gennemgange og tydelige handleplaner. Fra 2031
+   forventes indsatsen at kunne indeholdes i det gældende budget, således at bevillingen på de
+   0,66 mio. kr. bortfalder.
+
+
+
+Sundhed og Beskæftigelse
+Sundheds- og Beskæftigelsesudvalgets budget udgør 761,7 mio. kr. Udvalget varetager
+kommunens opgaver vedr. beskæftigelsesområdet, hjemmeplejen, plejehjem, dagcentre,
+ældreboliger, specialiserede tilbud til voksne, hjælpemidler, genoptræning, sociale tilbud for
+voksne, omsorgstandpleje mv. Social-og Beskæftigelsespolitikken, Sundhedspolitikken og Ældre-
+og Værdighedspolitikken sætter udviklingsretningen for området. Nedenfor fremgår aktuelle og
+nye politiske prioriteringer, opdelt efter de temaer, der indgår i byrådets arbejdsprogram for
+2026-29.
+
+Tema: Styrket forebyggelse på ældreområdet
+• Der arbejdes med styrket forebyggelse på flere områder, bl.a. forebyggelse af indlæggelser.
+   Den kommunale investeringsmotor og arbejdet i Sundhedsråd Nordsjælland skal afklares i
+   løbet af vinteren 2026. Det er intentionen, at forebyggelse på ældreområdet bliver
+   fokusområdet for midlerne i Allerød.
+
+Tema: Kapacitet/de fysiske rammer
+• På ældreområdet fortsætter stigningen i antallet af 80+ årige de kommende år, hvilket
+   indebærer stigende behov for praktisk hjælp, personlig pleje, træning, delegeret sygepleje
+   samt sygeplejeydelser, plejeboliger, omsorgstandpleje og hjælpemidler. Med budget 2027-34
+   øges budgettet til ældreområdet derfor med 10 mio. kr. varigt fra 2027, så serviceniveauet
+   ikke ændrer sig, selv om antallet af ældre stiger. Samlet over perioden stiger udgifter på
+   ældreområdet med 122 mio. kr. som følge af den demografiske udvikling.
+• Det nye friplejehjem med 120 plejehjemspladser på Sortemosevej er undervejs og forventes
+   at stå færdigt og klar til, at de første beboere flytter ind ultimo 2028. Kommunens udgifter til
+   opstart og indfasning af friplejehjemmet er indregnet i budget 2027-34.
+• Hjemmeplejens lokaler på Engholm Plejecenter er blevet udvidet med ekstra lokaler, så der
+   er bedre plads til det støt stigende antal teams i hjemmeplejen, og de aktiviteter, der følger
+   af ældrereformen og stigende demografi. Som udviklingen ser ud, vil der blive behov for
+   yderligere lokaler de kommende år, hvilket der fremlægges en sag om primo 2027.
+• Der er budgetteret med en anlægsinvestering på 100 mio. kr. i 2027-34 på Sundheds- og
+   Beskæftigelsesudvalgets område til ombygning og renovering af de boliger og aktiviteter, der
+   i dag er placeret på Engholm Plejecenter og matrikel Engholm (Hjemmeplejen, genoptræning,
+   aflastningspladser mv.). Der er i første omgang afsat 6 mio. kr. til en analyse i 2027-29.
+   Analysen vil tage højde for overdragelsen af kommunale sundhedsopgaver til Regionen og
+                                                                                                            13
+Budget 2027-34: Borgmesterens udspil til budgetforhandlingerne
+
+
+
+    Sundhedsrådene. Flytning af de genoptrænings- og foreningsaktiviteter, der i dag er i FH-
+    hallen afventer, at der træffes beslutning om fremtiden for Engholm Plejecenter og de øvrige
+    funktioner, der ligger på matriklen. Økonomi til nedrivning af FH-hallen samt etablering af p-
+    pladser skal indeholdes i Engholm-projektets økonomi. Da der ikke foreligger et konkret
+    projekt, er de resterende 94 mio. kr. lagt jævnt ud i årene 2030-34. Der afsættes fortsat en
+    samlet ramme på 100 mio. kr. i budgetperioden til projektet. Der er ikke taget stilling til, om
+    rammerne skal fastholdes på den nuværende matrikel eller flyttes til Lillerød skolens
+    matrikel. Der forelægges en sag for Økonomiudvalget ultimo 2026, der skal sætte de
+    indledende rammer for det videre arbejde med projektet.
+     Mio. kr. (Anlæg)                         2027     2028      2029    2030    2031    2032    2033    2034
+     Ombygning og renovering af Engholm          2,0      2,0      2,0    18,8    18,8    18,8    18,8    18,8
+
+
+Tema: Fastholdelse og rekruttering
+• Der er afsat 2 mio. kr. årligt i 2025-27 og varigt 0,25 mio. kr. til at arbejde strategisk med
+   fastholdelse og rekruttering. Midlerne prioriteres på tværs af Børne- og Skoleudvalgets og
+   Sundheds- og Beskæftigelsesudvalgets områder, jf. sag på Økonomiudvalget den 17. juni
+   2025. Indsatsen er beskrevet nærmere under Økonomiudvalgets område.
+
+Tema: Inddragelse af civilsamfundet
+• Frivilligcenter Allerød er blevet etableret med fast bemanding og varig kommunal
+   medfinansiering. Kommunes tilskud udgør 0,4 mio. kr. årligt og er fastholdt i budget 2027-34.
+• Der er afsat 0,2 mio. kr. årligt til ansættelse af unge i fritidsjob på kommunens plejecentre.
+   Midlerne fastholdes i budget 2027-34.
+• Kommunen yder et tilskud på 0,125 mio. kr. i 2026 til Pensionistskovturen, som arrangeres af
+   Frivillighedscenter Allerød, med det mål at modvirke ensomhed og styrke fællesskaberne for
+   de ældste borgere i kommunen. Det er fortsat sådan, at bevillingen reduceres fra 2027, da
+   forudsætningen er, at arrangørerne skal finde anden finansiering.
+
+Tema: Det specialiserede sociale område og forstærket beskæftigelse
+• Der er etableret et botilbud Skovmosen til styrkelse af kommunens lokale kapacitet til det
+   stigende behov for støtte til målgruppen. Tilbuddet er derudover udvidet med en ekstra
+   afdeling i 2025.
+• På beskæftigelsesområdet er budgettet tilpasset til de udgifter, der aktuelt er på området og
+   konsekvenserne af beskæftigelsesreformen for 2027 er ligeledes indarbejdet. Med budget
+   2027-34 er udgifterne til beskæftigelsesområdet øget med 7 mio. kr. årligt, da de nye
+   ordninger for førtids- og seniorordninger er dyrere end de gamle.
+• Byrådet har i 2026 afsat 0,66 mio. kr. til at ansætte en jurist til at understøtte arbejdet med
+   nedbringelse af omgørelsesprocenten på det sociale område samt skole- og
+   dagtilbudsområdet. Tilgangen i arbejdet vil være analyser, kompetenceudvikling af
+   medarbejdere og forstærket borgerinddragelse. Investeringen fastholdes til og med 2030 og
+   data følges løbende op med årlige gennemgange og tydelige handleplaner. Fra 2031
+   forventes indsatsen at kunne indeholdes i det gældende budget, således at bevillingen på de
+   0,66 mio. kr. bortfalder.
+
+Tema: Digitalisering og velfærdsteknologi
+• Udviklingen på det velfærdsteknologiske område sker med stor hastighed og er et vigtigt
+   element både i kommunens digitaliseringsstrategi og effektiviseringsstrategi. Der arbejdes
+   med en strategisk og selektiv tilgang til valg af velfærdsteknologiske løsninger, og der lægges
+                                                                                                  14
+Budget 2027-34: Borgmesterens udspil til budgetforhandlingerne
+
+
+
+    vægt på kun at fremme de teknologier, der samlet set vurderes at skabe størst værdi for
+    borgere, medarbejdere og organisation, effekt for de penge der investeres og bidrag til at
+    afhjælpe fremtidens rekrutteringsudfordringer. Forvaltningen foreslår på den baggrund, at
+    der gennemføres en analyse, der skal afdække, hvilke teknologiske investeringer der aktuelt
+    kunne være relevante på ældreområdet. Med budget 2027-34 godkendes, at Forvaltningen
+    igangsætter analysen, og at den forankres i Sundheds- og Beskæftigelsesudvalget.
+    Kommissoriet for analysen og analysens anbefalinger skal godkendes af Økonomiudvalget.
+    Analysen forventes at koste 0,5 mio. kr., som finansieres via effektiviseringspuljen, hvorved
+    det efterfølgende modregnes i de økonomiske gevinster, der kan opnås, ved øget anvendelse
+    af velfærdsteknologi.
+
+
+
+Kultur, Idræt og Fritid
+Kultur-, Idræts- og Fritidsudvalgets budget udgør 28 mio. kr. Udvalget varetager kommunens
+opgaver vedrørende kultur, fritid og idræt, folkeoplysning, biblioteker, musikskoler,
+svømmehaller, idrætsanlæg mv. Kultur-, Idræts- og Fritidspolitikken sætter udviklingsretningen
+for området. Nedenfor fremgår aktuelle og nye politiske prioriteringer, opdelt efter de temaer,
+der indgår i byrådets arbejdsprogram for 2026-29.
+
+Tema: Allerød identitet, kreative miljøer og kultur i byrummet
+• Der er givet et tilskud til etablering og drift af Lurprojektet på henholdsvis 0,365 mio. kr. i
+   2025 og 0,02 mio. kr. årligt herefter. Den nye Lur-park centreres om de historiske
+   Brudevæltelurer fra bronzealderen, som blev fundet i kommunen.
+• Der er givet en øget driftsbevilling til arealet for Skulpturpark Allerød.
+• Allerød Musik- og Kulturskole er en central kulturinstitution i kommunen og spiller en vigtig
+   rolle i børnenes og de unges musikalske og kulturelle dannelse. Der er reserveret et beløb på
+   0,140 mio. kr. årligt til udvikling af den fremtidige kapacitet og imødekommelse af
+   ventelister. Midlerne fastholdes i budget 2027-34.
+
+Tema: Stærke frivillige fællesskaber og samarbejde på tværs
+• Der er afsat en facilitetspulje på 0,2 mio. kr. årligt til folkeoplysningsområdet, der disponeres
+   efter indstilling fra Folkeoplysningsudvalget. Midlerne fastholdes i budget 2027-34.
+• Der er afsat 0,6 mio. kr. årligt til en fast bemanding i de nye Fritids- og Kulturlokaler i
+   bymidten, der forventes at åbne dørene i løbet af 2027. Midlerne fastholdes i budget 2027-
+   34.
+• Der er afsat 2,6 mio. kr. til inventar i de nye Fritids- og Kulturlokalerne i bymidten, herunder
+   etablering af et anretterkøkken i lokalerne. Midlerne fastholdes i budget 2027-34.
+• Der er afsat 0,05 mio. kr. årligt til at øge udbuddet af voksenundervisning i Allerød Kommune.
+   Midlerne fastholdes i budget 2027-34.
+
+Tema: Mødesteder og fritidsaktiviteter i naturen
+• Der er med budget 2027-34 afsat en anlægspulje på 0,75 mio. kr. varigt til at udvikle
+   kommunens fritids-, kultur- og idrætsfaciliteter, jf. investeringsoversigten nedenfor. Puljen er
+   primært afsat til medfinansiering af foreningsdrevne investeringer, hvor foreningen typisk
+   selv har fundet fondsstøtte eller lignende til den resterende finansiering. Kultur-, Idræts- og
+   Fritidsudvalget har fra puljen blandt andet afsat midler til etablering af naturlegeplads i
+   Blovstrød samt givet et tilskud til følgende faciliteter i idrætsforeninger:
+                                                                                                            15
+Budget 2027-34: Borgmesterens udspil til budgetforhandlingerne
+
+
+
+    - Lynge-Uggeløse Idrætsforening: 0,25 mio. kr. til udendørs fitness og legeplads på Lynge
+    Idrætsanlæg
+    - Allerød Tennis og Padelklub: 0,4 mio. kr. til to nye padelbaner og 0,1 mio. kr. til lys på to
+    eksisterende tennisbaner
+    - Allerød Disc Golf Klub: 0,2 mio. kr. til etablering af nyt disc golf spor
+    - Lokalhistorisk Forening og Arkiv: 0,15 mio. kr. til lokalhistorisk formidling i byrummet og
+    mere indbydende lokalarkiv.
+     Mio. kr. (Anlæg)                         2027     2028      2029    2030    2031    2032    2033    2034
+     Udvikling af fritids-, kultur- og
+                                                0,75    0,75      0,75    0,75    0,75    0,75    0,75    0,75
+     idrætsfaciliteter
+•   Der er afsat en anlægspulje til renovering af idrætsanlæg (kunstgræs, tennis mv.), jf.
+    investeringsoversigten nedenfor. Midlerne i 2027 er fremrykket til 2026, og derfor er der ikke
+    noget budget i 2027. Anlægspuljen er senest udmøntet af Kultur-, Idræts- og Fritidsudvalget i
+    handleplanen for fritidsfaciliteter, gældende for 2026-27, på mødet 6. maj 2026. Puljen er
+    disponeret frem til og med 2030 til udskiftning af løbebane på Skovvang Stadion (3,0 mio. kr.)
+    og udskiftning af kunstgræsbane på Blovstrød Idrætsanlæg (4,0 mio. kr.). Midlerne fastholdes
+    i budget 2027-34. Der gennemføres dog i 2027 en analyse af de løbende renoveringsbehov på
+    kommunens eksisterende idrætsanlæg med henblik på, at der kan udarbejdes langsigtede
+    vedligeholdelsesplaner. Anlægspuljens størrelse tilrettes i det administrative budgetgrundlag
+    for 2028-35 efter hvad analysen viser.
+     Mio. kr. (Anlæg)                         2027     2028      2029    2030    2031    2032    2033    2034
+     Renovering idrætsanlæg (kunstgræs,
+                                                 0,0      1,5      1,5     1,5     1,0     1,0     1,0     1,0
+     tennis mv.)
+•   I 2027 har forligspartierne besluttet at afsætte et ekstraordinært tilskud på 2 mio. kr. til
+    indretning af kultur- og foreningshuset. Processen vil foregå i tæt samarbejde med relevante
+    interessenter, herunder også repræsentanter fra Allerød Kommunes Ungeråd.
+
+
+
+Miljø, Erhverv og By
+Miljø-, Erhvervs- og Byudvalgets budget udgør 185,8 mio. kr. Udvalget varetager kommunens
+opgaver på teknik og planområdet, trafik, vejvæsen, byrum, grønne områder, støj, energi,
+kommunale ejendomme mv. Natur-, Miljø- og Klimapolitikken, Trafik og Mobilitetspolitikken,
+Erhvervspolitikken og Planstrategien sætter udviklingsretningen for området. Nedenfor fremgår
+aktuelle og nye politiske prioriteringer, opdelt efter de temaer, der indgår i byrådets
+arbejdsprogram for 2026-29.
+
+Tema: Trafik, Transport og Infrastruktur
+• Med budget 2027-34 er der etableret en anlægspulje til Infrastruktur, fremkommelighed og
+   trafiksikkerhed, jf. investeringsoversigten nedenfor. Puljen skal understøtte, at kommunens
+   samlede trafikindsatser gennemføres ud fra en ensartet, transparent og fagligt funderet
+   prioritering. Puljen er dannet ved at samle og konsolidere de tidligere puljer til
+   trafiksikkerhed, investeringer i nye cykelstier samt infrastruktur og fremkommelighed på
+   veje. Planlagte og igangværende investeringer i 2026-27 videreføres. Prioriteringen af puljen
+   tager udgangspunkt i dokumenterede trafiksikkerhedsmæssige udfordringer, herunder
+   særligt uheldsbelastede lokaliteter og strækninger. Puljen er således målrettet forbedringer
+   af hastighedsforhold, tryghed, cykelstier og sikkerhed for bløde trafikanter og kan herudover
+                                                                                                            16
+Budget 2027-34: Borgmesterens udspil til budgetforhandlingerne
+
+
+
+    vedrøre styrket tilgængelighed, sammenhæng i infrastrukturen og fremkommelighed.
+    Udvalget udarbejder de nærmere politiske principper for, hvordan puljen fremadrettet
+    prioriteres. Forvaltningen udarbejder løbende en samlet prioriteringsliste på baggrund af
+    aktuelle analyser og registreringer, samt brugerdialoger i det omfang det er muligt.
+    Prioriteringslisten forelægges til politisk beslutning ud fra de politiske principper. Miljø-,
+    Erhverv- og Byudvalget træffer således beslutning om den konkrete udmøntning på baggrund
+    af forvaltningens faglige indstilling.
+
+    Aktuelle og igangværende investeringer fra puljen til Infrastruktur, fremkommelighed og
+    trafiksikkerhed vedrører fx:
+    - Fartdæmpning og forbedret afmærkning på Nymøllevej syd for Slangerupvej (0,2 mio. kr.)
+    - Analyse af forbedring af krydset ved Kongevejen-Sortemosevej (0,06 mio. kr.)
+    - Forbedring af skolevejen ved rundkørslen Banevang-Amtsvej (0,03 mio. kr.)
+    - Etablering af en signalreguleret forbindelse mellem det nye og gamle Blovstrød (1,0 mio. kr.)
+    - Belysning på stien ved Allerødvej
+    - Projektering af en cykelsti langs Nymøllevej/Rådhusvej
+    - Ny registrering af fremkommelighed på vejene (0,2 mio. kr.)
+    - Udvidelse af krydset Slangerupvej, Hillerødvej, Ganløsevej (7,0 mio. kr.)
+    - Parkeringsanalyse for Allerød bymidte (0,2 mio. kr.).
+     Mio. kr. (Anlæg)                         2027     2028      2029    2030    2031    2032    2033    2034
+     Infrastruktur, fremkommelighed og
+                                                 8,4     3,6       3,6     4,7     4,7     4,7     3,2     4,7
+     trafiksikkerhed
+
+Tema: Natur og Miljø
+• Med budget 2027-34 er der afsat en driftspulje til tiltag inden for Natur, klimatilpasning og
+   miljøbeskyttelse på 1,7 mio. kr. årligt. Puljen skal understøtte en målrettet grøn omstilling,
+   der både styrker naturen, modvirker effekten af klimaforandringer, biodiversiteten og
+   beskyttelsen af drikkevandet. Puljen er etableret ved en sammenlægning og konsolidering af
+   de tidligere puljer til bæredygtig omstilling, klimatilpasning, allergivenlig beplantning samt
+   natur og miljøbeskyttelse. Planlagte og igangværende investeringer i 2026-27 videreføres.
+   Tiltag som understøtter flere formål prioriteres så vidt muligt højest. Udvalget udarbejder de
+   nærmere politiske principper for hvordan puljen fremadrettet prioriteres. Miljø-, Erhverv- og
+   Byudvalget træffer beslutning om den konkrete udmøntning på baggrund af forvaltningens
+   faglige indstillinger.
+     Mio. kr. (Drift)                         2027     2028      2029    2030    2031    2032    2033    2034
+     Pulje til Natur, klimatilpasning og
+                                                 1,7      1,7      1,7     1,7     1,7     1,7     1,7     1,7
+     miljøbeskyttelse
+•   Med budget 2027-34 igangsættes klimatilpasnings- og vandhåndteringsprojekter ved
+    Rørmose Å, Kollerød Å og Bastrup Sø. Finansieringen kommer fra overførte midler fra
+    tidligere år på 3,2 mio. kr. På møde i Miljø-, Erhverv- og Byudvalget den 11. august 2026 blev
+    der prioriteret 1,0 mio. kr. til klimasikringsprojektet på en del af Rørmose Å. Med budgettet
+    prioriteres de resterende midler på i alt 2,22 mio. kr. til klimatilpasnings- og
+    vandhåndteringsprojekter ved Kollerød Å og Bastrup Sø.
+•   Anlægsmidlerne til Stier og bedre skiltning i naturen på 0,411 mio. kr. årligt delegeres til
+    Forvaltningen som en fast drifts- og vedligeholdelsesopgave. Midlerne vil således fremover
+    ligge samme sted, som driftsbudgettet til Allerød Sø, naturpleje i Blovstrød o.l. Midlerne er
+    tidligere prioriteret til fx udbedring af sti ved Allerød Sø og opsætning af bænke langs
+                                                                                                            17
+Budget 2027-34: Borgmesterens udspil til budgetforhandlingerne
+
+
+
+    rekreative stier. Der forelægges en sag for udvalget primo 2027 om status og principper for
+    den samlede drift og vedligeholdelse af kommunens åer, stier og rekreative grønne områder.
+•   De første skridt til udviklingen af Ny Allerødgårds jorde vil blive taget i de kommende år.
+    Målet er at omlægge størstedelen af området til åben overgangsnatur med søer, vådområder
+    og lysåbne landskaber, som bliver tilgængelige for borgere og besøgende, og hvor
+    biodiversiteten styrkes og der skabes nye muligheder for naturen i Allerød Kommune.
+
+Tema: Byudvikling, bolig og erhverv
+• Med budget 2027-34 er der afsat en driftspulje til byudvikling i de tre bysamfund inkl.
+   legemiljøer, bænke mv. på 0,36 mio. kr. årligt. Prioriteringen af puljen sker årligt i Miljø-,
+   Erhverv- og Byudvalget og forelægges fremadrettet forinden for Kultur-, Idræts- og
+   Fritidsudvalget mhp. at give anbefalinger til prioriteringen. Ved seneste prioritering af
+   midlerne blev følgende tiltag igangsat:
+   - Optimering af el-udtag for afholdelse af arrangementer i bymidten
+   - Etablering af ladestandere på Maglebjergskolen
+   - Etablering af byrum i Lynge-Uggeløse.
+     Mio. kr. (Anlæg)                         2027     2028      2029    2030    2031    2032    2033    2034
+     Byudvikling i de tre bysamfund inkl.
+                                               0,362   0,362     0,362   0,362   0,362   0,362   0,362   0,362
+     legemiljøer, bænke mv.
+•   Der er igangsat en revision af lokalplanen for Horsemose Villaby. Ambitionen er både at gøre
+    lokalplanen mere nutidig og samtidig bevare de særlige kvaliteter, som kendetegner
+    Horsemosen som et samlet byområde.
+•   Der er fortsat bevilliget midler til øget bemanding på kommunens plansager med det formål
+    at kunne gennemføre planstrategien som planlagt, inklusiv tilkommende opgaver i form af
+    energianlæg, erhvervsudvikling mv. Bevillingen udløber ultimo 2028. Prioriteringen af
+    planopgaverne sker årligt i Miljø-, Erhverv- og Byudvalget, senest på mødet den 5. maj 2025.
+•   Der er fortsat bevilliget 1,8 mio. kr. årligt til at kunne øge bemandingen af sagsbehandlere
+    midlertidigt med det formål at afslutte lovliggørelsessagerne på
+    byggesagsbehandlingsområdet. Bevillingen udløber medio 2027.
+•   Der er fortsat bevilliget 1,25 mio. kr. årligt til at bistå Forsvaret med udbygningen af Høvelte
+    Garderkaserne, der i en periode indebærer et øget antal myndighedssager. Bevillingen
+    udløber medio 2028.
+•   Miljø-, Erhverv- og Byudvalget har endvidere prioriteret, at der udarbejdes lokalplan for
+    Lynge Grusgrav i den kommende periode.
+
+Tema: Klima og Grøn omstilling
+• Allerød Kommunes klimaplan blev senest revideret på byrådets møde den 18. december
+   2025. Den videre prioritering af klimaplanens indsatser sker fremadrettet samlet inden for
+   puljen til Natur, klimatilpasning og miljøbeskyttelse. Budgetforligspartierne er enige om, at
+   Miljø-, Erhverv- og Byudvalget som led i dette skal foretage en kritisk gennemgang og
+   prioritering af de enkelte indsatser. Udgangspunktet vil fx være, at adfærdspåvirkende
+   indsatser, vejledning af borgere og virksomheder, energiberegninger mv. som udgangspunkt
+   skal foregå nationalt eller fælleskommunalt.
+• Der arbejdes fortsat med energirenovering af kommunale bygninger, finansieret med
+   lånoptagelse, jf. investeringsoversigten.
+• Med budget 2027-37 igangsættes et bygningssyn og udarbejdes 10-års
+   vedligeholdelsesplaner på alle kommunale ejendomme. Formålet er at sikre mere effektiv,
+   langsigtet og økonomisk bæredygtig drift af kommunens ejendomsportefølje. Kommunens
+                                                                                                18
+Budget 2027-34: Borgmesterens udspil til budgetforhandlingerne
+
+
+
+    bygninger repræsenterer betydelige værdier og udgør de fysiske rammer for udførelse af
+    kerneopgaverne. Opgaven udføres og finansieres inden for det eksisterende ejendomsbudget
+    og udgiften forventes at udgøre ca. 2 mio. kr. Der fremlægges en sag for Miljø-, Erhverv- og
+    Byudvalget og Økonomiudvalget, når bygningssynet og vedligeholdelsesplanerne er
+    udarbejdet.
+
+
+
+Økonomiudvalget
+Økonomiudvalgets driftsbudget udgør 297,3 mio. kr. Byrådets Økonomiske politik, Udbuds- og
+indkøbsstrategi, Digitaliseringsstrategien og Effektiviseringsstrategien spiller en central rolle i
+kommunens styring. Det er også Økonomiudvalget, der varetager den overordnede fysiske
+planlægning i form af kommuneplanen og planstrategien. Nedenfor fremgår aktuelle og nye
+politiske prioriteringer, opdelt efter de temaer, der indgår i byrådets arbejdsprogram for 2026-29.
+
+Tema: Planstrategi og igangsættelse af lokalplaner
+• Det er vigtigt for budgetforligspartierne, at Allerød Kommunes rekreative potentialer indfries.
+   Budgetforligsparterne er enige om, at der skal udarbejdes en helhedsplan for Blovstrød, hvor
+   der genskabes søer, vådområder og lysåbne arealer. Dette også for at sikre en bæredygtig
+   udvikling af både Ny Allerødgårds jorde (størstedelen til natur og mindstedelen til let
+   erhverv), Blovstrød og Allerød som helhed. Arealerne skal være både rekreative og
+   tilgængelige. I forbindelse med udarbejdelsen af helhedsplanen iværksættes en åben og
+   inddragende proces med involvering af både borgere, virksomheder og foreninger.
+• Der er igangsat en revision af Planstrategien, hvor der er udpeget temaer som Natur, Erhverv,
+   Infrastruktur og mobilitet, Det Gode Hverdagsliv, Energi, forsyning og klima samt Balanceret
+   Bolig- og byudvikling. Planstrategien forventes at sætte retning for kommende indsatser som
+   fx en ny erhvervspolitik, en helhedsplan for Blovstrød, den fremadrettede
+   boligudbygningsplan, oversigter over muligheder for nye naturområder og meget mere. Hvis
+   planstrategiens dispositioner påvirker fritidsbruger, vil det ligeledes skulle tages med i
+   betragtning.
+• Der arbejdes løbende med proaktive jord- og ejendomskøb, der kan understøtte kommunens
+   langsigtede ønsker til udvikling.
+
+Tema: Organisationsudvikling, kapacitet og beredskab
+• Der er sket en markant styrkelse af kommunens beredskab i lyset af den aktuelle
+   trusselsvurdering. Eksempelvis er beredskabsniveauet på kommunens botilbud og plejehjem
+   opdateret, svarende til de anbefalinger, der er givet til borgere generelt. Det er i august 2026
+   afsat samlet 1,0 mio. kr. til en akutpakke, der bl.a. skal styrke indsatserne i Nordsjællands
+   Brandvæsen og på kommunens botilbud og plejecentre. Alle beredskabsplaner er endvidere
+   blevet opdateret, og der er indgået et strategisk samarbejde med Rudersdal, Fredensborg og
+   Hørsholm om styrkelse af beredskabet generelt. Der fremlægges en sag for Økonomiudvalget
+   ultimo 2026 med næste bølge af initiativer for at styrke kommunens kriseberedskab.
+• Der er afsat 2 mio. kr. årligt i 2025-27 og varigt 0,25 mio. kr. til at arbejde strategisk med
+   fastholdelse og rekruttering. Midlerne er disponeret på tværs af Børne- og Skoleudvalgets og
+   Sundheds- og Beskæftigelsesudvalgets områder, jf. sag på Økonomiudvalget den 17. juni
+   2025. Indsatserne i 2025-27 har bl.a. omfattet øget triagering i hjemmeplejen, bedre on-
+   boarding af nye medarbejdere og styrkelse af praktikvejledningen på dagtilbudsområdet. Den
+   varige investering vedrører etableringen af et lærings- og simulationsrum på ældreområdet.
+                                                                                                            19
+Budget 2027-34: Borgmesterens udspil til budgetforhandlingerne
+
+
+
+    Med baggrund i den model for investeringscases, som opgaveudvalget for økonomistyring
+    udarbejder, foretager Forvaltningen en vurdering af, om indsatserne fremadrettet kan
+    udgøre investeringscases.
+•   Der er gennemført en analyse af Allerød Kommunes brug af vikarer på velfærdsområderne.
+    Analysen peger på, at kommunen allerede arbejder systematisk med området, men at der er
+    et potentiale i at styrke indsatsen yderligere, særligt gennem en mere målrettet
+    understøttelse af lederne. Med baggrund i analysen igangsættes med budget 2027-34 en
+    investering i at styrke den eksisterende indsats for at reducere sygefraværet på skoler,
+    dagtilbud, plejecentre og hjemmepleje. Sygefravær udgør en væsentlig drivkraft bag
+    bemandingsgabet, da både kortvarigt og langtidsfravær skaber behov for løbende
+    vikardækning. En styrket indsats vil derfor have en direkte effekt på behovet for vikarer og
+    samtidig bidrage til bedre arbejdsmiljø og kontinuitet i opgaveløsningen. Den foreslåede
+    indsats tager afsæt i en kombination af datadrevet indsigt og ledelsesunderstøttelse. Der er
+    afsat varig finansiering til indsatsen på 0,75 mio. kr. fra 2027. Der er skønsmæssigt og
+    foreløbigt budgetteret med en økonomisk gevinst på ligeledes 0,75 mio. kr., dog først fra
+    2029. Med baggrund i den model for investeringscases, som opgaveudvalget for
+    økonomistyring udarbejder, foretager Forvaltningen en vurdering af, hvad de faktiske
+    økonomiske gevinster kan forventes at være ved sygefraværsindsatsen.
+•   Kommunen har ansvaret for, at der er midlertidige boliger til den kvote af landets flygtninge,
+    der skal bo i Allerød Kommune. Aktuelt er det primært flygtninge fra Ukraine. Der skal findes
+    en langsigtet løsning på, hvordan flygtningekapaciteten indrettes fremover, så det i højere
+    grad er muligt at håndtere de udsving, der løbende kommer. Der er skønsmæssigt afsat et
+    budget på 5,1 mio. kr. i 2028 til at håndtere udfordringen.
+     Mio. kr. (Anlæg)                         2027     2028      2029    2030    2031    2032    2033    2034
+     Midlertidige flygtningeboliger              0,0      5,1      0,0     0,0     0,0     0,0     0,0     0,0
+•   Borgmesterkontoen halveres med budget 2027-34, svarende til en besparelse på 48.500 kr.
+    årligt. Dette indebærer, at forskellige ad hoc-arrangementer som fx koncerter med Den
+    Kongelige Livgardes Musikkorps og julemandskørsel ikke længere kan finansieres herfra.
+•   Udvalget arbejder løbende strategisk med automatisering og digitalisering for at frigøre tid til
+    borgernære opgaver. Ydermere vil der i denne periode skulle udarbejdes en ny udbuds- og
+    indkøbsstrategi med det klare fokus at øge andelen af tværkommunale udbud.
+
+Tema: Politisk ledelse og inddragelse
+• Den lokale sammenhængskraft og tilliden til de demokratiske institutioner er under pres
+   mange steder i samfundet. Derfor ønsker forligspartierne fortsat at styrke nærdemokratiet,
+   borgernes involvering og åbenheden om de politiske beslutninger i kommunen. I løbet af året
+   har alle udvalg arbejdet med inddragelse af borgere, interessenter og lokalsamfund i både
+   enkeltsager og større udviklingsprojekter. Erfaringerne fra blandt andet livestreaming af
+   byrådsmøder, styrket kommunikation, råderumsspil, dialog- og borgermøder samt
+   etableringen af en fælles borgerrådgiverfunktion viser, at meningsfuld inddragelse kræver
+   forskellige metoder og skaber en stærkere dialog mellem borgere og kommune. Det vurderes
+   derfor, at lokaldemokratiet bedst styrkes gennem en bred vifte af dialogbaserede initiativer
+   frem for et permanent digitalt borgerpanel. Meningsfuld inddragelse handler om at involvere
+   borgere og interessenter tidligt i processerne og gennem de metoder, der passer til den
+   konkrete sag. På den baggrund igangsættes det tidligere besluttede digitale borgerpanel ikke.
+   Dette medfører en besparelse på 0,6 mio. kr. i budgetperioden. I stedet vil vi fortsat udvikle
+   dialogen og borgerinddragelsen, så den bidrager til at styrke den lokale sammenhængskraft.
+

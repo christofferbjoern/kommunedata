@@ -1,0 +1,533 @@
+# kilde: filer/København/klima_1_Klimabudget til Budget 2027.pdf | metode: pdftotext
+
+Budget 2027   Klimabudget 2027
+              Københavns Kommune   kk.dk/budget2027
+
+
+
+
+Klimabudget
+2027
+Bilag 2
+Budget 2027              Klimabudget 2027                                               kk.dk/budget2027
+
+
+
+
+Klimabudget ved Budget 2027
+
+Økonomiudvalget vedtog den 14. juni 2022 rammerne for det første klimabud­
+get, som blev implementeret i forbindelse med budget 2023. Herudover vedtog
+Økonomiudvalget den 10. januar 2023 en række udviklingspunkter for klimabud­
+gettet.
+
+Det følger af beslutningerne, at der beregnes klimapåvirkning for udvalgte budget­
+initiativer til kommende forhandlinger om budget og overførselssager. Omfanget
+af budgetinitiativer, der medtages i klimabudgettet, udvides fremadrettet i takt
+med, at datagrundlag og beregningsmodeller mv. muliggør det.
+
+Klimastrategi 2035 trådte i kraft den 1. januar 2026 og gælder for perioden
+2026–2035. Nedenfor synliggøres de vedtagne klimainitiativer ved budget 2027,
+og klimaeffekterne af initiativerne holdes op imod hver af de tre målsætninger. De
+vedtagne klimainitiativer fra budget 2027 vil indgå i den årlige afrapportering på
+Klimastrategi 2035, der udkommer årligt i forbindelse med Indkaldelsescirkulæret.
+
+I klimabudgettet for budget 2027 er der både initiativer, som bidrager til indfri­
+elsen af den geografiske målsætning (tabel 1), og initiativer der bidrager med
+reduktioner fra Københavns globale klimaaftryk, som understøtter opfyldelsen af
+målsætningerne i Klimastrategi 2035 (tabel 2-4). Hver målsætning er opgjort ud
+fra forskellige afgrænsninger, så effekterne af initiativerne vil ikke kunne lægges
+sammen på tværs af de tre målsætninger. Beregningerne er behæftet med usik­
+kerhed.
+
+CO2e-udledningerne fra anlæg af bygninger og infrastruktur (tabel 5-6) bidrager
+med udledninger til det globale klimaaftryk, som er omfattet af Klimastrategi 2035.
+
+
+
+Opsummering af klimabudget til Budget 2027
+
+Samlet set prioriteres der midler til klimatiltag inden for hver af de tre målsætnin­
+ger i Klimastrategi 2035. For initiativer, der bidrager til målsætning om klima­
+positivitet i 2035, forventes initiativerne at bidrage med direkte reduktioner på
+1.592 ton CO2e. For målsætning om halvering af Københavns globale klimaaftryk
+i 2035 bidrager initiativerne med indirekte reduktioner på 2.730 ton CO2e og
+direkte reduktioner på 600 ton CO2e. For målsætning om halveringen af Køben­
+havns Kommunes globale klimaaftryk fra indkøb forventes initiativerne at bidrage
+med direkte reduktioner på 4.695 ton CO2e i 2030 og 6.718 ton CO2e i 2035.
+ Budget 2027                          Klimabudget 2027                                                                                    kk.dk/budget2027
+
+
+
+
+ Målsætninger i Klimastrategi 2035
+
+ Målsætning 1: Klimapositiv i 2035
+ København skal som geografisk område være klimapositiv. Det betyder, at vi inden
+ for byens grænser skal opfange mere CO2e, end vi udleder.
+
+
+
+ Figur 1: Udledninger i Københavns geografi (ton CO2e) inkl. fremskrivning
+
+
+            1.600.000
+
+            1.400.000
+
+            1.200.000
+                                                  Historisk   Fremskrivning
+            1.000.000
+
+Ton CO2
+             800.000
+
+             600.000
+
+             400.000
+
+             200.000
+                                                                                                                    Mål i 2035
+                   0
+
+             -200.000
+                        2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035
+
+ Note:
+ Af figuren fremgår senest muligt opdaterede tal. Fremskrivningen er uden yderligere initiativer, herunder CCS.
+
+
+
+
+ Tabel 1. Oversigt over klimainitiativer der bidrager til indfrielse af den geografiske målsætning
+
+
+
+          Forvaltning        Nummer            Budgetnotat                                                Finansieret ­effekt i       Effekt i 2035 – forudsat
+                                                                                                            2035 (ton CO2e)           yderligere finansiering
+                                                                                                                                       efter budgetperioden
+                                                                                                                                                   (ton CO2e)
+
+                                               Krav på fossile køretøjer ifm.
+          KTF                KT067                                                                                         1.530                         1.610
+                                               ­kommunens anlægsarbejde
+
+          KTF                KT101             Træer i København (initiativ 1)                                                   2                          2
+
+                                               Merudgift til HVO
+          KTF                KT102                                                                                                0                         0
+                                               (via ØK22 Klimapulje)
+
+                                               Justering i beboerlicens for
+          KTF                KT176a                                                                                              60                        60
+                                               el- og benzinbiler
+
+          Initiativernes bidrag til målsætningen om klimapositivitet i 2035
+
+          Samlet forventet reduktion i 2035 af finansierede initiativer
+                                                                                                                           1.592                        1.672
+          i Budget 2027
+
+                                                                                                             455.285 – 1.592 =
+          Forventet restudledning i 2035 (ton CO2e)
+                                                                                                                     453.693
+   Budget 2027                                    Klimabudget 2027                                                                                 kk.dk/budget2027
+
+
+
+
+   Målsætning 2: Halvering af Københavns globale klimaaftryk i 2035
+
+   Klimastrategi 2035 sigter mod at halvere Københavns globale klimaaftryk
+   pr. københavner frem mod 2035.
+
+
+
+   Figur 2: Københavns globale klimaaftryk (ton CO2e per københavner)
+
+                       12,0
+                                             Historisk   Fremskrivning
+
+
+
+
+Ton CO2e/københavner
+                       10,0
+
+                       8,0
+
+                       6,0                                                                                           Mål i 2035
+
+
+                        4,0
+
+                       2,0
+
+                        0,0
+                              2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035
+
+
+   Note:
+   1. Fremskrivningen er uden yderligere initiativer for København og Danmark, og et gennemsnitligt udviklingsscenarie for resten af verden.
+   2. Springet mellem de historiske udledninger og fremskrivningen i år 2023 skyldes, at de er opgjort pba. forskellige datagrundlag.
+
+
+
+
+   Tabel 2. Oversigt over klimainitiativernes bidrag til indfrielse af målsætningen om
+   halvering af Københavns globale klimaaftryk
+
+
+
+                  Forvaltning          Nummer               Budgetnotat                                     Finansieret ­effekt i              Effekt i 2035 – forudsat
+                                                                                                              2035 (ton CO2e)                  yderligere finansiering
+                                                                                                                                                efter budgetperioden
+                                                                                                                                                            (ton CO2e)
+
+                  KTF                  KT069a               Partnerskab for fremme af reparation                              880                                  1.761
+                                                            og holdbare produkter                               (indirekte effekt)                    (indirekte effekt)
+
+                  KTF                  KT094                Kantineløftet – Partnerskabet om                                1.000                                2.200
+                                                            grønne kantiner (uden tilvalg)                      (indirekte effekt)                    (indirekte effekt)
+
+                  KTF                  KT176a               Justering i beboerlicens for                                           600                             600
+                                                            el- og benzinbiler
+
+                  KTF                  KT188                Videreudvikling af LCA-platform                                   850                                 1.900
+                                                            for Københavns Klimapartnerskab                     (indirekte effekt)                    (indirekte effekt)
+                                                            for byggeri
+
+                  Initiativernes bidrag til målsætningen om halvering af Københavns globale klimaaftryk i 2035
+
+                  Samlet forventet reduktion i 2035 af finansierede initiativer
+                                                                                                                                  3.330                          6.461
+                  med Budget 2027 (tons CO2e)
+
+                  Inklusiv forventet reduktion i 2035 af finansierede initiativer
+                                                                                                                                  10.110                       13.579
+                  vedr. KK Indkøb i tons CO2e (jf. tabel 3)
+
+                  Forventet reduktion pr. københavner i 2035 (ton CO2e)                                                            0,02
+
+                  Forventet restudledning pr. københavner i 2035 (ton CO2e)                                    2,23 – 0,02 = 2,21
+    Budget 2027                                         Klimabudget 2027                                                                             kk.dk/budget2027
+
+
+
+
+    Målsætning 3: Halvering af Københavns Kommunes globale klimaaftryk i 2035
+
+    Klimastrategi 2035 sigter mod at halvere det globale klimaaftryk fra kommunens
+    indkøb pr. københavner frem mod 2035.
+
+
+
+    Figur 3. CO2e-udledninger fra Københavns Kommunes indkøb pr. københavner
+    (kg CO2e)
+
+
+                            1000
+
+                            900                                                                        Historisk   Fremskrivning
+
+
+
+
+CO2e (kg) pr. københavner
+                            800
+
+                            700
+
+                            600
+
+                            500
+
+                            400                                                                                          Mål i 2030
+
+                            300
+                                                                                                                                        Mål i 2035
+                            200
+
+                             100
+
+                              0
+                                   2019         2020          2021          2022      2023      2024           2025         2030          2035
+
+
+
+                                          Klimaaftryk fra indkøb ekskl. Budget 2027          Klimaaftryk fra indkøb inkl. Budget 2027
+Budget 2027              Klimabudget 2027                                                             kk.dk/budget2027
+
+
+
+
+Tabel 3. Oversigt over klimainitiativernes bidrag til indfrielse af målsætningen om
+at reducere det globale klimaaftryk fra Københavns Kommunes indkøb pr. køben­
+havner med 25% i 2030 og 50% i 2035 ift. 2019
+
+
+
+ Forvaltning    Nummer          Budgetnotat                          Finansie-         Finansie-              Effekt i 2035
+                                                                   ret ­effekt i      ret effekt i   – forudsat ­yderligere
+                                                                    2030 (ton          2035 (ton         finansiering efter
+                                                                         CO2e)             CO2e)          budgetperioden
+                                                                                                                (ton CO2e)
+
+ BUF            BC01            Arealoptimering på Den                        7                 6                        6
+                                ­Classenske Legatskoles KKFO
+
+ KFF            BC03            Flere loftsventilatorer i                    21                16                       16
+                                KFF-bygninger
+
+ KFF            KF009           Styringsmodel for ejendoms­                843             1.682                     1.682
+                                vedligehold (scenarie 3)
+
+ KFF            KF057           Klimatilvalg A til Styringsmodel         1.453             2.583                    2.583
+                                for ejendomsvedligehold 2027-
+                                2036 – Klimavenlige design- og
+                                materialevalg (scenarie 3)
+
+ KFF            KF058           Klimatilvalg B til Styringsmodel             71               131                      131
+                                for ejendomsvedligehold 2027-
+                                2036 – Løft af energimærker i
+                                henhold til KKs klimamålsætning
+                                (scenarie 3)
+
+ KTF            KT067           Krav på fossile ­køretøjer ifm.         2.300              2.300                    2.450
+                                kommunens ­anlægsarbejde
+
+ KTF            KT069a          Partnerskab for fremme                     62                 62                      250
+                                af ­reparation og holdbare          (indirekte         (indirekte               (indirekte
+                                ­produkter                             effekt)            effekt)                  effekt)
+
+ KTF            KT102           Merudgift til HVO                             0                 0                        0
+                                (via ØK22 Klimapulje)
+
+ Klimainitiativernes bidrag til målsætning om halvering af udledninger fra kommunens indkøb i 2035
+
+ Samlet forventet reduktion af finansierede initiativer
+                                                                         4.757             6.780                      7.118
+ i 2030 og 2035 (ton CO2e)
+
+ Forventet reduktion pr. københavner i 2030 og 2035 (kg CO2e)               6,8               9,4
+
+ Forventet restudledning pr. københavner i 2030 og 2035               75-6,8 =         230-9,4 =
+ (kg CO2e)                                                               68,2             220,6
+Budget 2027               Klimabudget 2027                                                       kk.dk/budget2027
+
+
+
+
+Tabel 4. Oversigt over understøttende initiativer, der ikke i sig selv har reducerende
+effekt, men understøtter realiseringen af kommunens klimamålsætninger
+
+
+
+ Forvaltning     Nummer          Budgetnotat
+
+ KTF             KT012           Myndighedsbehandling af varmeprojekter som følge af Klimastrategien
+
+ KTF             KT199           Københavns klimaråd (scenarie 1: uafhængigt råd)
+
+ ØKF             ØK65            Optimering af m2 i fagforvaltningernes funktionsprogrammer og undersøgelse
+                                 af multifunktionelle m2 ud fra klimahensyn
+
+ ØKF             ØK22            Pulje til reduktion af klimaaftrykket fra indkøb (model 1)
+
+
+
+
+CO2e-udledende budgetinitiativer ved Budget 2027: nybyg og anlæg
+
+I de følgende to tabeller fremgår budgetinitiativer vedtaget ved Budget 2027,
+som har en CO2e-udledende effekt. Det omfatter nybyggeri af fx skoler, dag­
+institutioner mv. (tabel 5) og anlægsprojekter såsom veje, cykelstier, idræts­
+faciliteter mv. (tabel 6), der vil blive opført af Københavns Kommune (KK) i de
+kommende år. Byggerierne til lavemissionsklassen vil udlede ca. 23 pct. mindre
+CO2e sammenlignet med standardklassen i det tilsvarende byggeår. Den sam­
+lede CO2e-besparelse som følge heraf fremgår nederst i tabel 5. De samlede
+udledninger fra KK’s nybyg- og anlægsprojekter fremgår nederst i tabel 5 og 6.
+Budget 2027                          Klimabudget 2027                                                                                              kk.dk/budget2027
+
+
+
+
+Tabel 5. Oversigt over CO2e-udledninger fra kommunens nybyggeri
+
+
+
+  Forvaltning            Nummer                 Budgetnotat                                                             Udledning pr. år             Samlet udledning
+                                                                                                                            (ton CO2e)                      over 50 år
+                                                                                                                                                           (ton CO2e)
+
+                                                            Projekter der bygges til standardklassen
+
+  Børne og               BU04                   Anlægsbevilling til Skolen på Levantkaj                                                 186,2                           9.310
+  Ungdoms­                                      (19.599 m2)*
+  forvaltningen
+
+  Børne og               BU06                   Anlægsbevilling til Skolen ved Himmelhøj                                                   64,1                        3.204
+  Ungdoms­                                      samt idrætshal (7.538 m2)*
+  forvaltningen
+
+  Børne og               BU07                   Anlægsbevilling til udvidelse og                                                            8,2                            411
+  Ungdoms­                                      ­modernisering af Strandparkskolen
+  forvaltningen                                  (967 m2)*
+
+  Kultur-,        KF023                         Planlægningsbevilling til halkompleks                                                     33,8                          1.688
+  ­Fritids- og                                  med svømmehal i Nordhavn, svømmehal
+   Borgerservice­                               (4.500 m2)
+   forvaltningen
+
+  Social­                SO15                   Supplerende anlægsbevilling til Boserupvej til                                              2,5                            124
+  forvaltningen                                 etablering af beskyttet beskæftigelse (260 m2)*
+
+                                                         Projekter der bygges til lavemissionsklassen
+
+  Børne og               BU31                   Planlægningsbevilling til etablering af klub i                                            13,7                            683
+  Ungdoms­                                      Sydhavnen (fortrolig) (2.100 m2)
+  forvaltningen
+
+  Kultur-,        KF023                         Planlægningsbevilling til halkompleks med                                                 49,3                         2.465
+  ­Fritids- og                                  svømmehal i Nordhavn, øvrige halkompleks
+   Borgerservice­                               (8.500 m2)
+   forvaltningen
+
+  Social­                SO14                   Anlægsbevilling til modernisering af E-huset                                              39,8                          1.992
+  forvaltningen                                 ved nybyggeri på areal ved Sjælør St.
+                                                (6.130 m2)*
+
+  Samlet CO2-besparelse jf. principbeslutning om at bygge til lavemissionsklassen                                                                         1.546 ton CO2e
+
+  Samlet CO2e-udledning fra KK’s nybyggeri                                                                                                              19.877 ton CO2e
+
+
+Note:
+Initiativerne indgår i klimabudgettet første gang, der afsættes bevilling – typisk som planlægningsbevilling. Initiativer markeret med * har tidligere indgået i klimabudget­
+tet og er genberegnet pga. væsentlige ændringer i dimensionerne.
+Budget 2027              Klimabudget 2027                                                     kk.dk/budget2027
+
+
+
+
+Tabel 6. Oversigt over CO2e-udledninger fra anlæg af infrastruktur
+
+
+
+ Forvaltning     Nummer        Budgetnotat                                           Samlet udledning for anlægs-
+                                                                                                 fasen (ton CO2e)
+
+ Børne og        BU10          Anlægsbevilling til renovering af legepladser                           238 – 269
+ Ungdoms­                      mv. i skoler og daginstitutioner
+ forvaltningen
+
+ Kultur-,        KF024         Planlægningsbevilling til ny materialegård i                             312 – 403
+ ­Fritids- og                  Valby Idrætspark
+  Borgerservice­
+  forvaltningen
+
+ Kultur-,        KF047         Husumparken – udvidelse af areal, nyt hegn                                  17 – 19
+ ­Fritids- og                  og nyt lysanlæg
+  Borgerservice­
+  forvaltningen
+
+ Kultur-,        KF061         Mimersparken – optimering af lys og forbedring                             56 – 64
+ ­Fritids- og                  af bruger- og tilskuerforhold
+  Borgerservice­
+  forvaltningen
+
+ Klima-, Miljø-, KT001         Skæv DUT vedr. ny lov om terrænært grundvand                              0,5 – 1,2
+ og Teknik­
+ forvaltningen
+
+ Klima-, Miljø-, KT002         Genopretning af de fysiske værdier i grønne områder                   7.158 – 8.074
+ og Teknik­                    – scenarie 1
+ forvaltningen
+
+ Klima-, Miljø-, KT005         Bedre cykelforhold i Danmarks største cykelkryds                          80 – 167
+ og Teknik­                    Søtorvet
+ forvaltningen
+
+ Klima-, Miljø-, KT008         Udvidelse af cykel- og gangsti og bedre belysning                         78 – 166
+ og Teknik­                    gennem Amager Fælled
+ forvaltningen
+
+ Klima-, Miljø-, KT011         Fodboldbaner i Ny Park i Nordhavn                                       692 – 865
+ og Teknik­
+ forvaltningen
+
+ Klima-, Miljø-, KT022         Forbedrede forhold for cykler og gående                                  199 – 221
+ og Teknik­                    ifm. genopretning i Tingbjerg – initiativ 1
+ forvaltningen                 Forbedrede forhold for cykler og gående                                    72 – 80
+                               ifm. genopretning i Tingbjerg – initiativ 2
+
+ Klima-, Miljø-, KT023         Fleksibelt og socialt byrum på Christianshavns Torv                          8 – 17
+ og Teknik­
+ forvaltningen
+
+ Klima-, Miljø-, KT026         Åbning af Lygten Å i parken ved Bispeengen                                 31 – 57
+ og Teknik­
+ forvaltningen
+Budget 2027              Klimabudget 2027                                                   kk.dk/budget2027
+
+
+
+
+ Forvaltning    Nummer        Budgetnotat                                          Samlet udledning for anlægs-
+                                                                                               fasen (ton CO2e)
+
+ Klima-, Miljø-, KT049        Forbedrede trafikale forhold på Artillerivej ved                          87 – 175
+ og Teknik­                   ­Boldklubben Hekla – basisscenarie.
+ forvaltningen                 Forbedrede trafikale forhold på Artillerivej ved                      250 – 502
+                               ­Boldklubben Hekla – tilvalg 2
+
+ Klima-, Miljø-, KT055        Længdeparkering til skråparkering – initiativ 2                          66 – 120
+ og Teknik­
+ forvaltningen
+
+ Klima-, Miljø-, KT063        Anlægsbevilling til Fremtidens Grøndalspark                             170 – 204
+ og Teknik­                   – initiativ 2
+ forvaltningen
+
+ Klima-, Miljø-, KT072        Omdannelse af Frederikssundsvej                                           81 – 152
+ og Teknik­                   (Forandringsplan for Husum Nord) – initiativ 1
+ forvaltningen
+
+ Klima-, Miljø-, KT074        Plantehuller til facadebeplantning – initiativ 1                        3,7 – 20,5
+ og Teknik­
+ forvaltningen
+
+ Klima-, Miljø-, KT076        Forsøg med cykelgade på Vester Voldgade                                   1,5 – 5,3
+ og Teknik­                   – basisscenarie
+ forvaltningen
+
+ Klima-, Miljø-, KT101        Træer i København - initiativ 1                                         4,7 – 23,1
+ og Teknik­
+ forvaltningen
+
+ Klima-, Miljø-, KT150        Bevilling til flere sikre skoleveje – initiativ 1                       774 – 873
+ og Teknik­
+ forvaltningen
+
+ Klima-, Miljø-, KT151        Etablering af yderlige midlertidige grønne byrum i                          3 – 12
+ og Teknik­                   Middelalderbyen – scenarie 1
+ forvaltningen
+
+ Klima-, Miljø-, KT152        Flagskibsprojekt A + C i Middelalderbyen                               345 – 385
+ og Teknik­                   – initiativ 1
+ forvaltningen
+
+ Klima-, Miljø-, KT154        7-9 grønne bylivsgader                                                    40 - 50
+ og Teknik­
+ forvaltningen
+
+ Klima-, Miljø-, KT211        Flytning af træer ifm. kommende metrolinje M5                            2,3 – 11,5
+ og Teknik­                   – initiativ 1
+ forvaltningen
+
+ Klima-, Miljø-, KT220        Supplerende cykelparkering i Middelalderbyen                                4 – 14
+ og Teknik­
+ forvaltningen
+
+ Samlet CO2e-udledning fra KK’s anlægsprojekter                                                  10.774 – 12.951
+

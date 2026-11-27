@@ -1,0 +1,2001 @@
+# kilde: filer/Mariagerfjord/regneark_1_budget_2025_mariagerfjord_kommune.pdf | metode: pdftotext
+
+Budget 2025 - 2028
+
+
+
+
+            1
+Borgmesterens forord
+
+
+Trods vanskelige betingelser glæder det mig, at budgettet             Som borgmester hæfter jeg mig dog også ved, at vi med
+for næste år er godkendt af samtlige 29 medlemmer i Byrå-             budget 2025-2028 særligt på anlægsområdet er nået til
+det. Det er vigtigt, at alle hver især bidrager til at tage an-       enighed om en række store projekter, vi ønsker realiseret
+svar og finde løsninger. Derfor vil jeg endnu engang rose             de kommende år. Særligt vil jeg fremhæve Campus i Ho-
+mine Byrådskollegaer for at stå sammen om de store linjer,            bro, som nu er budgetlagt. Her har Byrådet nu givet hånd-
+der tegnes med budgettet.                                             slag på, at vi i 2027 og 2028 er klar med kommunens andel
+                                                                      af finansiering til projektet. De endelige rammer, og dermed
+Med Budgettet for 2025-2028 har vi i Byrådet i videst muligt          de totale omkostninger for projektet, kender vi ikke endnu.
+omfang forsøgt at fastholde så meget som muligt af det                Men jeg er glad for, at hele Byrådet kan se Campus i Hobro
+eksisterende serviceniveau. Det ændrer dog ikke ved, at               som et fyrtårn for kommunen og en investering i fremtiden
+Mariagerfjord Kommune nu for alvor mærker de økonomi-                 – bosætningsmæssigt, erhvervsmæssigt og vækstmæssigt.
+ske konsekvenser af en aldrende befolkning og et stigende
+behov for specialiserede ydelser på særligt børn- og unge-            Desuden er det glædeligt, at vi kan genstarte nogle af de
+området.                                                              projekter, som vi i marts 2024 blev nødt til at standse. Lige-
+                                                                      som det er glædeligt, at vi kan fortsætte med at investere i
+Det har krævet hårde prioriteringer i budgetlægningen efter           projekter, som understøtter vores fælles vision ’her vil vi
+et år med et genprioriteret anlægsbudget i marts 2024. Her            mere – og der er plads til mere’. Med budgetaftalen har vi
+blev anlæg for ca. 160 mio. kr. aflyst og udskudt for at sta-         således prioriteret midler til Mariager Saltcenter, som har
+bilisere kommunens likviditet. Prioriteringen har medført, at         fremlagt et flot og visionært projekt, som bliver et trækpla-
+kommunens likviditet er stabiliseret. Målsætningen for For-           ster for byens borgere og turister. Mariager Skole bliver
+handlingsudvalget var med budget 2025, at der skulle ska-             ligeledes prioriteret, så gymnastiksalen og ankomstarealet
+bes et budgetoverskud på 26,4 mio. kr. til genopbygning af            får et kærkomment løft, samtidig med at afsættes midler til
+kassebeholdningen.                                                    etablering af et specialundervisningstilbud på skolen mål-
+                                                                      rettet elever med autisme.
+Vi må konstatere, at det ikke er lykkedes med budget 2025
+at skabe det ønskede budgetoverskud, idet vi har godkendt             For mig og resten af Byrådet er borgernes og medarbejder-
+at budgettere med et overskud på 2,4 mio. kr. Det skyldes i           nes input helt afgørende i budgetprocessen, og det glæder
+høj grad, at vi i Forhandlingsudvalget sent i processen blev          mig, at vi havde mulighed for at udelade nogle af de bespa-
+præsenteret for en udfordring på det specialiserede børne-            relser i høringsmaterialet, vi lyttede os til var mest uønske-
+område i årene frem. Vi må konstatere, at den udvikling der           de. På vegne af hele Byrådet vil jeg gerne sige tak for de
+også ses på landsplan med et stigende antal børn, som har             bidrag, medarbejdere og borgere er kommet med under-
+behov for et specialiseret undervisningstilbud, nu for alvor          vejs i processen.
+har ramt Mariagerfjord Kommune. Det betyder, at vi i 2025
+og årene frem tilfører 16 mio. kr. til området                        Rigtig god læselyst
+
+Når vi ikke budgetterer med et større kasseoverskud i
+2025, skal det dog også ses i sammenhæng med, at vi i
+Byrådet har prioriteret at bevare vores servicebuffer på 22
+mio. kr. fra 2025 og frem i budgettet. Med de store udsving
+vi har set de seneste år på de store velfærdsområder, er
+jeg sikker på, at vi står os bedst som kommune ved at ska-
+be luft i budgettet til uforudsete udgifter, så vi minimerer          Mogens Jespersen
+risikoen for en genåbning af budgettet. Når det er sagt, er           Borgmester
+det ambitionen, at bufferen i løbet af 2025 i videst muligt
+omfang skal forblive ubrugt, så en rest kan tilføres kassen
+ved årets afslutning.
+
+
+
+
+                                                                  2
+Indhold
+
+
+Mariagerfjord Byråd               4
+
+Grundlaget for budgettet          6
+
+Økonomien i Mariagerfjord         10
+
+Befolkningsudviklingen            14
+
+Indtægter og udgifter             16
+
+Økonomiudvalget                   20
+
+Børn og Familie                   22
+
+Sundhed og Omsorg                 24
+
+Kultur og Fritid                  26
+
+Arbejdsmarked og Uddannelse       28
+
+Klima og Landdistrikter           28
+
+Teknik og Miljø                   30
+
+Hovedoversigt                     32
+
+Bevillingsoversigt                34
+
+Investeringsoversigt              42
+
+Takstoversigt                     44
+
+
+
+
+                              3
+Mariagerfjord Byråd
+
+
+
+
+Mogens Jespersen (V)            Per Lynge Laursen (V)   Jørgen Pontoppidan (V)   Jan Andersen (V)     Henrik Sloth (V)
+
+
+
+
+Jesper Skov Mikkelsen (V)       Lone Sondrup (V)        Niels Erik Poulsen (V)   Helle Mølgaard (V)   Per Kragelund (V)
+
+
+
+
+Erik Kirkegaard Mikkelsen (V)   Jens-Henrik Kirk (C)    Simon Linde (C)          Laura Holm (C)       Niels Peter Christoffersen (A)
+
+
+
+
+                                                                   4
+Leif Skaarup (A)             Edin Hajder (A)                Karen Østergaard (A)   Jens Riise Dalsgaard (A)   Mette Riis Binderup (A)
+
+
+
+
+Helle Qvist Toft (A)         Trine Blaabjerg Petersen (A)   Jane Grøn (A)          Peter Muhl Nielsen (A)     Rikke Bersang Fonnesbæk (A)
+
+
+
+
+                                                                                                                Partier
+                                                                                                                A   Socialdemokratiet
+                                                                                                                C   Det Konservative
+                                                                                                                    Folkeparti
+                                                                                                                F   Socialistisk
+                                                                                                                    Folkeparti
+                                                                                                                O   Dansk Folkeparti
+                                                                                                                V   Venstre
+                                                                                                                UP Udenfor partierne
+
+
+
+
+Jørgen Hammer Sørensen (O)   Emma Houe Mølgaard (O)         Peder Larsen (F)       Malene Ingwersen (UP)
+
+
+
+
+                                                                      5
+Grundlaget for budgettet
+
+
+Der er en række faktorer, der påvirker Mariagerfjord Kom-             under hensyntagen til det samlede budgetterede niveau for
+munes rammer for budgetlægningen. Kommunens indtæg-                   service- og anlægsudgifter. Samtidig er 3 mia. kr. af kom-
+ter fra skatter og tilskud bestemmer, hvor meget kommu-               munernes bloktilskud betinget af kommunernes aftaleover-
+nen har råd til at bruge. Traditionelt fastlægges de overord-         holdelse i budgetterne for serviceudgifterne i 2025.
+nede rammer for kommunernes budgetter i den økonomiaf-
+tale, der årligt indgås mellem Regeringen og Kommuner-
+nes Landsforening (KL), ligesom kommunens budget er                   Fokus på Ældrepleje
+afhængig af udligningsordningen kommunerne imellem.
+                                                                       Økonomiaftalen indeholder et kvalitetsløft af ældreple-
+                                                                         jen på 546 millioner kr., som indgår i en langsigtet æl-
+Økonomiaftalen                                                           drereform, der indfases frem mod 2027 med fokus på
+Traditionelt indgår Regeringen og KL – på vegne af de 98                 øget kvalitet, kontinuitet og fleksibilitet i plejen. Med
+kommuner – hvert år i juni en aftale om grundlaget for                   aftalen styrkes borgernes frie valg mellem leverandører
+kommunernes økonomi det følgende år – Økonomiaftalen.
+Regeringen og Folketinget påvirker kommunernes mulighe-                  på ældreområdet, ligesom aftalen rummer en række
+der og handlinger på rigtig mange måder gennem nye love                  elementer, som skal sikre gennemsigtighed og ligestil-
+m.v., og i Økonomiaftalen sker der også en påvirkning på                 ling mellem offentlige og private leverandører.
+flere måder. Dels påvirker staten kommunernes aktivitetsni-
+veau ved ændringer i de generelle tilskuds størrelse, dels             Regeringen og KL er enige om, at der med ældrerefor-
+sættes der grænser for kommunernes samlede service- og                   men tages vigtige skridt i forhold til frisættelse af kom-
+anlægsforbrug, og dels kan staten ved særlige tilskud sæt-               munerne, tillid til medarbejdere og ledere samt nedbrin-
+te gang i nye eller ændrede aktiviteter og prioriteringer i              gelse af bureaukrati og dokumentation i ældreplejen
+kommunerne. I det følgende opridses hovedpointerne i
+Økonomiaftalen, hvor der flere tiltag er fundet med økono-
+misk kompensation til kommunerne, mens andet kan ka-                   Regeringen og KL er enige om, at det er en fælles am-
+rakteriseres som hensigtserklæringer.                                    bition at udbrede faste tværfaglige teams i ældreplejen.
+
+Hovedpointer i Økonomiaftalen for 2025 er:                             Reformen introducerer ”lokalplejehjem” og helhedsple-
+                                                                         je, hvor borgerne modtager mere borgernær visitation,
+                                                                         og der er mulighed for etablering af tværfaglige faste
+Økonomiske Rammer (service- og anlægsrammer)                             teams.
+
+ Kommunernes serviceramme øges med 3,4 milliarder                    Folkeskolen
+   kr. og udgør samlet 323,6 milliarder kr. under et. Hertil
+   kommer yderligere reguleringer i medfør af DUT mv.                  Regeringen og KL er enige om, at folkeskolen har be-
+   (Det Udvidede Totalbalanceprincip). Løftet i serviceram-              hov for friere rammer, så der er plads til at skabe en
+   men er beregnet til at dække den demografiske udvik-                  skoledag, som kan motivere og udfordre alle børn. Der
+   ling og sikre ressourcer til de borgernære velfærdsom-                er ligeledes enighed om, at folkeskolens almene klasser
+   råder. Servicerammen for Mariagerfjord Kommune er i                   skal kunne mere for flere elever.
+   2025 opgjort til 2,32 mia. kr.
+                                                                       Aftale om folkeskolens kvalitetsprogram – frihed og
+ Løftet i servicerammen finansieres bl.a. ved at regerin-               fordybelse af 19. marts 2024 understøtter denne fælles
+   gen vil reducere statslig administration med 1.000 års-               ambition. Aftalen løsner markant på bindingerne i folke-
+   værk i 2025, ligesom kommunerne under et skal ned-                    skoleloven og har fokus på mere praktisk undervisning,
+   bringe administrationsudgifter med 242 millioner kr.                  herunder i forhold til udviklingen af nye læreplaner, som
+   svarende til ca. 1,7 mio. kr. for Mariagerfjord Kommune.              skal understøtte bedre sammenhæng mellem fagenes
+                                                                         teoretiske, praktiske og kreative sider.
+ Regeringen og KL er enige om, at kommunernes an-
+   lægsramme i 2025 udgør 20,3 milliarder kr., hvoraf 888              Regeringen og KL har med Aftale om folkeskolens kva-
+   millioner kr. allokeres til faglokaler i folkeskolen. Maria-          litetsprogram aftalt at løsne bindinger i folkeskoleloven
+   gerfjord Kommunes bruttoanlægsramme for 2025 er på                    for at give skolerne mere fleksibilitet. 888 millioner kr. er
+   112,3 mio. kr.                                                        afsat til bedre faglokaler og nye undervisningsmetoder
+                                                                         som en del af den samlede anlægsramme.
+Af hensyn til de offentlige finanser og efterlevelse af bud-
+getloven er der fastsat et loft over de kommunale anlægs-              Programmet fremmer praktisk og anvendelsesorienteret
+budgetter i 2025. Dermed er 1 mia. kr. af kommunernes                    undervisning samt styrker det sociale fællesskab og
+bloktilskud betinget af, at kommunernes budgetterede an-
+                                                                         den forebyggende indsats i almene klasser.
+lægsudgifter holder sig inden for den aftalte anlægsramme
+
+
+
+                                                                  6
+ Der vil med kvalitetsprogrammet blive iværksat indsat-             Skatteforhold og Ejendomsbeskatning
+   ser, som bidrager til at skabe stærkere inkluderende
+   fællesskaber i folkeskolens almentilbud. En omstilling af          Kommunerne skal holde skatteniveauet uændret, men
+   folkeskolen, hvor flere elever trives og lærer i almenun-            der etableres en ramme på 200 millioner kr. til skatte-
+   dervisningen, og udgifterne til segregeret specialunder-             nedsættelser i udvalgte kommuner, hvor der gives til-
+   visning nedbringes, kræver dog at der iværksættes                    skud til at imødegå provenutabet. Der introduceres og-
+   yderligere tiltag. Derfor er Regeringen og KL enige om               så midlertidige tiltag til stabilisering af ejendomsskatte-
+   at etablere et samarbejde i tre spor. Udvikling af data,             indtægter og kompensation ved potentielle tab på dæk-
+   udbredelse af viden og gode erfaringer samt styrkelse                ningsafgiften.
+   af specialpædagogiske kompetencer tæt på elever.
+                                                                      Der er enighed om at undgå en stigning i kommunernes
+Socialområdet og Psykiatri                                              indkomstskat som følge af udligningsreformen fra 2020,
+                                                                        og der er afsat midler til neutralisering af en eventuel
+ Regeringen og KL er enige om fortsat at understøtte                   samlet skattestigning.
+   implementeringen af initiativerne i de brede politiske
+   aftaler om en 10-årsplan for psykiatrien på baggrund af           Frisættelse og Regelforenklinger
+   den indgåede udmøntningsaftale mellem parterne den
+   2. april 2024. Med udmøntningsaftalen skal kommuner-               Aftalen indeholder 113 forenklingstiltag, der reducerer
+   ne tilstræbe overholdelse af servicemål for, hvor hurtigt            administrative byrder og øger kommunernes frihed til
+   børn og unge, der mistrives psykisk og har symptomer                 selv at prioritere lokale velfærdstiltag. Eksempler på
+   på psykisk lidelse, men som ikke umiddelbart har brug                regelforenklinger inkluderer fjernelse af krav om årlig
+   for behandling i børne- og ungdomspsykiatrien, kan                   opfølgning af kvalitetsstandarder, lempelser i dokumen-
+   forvente at få hjælp i de nye lettilgængelige behand-                tationskrav og en afskaffelse af værdighedspolitikken
+   lingstilbud. Kommunerne skal tilstræbe servicemålene                 på ældreområdet.
+   når tilbuddet er fuldt ud etableret i alle kommuner, hvil-
+   ket ifølge aftalen er inden udgangen af 2025.                      Regeringen og KL er enige om en digital taskforce, som
+                                                                        skal gøre Danmark verdensførende inden for kunstig
+ En delaftale for det specialiserede socialområde skal                 intelligens i den offentlige sektor, hvilket kan frigøre
+   øge prioriteringsrummet for kommunerne, reducere                     arbejdskraft og øge kvaliteten af borgernær velfærd.
+   udgifter og sikre en bæredygtig udvikling. Det omfatter
+   også justeringer af lovgivningen for at forbedre borger-
+   nes tryghed.                                                      Samarbejdsprogram og Flerårige Partnerskaber
+
+ Sundhedsstrukturkommissionen og Robusthedskom-                      Regeringen og KL fortsætter samarbejdsprogrammet
+   missionen, som afslutter deres arbejde i 2024, vil bidra-            med fokus på den borgernære velfærd og de store vel-
+   ge med anbefalinger til fremtidige strukturer og incita-             færdsområders udfordringer. Parterne mødes halvårligt
+   menter, der kan styrke sundhedsvæsenet og socialom-                  for at følge op på reformer og drøfte prioriteringer i den
+   rådet.                                                               offentlige sektor.
+
+Investeringer og Grøn Omstilling                                      Parterne er enige om at udvikle en fælles digitalise-
+                                                                        ringsstrategi efter 2025, der kan støtte fremtidens vel-
+ Investeringsrammen på 20,3 milliarder kr. for 2025 er                 færdssamfund. Klima- og beredskabsindsatsen vil også
+   fordelt på fysiske velfærdsfaciliteter og grøn omstilling,           blive styrket for at sikre robuste strukturer, som kan
+   hvor der lægges vægt på klimatilpasning, herunder bed-               håndtere klimaændringer og nye sikkerhedstrusler.
+   re beskyttelse mod stormflod og grundvand. En særlig
+   lånepulje er tilgængelig for særligt vanskeligt stillede
+   kommuner til grønne anlægsinvesteringer.                          Yderligere finansieringstilskud til kommunerne
+
+ Klimaalliancen mellem kommuner og regioner styrkes,                I kølvandet på offentliggørelsen af Økonomiaftalen for 2025
+   og der afsættes midler til lavbundsindsatsen, som er en           mødte aftalens intentioner kritik fra flere kommuner, idet det
+   del af landbrugets grønne omstilling. Der er afsat over 7         aftalte løft i servicerammen ikke blev modsvaret i finansie-
+   milliarder kr. til udtagning af lavbundsjorder, hvilket re-       ringen for flere kommuner heriblandt Mariagerfjord Kommu-
+                                                                     ne. Kommunens indtægtsgrundlag gav således ikke mulig-
+   ducerer CO2-udledninger og understøtter de lokale
+                                                                     hed for at anvende løftet i servicerammen. På den bag-
+   klimaindsatser.´                                                  grund valgte regeringen i forbindelse med finansloven for
+
+
+
+                                                                 7
+2025 at tildele kommunerne et finansieringsløft på i alt 2,5               økonomiske situation er endvidere på kort sigt præget af et
+mia. kr. Midlerne fordeles som et ekstra finansieringstilskud              stigende behov for specialiserede ydelser, især inden for
+på 1,8 mia. kr. i 2025 og en kompensation vedr. grundskyld                 børn-og ungeområdet.
+på 0,7 mia. kr. i 2025.
+                                                                           I tillæg til ovenstående mærker Mariagerfjord Kommune nu
+For Mariagerfjord Kommune betyder det, at der modtages                     for alvor konsekvenserne af en aldrende befolkning, lige-
+et engangstilskud i 2025 på 22 mio. kr. til at sikre det love-             som der budgetteres med et stagnerende befolkningstal.
+de løft i velfærden, som Økonomiaftalen indebærer.                         Det har konsekvenser for kommunens indtægtsgrundlag og
+                                                                           for at imødekomme udfordringer har Økonomiudvalget i
+                                                                           2023 igangsat syv budgetanalyser, som alle har til formål at
+Økonomien i Mariagerfjord                                                  bidrage til at tilpasse driften til et ændret økonomisk ud-
+                                                                           gangspunkt.
+Mariagerfjord Kommune står i disse år overfor vanskelige
+økonomiske prioriteringer. Det skyldes, at kommunen både                   Som det fremgår nederst af finansieringsoversigten budget-
+har kort- og langsigtede økonomiske udfordringer, som skal                 teres der i 2026 med et kassetræk på 34,2 mio. kr. Det vil
+håndteres. På den korte bane er kommunens likviditet ud-                   med andre ord sige, at der budgetteres med 34,2 mio. kr.
+fordret, hvorfor Byrådet i marts 2024 valgte at bremse op                  mere i udgifter, end der er indtægter til. I 2027 stiger det
+på anlægsforbruget for at stabilisere kommunens likviditet.                budgetterede kassetræk til 47 mio. kr. mens det i 2028 er
+Det er lykkedes, om end likviditeten fortsat forventes at                  84 mio. kr. Byrådet er opmærksom på, at der i de kommen-
+være under målsætningen i 2025. Derfor var ambitionen for                  de år er behov for prioriteringer i kommunens budgetter for
+Økonomiudvalget forud for budgetforhandlingerne for 2025-                  at skabe balance mellem indtægter og udgifter og samtidig
+28 at skabe et budgetoverskud på 26,4 mio. kr. i 2025 til                  skaffe rum til prioritering og understøttelse af Byrådets
+styrkelse af likviditeten. Den målsætning blev ikke indfriet,              overordnede vision.
+idet der budgetteres med et overskud på 2,4 mio. kr. i
+2025.
+                                                                           Byrådets økonomiske målsætninger
+I den sammenhæng skal det dog bemærkes, at der fra
+2025 og frem budgetteres med en årlig buffer på 22 mio.                    Byrådet har vedtaget tre økonomiske målsætninger for
+kr. En buffer, som skal sikre kommunens drift i løbet af                   budgettet, der vedrører overskud på drift, niveau af an-
+budgetåret, hvor bufferen skal bidrage til at håndtere større              lægsudgifter og gennemsnitlig kassebeholdning. De sidste
+udsving. Det er Byrådets ambition, at bufferen i videst mu-                år er målsætningerne gradvist blevet hævet. Beløb i 2025
+ligt omfang i 2025 skal forblive ubrugt, således der ved                   og målopfyldelsen fremgår nedenfor:
+årets afslutning kan lægges penge i kassen. Kommunens
+
+  Område                          Målsætning 2025                                       Budget 2025
+  Drift                           Overskud på 151 mio. kr.                              Ikke opfyldt – overskuddet udgør
+                                                                                        137,4 mio. kr. på den ordinære drift.
+  Anlæg                           Min. 1.800 kr. pr. indbygger (netto).                 Opfyldt – der budgetteres med et
+                                  Ca. 75,3. mio. kr.                                    anlægsbudget på 89,2 mio. kr. (netto).
+  Kassebeholdning                 Beholdning på 145 mio. kr.                            Forventes ikke opfyldt – Der budgetteres
+                                                                                        med ca. 2 mio. kr. til forøgelse af kassebe-
+                                                                                        holdningen i 2025. Hermed forventes mål-
+                                                                                        sætningen om en gennemsnitlig kassebe-
+                                                                                        holdning på 145 mio. kr. ikke opnået.
+  Lån                             Den årlige låneafvikling skal som                     Opfyldt – der afdrages i 2025 ca. 70,4 mio.
+                                  hovedregel være større end årets                      kr., mens der forventes optaget nye lån for
+                                  låneoptag.                                            26 mio. kr.
+
+
+ Skatteprocenter i 2025
+ Kommuneskat:                                   25,9 %                   Grundskyld for landbrug:                      7,2 ‰
+ Kirkeskat:                                     1,15 %                   Grundskyld:                                   15,7 ‰ *
+ *) Dækningsafgift af offentlige ejendomme budgetteres med udgangspunkt i budget 2024, idet der i L113 (Forslag til ny ejendomsskattelov)
+ fremgår, at der for offentlige ejendomme for kalenderårene 2024-2028 skal opkræves dækningsafgift svarende til det beløb, der blev op-
+ krævet for skatteåret 2023.
+
+
+
+                                                                     8
+Budgetopgørelse
+
+  Hele 1.000 kr. - i 2025 priser                                        2025             2026              2027             2028
+  Skatter                                                          -2.412.677       -2.454.879       -2.530.566        -2.588.319
+  Tilskud og udligning                                              -989.791        -1.056.740       -1.117.649        -1.142.781
+
+  INDTÆGTER I ALT                                                  -3.402.468       -3.511.619       -3.648.215        -3.731.100
+
+  Økonomiudvalget                                                    397.403          393.038           391.795          391.705
+  Udvalget for Børn og Familie                                       773.517          778.120           778.755          775.937
+  Udvalget for Arbejdsmarked og Uddannelse                           794.549          818.130           830.278          842.573
+  Udvalget for Sundhed og Omsorg                                   1.092.911        1.107.482         1.117.421        1.129.293
+  Udvalget for Kultur og Fritid                                       81.389           81.390            81.391           81.391
+  Udvalget for Teknik og Miljø                                       122.676          120.455           120.330          120.330
+  Udvalget for Klima og Landdistrikter                                 1.625             1.625            1.625             1.625
+  Løn- og prisstigninger                                                              108.123           220.325          337.747
+  DRIFTSVIRKSOMHED I ALT                                           3.264.071        3.408.363         3.541.920        3.680.601
+  Renter og kursregulering                                               656             1.072            2.384             2.301
+  PRIMÆRT DRIFTSRESULTAT - OVERSKUD                                 -137.742         -102.184          -103.912           -48.198
+  Økonomiudvalget                                                     34.972           29.982            49.982           41.982
+  Udvalget for Børn og Familie                                        20.100             5.700            3.150             3.150
+  Udvalget for Arbejdsmarked og Uddannelse                                 0                 0                0                 0
+  Udvalget for Sundhed og Omsorg                                       2.300             2.400            3.300             2.900
+  Udvalget for Kultur og Fritid                                        3.955             2.350            2.350             2.350
+  Udvalget for Teknik og Miljø                                        24.125           34.075            29.175           29.175
+  Udvalget for Klima og Landdistrikter                                 3.740             3.800            3.800             3.800
+  ANLÆGSVIRKSOMHED I ALT                                              89.192           78.307            91.757           83.357
+  RESULTAT AF SKATTEFINANSIERET OMRÅDE                               -48.550           -23.877          -12.155           35.159
+  Drift forsyningsvirksomheder                                             0                 0                0                 0
+  Anlæg forsyningsvirksomheder                                             0                 0                0                 0
+  RESULTAT AF FORSYNINGSVIRKSOMHEDER                                       0                 0                0                 0
+  RESULTAT I ALT                                                     -48.550           -23.877          -12.155           35.159
+
+
+
+Som det fremgår af budgetopgørelsen, er der budgetteret              eksempelvis forældrebetaling til dagtilbud og statslige refu-
+med samlede skatteindtægter på 2,412 mia. kr. i 2025.                sioner af overførselsydelser. Som det fremgår af nederste
+Heraf udgør den personlige indkomstskat 2,188 mia. kr. I             linje i budgetopgørelsen, viser årets resultat i 2025 et over-
+tilskud og udligning får Mariagerfjord Kommune i 2024 ca.            skud på 48,6 mio. kr., mens der forventes overskud på
+990 mio. kr.                                                         henholdsvis 23,9 mio. kr. og 12,2 mio. kr. i 2026 og 2027. I
+                                                                     2027 budgetteres der med et underskud på 35,2 mio. kr.
+Der er budgetteret med nettodriftsudgifter på 3,264 mia. kr.         Årets resultat er et udtryk for indtægter minus udgifter.
+i 2025. Nettodriftsudgifterne er driftsudgifterne fratrukket
+
+
+
+                                                               9
+Finansieringsoversigt
+
+
+  Låneoptagelse, afdrag på lån m.v. påvirker også kommu-
+  nens kassebeholdning. Opgørelsen af likviditetsændringen
+  og den likvide beholdning – det vil sige kassebeholdningen
+  – fremgår af finansieringsoversigten herunder
+
+  FINANSIERINGSOVERSIGT                                               2025             2026             2027             2028
+
+  Tilgang likvide aktiver
+
+  Årets resultat                                                    -48.550          -23.877          -12.155          35.159
+
+  Låneoptagelse                                                     -26.000          -12.000          -12.000          -12.000
+
+  I alt                                                             -74.550          -35.877          -24.155          23.159
+
+  Anvendelse af likvide aktiver:
+
+  Afdrag på lån                                                     70.444           68.367           69.463           59.137
+
+  Øvrige finansforskydninger                                          1.684            1.684            1.684            1.684
+
+  I alt                                                             72.128           70.051           71.147           60.821
+
+  Ændring af likvide aktiver                                         -2.422          34.174           46.992           83.981
+
+  (Negativ saldo=overskud - positiv saldo=underskud)
+
+
+
+Som det fremgår af finansieringsoversigten, styrkes den             mio. kr. i 2028. Låneoptagelsen er i budget 2025 forudsat til
+likvide beholdning i 2025 med 2,4 mio. kr. og i 2026 bud-           26 mio. kr. faldende til 12 mio. kr. i overslagsårene. I alle
+getteres der med et kassetræk på 34,2 mio. kr. I 2027 bud-          årene er låneoptagelsen markant mindre end afdrag på lån.
+getteres der med et kassetræk på 47 mio. kr. stigende til 84        Dermed er Mariagerfjord Kommunes gæld faldende.
+
+
+
+
+                                                               10
+11
+Indtægter og udgifter
+
+Hvor kommer pengene fra, og hvad bruges de til?
+
+Kommunens økonomi er grundlæggende afhængig af både skatteindtægter og statslige tilskud. De primære indtægtskilder be-
+står af kommuneskat, grundskyld samt betalinger fra staten i form af bloktilskud og specifikke tilskud/særtilskud. Yderligere ind-
+tægter kan komme fra gebyrer, brugerbetaling mv. På udgiftssiden bliver midlerne fordelt på en række velfærdsområder, herun-
+der børnepasning, undervisning, ældrepleje, sundhed, beskæftigelse og infrastruktur. I det nedenstående gives et overblik over,
+hvordan indtægterne i kommunens budget opstår samt hvordan udgifterne fordeles til forskellige formål.
+
+
+Indtægter i procent (1 % svarer til ca. 40 mio. kr.)
+
+
+
+
+Diverse driftsindtægter er indtægter på fagområderne fra
+brugerbetaling og betaling fra andre kommuner for brug af
+pladser i Mariagerfjord Kommunes botilbud, plejeboliger
+m.v. samt statsrefusion. Brugerbetaling vedrører primært
+renovation, dagtilbud og ældreboliger.
+
+
+
+
+                                                                12
+Udspecificering af skatteindtægter:
+Skatter er kommunens største indtægtskilde og udgør i 2025 i alt 2.412 mio. kr. Indkomstskatter på 2.188 mio. kr. er langt den
+største indtægtskilde for Mariagerfjord Kommune og udgør ca. 90 % af alle skatteindtægter. Derefter følger grundskyld på 157
+mio. kr. og selskabsskat på 67 mio. kr.
+
+
+
+
+                                                               13
+Tilskud
+Næststørste indtægtskilde for Mariagerfjord Kommune er de nedenfor beskrevne tilskud, som i 2025 udgør 990,3 mio. kr. Ud
+over de generelle tilskud er der en række særtilskud, som kommunerne modtager. Mariagerfjord Kommunes andel i 2021 -
+2025 er:
+
+
+Tilskud – i årets priser mio. kr.
+                                      2021              2022               2023              2024              2025
+
+ Kommunal udligning                          854            822,7              787,4             847,6             845,7
+
+ Tilskud til styrkelse af likvidi-
+                                             38,5              38,2               38,2               38               37,9
+ tet/finansieringstilskud
+
+
+ Udligning vedr. udlændinge                    -6              -5,9               -5,3              -5,1              -6,0
+
+ Kommunalt udviklingsbidrag
+                                             -4,7              -4,8               -4,9              -5,1              -5,3
+ til regionerne
+
+ Udligning af selskabsskat                   10,5                9,5               9,7              16,4              11,3
+
+ Tilskud til bedre kvalitet i
+                                              3,6                3,6               3,8                4                4,2
+ dagtilbud
+
+ Tilskud til generelt løft af
+                                              6,5                6,6               6,8               7,1               7,3
+ ældreplejen
+
+ Tilskud til styrket kvalitet i
+                                              8,7                8,8               9,1               9,5               9,8
+ ældreplejen
+
+ Tilskud til værdig ældrepleje                9,1                9,3               9,5               15               10,2
+
+ Tilskud til bekæmpelse af
+                                              1,2                0,9               0,9               0,9               1,0
+ ensomhed hos ældre
+
+ Tilskud til skattenedsættelse               11,5              11,5               10,9              10,3               9,6
+
+ Overgangstilskud vedr. revi-
+ sion af kriterier for udlæn-                 9,4                9,4                0                 0                    0
+ dinges uddannelse
+
+ Tilskud til kommuner med
+ vanskelige vilkår                           15,6              15,8               16,2              16,9              16,8
+ (finansloven)
+
+ Tilskud til udsatte ø- og
+                                               0               18,4               18,9              19,7              20,5
+ yderkommuner
+
+ Overgangsordning vedr.
+                                               0                  0                 0                 0               22,0
+ udligningsreform
+
+ Kompensation vedr. netto-
+ tab som følge af ændring af                   0                  0                 0                 0                5,4
+ dækningsafgift
+
+ I alt                                    957,9             944,0              901,2             975,2             990,3
+
+
+
+
+                                                            14
+Udgifter i procent (1 % svarer til ca. 40 mio. kr.)
+Nedenfor er driftsudgifter opdelt på fagudvalg. Desuden indgår bruttoanlægsudgifter, renter og afdrag på lån.
+
+
+
+
+                                                               15
+Økonomiudvalget
+Økonomiudvalget varetager den overordnede styring af kommunens økonomi. Desuden er udvalget ansvarlig for
+kommunens overordnede fysiske planlægning og personaleudvalg for kommunens ansatte. Det samlede driftsbudget for
+Økonomiudvalget er i 2025 ca. 397 mio. kr.
+
+Nyt fra budget 2025
+
+Fastholdelse af buffer på serviceområdet                            tildelte ressourcer, men lægger samtidig vægt på, at der er
+Byrådet er enige om at fastholde kommunens servicebuffer            potentiale for at frigøre ressourcer til kerneopgaven i orga-
+på 22 mio. kr. fra 2025 og frem, da der fortsat er et stort         nisationen.
+efterspørgselspres på flere borgernære områder. Brug af
+bufferen skal fortsat godkendes i Økonomiudvalget og kan            Et yderligere element i administrationsanalysen er udgifter
+kun bringes i anvendelse i forbindelse med uforudsete eller         til Byrådet. Byrådet blev i budgetaftalen for 2024 enige om,
+ekstraordinære udgiftsstigninger på de borgernære vel-              at administrationen skulle udarbejde et oplæg til, hvordan
+færdsområder, som ikke lader sig finansiere gennem kort-            omkostningerne eventuelt kan nedbringes. Oplægget er
+sigtede råderumsskabelser inden for det konkrete udvalgs-           leveret til Økonomiudvalget. Byrådet bemærker forskellige
+område. Hvis der ultimo 2025 er mindst 10 mio. kr. tilbage i        muligheder for at nedbringe udgifterne, og der er enighed
+bufferen er Byrådet enige om at øremærke 1 mio. kr. fra             om, at Byrådets sammensætning, herunder Udvalgsstruk-
+2026 og frem til serviceforbedringer på ældreområdet. Det-          tur, skal drøftes frem mod et kommende kommunalvalg.
+te skal ses i lyset af, at området i forbindelse med handle-        Byrådet er enige om at Økonomiudvalget til foråret 2025
+planen for genopretning af økonomien i 2023 måtte spare             skal drøfte Byrådets sammensætning med henblik på udar-
+på blandt andet musikterapi og klippekort på ældreområdet.          bejdelse af en indstilling til Byrådet. Dette også med henblik
+                                                                    på, at dette eventuelt kan indgå i budgetlægningen for
+Uforbrugte midler fra bufferen skal styrke kassebeholdnin-          2026.
+gen.
+                                                                    Bevarelse af gamle bygninger i Mariager
+Yderligere reduktioner på administrative medarbejdere               Fonden for bevarelse af gamle bygninger i Mariager modta-
+Økonomiudvalget har i 2023 iværksat en budgetanalyse af             ger årligt et kommunalt tilskud på 51.000 kr. Byrådet er
+hele administrationsområdet. Analysen indebærer en fler-            enige om at fortsætte det kommunale tilskud i 2025, hvoref-
+årig plan for at vurdere initiativer, som kan nedbringe de          ter tilskuddet ophører.
+samlede administrationsomkostninger i kommunen. De
+første skridt blev taget i forbindelse med budget 2024, hvor        Destination Himmerland
+der blev reduceret med fem mio. kr. på administration. By-          Byrådet er enige om at afsætte 150.000 kr. i 2025 til Desti-
+rådet er enige om at tage de næste skridt i 2025, hvor der          nation Himmerlands arbejde med Udviklingsplan for Jyl-
+med budgetaftalen reduceres på administrative stillinger på         lands Østkyst (JØP). Projektets bevilling består af støtte fra
+tværs af hele organisationen.                                       Danmarks Erhvervsfremmebestyrelse, RealDania og
+                                                                    Dansk Kyst- og Naturturisme.
+Derudover er Byrådet enige om, at der fra 2025 sættes
+gang i et særlig fokus på ’fremtidens indkøb’, hvor der ind-        Sortemosehus i Arden
+lægges en besparelse på 4,4 mio. kr. årligt. Fremtidens             Foreningen ’Sortemosehus’ i Arden støttes med 150.000
+indkøb dækker over en grundlæggende ændring i organisa-             kr. årligt fra 2026 som et driftstilskud. Sortemosehus er en
+tionens adfærd i forbindelse med indkøb/anskaffelser af             tidligere skovløberejendom ved den sydlige indgang til Rold
+varer og ydelser. Det er blandt andet i form af organisatio-        Skov, og foreningen ønsker at ombygge Sortemosehus til
+nens brug af eksisterende indkøbsaftaler, brugen af kon-            en brugerdreven, multifunktionel aktivitetsbase for naturfor-
+kurrenceudsættelse samt kommunens adfærd i forbindelse              midling og friluftsaktiviteter.
+med indgåelse af større og mindre kontrakter samt opfølg-
+ning herpå. Byrådet anerkender, at den ændrede adfærd
+for nogle vil opleves som en indskrænket råderet over de
+
+
+
+
+                                                               16
+Samlede omprioriteringer og driftsudvidelser
+
+Note   Overskrift                                     2025         2026         2027         2028          Bevillingstype
+
+       Omprioriteringer
+  1    Bevarelse af gamle bygninger i Mariager                0           -51          -51           -51        Drift
+  2    IT udstyr til Byrådet                                 -70          -70          -70           -70        Drift
+  3    Fællesudgifter - annoncer                         -140         -140         -140             -140        Drift
+  5    Ekstraordinære enkeltstående tilskud                  -88          -88          -88           -88        Drift
+  6    Netværk for Bæredygtig Erhvervsudvikling          -158         -158         -158             -158        Drift
+       Tilskud til Mariagerfjord Erhverv nedsæt-
+  7                                                      -125         -125         -125             -125        Drift
+       tes
+  8    Brintprojekt (tilskud til Cemtec) nedsættes       -100         -100         -100             -100        Drift
+       Porto - Digital post, e-Boks og KMD-
+  9                                                      -100         -100         -100             -100        Drift
+       regninger
+ 10    Udbetaling Danmark                                -500         -500         -500             -500        Drift
+ 11    Blanketsystem                                     -100         -100         -100             -100        Drift
+       Ingen rengøring om fredagen på Hadsund
+ 12                                                          -62          -62          -62           -62        Drift
+       rådhus
+ 14    Rengøring - rammebesparelse                       -250         -250         -250             -250        Drift
+       Reduktion i Sekretariat for Teknik og
+ 15                                                      -130         -130         -130             -130        Drift
+       Kultur
+ 17    Reduktion i administration i Vand og Natur        -100         -100         -100             -100        Drift
+ 18    Reduktion af midler til VE-planlægning            -400         -400         -400             -400        Drift
+ 19    Reduktion i administration Trafik og Anlæg        -130         -130         -130             -130        Drift
+       Reduktion i udviklingsmidler i Teknik og
+ 20                                                          -65          -65          -65           -65        Drift
+       Miljø
+       Reduktion i sekretariatet for Børn, Uddan-
+ 21                                                      -357         -357         -357             -357        Drift
+       nelse og Arbejdsmarked
+ 22    Reduceret åbningstid Jobcenteret                  -921         -921         -921             -921        Drift
+       Reduktion i administration på ældreområ-
+ 23    det via fusion med Sekretariatet for Social,      -262         -262         -262             -262        Drift
+       Sundhed og Omsorg
+ 24    Reduktion i Stabsenhederne                        -600         -600         -600             -600        Drift
+ 27    Fremtidens indkøb                               -2.200       -4.400       -4.400        -4.400           Drift
+ 28    Budgetforslag fra NT                            -3.299       -4.751       -4.746        -4.746           Drift
+       Sum Omprioriteringer                           -10.157      -13.860      -13.855       -13.855
+       Driftsudvidelser
+ 29    Destination Himmerland                            150               0            0             0         Drift
+ 30    Sortemosehus i Arden                                   0       150          150              150         Drift
+       Sum driftsudvidelser                              150          150          150              150
+
+
+
+
+                                                             17
+Anlægsprioriteringer under Økonomiudvalget
+
+I det følgende fremhæves anlægsprojekter, som også frem-                  nens ungecenter flytter med i et nyt og bynært campus.
+går af budgetaftalen. Der er enten tale om nye projekter
+eller projekter, hvortil der er knyttet en eller flere bemærk-          Opførelse af ungecenteret og 10. klassecenter i Cam-
+ninger. De samlede anlægsinitiativer fremgår af kapitel XX,               pus, hvor der afsættes 25 mio. kr. hertil i budget 2027.
+hvor investeringsoversigten fremgår pr. udvalg.                           Byrådet besluttede 20. juni 2024 at arbejde videre med
+                                                                          en placering af Mariagerfjord 10. klassecenter i tilknyt-
+Arden Bytorv                                                              ning til campus.
+Budgetaftalen afsætter i alt 10 mio. kr. på anlægsbudgettet
+til udvikling af Bytorvet i Arden, som også var en del af bud-          Sikring af infrastruktur i og omkring campus, hvor der i
+getaftalen for 2024. Byrådet er enige om, at den kommuna-                 budget 2028 afsættes 15 mio. kr. til formålet i 2028.
+le medfinansiering sker under forudsætning af, at der fra
+lokale kræfter findes eksterne resurser til finansiering af
+projektet på mindst fem millioner kr. Aktørerne bag udviklin-          Byrådet anser opførelsen af et Campus i Hobro som et
+gen af Arden Bytorv skal senest 1. juni 2025 indsende en               fyrtårn for kommunen og en investering i fremtiden - bosæt-
+status på projektet til Økonomiudvalget, herunder en status            ningsmæssigt, erhvervsmæssigt og vækstmæssigt. Projek-
+på ekstern finansiering.                                               tets form, indhold og konstruktion er ikke endeligt fastlagt.
+                                                                       De afsatte budgetbeløb må betragtes som foreløbige esti-
+Hadsund - Brolandingen – Stedet tæller X                               mater.
+Byrådet ønsker, at byudviklingsprojektet, der delfinansieres
+gennem RealDania og Ny Carlsbergfondet, ved brolandin-                 Mariager Saltcenter
+gen i Hadsund – ’Stedet tæller X’, nyder fremme. Det både              Byrådet er enige om at afsætte i alt 6 mio. kr. i 2025 til ud-
+i forlængelse af Byrådets planlægning ’Med Byerne For-                 vikling af Mariager Saltcenter. Centeret har i en årrække
+rest’, realisering af byudviklingen i Hadsund samt ambitio-            været et trækplaster, ikke blot for kommunens borgere men
+nerne i Byrådets ’Fjordstrategi’, hvor anlægsambitioner                også for turister, men trænger til en renovering. Centeret
+prioriteres først i Hadsund. Projektet er beregnet til 13 mio.         har fremlagt et flot og ambitiøst projekt til i alt 28,9 mio. kr.,
+kr. Heraf eksterne midler for otte mio. kroner. Byrådet af-            som Byrådet er enige om at støtte økonomisk, så Mariager
+sætter fem millioner kr. i budget 2025 til realisering af pro-         Saltcenter fortsat formidler saltets kulturhistoriske værdi i
+jektet.                                                                kommunen, og dermed udvikles som en af brikkerne i stra-
+                                                                       tegien om kulturelle fyrtårne. Byrådet bemærker, at Maria-
+Campus Hobro                                                           gerfjord Kommunes involvering i projektet forudsætter, at
+Mariagerfjord Kommune arbejder sammen med HEG, SO-                     den eksterne finansiering fremskaffes, som beskrevet i
+SU Nord og Dania på at opføre et bynært campus i Hobro                 projektoplægget, og at kommunens bevilling øremærkes de
+midtby. Visionen bag er at samle omkring 25 ungdoms- og                støtteberettigede dele af projektet.
+videregående uddannelser. Det vil give en rød tråd for unge
+fra grundskole, ungdomsuddannelse og videregående ud-                  Investering i de borgernære serviceområder
+dannelser til et job. Det er afgørende at flere unge bliver på         Byrådet er enige om at afsætte i alt 30 mio. kr. frem til 2028
+egnen og uddanner sig. Et campus, hvor flere uddannelser               til investeringer i bygningsmassen til de borgernære ser-
+samles, vil være et attraktivt miljø for unge, der samtidig vil        viceområder. Formålet med investeringerne er dels at sikre
+skabe et levende miljø i og omkring midtbyen.                          en mere effektiv drift og håndtere en række strukturelle
+                                                                       udfordringer. Byrådet er enige om, at første fase af investe-
+Byrådet er enige om at prioritere etableringen af et campus            ringerne skal målrettes en ny sundhedsklinikstruktur i kom-
+i Hobro og afsætter med budgetaftalen midler hertil. Kom-              munen samt håndtere aktuelle udfordringer med pasnings-
+munens økonomiske involvering i projektet er følgende:                 tilbud til børn flere steder i kommunen. I kommende bud-
+                                                                       getforhandlinger vil Byrådet konkretisere investeringerne,
+                                                                       hvor det fagligt og økonomisk giver størst værdi, hvilket
+ Byrådet besluttede 27. maj 2021 at give tilsagn om et                forventeligt vil være i forhold til de fysiske rammer på æld-
+   anlægsbidrag på op til 25 mio. kr., som hovedsageligt               reområdet.
+   vil bestå af bynære grunde, som kan anvendes til byg-
+   geriet. Samtidig blev der givet tilsagn om, at kommu-
+
+
+
+
+                                                                  18
+19
+Børn og Familie
+Udvalget for Børn og Familie har ansvaret for fagområderne dagtilbud, skole og familie med et driftsbud-
+get på ca. 773 mio. kr. i 2025. Fagenheden Dagtilbud dækker pladsanvisning, dagpleje, vuggestuer, børne-
+haver, private pasningstilbud, særlige dagtilbud samt sprogindsats for 0-6-årige. fagenheden Skole omfat-
+ter skoler, SFO, specialskoler, skolekørsel og PPR. Fagenheden Familie håndterer familierådgivning, spe-
+cialrådgivning og anbringelsesrådgivning.
+
+
+
+Nyt og fokus
+
+Kurser for børn, der har søskende med handicap og                     Nedjustering af særlig integrationsindsats på børneområdet
+diagnose
+Byrådet ønsker at hjælpe børn, der har søskende med han-              Byrådet er enige om at omlægge integrationsindsatsen på
+dicap og diagnoser. I foråret 2024 har Astrup Skoles besty-           børneområdet, hvor der i dag er ansat to ressourceperso-
+relse med fondsmidler og frivillige ressourcer afholdt sø-            ner til at understøtte integrationsarbejdet i kommunens
+skendekurser, hvor tilbagemeldingerne har været rigtig                børnehuse. Byrådet er enige om at halvere budgettet og i
+positive. Derfor ønsker Byrådet en videreførelse af initiati-         stedet omlægge indsatsten, så den i højere grad målrettes
+vet, og er enige om at afsætte 50.000 kr. i 2025 til udvikling        de familier og institutioner, som har størst behov for indsat-
+af et ’hjælpesetup’ til søskende til børn med handicap og             sen.
+diagnoser.
+                                                                      Omlægning af indsatser på familieområdet
+Budgetanalyse 0-18 års området                                        På familieområdet er der de senere år arbejdet målrettet
+En af de igangsatte budgetanalyser er på 0-18 års-                    med en handleplan, som blev iværksat i 2022 med det for-
+området, som har analyseret på ’tilvalg og kan-opgaver’ på            mål at bringe områdets økonomi i balance. Handleplanen
+området. Baggrunden var, at der over de senere år er ble-             indeholder i alt fem temaer, hvor der blandt andet er fokus
+vet iværksat en række fagspecifikke indsatser, som grundet            på alternativer til anbringelse af unge heriblandt netværks-
+Covid19, genåbning af budget og andre forhold endnu ikke              anbringelse og familiepleje. Ligeledes er der fokus på at
+har været igangsat. Derfor var formålet med analysen at               bruge gruppebasserede forløb som forebyggende tiltag,
+genvurdere værdien i de konkrete indsatser, ligesom øn-               hvor det giver mening. Handleplanen har vist gode faglige
+sket var at vurdere, om der var et overlap mellem de kon-             effekter og samtidig et lavere omkostningsniveau. På den
+krete målrettede indsatser. Økonomiudvalget modtag ana-               baggrund nedjusteres budgettet i 2025 og frem med i alt tre
+lysen før sommerferien og valgte at overdrage hele indhol-            mio. kr. årligt. Byrådet er enige om, at kommunens buffer
+det til Forhandlingsudvalget, som i starten af august sendte          skal bringes i anvendelse, hvis familieområdet viser uba-
+analysens indhold i høring. Analysen peger på i alt otte              lance i 2025, svarende til det reducerede beløb.
+konkrete indsatser, som ligger uden for, hvad der kan be-
+tegnes som basisdriften og dermed kan karakteriseres som              Folkeskolen og specialundervisningstilbud
+en ’kan-opgave’.                                                      Over en årrække er der både på landsplan og i Mariager-
+                                                                      fjord Kommune set et stigende behov for at visitere børn til
+Byrådet har besluttet at reducere i tilbudsviften på 0-18 års         specialundervisningstilbud for at sikre dem en god skole-
+området, og har i den forbindelse særlig fokuseret på ind-            gang. Selv om antallet af visitationer til tilbuddene ser ud til
+satser, som ikke er igangsat. Konkret stoppes følgende fra            at have stabiliseret sig, ses der stadig en markant stigning i
+2025 og frem:                                                         udgifter til området, hvilket har resulteret i et merforbrug i
+                                                                      2023 på 5,9 mio. kr. Et merforbrug som ville have været
+                                                                      større, hvis der ved genåbning af budgettet ikke var blevet
+ Ikke-igangsat ekstra fraværsindsats på skoleområdet                 tilført 7,3 mio. kr. De foreløbige forventninger til 2025 er et
+                                                                      merforbrug i den centrale visitationspulje på 16 mio. kr.
+ ikke-igangsat investering 'i et godt afsæt for alle'
+                                                                      Byrådet har besluttet at tilføre 16 mio. kr. til den centrale
+ Omlægning af fritidsjob i uddannelsesvejledningen til               visitationspulje i 2025 og frem for at skabe balance mellem
+   drift                                                              budget og forventet forbrug. Samtidig er det besluttet, at
+                                                                      permanentgøre en række midlertidige takstændringer i
+Byrådet bemærker, at reduktionen ikke er et udtryk for, at            specialundervisningstilbuddene. Byrådet er opmærksomme
+de konkrete indsatser ikke er væsentlige. Reduktionen sker            på, at udgiftsudviklingen ikke alene er en budgetudfordring
+ud fra en samlet prioritering, hvor det foretrækkes at redu-          for den centrale visitationspulje, idet skolerne via tildelings-
+cere i projekter, der ikke er igangsat, og borgerne derfor            modellen medfinansierer de fleste specialundervisningstil-
+ikke vil mærke en serviceforringelse, frem for at skære i             bud, når en af deres elever vurderes i målgruppen. Med de
+den almene drift. De konkrete indsatsområder skal indgå i             ovenstående initiativer er området løftet markant økono-
+den samlede prioritering i det generelle forebyggende ar-             misk, og det er lykkedes at friholde almenområdet for mar-
+bejde, som blandt andet sker i PPR.                                   kante besparelser og dermed fortsat investere i en god
+
+
+
+                                                                 20
+Samlede omprioriteringer og driftsudvidelser
+
+Note      Overskrift                                              2025          2026         2027          2028        Bevillingstype
+
+          Omprioriteringer
+   1      Reduktion af centrale midler til PLC                      -260          -130         -130          -130               Drift
+          Reducere kultur- og læringstilbud for dagtil-
+   2                                                                -160          -160         -160          -160               Drift
+          bud og skoler
+   3      Øget forældrebetaling for SFO                             -780          -780         -780          -780               Drift
+   4      Modtagestrukturen                                         -319          -765         -765          -765               Drift
+   5      Takstreduktion for Sprogbånd                                  -50       -121         -121          -121               Drift
+   6      Skolernes uddannelsesmidler                               -900          -133         -133          -133               Drift
+   7      Skolernes fælles IT midler                              -1.100          -100         -100          -100               Drift
+   8      Dagtilbuds uddannelsesmidler                              -500          -350         -350          -350               Drift
+   9      Integrationspædagoger                                     -425          -425         -425          -425               Drift
+          Reduktion af tildeling til dagplejepædagoger
+  10                                                                -220          -220         -220          -220               Drift
+          med 0,2 timer pr. dagplejer
+          Reduktion af tildeling til køkkener i vugge-
+  11                                                                    -94        -94           -94          -94               Drift
+          stuer
+  12      Omlægning af indsatser på familieområdet                -3.061       -3.061        -3.061        -3.061               Drift
+          Nulstilling af ikke-igangsat ekstraindsats
+  13                                                                -428          -428         -428          -428               Drift
+          vedr. fraværsindsats
+          Nulstilling af ikke-igangsat investering 'i et
+  14                                                                -467          -467         -467          -467               Drift
+          godt afsæt for alle'
+          Sum Omprioriteringer                                    -8.764       -7.234        -7.234        -7.234
+          Driftsudvidelser
+  15      Takster på specialundervisningsområdet                  16.000       16.000        16.000       16.000                Drift
+          Kurser for børn, der har søskende med han-
+  16                                                                    50                                                      Drift
+          dicap eller diagnoser
+          Sum driftsudvidelser                                   16.050       16.000       16.000        16.000
+
+
+Anlægsprioriteringer                                                      I budget 2024 er der afsat i alt 10,2 mio. kr. til de to delpro-
+I det følgende fremhæves anlægsprojekter, som også frem-                  jekter. Resultatet af licitationen har vist, at de to delprojek-
+går af budgetaftalen. Der er enten tale om nye projekter                  ter ikke kan gennemføres for det afsatte beløb, og det for-
+eller projekter, hvortil der er knyttet en eller flere bemærk-            ventes, at der vil være behov for yderligere tre mio. kr. Der-
+ninger. De samlede anlægsinitiativer fremgår af kapitel XX,               for afsættes yderligere tre mio. kr. i 2025 til igangsætning af
+hvor investeringsoversigten fremgår pr. udvalg.                           renoveringen på Mariager Skole.
+
+Renovering af Mariager Skole og oprettelse af special-                    Byrådet afsætter også 8,2 mio. kr. i 2025 til oprettelse af en
+undervisningsafdeling                                                     specialklasseafdeling på Mariager Skole målrettet elever
+I forbindelse med Byrådets genprioritering af anlægsbud-                  med autisme. I dag er der specialtilbud til elever med autis-
+gettet for 2024 blev det besluttet at igangsætte renoverin-               me på Arden Skole. Tilgangen til tilbuddet i Arden har de
+gen af Mariager Skole, som konkret består af to delprojek-                senere år været markant, og derfor kan de fysiske rammer
+ter fra det oprindelige idékatalog:                                       ikke følge med behovet. Samtidig er det for Byrådet væ-
+                                                                          sentligt at sikre en struktur på området, der minimerer
+1. Renovering af Multisal/gymnastiksal                                    transporttiden for eleverne i kommunen. Med oprettelse af
+                                                                          tilbuddet vil særligt eleverne i den sydøstlige del af kommu-
+2. Renovering af parkerings- og ankomstareal.                             nen få kortere transporttid.
+
+
+                                                                   21
+Sundhed og Omsorg
+Udvalget for Sundhed og Omsorg har ansvaret for Ældre og Omsorg samt Social og Sundhed med et samlet driftsbud-
+get i 2025 på ca. 1,1 mia. kr. Ældre og Omsorg varetager blandt andet Sygeplejen og Hjemmeplejen samt kommunens
+plejecentre. Social og Sundhed varetager blandt andet Myndighed og visitation, specialrådgivning for voksne, sund-
+hedsplejen, sundhed og træning, tandplejen samt kommunens botilbud. Herunder hører også kommunens rusmiddel-
+center samt Hobro Krisecenter.
+
+Nyt og fokus
+
+Reorganisering af aktivitetscentre                                      ordninger, som har bragt området i økonomisk balance.
+Byrådet er enige om at reducere budgettet til aktivitetscen-            Byrådet er derfor indstillet på at nedjustere den automati-
+tre på ældreområdet med 1 mio. kr. i 2025 stigende til 2                ske budgetfremskrivning i 2025 med 1,6 mio. kr. I samme
+mio. kr. fra 2026 og frem. For at realisere besparelsen vil             ombæring er Byrådet opmærksomme på, at udgifterne på
+det betyde, at der fremadrettet vil blive færre aktivitetscen-          området kan stige meget på kort tid. Hvis området kommer
+tre end de nuværende seks, som er fordelt geografisk i                  i økonomisk ubalance i 2025, er Byrådet enige om, at kom-
+kommunen. Byrådet er enige om, at Udvalget for Sundhed                  munens buffer skal bringes i anvendelse svarende til det
+og Omsorg skal drøfte den fremtidige organisering og til-               nedsætte budgetbeløb.
+pasning til det reducerede budget.
+                                                                        Pårørendevejleder
+Det specialiserede voksenområde                                         Byrådet har ikke haft mulighed for at imødekomme det eks-
+Som resten af landets kommuner har Mariagerfjord Kom-                   ternt indkommet ønsket om finansiering af en særskilt på-
+mune de senere år oplevet en markant stigning i udgifterne              rørendevejleder i dette budgetforlig. Byrådet ønsker imid-
+til det specialiserede voksenområde. Udgiftsudviklingen er              lertid at henlede opmærksomheden på, at vejledning af
+på landsplan ca. 3% årligt. I Mariagerfjord Kommune hæ-                 pårørende er en integreret del af den daglige praksis inden-
+ves budgettet på området årligt med 2 mio. kr. for at forsø-            for såvel sundheds- som ældreområdet i Mariagerfjord
+ge at følge med udviklingen. Det svarer til en stigning på              Kommune. Derudover tilbyder Mariagerfjord Kommune
+ca. 0,8% årligt.                                                        pårørendekurset ”Lær at tackle hverdagen som pårøren-
+                                                                        de”. Kurset er for borgere, der er pårørende til et menneske
+I løbet af 2024 har Mariagerfjord Kommune oplevet en                    med langvarig sygdom. Kurset er et praktisk orienteret
+stagnering i udgiftsniveauet, hvor de seneste økonomiop-                selvhjælpskursus, som veksler mellem oplæg, øvelser og
+følgninger peger i retning af et budget i balance for 2024.             erfaringsudvekslinger.
+Det er særligt stagnering i udgifter til botilbud og BPA-
+
+
+
+Samlet omprioriteringer og driftsudvidelser
+
+  Note       Overskrift                                           2025         2026         2027        2028       Bevillingstype
+
+             Omprioriteringer
+  1          Nedlæggelse af afdelingslederlaget                        -500        -500        -500        -500              Drift
+  2          Reorganisering af aktivitetscentre                       -1.000     -2.000      -2.000      -2.000              Drift
+  3          Vejledningsindsats i relation til hygiejne                -300        -300        -300        -300              Drift
+  4          Revisitering af Nødkald                                   -300        -300        -300        -300              Drift
+  5          Budgetfremskrivning på socialområdet                     -1.600     -1.600      -1.600      -1.600              Drift
+  6          Reduktion på Handicapkørsel                               -629        -629        -629        -629              Drift
+             Færdigbehandlede sygehuspatienter - somati-
+  7                                                                    -300        -300        -300        -300              Drift
+             ske og psykiatriske
+  8          Fri befordring til læge og speciallæge                    -200        -200        -200        -200              Drift
+  9          Praksiskonsulent                                           -70         -70         -70         -70              Drift
+  10         Reduktion på ydelser leveret af CKU                       -100        -100        -100        -100              Drift
+             Sum Omprioriteringer                                     -4.999     -5.999      -5.999      -5.999
+             Driftsudvidelser
+             Sum Driftsudvidelser                                         0           0            0           0
+
+
+                                                                 22
+23
+Kultur og Fritid
+Udvalget for Kultur og Fritid har ansvaret for ungdomsskolen, biblioteker, museer, teater og musikområdet samt kul-
+turskolen. Fagområdet Kultur og Fritid omfatter også folkeoplysning, f.eks. Idrætshaller, landdistriktspolitik og turis-
+me. Det samlede driftsbudget for Udvalget er i 2025 ca. 81 mio. kr.
+
+
+
+Nyt og fokus
+
+Justering af tilskud til kulturelle foreninger
+Byrådet er enige om at indlægge en rammebesparelse på
+100.000 kr. årligt fra 2025 og frem, som skal udmøntes
+gennem en justering af kulturelle foreningers tilskud. Byrå-
+det er enige om, at Udvalget for Kultur og Fritid skal drøfte
+en konkret model for udmøntning ud fra nogle objektive
+kriterier.
+
+
+
+Samlede omprioriteringer og driftsudvidelser
+                                                                                                               Bevil-
+  Note                                                                  2025     2026      2027      2028      lings-
+                                                                                                               type
+            Omprioriteringer
+  1         Reduktion af budget til drift af Gasmuseet                   -100      -100      -100      -100         Drift
+  2         Indførelse af brugerbetaling Biecentret                       -39       -39       -39       -39         Drift
+  3         Indførelse af brugerbetaling på drenge- og pigekoret         -131      -131      -131      -131         Drift
+            Lukning af caféen i ungdomsskolen i Hobro en dag
+  5                                                                       -50       -50       -50       -50         Drift
+            om ugen
+  6         Lukning af Ungeambassadørerne                                 -50       -50       -50       -50         Drift
+            Lukning af ungdomsskolens internationale DUF pro-
+  7                                                                       -70       -70       -70       -70         Drift
+            jekt
+  8         Lukning af Mariagerfjord Bibliotekernes filial i Als         -492      -492      -492      -492         Drift
+  9         Reduktion af lokaletilskud til aktivitetsforeninger          -260      -260      -260      -260         Drift
+  10        Tilskud til folkeoplysende aftenundervisning                  -50       -50       -50       -50         Drift
+  11        Reduktion af frie kulturelle midler                          -100      -100      -100      -100         Drift
+  12        Rammebesparelse foreningstilskud                             -100      -100      -100      -100         Drift
+            Besparelser på driften af Kultur og Fritids ejendom-
+  13                                                                      -78       -78       -78       -78         Drift
+            me
+            Sum Omprioriteringer                                        -1.520    -1.520    -1.520    -1.520
+
+
+
+
+                                                                   24
+25
+Arbejdsmarked og Uddannelse
+Udvalget for Teknik og Miljø har ansvaret for blandet andet kommunens arbejde inden for Park og Vej, Trafik og An-
+læg, Plan og Byg, Miljø og Natur. Det samlede driftsbudget for Udvalget er i 2025 ca. 123 mio. kr. En stor del af Udval-
+gets ansvarsområder finansieres desuden gennem anlægsinvesteringer. Dette blandt andet i form af løbende vedlige-
+hold af fortove og veje, arbejdet med trafiksikkerhed.
+
+
+
+Nyt og fokus
+
+Individuel uddannelsesvejledning
+Byrådet er enige om at reducere i den individuelle uddan-
+nelsesvejledning, hvor der i dag tilbydes individuel vejled-
+ning for alle unge i 8., 9., og 10. klasse, ligesom forældre
+deltager i vejledningen i 8. klasse. Med reduktionen kan der
+fremadrettet ikke tilbydes individuel vejledning til alle unge
+og forældre i 8. 9. og 10 klasse. Samtalerne vil blive priori-
+teret til de tidspunkter, de vurderes at have største effekt,
+og til de unge der vurderes at have det største behov.
+
+
+
+
+Samlede omprioriteringer driftsudvidelser
+                                                                                                            Bevillings-
+  Note      Overskrift                                                2025   2026     2027       2028
+                                                                                                            type
+            Omprioriteringer
+  1         Individuel uddannelsesvejledning                          -346   -346     -346       -346       Drift
+            Omlægning af Fritidsjob i uddannelsesvejledningen
+  2                                                                   -150   -150     -150       -150       Drift
+            til drift
+            Sum Omprioriteringer                                      -496   -496     -496       -496
+            Driftsudvidelser
+            Sum Driftsudvidelser                                      0      0        0          0
+
+
+
+
+                                                                 26
+27
+Teknik og Miljø
+Al indsats og alle ydelser i forhold til kommunens borgere, der er sygemeldte, er uden arbejde eller er i job på særlige
+vilkår, er samlet i fagenheden Arbejdsmarked og Uddannelse under Udvalget for Arbejdsmarked og Uddannelse. End-
+videre er kommunens Ungecenter, relationer til ungdomsuddannelser samt integrationsområdet organiseret i fagenhe-
+den. Jobcenter Mariagerfjord er den fælles indgang. for både jobsøgende og arbejdsgivere i Mariagerfjord Kommune.
+Udvalget har ansvaret for et samlet driftsbudget i 2025 på ca. 795 mio. kr.
+
+
+Nyt og fokus
+
+Under Udvalget for Teknik og Miljø er Byrådet enige om en             ekspresbusnettet rundt om fjorden. Reduktionen fra budget
+række reduktioner i driftsbudgettet. Den største reduktion            2025 og frem kan betyde serviceforringelser, men samtidig
+er driftsbesparelse på kollektiv trafik. Reduktionen skal ses         vil der ske en styrkelse af ekspresbusnettet.
+ind i en større sammenhæng, hvor der pt. er igangsat et
+projekt sammen med Nordjyllands Trafikselskab (NT). Pro-              Derudover lægges der fra 2025 og frem op til en generel
+jektets ambition er, at frigøre midler i den nuværende drifts-        justering/reduktion i vedligehold af græsarealer og rabatter.
+ramme, mens der samtidig arbejdes på at udbygge
+
+
+
+Samlede omprioriteringer og driftsudvidelser
+                                                                                                                      Bevillings-
+  Note                                                                 2025        2026        2027        2028
+                                                                                                                        type
+              Omprioriteringer
+  1           Ekstraordinær vandløbsvedligeholdelse                       -68         -68         -68         -68            Drift
+              Reduktion af bevilling til naturpleje på fredede
+  2                                                                       -30         -30         -30         -30            Drift
+              arealer
+  3           Miljømateriel og særlige miljøopgaver                       -35         -35         -35         -35            Drift
+  4           Driftsbesparelse på kollektiv trafik                      -266         -638        -638        -638            Drift
+  5           Rabatter                                                  -220         -220        -220        -220            Drift
+  6           Idrætsanlæg - boldbaner                                   -220         -220        -220        -220            Drift
+  7           Græsarealer i byer                                        -120         -120        -120        -120            Drift
+  8           Særlige tilskud                                           -110         -110        -110        -110            Drift
+  9           Vintervedligehold                                         -335         -335        -335        -335            Drift
+  10          Reduktion i vandkunst                                       -40         -40         -40         -40            Drift
+              Asfalt vedligehold på landet efter udfasning af
+  11                                                                    -500         -500        -500        -500            Drift
+              funktionskontrakten
+              Sum Omprioriteringer                                    -1.944       -2.316      -2.316      -2.316
+              Driftsudvidelser
+  12          Budgetudfordring på havneområdet                           400         200                                     Drift
+              Sum Driftsudvidelser                                       400         200            0           0
+
+
+
+Anlægsprioriteringer
+Under Udvalget for Teknik og Miljø sker der hvert år ved              til andre projekter/opgaver, som vurderes at være mere
+budgetlægningen en omprioritering inden for den samlede               aktuel at få gennemført. Se de samlede initiativer under
+ramme under Udvalget. Det betyder, at enkelte projekter               investeringsoversigten på side XX.
+nedjusteres, udskydes eller helt droppes for at skabe plads
+
+
+
+
+                                                                 28
+Klima og landdistrikter
+Udvalget for Klima og Landdistrikter opererer inden for Klima og bæredygtighed og Landdistriktsudvikling. Udvalget
+har ansvaret for et driftsbudget i 2025 på 1,6 mio. kr., ligesom der på anlægsbudgettet er afsat midler til understøttelse
+af Udvalgets arbejde.
+
+
+
+
+Nyt og fokus
+
+Under Udvalget for Klima og Landdistrikter er der kun en
+enkelt ændring i 2025 og frem. Budgettet for klima- og
+energiindsatser reduceres med årligt 20.000 kr. fra 2025 og
+frem ud af et samlet budget på ca. 720.000 kr.
+
+
+Samlede omprioriteringer og driftsudvidelser
+                                                                                                           Bevillings-
+  Note      Overskrift                                             2025     2026      2027       2028
+                                                                                                           type
+            Omprioriteringer
+  1         Klima- og Energiindsatser                              -20      -20       -20        -20       Drift
+            Sum Omprioriteringer                                   -20      -20       -20        -20
+            Driftsudvidelser
+            Sum Driftsudvidelser                                   0        0         0          0
+
+
+
+
+                                                              29
+Hovedoversigt
+                                                                         2025
+
+HELE 1.000 KR.                                                UDGIFT            INDTÆGT
+
+A. DRIFTSVIRKSOMHED (inkl. refusion)
+   0. Byudvikling, bolig- og miljøforanstaltninger                82.947            -52.365
+     Heraf refusion                                                                   -224
+   1. Forsyningsvirksomheder m.v.                                      178                0
+   2. Transport og infrastruktur                                  93.064             -2.471
+   3. Undervisning og kultur                                     605.849            -62.817
+     Heraf refusion                                                                  -1.625
+   4. Sundhedsområdet                                            270.389             -1.069
+   5. Sociale opgaver og beskæftigelse                         2.358.704           -395.125
+     Heraf refusion                                                                -232.387
+   6. Fællesudgifter og administration                           385.070            -13.770
+     Heraf refusion
+   Driftsvirksomhed i alt                                      3.796.201           -527.617
+     Heraf refusion                                                                -234.236
+B. ANLÆGSVIRKSOMHED
+   0. Byudvikling, bolig- og miljøforanstaltninger                21.775            -18.000
+   1. Forsyningsvirksomheder mv.
+   2. Transport og infrastruktur                                  28.600             -6.350
+   3. Undervisning og kultur                                      39.477
+   4. Sundhedsområdet                                                  724            -724
+   5. Sociale opgaver og beskæftigelse                            12.300
+   6. Fællesudgifter og administration                             6.890
+   Anlægsvirksomhed i alt                                        109.766            -25.074
+PRIS-/LØN-STIGNINGER 00-06                                              0                 0
+C. RENTER                                                         11.892            -11.249
+D. BALANCEFORSKYDNINGER
+   Forøgelse i likvide aktiver (8.22.01 - 8.22.11)                 2.422                  0
+   Øvrige balanceforskydninger (8.25.12 - 8.52.62)                85.523            -83.839
+   Balanceforskydninger i alt                                     87.945            -83.839
+E. AFDRAG PÅ LÅN OG LEASING-FORPLIGTELSER (8.55.63-8.55.79)       70.444
+SUM (A + B + C + D + E)                                        4.076.247           -647.779
+F. FINANSIERING
+   Forbrug af likvide aktiver (8.22.01 - 8.22.11)                       0                 0
+   Optagne lån (8.55.63 – 8.55.79)                                                  -26.000
+   Tilskud og udligning (7.62.80 – 7.62.86)                       11.221         -1.001.512
+   Refusion af købsmoms (7.65.87)                                 81.259            -80.759
+   Skatter (7.68.90 – 7.68.96)                                     5.305         -2.417.982
+   Finansiering i alt                                             97.785         -3.526.253
+BALANCE                                                        4.174.032         -4.174.032
+
+Negativt fortegn = indtægt/overskud
+                                                     30
+           2026                            2027                              2028
+
+UDGIFT            INDTÆGT       UDGIFT              INDTÆGT       UDGIFT            INDTÆGT
+
+
+
+    82.428            -52.371       82.729              -52.369       82.729            -52.369
+                        -224                              -224                            -224
+         169                0            165                  0            165                0
+    89.817             -2.471       89.689               -2.471       89.689             -2.471
+   608.659            -62.817      608.400              -62.818      605.560            -62.818
+                       -1.625                            -1.626                          -1.626
+   270.781             -1.069      270.766               -1.069      270.766             -1.069
+ 2.409.265           -407.294    2.430.675             -406.252    2.455.024           -406.405
+                     -229.364                          -228.941                        -228.941
+   382.331            -13.771      380.944              -13.398      380.847            -13.398
+
+
+ 3.843.450           -539.793    3.863.368             -538.377    3.884.780           -538.530
+                     -231.213                          -230.791                        -230.791
+
+
+    30.775            -25.000       35.775              -25.000       27.775            -25.000
+
+
+    33.300                          28.400                            43.400
+    17.532                          39.982                            14.982
+
+
+    12.400                           3.300                            12.900
+     5.900                           5.900                             5.900
+    99.907            -25.000      113.357              -25.000      104.957            -25.000
+   126.362            -18.195      255.718              -35.373      390.943            -53.201
+    12.233            -11.221       12.952              -10.586       12.193             -9.883
+
+
+          0                 0             0                   0             0                 0
+    85.523            -83.839       85.523              -83.839       85.523            -83.839
+    85.523            -83.839       85.523              -83.839       85.523            -83.839
+    70.867             -2.500       71.963               -2.500       61.637             -2.500
+ 4.238.342           -680.549    4.402.882             -695.675    4.540.034           -712.953
+
+
+          0           -34.174             0             -46.992             0           -83.981
+                      -12.000                           -12.000                         -12.000
+    11.788         -1.069.028       12.043           -1.130.192       12.386         -1.155.667
+    81.259            -80.759       81.259              -80.759       81.259            -80.759
+     5.392         -2.460.271        5.463           -2.536.029        5.531         -2.593.850
+    98.439         -3.656.232       98.765           -3.805.972       99.176         -3.926.257
+ 4.336.781         -4.336.781    4.501.647           -4.501.647    4.639.210         -4.639.210
+
+
+                                               31
+Bevillingsoversigt - Driftsvirksomhed
+Beløb i hele 1.000 kr.                                               2025
+
+                                                          UDGIFT            INDTÆGT
+
+A. DRIFTSVIRKSOMHED
+
+Økonomiudvalget (bevilling)
+
+Faste ejendomme                                               20.345            -38.054
+
+Diverse udgifter og indtægter                                  8.167             -7.960
+
+Affaldshåndtering                                                  178
+
+Fælles funktioner                                              1.027                  0
+
+Folkeskolen m.m.                                              20.108
+
+Folkebiblioteker                                                   735
+
+Kulturel virksomhed                                            1.297
+
+Folkeoplysning og fritidsaktiviteterm.v.                           198
+
+Sundhedsudgifter m.v.                                          1.437
+
+Dagtilbud til børn og unge                                     8.682
+
+Tilbud til børn og unge med særlige behov                          605
+
+Tilbud til ældre                                              10.389
+
+Tilbud til voksne med særlige behov                            3.071
+
+Revalidering, ressourceforløb og fleksjobordninger                 834
+
+Arbejdsmarkedsforanstaltninger                                 2.541              -985
+
+Støtte til frivilligt socialt arbejde og øvrige so                 -31
+
+Politisk organisation                                         14.091              -156
+
+Administrativ organisation                                   303.663            -13.575
+
+Erhvervsudvikling, turisme og landdistrikter                   7.577                -39
+
+Lønpuljer m.v.                                                54.263
+
+Økonomiudvalget i alt (bevilling)                            459.177            -60.769
+
+
+
+Udvalget for Børn og Familie (bevilling)
+
+Folkeskolen m.m.                                             483.587            -56.678
+
+Sundhedsudgifter m.v.                                              873
+
+Centrale refusionsordninger                                                     -11.237
+
+Dagtilbud til børn og unge                                   252.401            -55.344
+
+Tilbud til børn og unge med særlige behov                    151.885             -1.523
+
+Kontante ydelser                                              23.946            -11.990
+
+Udvalget for Børn og Familie i alt (bevilling)               912.692           -136.772
+
+Negativt fortegn = indtægt/overskud
+
+
+
+
+                                                     32
+           2026                            2027                              2028
+
+UDGIFT            INDTÆGT       UDGIFT              INDTÆGT       UDGIFT            INDTÆGT
+
+
+
+
+    19.918            -38.056       20.226              -38.056       20.226            -38.056
+
+     8.167             -7.961        8.166               -7.960        8.166             -7.960
+
+         169                             165                               165
+
+     1.000                  0            989                  0            989                0
+
+    19.841                          19.712                            19.712
+
+         725                             721                               721
+
+     1.291                           1.288                             1.288
+
+         189                             185                               185
+
+     1.400                           1.381                             1.381
+
+     8.505                           8.420                             8.420
+
+         575                             560                               560
+
+     9.965                           9.762                             9.762
+
+     2.970                           2.916                             2.916
+
+         813                             803                               803
+
+     2.467              -985         2.466                -985         2.473              -985
+
+         -31                             -31                               -31
+
+    13.774              -156        12.640                -156        12.640              -156
+
+   303.440            -13.576      303.187              -13.203      303.090            -13.203
+
+     7.578                -39        7.577                  -39        7.577                -39
+
+    52.063                          52.063                            52.063
+
+   454.819            -60.773      453.196              -60.399      453.106            -60.399
+
+
+
+
+   486.844            -56.677      486.724              -56.679      483.884            -56.679
+
+         874                             874                               874
+
+                      -11.237                           -11.237                         -11.237
+
+   252.315            -54.796      252.282              -54.397      252.391            -54.522
+
+   152.533             -1.522      152.875               -1.522      152.875             -1.522
+
+    19.385             -7.198       19.433               -7.198       19.471             -7.198
+
+   911.951           -131.430      912.188             -131.033      909.495           -131.158
+
+
+
+
+                                               33
+Bevillingsoversigt - Driftsvirksomhed
+Beløb i hele 1.000 kr.                                                 2025
+
+                                                            UDGIFT            INDTÆGT
+A. DRIFTSVIRKSOMHED
+Udvalget for Arbejdsmarked og Uddannelse (bevilling)
+Faste ejendomme                                                      371            -266
+Folkeskolen m.m.                                                 6.161
+Ungdomsuddannelser                                              15.209
+Tilbud til udlændinge                                           15.751            -12.814
+Førtidspensioner og personlige tillæg                          322.474                  0
+Kontante ydelser                                               335.366            -73.345
+Revalidering, ressourceforløb og fleksjobordninger             255.976           -108.496
+Arbejdsmarkedsforanstaltninger                                  41.108             -3.039
+Politisk organisation                                                 95
+Udvalget for Arbejdsmarked i alt (bevilling)                   992.511           -197.960
+
+
+Udvalget for Sundhed og Omsorg (bevilling)
+Faste ejendomme                                                  3.212
+Kollektiv trafik                                                 1.991
+Folkeskolen m.m.                                                 3.429
+Ungdomsuddannelser                                                   433
+Sundhedsudgifter m.v.                                          268.079             -1.069
+Centrale refusionsordninger                                                       -27.984
+Tilbud til ældre                                               493.939            -35.513
+Tilbud til voksne med særlige behov                            386.788            -46.610
+Førtidspensioner og personlige tillæg                           12.577             -5.228
+Kontante ydelser                                                37.210              -889
+Støtte til frivilligt socialt arbejde og øvrige so               1.081
+Administrativ organisation                                       1.471
+Udvalget for Sundhed og Omsorg i alt (bevilling)             1.210.210           -117.293
+
+
+Udvalget for Kultur og Fritid (bevilling)
+Faste ejendomme                                                  1.441              -356
+Fritidsfaciliteter                                               7.273              -581
+Folkebiblioteker                                                21.144              -356
+Kulturel virksomhed                                             24.256             -4.381
+Folkeoplysning og fritidsaktiviteterm.v.                        28.458             -1.402
+Tilbud til ældre                                                 2.111              -128
+Politisk organisation                                                 12
+Erhvervsudvikling, turisme og landdistrikter                     3.898
+Udvalget for Kultur og Fritid i alt (bevilling)                 88.593             -7.204
+
+Negativt fortegn = indtægt/overskud
+                                                       34
+           2026                            2027                              2028
+
+UDGIFT            INDTÆGT       UDGIFT              INDTÆGT       UDGIFT            INDTÆGT
+
+
+
+
+         369            -266             370              -266             370            -266
+     6.005                           6.005                             6.005
+    15.209                          15.212                            15.212
+     4.490             -6.635        4.525               -6.596        4.532             -6.624
+   357.018            -19.263      362.893              -19.262      368.046            -19.262
+   340.658            -72.478      342.655              -72.300      349.622            -72.300
+   268.870           -114.828      271.852             -114.829      271.174           -114.829
+    41.086             -2.197       41.936               -2.018       42.810             -2.018
+          94                              95                                95
+ 1.033.799           -215.667    1.045.543             -215.271    1.057.866           -215.299
+
+
+
+
+     3.213                           3.214                             3.214
+     1.996                           1.997                             1.997
+     3.429                           3.429                             3.429
+         433                             433                               433
+   268.507             -1.069      268.511               -1.069      268.511             -1.069
+                      -28.133                           -28.133                         -28.133
+   504.171            -35.512      511.624              -35.513      521.157            -35.513
+   389.451            -46.264      391.287              -46.016      393.269            -46.016
+    12.678             -5.228       12.715               -5.228       12.751             -5.228
+    38.154              -890        38.510                -890        38.831              -890
+     1.081                           1.081                             1.081
+     1.471                           1.470                             1.470
+ 1.224.584           -117.096    1.234.271             -116.849    1.246.143           -116.849
+
+
+
+
+     1.441              -356         1.441                -356         1.441              -356
+     7.273              -581         7.274                -581         7.274              -581
+    21.133              -356        21.132                -356        21.132              -356
+    24.256             -4.382       24.256               -4.381       24.256             -4.381
+    28.470             -1.402       28.469               -1.402       28.469             -1.402
+     2.111              -128         2.111                -128         2.111              -128
+          12                              12                                12
+     3.899                           3.900                             3.900
+    88.595             -7.205       88.595               -7.204       88.595             -7.204
+
+
+                                               35
+Bevillingsoversigt - Driftsvirksomhed
+Beløb i hele 1.000 kr.                                                   2025
+
+                                                              UDGIFT            INDTÆGT
+A. DRIFTSVIRKSOMHED
+Udvalget for Teknik og Miljø (bevilling)
+Jordforsyning                                                           97            -761
+Faste ejendomme                                                    1.079
+Fritidsområder                                                    10.351                -10
+Fritidsfaciliteter                                                 4.526
+Naturbeskyttelse                                                   3.184                -44
+Vandløbsvæsen                                                      3.597              -222
+Miljøbeskyttelse m.v.                                              1.815
+Diverse udgifter og indtægter                                      4.496             -4.111
+Redningsberedskab                                                 12.202
+Fælles funktioner                                                 11.965
+Kommunale veje                                                    44.563                -59
+Kollektiv trafik                                                  30.796
+Havne                                                              2.722             -2.412
+Udvalget for Teknik og Miljø i alt (bevilling)                   131.393             -7.619
+
+
+Udvalget for Klima og Landdistrikter (bevilling)
+Naturbeskyttelse                                                        66
+Miljøbeskyttelse m.v.                                                  725
+Kulturel virksomhed                                                    834
+Udvalget for Klima og Landdistrikter i alt (bevilling)             1.625                  0
+
+
+DRIFTSVIRKSOMHED I ALT                                         3.796.201           -527.617
+
+
+Negativt fortegn = indtægt/overskud
+
+
+
+
+                                                         36
+           2026                            2027                              2028
+
+UDGIFT            INDTÆGT       UDGIFT              INDTÆGT       UDGIFT            INDTÆGT
+
+
+
+
+          97            -761              97              -761              97            -761
+     1.078                           1.079                             1.079
+    10.363                -12       10.358                  -11       10.358                -11
+     4.526                           4.525                             4.525
+     3.183                -44        3.185                  -44        3.185                -44
+     3.598              -222         3.593                -222         3.593              -222
+     1.712                           1.713                             1.713
+     4.497             -4.112        4.497               -4.112        4.497             -4.112
+    12.202                          12.200                            12.200
+    10.863                          10.860                            10.860
+    44.364                -58       44.160                  -58       44.160                -58
+    28.874                          28.965                            28.965
+     2.720             -2.413        2.718               -2.413        2.718             -2.413
+   128.077             -7.622      127.950               -7.621      127.950             -7.621
+
+
+
+
+          66                              66                                66
+         725                             725                               725
+         834                             834                               834
+     1.625                  0        1.625                    0        1.625                  0
+
+
+ 3.843.450           -539.793    3.863.368             -538.377    3.884.780           -538.530
+
+
+
+
+                                               37
+Bevillingsoversigt - Anlægsvirksomhed
+Beløb i hele 1.000 kr.                                       2025
+                                                  UDGIFT            INDTÆGT
+B. ANLÆGSVIRKSOMHED
+Økonomiudvalget
+Jordforsyning                                         18.000            -18.000
+Diverse udgifter og indtægter                          1.000
+Kommunale veje
+Folkeskolen m.m.                                      10.082
+Kulturel virksomhed                                    6.000
+Dagtilbud til børn og unge                            10.000
+Administrativ organisation                             6.890
+Økonomiudvalget i alt                                 51.972            -18.000
+
+
+Udvalget for Børn og Familie
+Folkeskolen m.m.                                      17.700
+Udvalget for Børn og Familie i alt                    17.700                  0
+
+
+Udvalget for Sundhed og Omsorg
+Sundhedsudgifter m.v.                                      724            -724
+Tilbud til ældre                                       2.300
+Tilbud til voksne med særlige behov
+Udvalget for Sundhed og Omsorg i alt                   3.024              -724
+
+
+Udvalget for Kultur og Fritid
+Folkeskolen m.m.                                       1.400
+Kulturel virksomhed                                    2.555
+Udvalget for Kultur og Fritid i alt                    3.955                  0
+
+
+Udvalget for Teknik og Miljø
+Faste ejendomme                                            325
+Fritidsområder                                             250
+Naturbeskyttelse                                           200
+Fælles funktioner                                          500
+Kommunale veje                                        26.900             -6.350
+Havne                                                  1.200
+Udvalget for Teknik og Miljø i alt                    29.375             -6.350
+
+
+Udvalget for Klima og Landdistrikter
+Miljøbeskyttelse m.v.                                  2.000
+Kulturel virksomhed                                    1.740
+Udvalget for Klima og Landdistrikter i alt             3.740                  0
+ANLÆGSVIRKSOMHED I ALT                               109.766            -25.074
+
+Negativt fortegn = indtægt/overskud
+
+
+                                             38
+           2026                            2027                              2028
+UDGIFT            INDTÆGT       UDGIFT              INDTÆGT       UDGIFT            INDTÆGT
+
+
+
+    25.000            -25.000       25.000              -25.000       25.000           -25.000
+     3.000                           8.000
+                                                                      15.000
+    10.082                          35.082                            10.082
+
+
+    10.000                                                            10.000
+     5.900                           5.900                             5.900
+    53.982            -25.000       73.982              -25.000       65.982           -25.000
+
+
+
+
+     3.300                               750                               750
+     3.300                  0            750                  0            750                0
+
+
+
+
+     2.000                           3.300                             2.500
+         400                                                               400
+     2.400                  0        3.300                    0        2.900                  0
+
+
+
+
+     1.400                           1.400                             1.400
+         950                             950                               950
+     2.350                  0        2.350                    0        2.350                  0
+
+
+
+
+         325                             325                               325
+         250                             250                               250
+         200                             200                               200
+         500                             500                               500
+    31.600                          26.700                            26.700
+     1.200                           1.200                             1.200
+    34.075                  0       29.175                    0       29.175                  0
+
+
+
+
+     2.000                           2.000                             2.000
+     1.800                           1.800                             1.800
+     3.800                  0        3.800                    0        3.800                  0
+    99.907            -25.000      113.357              -25.000      104.957           -25.000
+
+
+
+
+                                               39
+Bevillingsoversigt
+Beløb i hele 1.000 kr.                                                          2025
+
+                                                                      UDGIFT            INDTÆGT
+PRIS- OG LØNSTIGNING M.V.
+
+Pris- og lønstigning hovedkonto 0-6 BO årene vedrørende hovedkonto
+
+Forøgelse af likvide aktiver                                                2.422
+Forbrug af likvide aktiver
+
+
+SAMLET FINANSIERING
+
+
+Renter                                                                     11.892           -11.249
+Finansforskydninger                                                        85.523           -83.839
+Afdrag på lån                                                              70.444
+Låneoptagelse                                                                               -26.000
+
+
+TILSKUD OG UDLIGNING
+Udligning og generelle tilskud                                                             -856.932
+Udligning og tilskud vedrørende udlændinge                                  5.964
+Kommunale bidrag til regionerne                                             5.257
+Særlige tilskud                                                                            -144.580
+Refusion af købsmoms                                                       81.259           -80.759
+
+
+SKATTER
+Kommunal indkomstskat                                                       4.305         -2.188.287
+Selskabsskat                                                                                -67.442
+Anden skat pålignet visse indkomster                                                          -4.046
+Grundskyld                                                                  1.000          -156.608
+Anden skat på fast ejendom                                                                    -1.599
+
+
+SAMLET FINANSIERING I ALT                                                 265.644         -3.621.341
+
+
+
+BALANCE                                                              #REFERENCE!       #REFERENCE!
+
+
+
+Negativt fortegn = indtægt/overskud
+
+
+
+
+                                                        40
+           2026                              2027                                2028
+
+ UDGIFT            INDTÆGT         UDGIFT              INDTÆGT         UDGIFT            INDTÆGT
+
+
+     126.362           -18.195         255.718             -35.373         390.943           -53.201
+
+
+
+                       -34.174                             -46.992                           -83.981
+
+
+
+
+      12.233           -11.221          12.952             -10.586          12.193             -9.883
+      85.523           -83.839          85.523             -83.839          85.523           -83.839
+      70.867             -2.500         71.963               -2.500         61.637             -2.500
+                       -12.000                             -12.000                           -12.000
+
+
+
+
+                      -954.148                           -1.013.555                        -1.037.221
+       6.327                             6.410                               6.576
+       5.461                             5.633                               5.810
+                      -114.880                            -116.637                          -118.446
+      81.259           -80.759          81.259             -80.759          81.259           -80.759
+
+
+
+
+       4.392         -2.229.368          4.463           -2.299.860          4.531         -2.362.458
+                       -76.091                             -79.104                           -71.577
+
+
+       1.000          -153.213           1.000            -155.466           1.000          -158.216
+                         -1.599                              -1.599                            -1.599
+
+
+     267.062         -3.719.618        269.203           -3.855.905        258.530         -3.938.498
+
+
+
+#REFERENCE!       #REFERENCE!     #REFERENCE!         #REFERENCE!     #REFERENCE!       #REFERENCE!
+
+
+
+
+                                                 41
+Investeringsoversigt
+                                           2025         2026         2027         2028
+
+Anlæg i alt                                  84.692       74.907       88.357       79.957
+Byggemodninger                                     0            0            0            0
+Byggemodninger - Grundsalg                  -18.000      -25.000      -25.000      -25.000
+Byggemodninger                               18.000       25.000       25.000       25.000
+Økonomiudvalget                              33.972       28.982       48.982       40.982
+Arden Bytorv                                                            7.000
+Brolandingen i Hadsund                        1.000        3.000        1.000
+Campus Hobro                                                           25.000
+Energiinvesteringer                           4.000        4.000        4.000        4.000
+Infrastruktur - Campus                                                              15.000
+Investeringer i strukturelle tilpasninge     10.000       10.000                    10.000
+IT - KL's vision m.v.                         1.400        1.400        1.400        1.400
+IT-sikkerhed                                      990
+Saltbad - Tilskud Mariager Saltcenter         6.000
+Vedligeholdelse af kommunale bygninger       10.082       10.082       10.082       10.082
+Vedligeholdelse af kommunens rådhuse              500          500          500          500
+Udvalget for Børn og Familie                 17.700        3.300            750          750
+IT-investering / udskiftning af IT                         1.800
+K-Klasser Mariager                            8.200
+Mariager skole - Ankomstareal /multisal       3.000
+Renovering af Astrup Skole                    5.000
+Ventilationsanlæg skoler og dagtilbud         1.500        1.500            750          750
+Udvalget for Sundhed og Omsorg                2.300        2.400        3.300        2.900
+It-udstyr til handicapområdet                                  400                       400
+It-udstyr til plejepersonale                      800                       800
+Plejecentre - modernisering                   1.500        2.000        2.500        2.500
+Udvalget for Kultur og Fritid                 3.955        2.350        2.350        2.350
+Haller m.m.                                   1.200        1.200        1.200        1.200
+Hobro Filmteater                              1.605
+Jernbaneskinner, Veteranjernbanen                 250          250          250          250
+Kulturinstitutioner                               700          700          700          700
+Separatkloakering klubhuse, haller m.v            200          200          200          200
+Udvalget for Teknik og Miljø                 23.025       34.075       29.175       29.175
+Asfaltering veje - Kontrakt med MUNCK         7.450        7.450        7.450        7.450
+Bro Viborg Landevej, Sdr. Onsild st.                                    2.400
+Byinventar                                        200          200          200          200
+Cykelstierne Valsgård, Oue, Vive             -6.350
+Cykelsti nord for Øster Hurup                      0           800
+Cykelsti til Klejtrup                         1.000        1.100
+Cykelstier (Trafikplan)                       1.000        1.000        1.000        1.000
+Diverse mindre anlægsprojekter                    250          300      1.100            500
+Drift og vedligehold af underføringer             750          750          750          750
+
+                                              42
+                                           2025         2026         2027         2028
+
+Fjordstrategi                                 1.000        1.000        1.000        1.000
+Færdiggørelse af Randersvej beplantning           500
+Gadelys (udskiftning/kabellægning)                200          200          200          200
+Gadelyskontrakt                                   500          500          500          500
+Havnerenoveringer, løbende                    1.200        1.200        1.200        1.200
+Krydsudvidelse Terndrupvej/Tistedvej              350
+Landsbypuljer / Byfornyelse - Nedriv.             125          125          125          125
+Modulvogntog                                      100          100          100          100
+Modulvogntog Sdr. Onsild                          300
+Omlægning af fortove                          3.500        3.500        3.500        3.500
+Parkeringshandleplan                              500          500          500          500
+Pulje: Tilgængelighed ved Fjord og kyst           250          250          250          250
+Rabatudvidelse                                    500          500          500          500
+Realisering af helhedsplan Arden bymidte           0       3.000             0
+Rekreative stier i landdistrikterne               200          200          200          200
+Renov. fra Søndervang til Mariagervej                                                3.000
+Renovering af Brogade incl. krydsombygni      1.300        1.700
+Renovering af legepladser                         200          200          200          200
+Renovering af offentlige toiletter                200          200          200          200
+Signalanlæg Randersvej/Mariagervej                         1.500
+Tilgængelighedsprojekter                          200          200          200          200
+Tiltag forbedringer på Hærvejen                   300          300          300          300
+Trafikplan - projekter                            800          800          800          800
+Trafiksikkerhed - planlægning                     500          500          500          500
+Udskiftning/renovering af mindre broer        1.600        1.600        1.600        1.600
+Vejanlæg - vejudskillelse                         200          200          200          200
+Veje i Byområder - Partnering                 4.000        4.000        4.000        4.000
+Vildthegn Lille Vildmose fredningen               200          200          200          200
+Udvalget for Klima og Landdistrikter          3.740        3.800        3.800        3.800
+Anlægsopsp. Klimasikringsformål               2.000        2.000        2.000        2.000
+Pulje - Landdistriktsudviklingsplaner         1.500        1.500        1.500        1.500
+Udvikling af landsbyerne                          240          300          300          300
+
+
+
+
+                                              43
+Takstoversigt
+Borgerservice og administration                                                                                  2024          2025
+Adresseoplysninger                                                                                                    75 kr.      75 kr.
+Bøder for overtrædelse af folkeregisterlovgivningen, minimum                                                        500 kr.      500 kr.
+4 pasfoto                                                                                                           140 kr.      140 kr.
+Rykkergebyr m.v. - debitorkrav                                                                                      250 kr.      250 kr.
+Gebyr huslejenævnssager                                                                                             345 kr.      357 kr.
+Gebyr beboerklagenævnssager                                                                                         161 kr.      167 kr.
+Legitimationskort til unge                                                                                          150 kr.      150 kr.
+Sundhedskort                                                                                                        225 kr.      225 kr.
+Fingeraftryk til pas - fra 12 år og op                                                                                31 kr.      31 kr.
+Pas til -   0 - 11 årige                                                                                            150 kr.      150 kr.
+Pas til - 12 - 17 årige (incl. fingeraftryk)                                                                        181 kr.      181 kr.
+Pas til - 18 - folkepensionsalderen (incl. fingeraftryk)                                                            893 kr.      893 kr.
+Pas til personer i folkepensionsalderen (incl. fingeraftryk)                                                        381 kr.      381 kr.
+Kørekort førstegang erhvervelse inkl. teoriprøve og praktisk prøve                                                1.170 kr.    1.170 kr.
+Udstedelse af duplikatkørekort til bil                                                                              360 kr.      360 kr.
+Fornyelse af kørekort for personer, der er fyldt 70 år                                                              180 kr.      180 kr.
+Kontrollerende køreprøve                                                                                          1.170 kr.    1.170 kr.
+Internationalt kørekort                                                                                               30 kr.      30 kr.
+Fornyelse af erhvervskørekort ved tidsbegrænsning                                                                   160 kr.      160 kr.
+Udstedelse af duplikatkørekort til knallert                                                                         180 kr.      180 kr.
+Praktisk prøve til stor MC samt bil med påhængskøretøj                                                              360 kr.      360 kr.
+Ombytning af udenlandsk kørekort                                                                                    360 kr.      360 kr.
+Fornyelse af kørekort til bus / lastbil for ansøgere som ikke er fyldt 75                                           230 kr.      230 kr.
+
+
+
+
+*) Prisen for pas fordobles, hvis du ikke kan fremvise et gyldigt eller udløbet pas eller fremvise passet i ødelagt stand.
+
+
+
+
+Dagtilbud                                                                                                         2024         2025
+Dagpleje - fuldtidsplads pr. rate (11 rater pr. år)                                                               3.079 kr.    3.234 kr.
+Dagpleje - deltidsplads 30 timer om uge pr. rate (11 rater pr. år)                                                1.987 kr.    2.089 kr.
+Børnehave - fuldtidsplads pr. rate (11 rater pr. år)                                                              2.264 kr.    2.375 kr.
+Børnehave - deltidsplads 30 timer om ugen pr. rate (11 rater pr. år)                                              1.599 kr.    1.664 kr.
+Småbørnsgruppe fuldtidsplads i integrerede institutioner pr. rate (11 rater pr. år)                               4.271 kr.    4.443 kr.
+Småbørnsgruppe deltidsplads i integrerede institutioner pr. rate (11 rater pr. år)                                2.721 kr.    2.822 kr.
+SFO Fuldtidsplads                                                                                                 1.940 kr.    2.180 kr.
+SFO Morgenmodul                                                                                                     782 kr.     878 kr.
+
+
+
+Der opkræves 11 rater med juli måned som betalingsfri måned..
+
+
+
+
+                                                                        44
+Kultur og fritid                                                            2024         2025
+Bibliotek - overskridelse af lånetid                                        10 kr.       10 kr.
+Bibliotek - overskridelse af lånetid med mere end 10 dage                   20 kr.       20 kr.
+Bibliotek - overskridelse af lånetid med mere end 31 dage.                 100 kr.      100 kr.
+Bibliotek - regning på ikke-indleveret materiale sendes efter 45 dage
+Bibliotek - print A4 sort/hvid eller farve                                   2 kr.        2 kr.
+Bibliotek - print A3 sort/hvid eller farve                                   4 kr.        4 kr.
+Færdselsrelateret førstehjælp                                              400 kr.      400 kr.
+Ungdomsklub ved ungdomsskolen pr. sæson                                    Gratis       Gratis
+Knallertkørekort incl. Færdselsrelateret Førstehjælp                       850 kr.    1.010 kr.
+Juniorklub i Arden pr. måned                                               150 kr.      150 kr.
+Juniorklub i Als pr. sæson                                                 200 kr.      200 kr.
+Juniorklub i Hadsund pr. sæson                                             400 kr.      400 kr.
+Svømmehaller                                                            2024/2025    2025/2026
+Gebyr for lån af Hadsund Svømmehal pr. time - hele svømmehallen            250 kr.      255 kr.
+Gebyr for lån af kommunale samlingssale og gymnastiksale pr. time           25 kr.       25 kr.
+Kulturskolen pr. sæson                                                  2024/2025    2025/2026
+Musik
+Forældre/barn - Musikalsk Legestue                                       1.299 kr.    1.325 kr.
+Forskole - Musikalsk Grundskole                                          1.299 kr.    1.325 kr.
+Instrumentalundervisning
+Soloundervisning                                                         3.789 kr.    3.865 kr.
+Hold 2 elever                                                            2.403 kr.    2.450 kr.
+Instrumentalundervisning >25 år
+Voksenundervisning solo                                                  4.590 kr.    4.680 kr.
+Voksenundervisning hold 2 elever                                         2.793 kr.    2.850 kr.
+Voksenforløb 10 gange                                                    1.658 kr.    1.690 kr.
+Sammenspil og teoretiske fag
+Sammenspil                                                               1.397 kr.    1.425 kr.
+Kor, orkestre m.v.
+Hørelære, teori                                                          1.515 kr.    1.545 kr.
+Voksenkor og orkester                                                    1.959 kr.    2.000 kr.
+Talentklassen, musik
+Talentklasseforløb                                                       5.693 kr.    5.805 kr.
+M. Talentklasser                                                         4.600 kr.    4.690 kr.
+Instrumentleje
+Leje af instrument                                                         747 kr.      760 kr.
+Billedkunst
+Billedkunst 1 (1.-4. klasse)                                             1.332 kr.    1.360 kr.
+Billedkunst 2 (5.-10. klasse)                                            1.786 kr.    1.820 kr.
+
+
+                                                             45
+Takstoversigt
+ Kultur og fritid                                                                                                    2024                 2025
+ Scenekunst
+ Drama 3.-5. klasse                                                                                                   1.775 kr.            1.810 kr.
+ Drama 6.-10. klasse                                                                                                  1.932 kr.            1.970 kr.
+ Korskolen
+ Spirekor                                                                                                             1.591 kr.            1.625 kr.
+ Juniorkor                                                                                                            1.591 kr.            1.625 kr.
+ Minispirekor                                                                                                         1.039 kr.            1.060 kr.
+ Junior Drengekor                                                                                                     1.591 kr.            1.625 kr.
+ Pigekoret                                                                                                                     -           3.865 kr.
+ Dance
+ Børn 7-14 år                                                                                                         1.218 kr.            1.245 kr.
+ Unge 15-18 år                                                                                                        1.218 kr.            1.245 kr.
+
+
+
+
+ Sundhed og omsorg                                                                                                   2024                 2025
+ Normalkost til hjemmeboende pensionister - hovedret pr. portion                                                         61 kr.                63 kr.
+ Diætkost til hjemmeboende pensionister - hovedret pr. portion                                                           61 kr.                63 kr.
+ Døgnkost for beboere i plejebolig - pris pr. måned                                                                  4.113 kr.             4.261 kr.
+ Aflastningsophold i plejebolig - pris pr. døgn                                                                         191 kr.              199 kr.
+ Rengøringspakke - pris pr. måned                                                                                       103 kr.              107 kr.
+ Pakke med toiletartikler - pris pr. måned                                                                              103 kr.              107 kr.
+ Vaskeservice - tøjvask pris pr. stk.                                                                                    27 kr.                28 kr.
+ Vaskeservice - tøjtørring pris pr. stk.                                                                                 24 kr.                25 kr.
+ Kørsel til dagcenter 1-3 dage/uge - pris pr. måned*                                                                    322 kr.              334 kr.
+ Kørsel til dagcenter 4-5 dage/uge - pris pr. måned*                                                                    418 kr.              434 kr.
+ Omsorgstandpleje pr. måned**                                                                                                48                    50
+ Specialtandpleje pr. måned**                                                                                              183                   190
+* Taksterne for kørsel til dagcenter er fastlagt til hhv. 364 kr. og 437 kr. pr. måned. Imidlertid er der ikke transport til dagcenter i juli, så det er
+fastlagt at beløbene trækkes med 11/12 i pension hver måned. Det er denne reducerede takst der fremgår ovenfor."
+** **: Taksterne for omsorgs- og specialtandpleje er fastsat i BEK nr. 179 af 28.02.12 om tandpleje og reguleres årligt med satsreguleringspro-
+centen. I 2024 er årstaksterne hhv. max. 590 kr. og 2.200 kr. De fremskrives med satsreguleringsprocenten på 3,2 % og nedskrives til nær-
+meste hele kr. pr. måned."
+
+
+
+
+                                                                          46
+ Teknik og miljø - (ikke momsregistret virksomhed)
+ Byggesagsbehandling
+ Timeprisen for behandling af byggesag                                                                575 kr.             776 kr.
+ Gebyrer vedrørende taxalovgivningen
+ Påtegning af toldattest                                                                              192 kr.             192 kr.
+
+ Trafikbog                                                                                           33 kr. + ind-       33 kr. + ind-
+
+ Taxi-plade                                                                                          46 kr. + ind-       46 kr. + ind-
+
+ Miljø
+ Miljøtilsyn opkræves efter medgået tid (timepris)                                                    636,00 kr.          655,00 kr.
+ Landbrugstilsyn opkræves efter medgået tid (timepris)                                                468,96 kr.          487,25 kr.
+ Miljøvagt
+ Startgebyr ved rekvirering af den døgnbemandede miljøvagt                                            1.767 kr.           1.788 kr.
+ Timepris ved miljøvagtens medvirken ved miljøuheld                                                   1.178 kr.           1.192 kr.
+ Jordflytning og anvisning af erhvervsaffald
+ Timetakst for jordflytning og anvisning af erhvervsaffald                                            636,00 kr.          655,00 kr.
+ Administrationstillæg, jordflytning                                                                  200,00 kr.          225,00 kr.
+ Administrationstillæg, anvisning af erhvervsaffald                                                   44 kr.              50 kr.
+ Udlån af kommunale arealer til privat-kommercielle arrangementer
+ Leje - dækker administration, billeder samt åbning/lukning af vand og el                             1.500 kr.           1.500 kr.
+ Depositum - tilbagebetales ved afrejse, hvis arealet er efterladt uden skader                        5.000 kr.           5.000 kr.
+ Rottebekæmpelse opkræves med 0,09 promille af ejendomsværdi.                                         0,11 o/oo           0,09 o/oo
+ Indbetaling til parkeringsfond for hver nødvendig parkeringsplads
+ Parkeringsbås etableret på terræn, jfr nyt regulativ for parkeringsfond
+ Hobro midtby                                                                                         60.000 kr.          62.689 kr.
+ Hadsund midtby                                                                                       54.000 kr.          56.420 kr.
+ Øvrig del af kommunen                                                                                52.500 kr.          54.853 kr.
+ Parkeringsbås etableret i konstruktion, jfr nyt regulativ for parkeringsfond
+ Hobro midtby                                                                                         165.000 kr.         172.396 kr.
+ Hadsund Midtby                                                                                       159.000 kr.         166.127 kr.
+ Tømningsordninger
+
+ Tømning af bundfældningstank m.v. pr. år, helårsbeboelse                                                      741 kr.             -
+
+ Tømning af bundfældningstank m.v. pr. år, sommerhus                                                           412 kr.             -
+
+ Tillæg til tømningstakst for tømning med lille bil/traktor                                                    357 kr.             -
+
+ Forgæves tømning af bundfældningstank m.v.                                                                    366 kr.             -
+
+ Tillæg for ikke planlagt tømning med lille bil/traktor                                                     1.044 kr.              -
+              3                         3
+ Afgift pr. m for tanke større en 3 m                                                                          101 kr.             -
+* Taksterne reguleres iht. Mariagerfjord Kommunes Parkeringsfond hvert år 1. januar på basis af de seneste offentliggjorte gennemsnitlige
+grundværdier i områder og vha. omkostningsindekset for vejanlæg året før. Opkrævning til kommunens p-fond sker i hvert tilfælde, hvor der
+ved disponering af et byggeri ikke kan anlægges et tilstrækkeligt parkeringsareal med fornødne antal p-pladser på egen grund og hvor der er
+meddelt dispensation. Beregningen af et tilstrækkeligt parkeringsareal sker på grundlag af bestemmelser givet enten i bygningsreglementer
+
+                                                                    47
+Takstoversigt
+  Teknik og miljø                                                                           2024        2025
+ Havne
+ Stinesminde Havn, havneplads                                                               1.956 kr.   2.028 kr.
+ Mariager Lystbådehavn, pladsleje plads 01-20                                                 895 kr.     928 kr.
+ Mariager Lystbådehavn, pladsleje plads 21-24                                               1.407 kr.   1.459 kr.
+ Mariager Lystbådehavn, pladsleje plads 26-36                                               1.919 kr.   1.990 kr.
+ Mariager Lystbådehavn, pladsleje plads 37-62                                               2.429 kr.   2.519 kr.
+ Redskabsskur Hadsund Havn, lille skur                                                        385 kr.     399 kr.
+ Redskabsskur Hadsund Havn, stort skur                                                      1.279 kr.   1.326 kr.
+ Skilte
+ Privat servicevejvisning på offentlige veje                                                        *           *
+ Sagsbehandling
+* Udgifter til adm., af  ansøgning
+                    skilte,          (uanset
+                            opsætning og      om der
+                                         udskiftning    gives af
+                                                     afholdes tilladelse
+                                                                  ansøger.eller ej)         1.000 kr.   1.037 kr.
+ Vejsyn
+ Timetakst - Administrative omkostninger ifm. vejsyn ved istandsætte en privat fællesvej.     500 kr.     519 kr.
+
+ * Udgifter til administration, skilte, opsætning og udskiftning afholdes af ansøger
+
+
+
+
+ Klima og landdistrikter                                                                    2024        2025
+ Modtagelse af jord på kommunens jorddepoter
+ 2 aksler (12 tons)                                                                          159 kr.      240 kr.
+ 3 aksler (15 ton)                                                                           237 kr.      300 kr.
+ 4 aksler (18 tons)                                                                          338 kr.      360 kr.
+ 5 aksler (28 tons)                                                                          536 kr.      560 kr.
+ 6 aksler (32 tons)                                                                          614 kr.      640 kr.
+ 7 aksler (38 tons)                                                                          675 kr.      760 kr.
+
+
+
+
+                                                                         48
+49
+50
+

@@ -1,0 +1,154 @@
+# kilde: filer/Vordingborg/regneark_1_budgetaftale-2027-2030-alle-tabeller.pdf | metode: pdftotext
+
+2027-prisniveau, priser fra juni 2026      I alt           I alt           I alt           I alt
+                                           2027            2028            2029            2030
+
+
+
+SKATTEFINANSIEREDE OMRÅDER
+
+Indtægter
+05 Skatter                                 -2.950.833      -2.896.108      -3.002.503      -3.086.508
+05 Udligning og tilskud                    -1.005.460      -1.079.690      -1.116.595      -1.138.669
+05 Refusion af købsmoms                           381             381             381             381
+Indtægter, i alt                           -3.955.912      -3.975.417      -4.118.717      -4.224.796
+
+Drift og refusion
+05 Økonomiudvalg                              204.257         215.908         230.352         231.446
+10 Beskæftigelse, Unge og Bygninger         1.412.535       1.409.811       1.409.285       1.409.040
+25 Social, Ældre og Sundhed                 1.021.593       1.038.567       1.064.990       1.082.491
+31 Erhverv, Vækst, Energi og Bosætning         17.065          17.017          16.343          16.343
+35 Natur, Teknik og Miljø                     167.526         165.581         157.369         162.383
+40 Børn, Familie og Undervisning              819.801         811.650         800.517         794.082
+45 Kultur, Idræt og Foreninger                 90.332          88.507          88.611          88.094
+50 Turisme og Bymidter                         24.409          24.426          24.326          24.326
+     Pris- og lønstigninger vedr. HK 0-6                       91.076         201.716         315.314
+Drift og refusion, i alt                   3.757.516       3.862.542       3.993.508       4.123.518
+
+Renter                                             6.953           7.336           7.524           7.577
+
+Driftsresultat                               -191.442        -105.538        -117.685         -93.702
+
+Anlægsudgifter
+05 Økonomiudvalg                                   0               0               0                0
+10 Beskæftigelse, Unge og Bygninger          132.422         128.097         116.254           98.004
+Anlægsudgifter, i alt                        132.422         128.097         116.254           98.004
+    Anlægsindtægter                           -9.481            -528          -4.132                0
+Anlæg i alt                                  122.940         127.570         112.122           98.004
+
+Resultat af skattefinansierede områder        -68.502          22.031          -5.562              4.302
+
+BRUGERFINANSIEREDE OMRÅDER
+35 Udv. for Klima og Miljø, drift                  -424        -1.059          -1.059          -1.059
+Brugerfinansieret drift, i alt                     -424        -1.059          -1.059          -1.059
+35 Udv. for Klima og Miljø, anlæg                     0             0               0               0
+Brugerfinansieret anlæg, i alt                        0             0               0               0
+
+Resultat af brugerfinansierede områder             -424        -1.059          -1.059          -1.059
+
+05 Finansforskydninger                           -110          -1.213          -1.213          -1.213
+05 Afdrag på lån                               53.562          57.766          58.061          58.061
+05 Låneoptagelse                              -21.250         -22.747         -12.747         -12.747
+
+Ændring af likvid beholdning                  -36.724          54.779          37.480          47.345
+                                                                              mio.kr.
+Udvidelsesforslag                                         Udvalg    2027     2028        2029    2030
+Udvidelse af direktion                                    ØU        0,26     0,90        0,90    0,90
+Fuldtids veterankoordinator                               SÆS       0,50     0,50        0,00    0,00
+Pårørende Vejleder                                        SÆS       0,70     0,70        0,70    0,70
+Kørende sagsbehandler                                     BUB       0,75     0,75        0,75    0,75
+Hjemmepasning                                             BFU       2,00     2,00        0,00    0,00
+Styrkelse af det børnesociale område                      BFU       2,00     1,40        0,00    0,00
+Aktivitetsmedarbejder tilbage på aktivitetscentrene       SÆS       2,50     2,50        2,50    2,50
+Arbejdsmiljøpulje                                         ØU        0,50     0,50        0,50    0,50
+Opnormering af ledelse af daginstitutioner                BFU       3,20     3,20        3,20    3,20
+Blå Flag                                                  TB        0,15     0,15        0,15    0,15
+International Job- & Bosætningsrådgiver                   EVEB      1,00     1,00        1,00    1,00
+Opnormering i Landbrug / miljø afd.                       NTM       1,00     1,00        1,00    1,00
+Opnormering af personale på de grønne områder             BUB       1,30     1,30        1,30    1,30
+Fundraiser BV                                             EVEB      0,75     0,75        0,75    0,75
+Projekt strandsikker                                      BFU       0,30     0,30        0,00    0,00
+TUBA                                                      BUB       0,10     0,10        0,00    0,00
+Morgenmad på skolerne                                     BFU       0,80     0,80        0,80    0,80
+Museum Sydøstdanmark - skoletjeneste                      KIF       0,65     0,00        0,00    0,00
+Drift af toilet på Klintholm                              TB        0,10     0,10        0,00    0,00
+Udsatteråd                                                SÆS       0,05     0,05        0,05    0,05
+Forøgelse af aktivitetspuljen                             KIF       2,00     1,00        1,00    1,00
+Undersøgelse af muligheden for international skolelinje   BFU       0,10     0,00        0,00    0,00
+Skoler                                                    BFU       3,00     3,00        3,00    3,00
+PPR                                                       BFU       0,00     1,40        1,40    1,40
+Ældreområdet                                              SÆS       2,00     2,00        2,00    2,00
+Udvidelsesforslag i alt                                            25,71    25,40       21,00   21,00
+                                                                              mio.kr.
+Reduktioner                                               Udvalg     2027   2028        2029    2030
+Reduktion af budgetreserven                               ØU       -15,00
+Besparelse i alt                                                   -15,00    0,00        0,00    0,00
+
+Drift I alt                                                        10,71    25,40       21,00   21,00
+Investeringsoversigt - Budget 2027-2030 (2027 priser)
+Hele kr.                                                        Budgetår
+Udvalg og Anlægsprojekter                          2027          2028          2029         2030
+Udvalget for Beskæftigelse, Unge og
+Bygninger                                    132.421.569   128.097.378   116.254.000   98.004.000
+Følgearbejder(pulje)                           5.595.707     5.600.000     5.600.000    5.600.000
+Broer og bygværker                             3.800.000     3.800.000     3.800.000    3.800.000
+Forebyggende bygningsvedligehold (pulje)      15.054.000    15.054.000    15.054.000   15.054.000
+Genopretning af kommunale ejendomme           15.000.000    30.000.000    30.000.000   35.000.000
+Renovering af cykelstier                       1.000.000     1.000.000     1.000.000    1.000.000
+Renovering af legepladser                      1.000.000     1.000.000     1.000.000    1.000.000
+Renovering af belægninger                       500.000      1.500.000     1.500.000    1.500.000
+Trafiksikkerhedspulje                          2.500.000     2.000.000     2.000.000    2.000.000
+Vejafvanding Udby                                     0       500.000             0            0
+Vejtræer og alleer                                    0       500.000       500.000      500.000
+Ladestandere og infrastruktur                   175.000       250.000       250.000      250.000
+Affaldssortering i kommunale bygninger         2.705.670     2.705.670            0            0
+Plejeboliger                                          0             0             0            0
+Opretning af fortorve                          1.000.000     1.000.000     1.000.000    1.000.000
+Kunstgræsbane Ørslev                                  0             0      2.500.000           0
+Faglokaler skoler                              5.000.000     4.000.000     3.000.000    2.000.000
+Daginstitutionskapacitet, Nyråd                 750.000             0             0            0
+Opgradering af køkkener I daginstitutioner            0      1.000.000     1.000.000    1.000.000
+Implementering af ny legepladsstrategi         2.500.000     2.500.000     2.500.000           0
+Rensning af sandkasser                                0       350.000             0      350.000
+Blomster i vejkanterne                                0             0             0            0
+Hjertebjerg Skole                             23.000.000     3.000.000            0            0
+Vordingborg bymidte                            3.500.000     3.500.000     3.500.000    3.500.000
+Udskiftning af brønde i Lendemarke             1.170.000      150.000                          0
+Kystsikring/klimatilpasningspulje                     0             0      4.000.000    8.000.000
+Miljømålslov (pulje)                            400.000       400.000       400.000      600.000
+Camønoen                                        500.000       500.000       500.000      500.000
+Vild med Vilje partner                           50.000        50.000        50.000       50.000
+Skovrejsning                                    100.000       327.645             0            0
+Pleje på ruinterrænet                          1.000.000      400.000       400.000      400.000
+Bogø Grundvandspark                             200.000       200.000       200.000            0
+Genslyngning Tubæk Å                                  0      2.131.663     2.000.000           0
+Strandrensning                                  400.000       400.000       400.000      400.000
+Havnerenovering (pulje)                        5.000.000     5.000.000     5.000.000    5.000.000
+Bogø Havn Investeringsplan                            0      4.264.000            0            0
+Stege Havn udviklingsplan                             0      5.000.000     8.400.000           0
+Klintholm Havn genopretning                   15.000.000    15.000.000     9.000.000           0
+Byfornyelse (pulje)                            1.000.000     1.000.000     1.500.000    1.500.000
+Medfinansiering af byfornyelsesramme            340.000       340.000       500.000      500.000
+Kalvehave Havn Investeringsplan                1.250.000     2.374.400            0            0
+Klintholm Læringshavn                          9.481.192            0             0            0
+Vordingborg Nordhavn udviklingsplan                       1.000.000    2.000.000   4.000.000     4.000.000
+Vo. Hallen                                                2.000.000           0            0             0
+Fortov Bankevejen                                                 0    2.200.000   2.200.000             0
+P-muligheder Østmøn, cykelsti, trafiksikkerhed              500.000     500.000            0             0
+Præstø bymidte, Svend Gønges torv                           200.000           0            0             0
+Parkering Vordingborg bymidte                             1.400.000           0            0             0
+Tubæk å bymidte, oprensning og pleje                      1.400.000    1.400.000           0             0
+Genetablering af grønne midtbysarealer                    1.700.000    1.700.000           0             0
+Skaterbane i Vordingborg / Fanefjord                      1.000.000           0            0             0
+Vordingborg Havnebad ( skitsetegning / projektering )       250.000           0            0             0
+Toilet Stege                                                500.000           0            0             0
+Naturgenopretning                                         2.000.000    2.000.000   2.000.000     2.000.000
+Køkken på plejehjem                                       1.500.000    1.500.000   1.500.000     1.500.000
+I alt anlægsramme (bruttoanlægsudg.)                    132.421.569 128.097.378 116.254.000     98.004.000
+
+Indtægter Brutto                                          -9.481.192    -527.645   -4.131.663            0
+Skovrejsning                                                      0     -527.645           0             0
+Genslyngning af Tubæk Å                                           0           0    -4.131.663            0
+Klintholm Læringshavn                                     -9.481.192          0            0             0
+I alt                                                   122.940.377 127.569.733 112.122.337     98.004.000
+

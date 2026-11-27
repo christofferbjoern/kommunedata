@@ -1,0 +1,112 @@
+# kilde: filer/Halsnæs/regneark_2_bevillingsoversigt-2027-2030.pdf | metode: pdftotext
+
+                                                     Bevillingsoversigt
+
+
+
+
+Beløb i 2027 pris- og lønniveau.
+                                              Budgetforslag 2027       Budgetforslag 2028       Budgetforslag 2029       Budgetforslag 2030
+Minusbeløb angiver indtægter
+
+
+FINANSIERING M.V. - OPGJORT I ÅRETS PRISER
+Finansiering m.v. - i alt                             -2.777.105.857           -2.846.982.165           -2.850.001.828           -2.895.207.603
+      Skatter tilskud og udligning                    -2.774.386.554           -2.810.266.982           -2.857.817.325           -2.934.285.063
+      Renter                                              1.494.450                 -414.021                 -362.926                -1.347.720
+      Optagelse af lån                                  -43.651.997              -73.351.875              -44.312.669                -2.629.679
+      Afdrag på lån og leasingforpligtelser              69.880.449              174.386.293               73.059.360               63.533.339
+      Balanceforskydninger                              -30.442.205             -137.335.580              -20.568.268              -20.478.480
+
+Forbrug/forøgelse af likvide aktiver
++ = forbrug/ - = forøgelse                                -7.327.139              75.371.053               27.928.131               51.403.634
+
+
+DRIFT OG REFUSION - OPGJORT I 2027-PRISER             2.687.052.415            2.691.153.563            2.704.196.513            2.721.634.549
+Økonomi- og Erhvervsudvalget                            382.802.619              384.878.031              393.844.746              394.689.145
+Koncernudgifter og administration                       347.026.629              342.342.159              343.856.086              340.791.195
+      Politisk organisation og valg                      13.221.108               13.263.372               16.013.372               14.988.372
+      Rådhuspersonale                                   251.137.267              248.792.678              248.095.712              246.252.320
+      Tværgående IT                                      34.320.655               34.026.207               33.735.864               33.735.864
+      Forsikringer                                       13.251.567               13.277.582               13.277.582               13.277.582
+      Øvrige koncernudgifter og indtægter                35.096.032               32.982.320               32.733.556               32.537.057
+Budgetpuljer                                             35.375.713               42.663.010               50.094.718               54.241.666
+      Lønpuljer                                          14.845.460               14.845.535               14.846.003               14.846.003
+      Tværgående Budgetpuljer                             4.085.016                7.328.371               14.780.447               18.917.183
+      Generelle reserver                                 16.445.237               20.489.104               20.468.268               20.478.480
+Beredskabet                                               8.988.458                9.070.717                9.121.571                9.133.913
+Ældreboliger                                            -13.232.311              -13.810.343              -13.840.117              -13.840.117
+Erhverv og turisme                                        4.644.130                4.612.488                4.612.488                4.362.488
+Udvalget for Klima, Natur og Demokrati                    9.854.225                7.993.239                7.946.162                6.635.197
+Natur og Miljø                                            6.061.182                5.172.372                5.096.833                5.046.833
+Klima og Kystsikring                                      2.724.043                2.751.867                2.780.329                1.519.364
+Demokrati                                                 1.069.000                   69.000                   69.000                   69.000
+Udvalget for Social og Beskæftigelse                    910.128.432              907.585.306              917.687.211              930.906.249
+Beskæftigelse                                           648.655.351              653.690.962              663.792.868              677.011.906
+      Ydelser                                           635.363.630              640.175.360              650.233.332              663.622.370
+      Beskæftigelsesindsats                              13.291.721               13.515.602               13.559.536               13.389.536
+Voksne med særlige behov                                261.473.081              253.894.344              253.894.343              253.894.343
+      Botilbud til voksne                               133.185.894              125.033.331              125.033.331              125.033.331
+      Borgerrettet personlig assistance                  16.312.406               15.812.406               15.812.406               15.812.406
+      Aktivitets- og samværstilbud                       40.904.792               40.749.753               40.749.753               40.749.753
+      Undervisningstilbud til voksne                      8.189.973                8.189.973                8.189.973                8.189.973
+      Øvrige dag- og døgntilbud                          53.677.657               54.898.482               54.898.481               54.898.481
+      Efterværn 18-22 år                                  9.202.359                9.210.399                9.210.399                9.210.399
+Udvalget for Sundhed og Ældre                           460.943.158              465.630.670              460.584.718              466.345.782
+Ældre                                                   394.379.742              398.715.322              393.755.637              399.516.701
+      Plejecentre                                       169.091.886              167.948.227              168.031.211              168.031.211
+      Hjemme- og sygepleje                              165.889.682              165.576.919              165.576.919              165.576.919
+      Hjælpemidler                                       32.404.214               31.404.214               30.904.213               30.904.213
+      Aktivitetstilbud til ældre                          2.335.460                2.365.551                2.365.551                2.365.551
+      Øvrige udgifter vedr. ældre                        24.658.500               31.420.411               26.877.743               32.638.807
+Sundhed                                                  66.563.416               66.915.348               66.829.081               66.829.081
+      Medfinansiering af sundhedsudgifter                10.174.381               10.174.381               10.174.381               10.174.381
+      Sundhedsfremme og forebyggelse                      3.260.496                3.368.582                3.282.314                3.282.314
+      Genoptræning                                       37.785.027               37.977.166               37.977.167               37.977.167
+      Tandpleje                                          15.343.512               15.395.219               15.395.219               15.395.219
+Udvalget for Kultur og Idræt                             41.957.087               41.388.652               41.388.653               41.388.653
+Kultur og Idræt                                          41.957.087               41.388.652               41.388.653               41.388.653
+      Kultur og Foreningsliv                             18.780.743               18.104.526               18.104.527               18.104.527
+      Musik- og Billedskole                               5.375.045                5.413.633                5.413.633                5.413.633
+      Biblioteker                                        12.548.943               12.589.736               12.589.736               12.589.736
+      Idrætshaller                                        5.252.356                5.280.757                5.280.757                5.280.757
+Udvalget for Plan og Byg                                113.751.603              113.093.713              112.369.516              112.369.516
+Kommunale Bygninger                                      64.338.135               65.035.204               64.412.206               64.412.206
+      Bygningsvedligeholdelse                            18.883.860               17.343.059               16.720.059               16.720.059
+
+
+
+
+                                                         Side 1 af 2                                                               05-10-2026
+                                                            Bevillingsoversigt
+
+
+
+
+Beløb i 2027 pris- og lønniveau.
+                                                     Budgetforslag 2027       Budgetforslag 2028      Budgetforslag 2029      Budgetforslag 2030
+Minusbeløb angiver indtægter
+
+      Bygningssdrift                                            45.454.275               47.692.145              47.692.147              47.692.147
+Kommunale Arealer                                               31.452.059               30.044.161              29.942.962              29.942.962
+      Drift af arealer                                          26.741.474               25.387.699              25.286.500              25.286.500
+      Vintervedligehold og Stormberedskab                        4.710.585                4.656.462               4.656.462               4.656.462
+Veje, Stier og Kollektiv Trafik                                 17.961.409               18.014.348              18.014.348              18.014.348
+      Veje og Stier                                              6.457.609                6.660.548               6.660.548               6.660.548
+      Kollektiv Trafik                                          11.503.800               11.353.800              11.353.800              11.353.800
+Udvalget for Skole, Uddann. og Dagtilbud                       767.615.291              770.583.952             770.375.507             769.300.007
+Daginstitutioner og dagpleje                                   147.966.285              148.576.675             148.600.056             148.600.056
+Skole og uddannelse                                            401.950.199              403.860.172             403.628.346             402.552.846
+      Kommunale skoler og SFO                                  349.092.868              350.950.881             350.719.055             349.828.555
+      Ungdomsskoler og klubber                                  11.776.895               11.828.855              11.828.855              11.643.855
+      Andre skoler og uddannelser                               41.080.436               41.080.436              41.080.436              41.080.436
+Børn og unge med særlige behov                                 217.698.807              218.147.105             218.147.105             218.147.105
+      Forebyggende foranstaltninger                            102.403.387              102.674.303             102.674.303             102.674.303
+      Anbringelser                                             104.161.709              104.223.577             104.223.577             104.223.577
+      Merudgiftsydelser og tabt arbejdsfortjeneste              11.133.711               11.249.225              11.249.225              11.249.225
+
+
+
+
+                                                                Side 2 af 2                                                             05-10-2026
+

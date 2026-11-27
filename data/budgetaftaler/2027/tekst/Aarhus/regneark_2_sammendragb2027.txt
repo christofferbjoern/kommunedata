@@ -1,0 +1,595 @@
+# kilde: filer/Aarhus/regneark_2_sammendragb2027.pdf | metode: pdftotext
+
+                                                                     SAMMENDRAG
+                                                                 BUDGET 2027-2030
+
+
+
+
+Sammendraget er opstillet i samme orden som hovedoversigten, men med større detaljerings
+af de enkelte hovedposter. For driftsvirksomhed og anlægsvirksomhed er der under de enkelte
+magistratsafdelinger en opdeling af sektorer. Sammendraget indeholder bruttoudgifter og –
+indtægter.
+
+
+Sammendraget er opstillet i følgende priser:
+
+
+1. Hovedkontiene 0-6 er angivet i 2027-priser (faste priser)
+2. Umiddelbart efter hovedkontiene 0-6 er der for hvert af budgetoverslagsårene under en
+  særlig post anført skønnede pris- og lønstigninger for disse konti.
+3. Hovedkontiene 7 og 8 er angivet i løbende priser (de enkelte års prisniveau)
+
+
+Sammendragets beløb vedrørende årene 2028-2030 har ingen bevillingsmæssig betydning,
+men tjener som et økonomisk vurderingsgrundlag for de planer og projekter, der ventes frem-
+sendt til byrådet.
+Budget 2027                                                                               Sammendrag (brutto)
+Konto/tekst                                     Regnskab 2025                  Budget 2026               Budgetforslag 2027
+                                              Udgift       Indtægt         Udgift       Indtægt         Udgift        Indtægt
+                                                  1.000 kroner                 1.000 kroner                 1.000 kroner
+
+A. DRIFTSVIRKSOMHED (INKL. REFUSION)
+
+
+       MAGISTRATSAFDELINGEN FOR
+       SOCIALE FORHOLD OG BESKÆFTIGELSE
+
+     Sociale forhold og Beskæftigelse -
+1.20                                           5.932.768    -1.241.201      5.336.781     -676.815       5.542.658      -809.632
+     Decentraliseret
+     Sociale forhold og Beskæftigelse -Ikke
+1.50                                           8.018.716    -1.509.860                                                -1.207.310
+     Decentraliseret                                                        8.077.287    -1.292.241      7.867.181
+     I ALT                                    13.951.484   -2.751.061     13.414.068    -1.969.055     13.409.838    -2.016.942
+
+
+       MAGISTRATSAFDELINGEN FOR
+       TEKNIK OG MILJØ
+
+2.00 Teknik og Miljø                             850.518     -328.620        784.145      -298.076        762.869       -294.361
+2.13 Kollektiv Trafik                            432.502             0       490.084               0      451.074                0
+2.15 Støttet byggeri                              24.214        -2.481        32.437         -3.822        32.137         -3.814
+2.40 Miljø og Energi                                  75             -3           80              30          178               -68
+2.50 Ejendomme                                 1.360.595     -677.787       1.217.718     -550.015       1.187.585      -556.349
+2.60 Brandvæsen                                   95.199             0       112.984               0      111.923                0
+2.90 Affald og Varme                             600.602     -600.602              0            0               0             0
+       I ALT                                   3.363.704   -1.609.494      2.637.448     -851.883       2.545.765      -854.592
+
+
+       MAGISTRATSAFDELINGEN FOR
+       SUNDHED OG OMSORG
+
+3.30 Sundhed og Omsorg                         5.803.449     -388.650       5.610.915     -213.340       4.315.639      -211.462
+       I ALT                                   5.803.449    -388.650       5.610.915     -213.340       4.315.639      -211.462
+
+
+       MAGISTRATSAFDELINGEN FOR
+       KULTUR OG BORGERSERVICE
+
+4.70 Kultur og Borgerservice                   1.762.475     -419.606       1.706.888     -359.516       1.669.045      -355.922
+       I ALT                                   1.762.475    -419.606       1.706.888     -359.516       1.669.045      -355.922
+
+
+       MAGISTRATSAFDELINGEN FOR
+       BØRN OG UNGE
+
+5.50 Børn og Unge                              7.549.967    -1.384.673      7.598.617    -1.275.151      7.818.048    -1.220.331
+       I ALT                                   7.549.967   -1.384.673      7.598.617    -1.275.151      7.818.048    -1.220.331
+
+
+       BORGMESTERENS AFDELING
+
+
+0.20 Budgetreserver                                    0             0       183.180               0      153.575                0
+0.30 Administration m.v.                       1.265.172      -94.908       1.139.393       -20.587      1.182.263       -19.844
+       I ALT                                   1.265.172      -94.908      1.322.573       -20.587      1.335.838       -19.844
+A. DRIFTSVIRKSOMHED I ALT                     33.696.251   -6.648.392     32.290.509    -4.689.532     31.094.173    -4.679.093
+Budget 2027                                                                                 Sammendrag (brutto)
+Konto/tekst                                    Budgetforslag 2028            Budgetforslag 2029            Budgetforslag 2030
+                                              Udgift        Indtægt         Udgift        Indtægt         Udgift        Indtægt
+                                                  1.000 kroner                  1.000 kroner                  1.000 kroner
+
+A. DRIFTSVIRKSOMHED (INKL. REFUSION)
+
+
+       MAGISTRATSAFDELINGEN FOR
+       SOCIALE FORHOLD OG BESKÆFTIGELSE
+
+     Sociale forhold og Beskæftigelse -
+1.20                                           5.528.330      -815.106       5.515.857      -820.444       5.534.162      -820.444
+     Decentraliseret
+     Sociale forhold og Beskæftigelse -Ikke
+1.50                                           7.959.903    -1.217.059       8.064.414    -1.204.457       8.396.326    -1.208.023
+     Decentraliseret
+     I ALT                                    13.488.233    -2.032.165      13.580.270    -2.024.901      13.930.488    -2.028.466
+
+
+       MAGISTRATSAFDELINGEN FOR
+       TEKNIK OG MILJØ
+
+2.00 Teknik og Miljø                             755.851      -294.361         739.747      -294.779         746.198      -293.509
+2.13 Kollektiv Trafik                            423.040               0       439.198               0       440.598               0
+2.15 Støttet byggeri                              32.137         -3.814         32.137         -3.814         32.137         -3.814
+2.40 Miljø og Energi                                 178              -68          178              -68          178              -68
+2.50 Ejendomme                                 1.120.884      -564.119       1.115.213      -562.915       1.248.631      -694.116
+2.60 Brandvæsen                                  113.923               0       116.402               0       116.402               0
+2.90 Affald og Varme                                   0            0                0            0                0            0
+       I ALT                                   2.446.013     -862.362        2.442.874     -861.576        2.584.143     -991.507
+
+
+       MAGISTRATSAFDELINGEN FOR
+       SUNDHED OG OMSORG
+
+3.30 Sundhed og Omsorg                          4.421.001     -211.462        4.473.571     -211.462        4.586.428     -211.462
+       I ALT                                   4.421.001     -211.462        4.473.571     -211.462        4.586.428     -211.462
+
+
+       MAGISTRATSAFDELINGEN FOR
+       KULTUR OG BORGERSERVICE
+
+4.70 Kultur og Borgerservice                    1.665.096     -355.922        1.656.335     -355.922        1.646.962     -351.238
+       I ALT                                   1.665.096     -355.922        1.656.335     -355.922        1.646.962     -351.238
+
+
+       MAGISTRATSAFDELINGEN FOR
+       BØRN OG UNGE
+
+5.50 Børn og Unge                               7.933.422    -1.230.562       7.997.611    -1.240.321       8.027.194    -1.250.059
+       I ALT                                   7.933.422    -1.230.562       7.997.611    -1.240.321       8.027.194    -1.250.059
+
+
+       BORGMESTERENS AFDELING
+
+
+0.20 Budgetreserver                              185.587               0       -17.878               0      -120.110               0
+0.30 Administration m.v.                        1.168.028       -19.844       1.140.488       -19.844       1.137.437       -19.844
+       I ALT                                   1.353.615       -19.844       1.122.611       -19.844       1.017.327       -19.844
+A. DRIFTSVIRKSOMHED I ALT                     31.307.380    -4.712.318      31.273.273    -4.714.026      31.792.544    -4.852.577
+Budget 2027                                                                       Sammendrag (brutto)
+Konto/tekst                               Regnskab 2025                Budget 2026             Budgetforslag 2027
+                                        Udgift       Indtægt       Udgift       Indtægt       Udgift        Indtægt
+                                            1.000 kroner               1.000 kroner               1.000 kroner
+
+B. ANLÆGSVIRKSOMHED
+
+
+     MAGISTRATSAFDELINGEN FOR
+     SOCIAL FORHOLD OG BESKÆFTIGELSE
+
+1    Sociale forhold og Beskæftigelse       6.196              0      63.883       -16.817        26.971       -35.493
+     I ALT                                  6.196              0     63.883       -16.817        26.971       -35.493
+
+
+     MAGISTRATSAFDELINGEN FOR
+     TEKNIK OG MILJØ
+
+2.00 Teknik og Miljø                      399.953      -777.154      246.317      -190.224      455.808       -271.795
+2.10 Bydudvikling                               0              0           0              0           0               0
+
+2.40 Miljø og Energi                            0              0           0              0           0               0
+2.50 Ejendomme                            744.386      -117.378      598.375      -179.801      629.975        -44.528
+2.60 Brandvæsen                             4.770            0            0             0         14.210      -185.758
+     I ALT                              1.149.109     -894.532      844.692      -370.025     1.099.993      -502.081
+
+
+     MAGISTRATSAFDELINGEN FOR
+     SUNDHED OG OMSORG
+
+3.30 Sundhed og Omsorg                      1.600              0      10.815              0       8.466               0
+     I ALT                                  1.600              0     10.815               0       8.466               0
+
+
+     MAGISTRATSAFDELINGEN FOR
+     KULTUR OG BORGERSERVICE
+
+4.70 Kultur og Borgersercive              674.425      -316.205      543.037      -115.776      331.376               0
+     I ALT                               674.425      -316.205      543.037      -115.776      331.376                0
+
+
+     MAGISTRATSAFDELINGEN FOR
+     BØRN OG UNGE
+
+5.50 Børn og Unge                              0               0       1.088              0       2.805               0
+     I ALT                                     0               0       1.088              0       2.805               0
+
+
+     BORGMESTERENS AFDELING
+
+
+0.20 Budgetreserver                             0              0     184.280      -224.956       40.659       -413.217
+0.30 Administration m.v.                    2.519              0          0             0         10.485            0
+     I ALT                                  2.519              0    184.280      -224.956        51.144      -413.217
+B. ANLÆGSVIRKSOMHED I ALT               1.833.849    -1.210.737    1.647.795     -727.574     1.520.756      -950.790
+Budget 2027                                                                         Sammendrag (brutto)
+Konto/tekst                              Budgetforslag 2028          Budgetforslag 2029          Budgetforslag 2030
+                                        Udgift        Indtægt       Udgift        Indtægt       Udgift        Indtægt
+                                            1.000 kroner                1.000 kroner                1.000 kroner
+
+B. ANLÆGSVIRKSOMHED
+
+
+     MAGISTRATSAFDELINGEN FOR
+     SOCIAL FORHOLD OG BESKÆFTIGELSE
+
+1    Sociale forhold og Beskæftigelse       80.689       -16.817        15.000              0           0               0
+     I ALT                                 80.689       -16.817        15.000               0           0               0
+
+
+     MAGISTRATSAFDELINGEN FOR
+     TEKNIK OG MILJØ
+
+2.00 Teknik og Miljø                      443.717       -528.583      474.056       -330.531      720.872       -214.276
+2.10 Bydudvikling                               0               0           0               0           0               0
+2.40 Miljø og Energi                            0               0           0               0           0               0
+2.50 Ejendomme                            431.500        -12.547      448.488         -1.440      724.581               0
+2.60 Brandvæsen                            14.210             0        14.210             0         14.210            0
+     I ALT                               889.427       -541.130      936.754       -331.971     1.459.664      -214.276
+
+
+     MAGISTRATSAFDELINGEN FOR
+     SUNDHED OG OMSORG
+
+3.30 Sundhed og Omsorg                      5.465               0       5.641               0           0               0
+     I ALT                                  5.465               0       5.641               0           0               0
+
+
+     MAGISTRATSAFDELINGEN FOR
+     KULTUR OG BORGERSERVICE
+
+4.70 Kultur og Borgersercive              212.412               0     204.821               0       37.495              0
+     I ALT                               212.412                0    204.821                0      37.495               0
+
+
+     MAGISTRATSAFDELINGEN FOR
+     BØRN OG UNGE
+
+5.50 Børn og Unge                               0               0           0               0           0               0
+     I ALT                                      0               0           0               0           0               0
+
+
+     BORGMESTERENS AFDELING
+
+
+0.20 Budgetreserver                       657.149       -863.186     1.177.118      -311.692     -259.658        -53.268
+0.30 Administration m.v.                   10.485             0         4.000             0         2.000             0
+     I ALT                               667.634       -863.186     1.181.118      -311.692      -257.658       -53.268
+B. ANLÆGSVIRKSOMHED I ALT               1.855.627    -1.421.133     2.343.334      -643.663     1.239.501      -267.545
+Budget 2027                                                                                             Sammendrag (brutto)
+Konto/tekst                                                  Regnskab 2025                 Budget 2026              Budgetforslag 2027
+                                                           Udgift       Indtægt        Udgift       Indtægt        Udgift        Indtægt
+                                                               1.000 kroner                1.000 kroner                1.000 kroner
+
+    PRIS- OG LØNSTIGNINGER VEDRØRENDE
+                                                           -2.095.486       445.609      -878.059       136.153             0              0
+        HOVEDKONTO 0-6 (BO-ÅRENE)
+
+C. RENTER
+
+
+7.22 Renter af likvide aktiver                                   -773      -169.068             0      -108.290             0       -115.043
+7.28 Renter af kortfristede tilgodehavender i øvrigt                0       -10.194             0        -4.382             0         -4.382
+7.32 Renter af langfristede tilgodehavender                         0        -34.470            0         -7.209            0          -6.909
+7.35 Renter af udlæg vedrørende                                     0          -733             0          -470             0           -582
+7.50 forsyningsvirksomheder
+     Renter af byggekreditter og byggelån                         127             0             0             0             0              0
+7.52 Renter af kortfristet gæld i øvrigt                        7.604             0         1.071             0         1.071              0
+7.55 Renter af langfristet gæld                                80.360             0        74.453             0        75.815              0
+7.58 Kurstab og kursgevinster                                  -9.740         -7.431           0          -2.198           0           -1.746
+C. RENTER I ALT                                               77.577       -221.896       75.524       -122.548       76.886        -128.662
+
+
+D. BALANCEFORSKYDNINGER
+
+
+8.22 Forøgelse af likvide aktiver                             604.109             0             0             0             0              0
+8.25 Forskydninger i tilgodehavender hos staten                     0      -122.516             0             0             0              0
+8.28 Forskydninger i kortfristede tilgodehavender i           191.874       141.831             0             0             0              0
+     øvrigt
+8.32 Forskydninger i langfristede tilgodehavender                   0      -104.569             0       362.289             0        324.188
+     Udlæg vedrørende jordforsyning og
+8.25                                                                0             0             0             0             0              0
+     forsyningsvirksomheder
+8.38 Forskydninger i aktiver vedrørende beløb til                   0          -318             0             0             0              0
+     opkrævning eller
+8.42 Forskydninger     udbetaling
+                    i aktiver       for andre
+                              tilhørende  fonds, legater            0       135.401             0             0             0              0
+8.45 m.v.
+     Forskydninger i passiver tilhørende fonds,                42.282             0         1.246             0            52              0
+     legater m.v. i passiver vedrørende beløb til
+8.48 Forskydninger                                                318             0             0             0             0              0
+8.50 opkrævning  eller
+     Forskydninger     udbetalingæld
+                    i kortfristet for til
+                                      andre                         0          -127             0             0             0              0
+     pengeinstituteri (Byggekreditter)
+8.51 Forskydninger    kortfristet gæld til staten                   0           857             0             0             0              0
+8.52 Forskydninger i kortfristet gæld i øvrigt                 -8.715           590            0        -48.162         -2.442        11.908
+D. BALANCEFORSKYDNINGER I ALT                                829.868         51.149        1.246       314.127         -2.390       336.096
+
+
+E. AFDRAG PÅ LÅN OG LEASING
+
+
+8.55 Afdrag på lån                                            406.734             0       408.038             0       379.664              0
+E. AFDRAG PÅ LÅN OG LEASING I ALT                            406.734              0      408.038              0      379.664               0
+
+
+A + B +C + D + E                                           34.748.794    -7.584.267    33.545.053    -5.089.374    33.039.089     -5.422.450
+
+
+F. FINANSIERING
+
+
+8.22 Forbrug af likvide aktiver                                     0             0             0      -759.815             0       -198.926
+8.55 Optagne lån                                                    0        -64.902            0        54.921             0           -105
+7.62 Tilskud og udligning                                   2.484.816     -5.701.897    1.709.125     -5.867.820    1.291.198      -4.375.493
+7.65 Refusion af købsmoms                                      15.632             0        10.000             0        10.000              0
+7.68 Skatter                                                      287    -23.898.463            0    -23.602.090            0     -24.343.313
+F. FINANSIERING I ALT                                       2.500.734   -29.665.261     1.719.125   -30.174.804     1.301.198    -28.917.837
+BALANCE                                                    37.249.528   -37.249.528    35.264.178   -35.264.178    34.340.287    -34.340.287
+Budget 2027                                                                                              Sammendrag (brutto)
+Konto/tekst                                                 Budgetforslag 2028          Budgetforslag 2029           Budgetforslag 2030
+                                                           Udgift        Indtægt       Udgift        Indtægt        Udgift        Indtægt
+                                                               1.000 kroner                1.000 kroner                 1.000 kroner
+
+    PRIS- OG LØNSTIGNINGER VEDRØRENDE
+                                                              847.393      -148.101     1.796.643       -281.370     2.746.997       -423.589
+        HOVEDKONTO 0-6 (BO-ÅRENE)
+
+C. RENTER
+
+
+7.22 Renter af likvide aktiver                                      0        -66.186            0         -44.423            0         -26.987
+7.28 Renter af kortfristede tilgodehavender i øvrigt                0         -4.382            0          -4.382            0          -4.382
+7.32 Renter af langfristede tilgodehavender                         0         -6.909            0          -6.909            0          -6.909
+7.35 Renter af udlæg vedrørende                                     0          -542             0           -517             0           -491
+7.50 forsyningsvirksomheder
+     Renter af byggekreditter og byggelån                           0             0             0              0             0              0
+7.52 Renter af kortfristet gæld i øvrigt                        1.071              0        1.071              0         1.071              0
+7.55 Renter af langfristet gæld                                71.071              0       65.880              0        62.065              0
+7.58 Kurstab og kursgevinster                                      0          -1.646           0           -1.536           0           -1.430
+C. RENTER I ALT                                               72.142        -79.665       66.951         -57.767       63.136         -40.199
+
+
+D. BALANCEFORSKYDNINGER
+
+
+8.22 Forøgelse af likvide aktiver                              38.906              0            0              0             0              0
+8.25 Forskydninger i tilgodehavender hos staten                     0              0            0              0             0              0
+8.28 Forskydninger i kortfristede tilgodehavender i                 0              0            0              0             0              0
+     øvrigt
+8.32 Forskydninger i langfristede tilgodehavender                   0       250.848             0         28.017             0        202.279
+     Udlæg vedrørende jordforsyning og
+8.25                                                                0              0            0              0             0              0
+     forsyningsvirksomheder
+8.38 Forskydninger i aktiver vedrørende beløb til                   0              0            0              0             0              0
+     opkrævning eller
+8.42 Forskydninger     udbetaling
+                    i aktiver       for andre
+                              tilhørende  fonds, legater            0              0            0              0             0              0
+8.45 m.v.
+     Forskydninger i passiver tilhørende fonds,                     0              0            0              0             0              0
+     legater m.v. i passiver vedrørende beløb til
+8.48 Forskydninger                                                  0              0            0              0             0              0
+8.50 opkrævning  eller
+     Forskydninger     udbetalingæld
+                    i kortfristet for til
+                                      andre                         0              0            0              0             0              0
+     pengeinstituteri (Byggekreditter)
+8.51 Forskydninger    kortfristet gæld til staten                   0              0            0              0             0              0
+8.52 Forskydninger i kortfristet gæld i øvrigt                 -2.063       -11.512         -2.063        -19.375        -2.063       -31.634
+D. BALANCEFORSKYDNINGER I ALT                                 36.843       239.336         -2.063           8.642       -2.063       170.645
+
+
+E. AFDRAG PÅ LÅN OG LEASING
+
+
+8.55 Afdrag på lån                                            394.294              0      384.752              0       387.178              0
+E. AFDRAG PÅ LÅN OG LEASING I ALT                            394.294               0     384.752               0      387.178               0
+
+
+A + B +C + D + E                                           34.513.679    -6.121.881    35.862.890     -5.688.183    36.227.293     -5.413.264
+
+
+F. FINANSIERING
+
+
+8.22 Forbrug af likvide aktiver                                     0              0            0       -864.091             0       -147.940
+8.55 Optagne lån                                                    0          -105             0           -105             0           -105
+7.62 Tilskud og udligning                                   2.178.308     -4.600.706    2.232.158      -4.377.030    2.413.656      -4.317.646
+7.65 Refusion af købsmoms                                      10.000              0       10.000              0        10.000              0
+7.68 Skatter                                                        0    -25.979.295            0     -27.175.638            0     -28.771.994
+F. FINANSIERING I ALT                                       2.188.308   -30.580.106     2.242.158    -32.416.864     2.423.656    -33.237.685
+BALANCE                                                    36.701.987   -36.701.987    38.105.047    -38.105.047    38.650.949    -38.650.949
+Budget 2027                                                                                Sammendrag (netto)
+Konto/tekst                                    R-2025         B-2026       BF-2027       BO-2028       BO-2029       BO-2030
+                                                                                   Netto
+                                                                                1.000 kroner
+
+A. DRIFTSVIRKSOMHED (INKL. REFUSION)
+
+
+       MAGISTRATSAFDELINGEN FOR
+       SOCIALE FORHOLD OG BESKÆFTIGELSE
+
+     Sociale forhold og Beskæftigelse -
+1.20                                           4.691.567      4.659.967     4.733.026     4.713.224     4.695.413     4.713.719
+     Decentraliseret
+     Sociale forhold og Beskæftigelse -Ikke
+1.50                                           6.508.856      6.785.046     6.659.870     6.742.844     6.859.957     7.188.303
+     Decentraliseret
+     I ALT                                    11.200.423     11.445.013    11.392.896    11.456.067    11.555.370    11.902.022
+
+
+       MAGISTRATSAFDELINGEN FOR
+       TEKNIK OG MILJØ
+
+2.00 Teknik og Miljø                             521.898        486.069       468.508       461.490       444.968       452.689
+2.13 Kollektiv Trafik                            432.502        490.084       451.074       423.040       439.198       440.598
+2.15 Støttet byggeri                              21.732         28.615        28.323        28.323        28.323        28.323
+2.40 Miljø og Energi                                    72          110           109           109           109           109
+2.50 Ejendomme                                   682.807        667.703       631.236       556.765       552.298       554.515
+2.60 Brandvæsen                                   95.199        112.984       111.923       113.923       116.402       116.402
+2.90 Affald og Varme                                   0              0             0             0             0             0
+       I ALT                                   1.754.211      1.785.565     1.691.173     1.583.650     1.581.298     1.592.636
+
+
+       MAGISTRATSAFDELINGEN FOR
+       SUNDHED OG OMSORG
+
+3.30 Sundhed og Omsorg                          5.414.799      5.397.575     4.104.177     4.209.539     4.262.109     4.374.966
+       I ALT                                   5.414.799      5.397.575     4.104.177     4.209.539     4.262.109     4.374.966
+
+
+       MAGISTRATSAFDELINGEN FOR
+       KULTUR OG BORGERSERVICE
+
+4.70 Kultur og Borgerservice                    1.342.868      1.347.373     1.313.123     1.309.174     1.300.413     1.295.724
+       I ALT                                   1.342.868      1.347.373     1.313.123     1.309.174     1.300.413     1.295.724
+
+
+       MAGISTRATSAFDELINGEN FOR
+       BØRN OG UNGE
+
+5.50 Børn og Unge                               6.165.295      6.323.466     6.597.718     6.702.860     6.757.290     6.777.135
+       I ALT                                   6.165.295      6.323.466     6.597.718     6.702.860     6.757.290     6.777.135
+
+
+       BORGMESTERENS AFDELING
+
+
+0.20 Budgetreserver                                      0      183.180       153.575       185.587       -17.878      -120.110
+0.30 Administration m.v.                        1.170.264      1.118.806     1.162.419     1.148.184     1.120.644    1.117.592
+       I ALT                                   1.170.264      1.301.985     1.315.994     1.333.771     1.102.766      997.483
+A. DRIFTSVIRKSOMHED I ALT                     27.047.859     27.600.977    26.415.080    26.595.061    26.559.246    26.939.967
+Budget 2027                                                                     Sammendrag (netto)
+Konto/tekst                             R-2025       B-2026       BF-2027      BO-2028       BO-2029       BO-2030
+                                                                         Netto
+                                                                      1.000 kroner
+
+B. ANLÆGSVIRKSOMHED
+
+
+     MAGISTRATSAFDELINGEN FOR
+     SOCIAL FORHOLD OG BESKÆFTIGELSE
+
+1    Sociale forhold og Beskæftigelse      6.196        47.066        -8.522       63.872        15.000              0
+     I ALT                                 6.196       47.066        -8.522       63.872        15.000               0
+
+
+     MAGISTRATSAFDELINGEN FOR
+     TEKNIK OG MILJØ
+
+2.00 Teknik og Miljø                     -377.201       56.093      184.013      -84.866       143.525       506.596
+2.10 Bydudvikling                                0            0             0            0             0             0
+2.40 Miljø og Energi                             0            0             0            0             0             0
+2.50 Ejendomme                            627.007      418.574      585.447      418.954       447.048       724.581
+2.60 Brandvæsen                            4.770            0       -171.548      14.210         14.210        14.210
+     I ALT                               254.577      474.667       597.913     348.297        604.783     1.245.387
+
+
+     MAGISTRATSAFDELINGEN FOR
+     SUNDHED OG OMSORG
+
+3.30 Sundhed og Omsorg                     1.600        10.815        8.466        5.465         5.641               0
+     I ALT                                 1.600       10.815         8.466        5.465         5.641               0
+
+
+     MAGISTRATSAFDELINGEN FOR
+     KULTUR OG BORGERSERVICE
+
+4.70 Kultur og Borgersercive              358.220      427.261       331.376     212.412        204.821        37.495
+     I ALT                               358.220      427.261       331.376     212.412        204.821        37.495
+
+
+     MAGISTRATSAFDELINGEN FOR
+     BØRN OG UNGE
+
+5.50 Børn og Unge                                0      1.088         2.805              0             0             0
+     I ALT                                       0      1.088         2.805              0             0             0
+
+
+     BORGMESTERENS AFDELING
+
+
+0.20 Budgetreserver                              0     -40.676      -402.557    -206.037       865.427       -312.926
+0.30 Administration m.v.                   2.519            0         10.485       10.485        4.000         2.000
+     I ALT                                 2.519      -40.676      -392.072     -195.552       869.427      -310.926
+B. ANLÆGSVIRKSOMHED I ALT                623.112      920.221       539.965     434.494      1.699.671       971.957
+Budget 2027                                                                                             Sammendrag (netto)
+Konto/tekst                                                 R-2025        B-2026       BF-2027       BO-2028        BO-2029        BO-2030
+                                                                                               Netto
+                                                                                            1.000 kroner
+
+    PRIS- OG LØNSTIGNINGER VEDRØRENDE
+                                                            -1.649.877     -741.905              0       699.292     1.515.273      2.323.408
+        HOVEDKONTO 0-6 (BO-ÅRENE)
+
+C. RENTER
+
+
+7.22 Renter af likvide aktiver                                -169.841     -108.290      -115.043        -66.186       -44.423         -26.987
+7.28 Renter af kortfristede tilgodehavender i øvrigt           -10.194       -4.382        -4.382         -4.382        -4.382          -4.382
+7.32 Renter af langfristede tilgodehavender                    -34.470        -7.209        -6.909         -6.909        -6.909         -6.909
+7.35 Renter af udlæg vedrørende                                   -733         -470          -582           -542          -517           -491
+7.50 forsyningsvirksomheder
+     Renter af byggekreditter og byggelån                          127            0             0              0             0              0
+7.52 Renter af kortfristet gæld i øvrigt                         7.604        1.071         1.071          1.071         1.071          1.071
+7.55 Renter af langfristet gæld                                 80.360       74.453        75.815         71.071        65.880         62.065
+7.58 Kurstab og kursgevinster                                  -17.172        -2.198        -1.746         -1.646        -1.536         -1.430
+C. RENTER I ALT                                              -144.319       -47.024       -51.776         -7.523         9.184         22.938
+
+
+D. BALANCEFORSKYDNINGER
+
+
+8.22 Forøgelse af likvide aktiver                              604.109             0              0       38.906              0              0
+8.25 Forskydninger i tilgodehavender hos staten               -122.516             0              0            0              0              0
+8.28 Forskydninger i kortfristede tilgodehavender i            333.705             0              0            0              0              0
+     øvrigt
+8.32 Forskydninger i langfristede tilgodehavender             -104.569      362.289       324.188        250.848        28.017        202.279
+     Udlæg vedrørende jordforsyning og
+8.25                                                                 0             0              0            0              0              0
+     forsyningsvirksomheder
+8.38 Forskydninger i aktiver vedrørende beløb til                 -318             0              0            0              0              0
+     opkrævning eller
+8.42 Forskydninger     udbetaling
+                    i aktiver       for andre
+                              tilhørende  fonds, legater       135.401             0              0            0              0              0
+8.45 m.v.
+     Forskydninger i passiver tilhørende fonds,                 42.282        1.246              52            0              0              0
+     legater m.v. i passiver vedrørende beløb til
+8.48 Forskydninger                                                318              0              0            0              0              0
+8.50 opkrævning  eller
+     Forskydninger     udbetalingæld
+                    i kortfristet for til
+                                      andre                       -127             0              0            0              0              0
+     pengeinstituteri (Byggekreditter)
+8.51 Forskydninger    kortfristet gæld til staten                 857              0              0            0              0              0
+8.52 Forskydninger i kortfristet gæld i øvrigt                  -8.125      -48.162        9.466         -13.575       -21.438        -33.697
+D. BALANCEFORSKYDNINGER I ALT                                 881.017      315.373       333.706        276.179          6.580       168.582
+
+
+E. AFDRAG PÅ LÅN OG LEASING
+
+
+8.55 Afdrag på lån                                          1.051.306      268.457       343.224        262.604        -14.858       134.885
+E. AFDRAG PÅ LÅN OG LEASING I ALT                           2.102.612      536.913       686.449        525.209        -29.716       269.771
+
+
+A + B +C + D + E                                           28.860.405    28.584.555    27.923.424     28.522.712    29.760.239    30.696.622
+
+
+F. FINANSIERING
+
+
+8.22 Forbrug af likvide aktiver                                      0     -759.815      -198.926              0      -864.091       -147.940
+8.55 Optagne lån                                               -64.902       54.921          -105           -105          -105           -105
+7.62 Tilskud og udligning                                   -3.217.081    -4.158.695    -3.084.295     -2.422.398    -2.144.872     -1.903.990
+7.65 Refusion af købsmoms                                       15.632       10.000        10.000         10.000        10.000         10.000
+7.68 Skatter                                                -23.898.176 -23.602.090 -24.343.313 -25.979.295 -27.175.638            -28.771.994
+F. FINANSIERING I ALT                                      -27.164.527 -28.455.679 -27.616.639 -28.391.798 -30.174.706            -30.814.029
+BALANCE                                                     1.695.878      128.876       306.785        130.915       -414.467       -117.407
+

@@ -1,0 +1,511 @@
+# kilde: filer/Ringkøbing-Skjern/aftale_1_Budget 2027-2030.pdf | metode: pdftotext
+
+                                           Ringkøbing-Skjern Kommune
+
+
+RESULTATOPGØRELSE 2027-2030
+28.08.2026                                                  Budget       Overslag     Overslag    Overslag
+                                                              2027          2028         2029         2030
+A. Skattefinansieret område
+Indtægter
+Kommunal indkomstskat                                    -3.104.470    -3.150.415   -3.236.139   -3.348.889
+Efterregulering selvbudgettering                            -81.786        -8.884            0            0
+Grundskyld                                                 -296.869      -307.427     -306.447     -328.014
+Kompensation grundskyld 2021-23                                   0       -45.000            0            0
+Selskabsskat                                               -124.211      -127.759     -130.987     -136.852
+Øvrige skatter                                               -6.040        -6.040       -6.040       -6.040
+Tilskud og udligning                                       -748.512      -806.368     -833.916     -815.551
+VE midler                                                   -12.374       -12.000      -12.000      -12.000
+Demografisk udvikling                                             0       -10.000      -20.000      -30.000
+Indtægter i alt                                          -4.374.262    -4.473.893   -4.545.529   -4.677.346
+
+
+Driftsudgifter
+Økonomi- og Koordinationsudvalget                          487.207       498.518      496.880      496.880
+Generel reserve                                              5.000
+Råderumstiltag                                                   0       -32.486      -65.036      -65.036
+Ældre- og Sundhedsudvalget                                 730.024       731.956      738.816      744.985
+Social-, Psykiatri- og Handicapudvalget                    412.139       413.845      412.732      411.623
+Erhvervs- og Beskæftigelsesudvalget                      1.153.139     1.149.497    1.123.459    1.138.265
+Klima-, Miljø- og Naturudvalget                             24.996        24.635       24.590       24.590
+Plan- og trafikudvalget                                    152.879       155.212      155.269      155.325
+Børne- og Familieudvalget:                               1.203.299     1.198.776    1.195.693    1.193.176
+Kultur- og Fritidsudvalget:                                113.592       110.873      111.703      110.916
+Pris- og lønregulering (kun overslagsår)                                 110.442      231.050      355.156
+Driftsudgifter i alt                                     4.282.275     4.361.268    4.425.156    4.565.880
+
+Renter ekskl. ældreboliger                                   8.151         7.868        7.207        6.619
+Renter ældreboliger                                            257           274          292          261
+
+Resultat af ordinær driftsvirksomhed                       -83.579      -104.483     -112.874     -104.586
+
+Serviceramme
+Serviceudgifter i alt                                    3.262.141     3.235.612    3.205.228    3.205.972
+Vejledende serviceramme i 2027                           3.247.662
+Difference i forhold til servicerammen                      14.479
+(- = mindreforbrug, + = merforbrug)
+                                                Ringkøbing-Skjern Kommune
+
+
+RESULTATOPGØRELSE 2027-2030
+28.08.2026                                                       Budget     Overslag   Overslag   Overslag
+                                                                   2027        2028       2029       2030
+Anlægsudgifter
+Økonomi- og Koordinationsudvalget                                 28.851     15.540     13.740     13.740
+Ældre- og Sundhedsudvalget                                        18.628      5.445      1.920      1.920
+Social-, Psykiatri- og Handicapudvalget                            2.198      1.417      6.801        500
+Erhvervs- og Beskæftigelsesudvalget                                    0          0          0          0
+Klima-, Miljø- og Naturudvalget                                    9.250     -5.000      3.000      3.000
+Plan- og trafikudvalget                                           48.710     65.290     16.960     29.160
+Børne- og Familieudvalget                                         34.837     40.760     58.997     44.160
+Kultur- og Fritidsudvalget                                         3.092      6.992     17.342      5.992
+Jordforsyning                                                      1.500      1.500      1.500      1.500
+Anlæg i alt                                                      147.066    131.944    120.260     99.972
+
+Anlægsramme
+Samlede bruttoanlægsudgifter                                     163.766    164.944    139.660    113.972
+Vejledende anlægsramme                                           164.111
+Difference i forhold til anlægsrammen                               -346
+(- = mindreforbrug, + = merforbrug)
+
+
+A. Resultat af skattefinansieret område                          63.487     27.461      7.386      -4.615
+
+
+
+B. Brugerfinansieret (renovation og genbrug)
+Nettodriftsindtægter                                                  0           0          0           0
+Nettoanlægsudgifter                                                   0           0          0           0
+Pris- og lønregulering (kun overslagsår)                              0           0          0           0
+B. Resultat af brugerfinansieret                                      0           0          0           0
+
+C. Resultat i alt (A + B)                                        63.487     27.461      7.386      -4.615
+
+Tilgang af likvide aktiver
+Låneramme Hvide Sande Havn                                        -6.000     -6.000     -6.000      -6.000
+Låneramme jordforsyning                                           -5.000     -5.000     -5.000      -5.000
+Låneramme i øvrigt                                               -11.700     -6.500     -1.500      -1.500
+Låneramme energioptimering af bygninger                          -12.500    -12.500    -12.500     -12.500
+Lånoptagelse i alt                                               -35.200    -30.000    -25.000     -25.000
+
+Anvendelse af likvide aktiver
+Resultat i alt (pkt. C)                                           63.487     27.461      7.386     -4.615
+Afdrag på lån ekskl. ældreboliger og feriepengeforpligtigelsen    48.246     50.058     50.208     42.764
+Afdrag feriepengeforpligtigelsen                                   6.357      5.021      5.186      5.373
+Afdrag på feriepengeforpligtigelsen                               62.500
+Forskydninger på gæld                                            -62.500          0          0          0
+Afdrag på lån vedr. ældreboliger                                  19.862     20.146     20.425     19.354
+Indskud i støttet byggeri                                          2.700      2.700      2.700      2.700
+Øvrige balanceforskydninger                                          284        284        284        284
+Anvendelse af likvide aktiver i alt                              140.936    105.670     86.189     65.861
+
+Ændring af likvide aktiver (+ = udgift)                          105.736     75.670     61.189     40.861
+                                               Ringkøbing-Skjern Kommune
+
+
+RESULTATOPGØRELSE 2027-2030
+28.08.2026                                                          Budget         Overslag         Overslag        Overslag
+                                                                      2027            2028             2029            2030
+
+Gennemsnitlig daglig kassebeholdning seneste 365 dage ekskl. deponering og inkl. genbrug
+Startlikviditet 1/1 2026 ekskl. deponering                           414.652
+Frigivet deponering 2026                                               15.936
+Korrektioner:
+Årlig frigivelse af deponerede midler                                  13.894          13.894           9.409           6.282
+Budgetteret likviditetsændring skattefinans. 2026                     -29.313
+Midtvejsregulering                                                     36.720
+Korrektioner der påvirker kassebeholdningen                           -40.000
+Merforbrug anlæg 2026                                                 -50.200
+Merforbrug drift 2026                                                 -19.200
+Manglende lånoptagelse 2025                                            42.179
+Grundskyld - tilbagebetaling til borgere af for meget opkrævet i 2022-21.000
+                                                                       (øvrige ejendomme er der ikke taget højde for)
+Restrefusion 2025 Særligt Dyre Enkeltsager                             16.400
+Restrefusion (Beskæftigelse) for 2025                                  16.977
+Likviditetsændring 2025 - regnskab                                    -10.159
+I alt korrektioner                                                    -43.702          13.894           9.409           6.282
+Forventet likviditet primo                                           400.769         345.024         233.730          141.584
+Likviditetsændring*                                                   -69.639         -90.703         -68.429         -51.025
+Deponering ifm. anlægsforslag                                                         -30.000         -30.000               0
+Forventet likviditet ultimo                                          331.130         224.321         135.301           90.559
+* Likviditetsændring er opgjort med halvdelen fra året før, og halvdelen fra indeværende år.
+Budgetkonferencen den 27. og 28. august 2026
+
+DUT-sager
+
+Nr.                                                      2027         2028          2029        2030
+      Serviceudgifter                                               Hele 1000 kr.
+Nr.   Økonomi- og Koordinationsudvalget                   2027        2028        2029           2030
+  1   Sundhedsreformen - overhead                          -955       -955        -955           -955
+      I alt Økonomi- og Koordinationsudvalget             -955        -955        -955           -955
+Nr.   Ældre- og Sundhedsudvalget                          2027        2028        2029           2030
+  1   Sundhedsreformen - opgaveflyt                    -29.420     -29.420     -29.420        -29.420
+  1   Sundhedsreformen - overhead                          -977       -977        -977           -977
+  3   Madservice                                         2.200       2.200       2.200          2.200
+  4   Kræftplan V (deles med BF)                            215        200         200            200
+      I alt Ældre- og Sundhedsudvalget                -27.982      -27.997     -27.997       -27.997
+Nr.   Klima-, Miljø- og Naturudvalget                     2027        2028        2029           2030
+  6   Terrænnært grundvand                                  133        117          80             80
+  7   Genbesøg af vandområdeplanerne 2021-2027              346
+  9   Lov om miljøbeskyttelse                              -241        -241         -241        -241
+      I alt Klima-, Miljø- og Naturudvalget                238        -124          -161        -161
+Nr.   Plan- og Trafikudvalget                             2027        2028          2029        2030
+      Køretøjers maksimale bredde, længde, vægt og
+ 10                                                       851          916           974       1.030
+      akseltryk
+      I alt Plan- og Trafikudvalget                       851          916           974       1.030
+Nr.   Børne- og Familieudvalget                          2027         2028          2029        2030
+      Dagtilbud og Undervisning
+ 11   Dagtilbudsloven                                   4.692        4.692          4.692      4.692
+      Børn og Familie
+  4   Kræftplan V (deles med ÆSU)                         148          148           148         148
+      10 års psykiatriplan og Akutplan børne- og
+ 13                                                     1.850        1.850           925         925
+      ungdomspsykiatrien
+      I alt Børne- og Familieudvalget                   6.690        6.690       5.765         5.765
+Nr.   Kultur- og Fritidsudvalget                         2027         2028        2029          2030
+  2   Opgaveflyt fra Region til Kommune                   316          316         316           316
+      I alt Kultur- og Fritidsudvalget                    316          316         316           316
+      Overførselsudgifter
+Nr.   Ældre- og Sundhedsudvalget                          2027         2028        2029          2030
+  1   Sundhedsreformen - KMF                          -253.226     -253.227    -253.225      -253.225
+      I alt Ældre- og Sundhedsudvalget               -253.226     -253.227    -253.225      -253.225
+Nr.   Erhvervs- og Beskæftigelsesudvalget                 2027         2028        2029          2030
+ 15   Ny model for voksentandpleje                         323          327         332           332
+      I alt Erhvervs- og Beskæftigelsesudvalget            323          327         332           332
+Budgetkonferencen den 27. og 28. august 2026
+
+Nye tiltag/aktivitetsændringer og afledt drift af anlægsprojekter
+
+                                                   2027      2028          2029       2030
+      Serviceudgifter                                          1.000 kr.
+Nr.   Økonomi- og Koordinationsudvalget            2027      2028          2029       2030
+ T1   Generel reserve                                5.000
+ T2   Nulstilling af ikke udmøntede VE-midler                 -3.950        -3.950     -3.950
+      Husleje Åkanden (Beløb korrigeres efter
+ T3                                                            3.500         3.500      3.500
+      udbud)
+      Manglende huslejeindtægt
+ T4                                                            1.900         1.900      1.900
+      Vestasbygninger
+ T5   Udvikling af Vestas Halvøen - projektleder      700        700
+      Udvikling af Vestas Halvøen - l
+ T5                                                   300        300
+      Konulentydelser
+      Overenskomstmæssig Trepart - justering
+ T7                                                 -2.865    -2.864        -2.865     -2.865
+      af budget (engangsmidler)
+      Overenskomstmæssig Trepart - justering
+ T7   af budget (Bæredygtig og fleksibel             1.067     1.067         1.067      1.067
+      løndannelse)
+      Overenskomstmæssig kompensations
+ T7                                                  2.507     2.507         2.507      2.507
+      vedr. deltidsdom
+      Overenskomstmæssig Trepart - pulje
+ T7                                                  2.130     2.840         2.840      2.840
+      målrettet rekruttering
+      Overenskomst - pulje målrettet
+ T7                                                  1.925     2.566         2.566      2.566
+      kommunale ledere
+      Overenskomst - pulje målrettet lavest
+ T7                                                   722        962           962        962
+      lønnede
+      Overenskomst - pulje målrettet pension til
+ T7                                                   561        748           748        748
+      elever
+ T8   Sparekatalog                                           -32.486       -65.036    -65.036
+      Besparelse administration som følge af
+ T9                                                 -2.377    -2.377        -2.377     -2.377
+      Økonomiaftalen
+      Øget visitatornormering som følge af
+  1                                                  1.100     1.100         1.100      1.100
+      demografisk udvikling
+  2   Beredskabskoordinator                           700        700           700        700
+      Beredskabskoordinator - kompenserende
+  2                                                   -700      -700          -700       -700
+      besparelse
+      Ressourcer til Myndighed i Handicap og
+  3                                                   650        650           650        650
+      Psykiatri
+  4   Byggesagsbehandlere - Land, By og Kultur       1.400     1.400         1.400      1.400
+      Byggesagsbehandlere - Land, By og
+  4                                                 -1.400    -1.400        -1.400     -1.400
+      Kultur, øget gebyrtakst
+      Vedligeholdelse fra drift til anlæg           -6.100     -6.100        -6.100     -6.100
+      I alt Økonomi- og Koordinationsudvalget       5.319    -28.937       -62.488    -62.488
+                                                   2027       2028      2029      2030
+Nr.   Ældre- og Sundhedsudvalget                   2027       2028      2029      2030
+
+  5  Demografi, Helhedspleje                        -4.594     -5.119    -2.785    1.112
+  6  Demografi, Sygepleje                             -660       -616      -659       266
+  7  Mellemkommunale betalinger                      8.000      8.000     8.000     8.000
+  8  Stigning i genoptræningsplaner                    500        500       500       500
+     Udvidelse af daghjemskapacitet på
+   9 Aktivitetsområdet - 5 daghjemspladser i          939        939       939       939
+     Skjern
+     Udvidelse af daghjemskapacitet på
+   9 Aktivitetsområdet - 3 daghjemspladser i              0      694       694       694
+     Tarm
+     Udvidelse af daghjemskapacitet på
+   9 Aktivitetsområdet - Lukning af aflastning i      -238       -238      -238      -238
+     eget hjem
+     Kognitiv simulationsterapi til borger med
+  10                                                  146        146       146       146
+     demens
+  11 Teamledelse på aktivitetsområdet                 312        312       312       312
+     Medicinsk affald i helhedspleje og
+  13                                                  100        100       100       100
+     sygepleje
+     Konsulentbistand til udbud af nødkald og
+  14                                                  500
+     låse
+     Tilskud til produktion af mad til beboere
+  15                                                  740        890      1.030     1.200
+     med synkebesvær
+     Styrkelse af puljen til mindre
+  16                                                  300        300       300       300
+     investeringsprojekter
+  17 Hjælpemiddelkonto - udvidelse af budget         1.750      1.750     1.750     1.750
+     Administrationslokaler til helhedspleje,
+  18                                                  140        140       140       140
+     sygepleje og e-team
+     Ensretning af faktor til ældreboliger jf.
+  19                                                 2.200      2.200     2.200     2.200
+     helhedsplejen - ensretning af faktor
+     Ensretning af faktor til ældreboliger jf.
+ 19b                                                 3.800
+     helhedsplejen - bagudrettet kompensation
+     Budgetreduktion for aflastning af
+  21                                                  -200       -200      -200      -200
+     pårørende i eget hjem
+     Ændring af tilbud til børn i familier med
+  22                                                             -494      -494      -494
+     misbrug
+     Reduktion af pulje til drejebogssager på
+  25                                                -1.000     -1.000    -1.300    -1.300
+     plejeboligområdet
+  26 Tilpasning af aflastningskapacitet               -897       -897      -897      -897
+     Visitatornormering som følge af
+   1 demografisk udvikling - tilpasning af          -2.100     -2.100    -2.100    -2.100
+     visiteret tid efter opfølgning
+     Servicetjek - systematisk gennemgang af
+  27                                                           -1.000    -1.000    -1.000
+     indsatser (kvalitetsstandarder)
+ AD Teknisk opgradering i plejeboligområdet                     1.625     1.625     1.625
+     Midler til opkvalificering af ufaglærte
+ P2                                                   500        500       500       500
+     medarbejdere
+     I alt Ældre- og Sundhedsudvalget               6.438      6.432     8.563    13.555
+Nr.   Social-, Psykiatri- og Handicapudvalget      2027       2028      2029      2030
+
+ 28   Budgetramme Myndighed                         22.186     24.990    24.990    24.990
+ 41   Annullering af servicereduktioner              2.200      2.200     2.200     2.200
+      Ressourcer til Myndighed i Handicap og
+  3                                                 -1.000     -2.000    -3.000    -4.000
+      Psykiatri - finansiering via budgetramme
+      I alt Social-, Psykiatri- og
+                                                   23.386     25.190    24.190    23.190
+      Handicapudvalget
+                                                         2027         2028         2029         2030
+Nr.      Erhvervs- og Beskæftigelsesudvalget             2027         2028         2029         2030
+
+ 46      Headspace                                         1.040        1.040        1.040        1.040
+ Ny      Vækstpulje                                       -1.000
+ Ny      Pulje vedr. praksisnær forskning                   -250         -250         -250         -250
+         I alt Erhvervs- og Beskæftigelsesudvalget         -210          790          790          790
+
+Nr.      Plan- og Trafikudvalget                         2027         2028         2029         2030
+
+         Tunnelprojekt i Skjern - vedligeholdelse af
+ 34                                                                          50           50           50
+         beplantning, ramper, stier mv.
+         Tunnelprojekt i Skjern - vedligeholdelse af
+ 34                                                                      100           100          100
+         belysning/kunstværk
+ 35      Brand og Redning MidtVest                        1.500        2.400         2.400       2.400
+         I alt Plan- og Trafikudvalget                    1.500        2.550         2.550       2.550
+Nr.      Børne- og Familieudvalget                       2027         2028         2029         2030
+
+ 42      Demgografi dagtilbud                             -2.384         890         3.611        3.128
+ 43      Demografi undervisning                              808          75        -1.483       -2.895
+         Udvidelse af ordningen for tilskud til
+ 37                                                         234          234           234          234
+         pasning af eget barn - øget tilskudsprocent
+         Udvidelse af ordningen for tilskud til
+ 37      pasning af eget barn - finansiering via            -234         -234         -234         -234
+         budgettilpasning FGU
+ 44      Demografi Sundhedsplejen                            154          112           77         -145
+ 45      Demografi Tandplejen                                147           43          -28         -428
+ 36      Skoledagtilbudsrådgivere                          2.700        3.800        3.800        3.800
+         Skoledagtilbudsrådgivere -
+ 36                                                       -1.900       -3.200       -4.500       -4.500
+         kompenserende besparelser
+ 38      Vores parforhold                                   445          385           385          385
+         Vores parforhold - finansiering via
+ 38                                                         -165         -165         -165         -165
+         reducering gratis parterapi
+ 38      Vores parforhold - finansiering via PREP               -75          -75          -75          -75
+         Vores parforhold - finansiering via forudsat
+ 38                                                         -205         -145         -145         -145
+         afledt effekt på foranstaltninger
+         I alt Børne- og Familieudvalget                   -475        1.720         1.477       -1.040
+Nr.      Kultur- og Fritidsudvalget                      2027         2028         2029         2030
+         Vinerlys - nedskrivning af budget for år uden
+Teknik                                                                                             -787
+         festival
+         Fortsættelse af driftstilskud til Ringkøbing
+ 39                                                         238          238
+         Fjord Museernes skoletjeneste
+         Fortsættelse af driftstilskud til Ringkøbing
+         Fjord Museernes skoletjeneste -
+ 39                                                         -238         -238
+         finansiering via omprioritering af KFU
+         midler
+ 40      Forlængelse af Velfærdsalliancen DBU               110          110           110          110
+         Forlængelse af Velfærdsalliancen DBU -
+ 40                                                         -110         -110         -110         -110
+         finaniering via overførte midler
+ AD      Renovering af Troldbjerg, Hvide Sande                               40           40        40
+         I alt Kultur- og Fritidsudvalget                        0           40           40      -747
+         Overførselsudgifter
+Nr.      Erhvervs- og Beskæftigelsesudvalget             2027         2028         2029         2030
+
+ 46      Nyt konjunkturskøn                              26.122       16.186        -19.110       -9.415
+         I alt Erhvervs- og Beskæftigelsesudvalget       26.122       16.186       -19.110       -9.415
+Budgetkonferencen den 27. og 28. august 2026
+
+Anlægsoversigt
+
+
+Nr.                                                           2027           2028      2029          2030
+                                                                          Anlægsbeløb - 1.000 kr.
+
+Nr.   Økonomi- og Koordinationsudvalget                       2027           2028        2029        2030
+
+      Energioptimering                                         1.000           1.250      1.250       1.250
+      Pulje vedr. klima til bæredygtige bygninger              1.000           1.250      1.250       1.250
+      Pulje til mindre anlægsprojekter, RKSK ejendomme,
+                                                                 500             750        750         750
+      adm. bygninger samt BFU
+      Offentlige toiletter - genopretning af niveau              300             300        300         300
+      Etablering af El-ladestandere ved kommunale
+                                                                 500             500        500         500
+      bygninger
+      Pulje til udbedring af klimaskærme på kommunale
+                                                                 611           2.000      2.000       2.000
+      bygninger
+      Bygningsforbedringsudvalget i byer over 4.000
+                                                                 280             280        280         280
+      indbyggere - uden refusion
+      Pulje bygningsfornyelse, skimmelsvampsager m.v. i
+                                                                     60             60          60          60
+      byer over 4.000 indbyggere
+      Videbæk skole - renovering af tag                         6.500
+      Pulje til opbygning af kommunens beredskab                  500            500        500         500
+      Gearingspulje til samfinansiering af projekter              750            750        750         750
+      Anlægstilskud til tunnel under banen i Skjern             3.950
+  3   Landsbyfornyelsespuljen - samlede udgifter                4.500          4.500
+  3   Landsbyfornyelsespuljen - indtægter                      -2.700         -2.700
+ 33   Ventilationsanlæg Ringkøbing Svømmehal                    5.000
+      Vedligehold fra drift til anlæg                           6.100         6.100       6.100       6.100
+      I alt indstillet Økonomi- og Koordinationsudvalget      28.851         15.540     13.740       13.740
+                                                                          Anlægsbeløb - 1.000 kr.
+
+Nr.   Ældre- og Sundhedsudvalget                              2027           2028        2029        2030
+
+      Tablets til udlån til borgere                               200
+      Velfærdsteknologi                                           500            500        500         500
+      Hjemmeplejebiler                                          8.626
+      Hjemmeplejebiler                                         -2.000
+      Mobile enheder                                                           3.525
+      Rosenlunden, renovering af storkøkken                    1.500
+      Nødkald                                                    120             120        120         120
+      Udvidelsespakke, digital træning                           825             300        300         300
+  4   Pulje til Demensvenlig indretning i plejeboligområdet      500           1.000      1.000       1.000
+  5   Ringkøbing Plejehjem, udskiftning af gulv                  532
+  6   Teknisk opgradering i plejeboligområdet                  6.500
+      Afdækning af muligheder for arealanvendelse vedr.
+                                                               1.000
+      hjælpemidler
+ 10   PL-regulering: Fysiske rammer Tim Hjemmepleje              325
+      I alt Ældre- og Sundhedsudvalget                        18.628           5.445      1.920       1.920
+                                                                      Anlægsbeløb - 1.000 kr.
+
+Nr.   Social-, Psykiatri- og Handicapudvalget                2027        2028       2029        2030
+
+      Elbiler til bostøtten                                     672
+      Pulje, Digital transformation                             500          500        500        500
+      Renovering daghjem/aflastning Bakkehuset                                        6.301
+ 13   Busser til dagtilbud                                    1.026          917
+      I alt Social-, Psykiatri- og Handicapudvalget           2.198        1.417      6.801        500
+                                                                      Anlægsbeløb - 1.000 kr.
+
+Nr.   Klima-, Miljø- og Naturudvalget                        2027        2028       2029        2030
+
+      Pulje til naturområder                                      0        1.500      1.500      1.500
+      Pulje til klimasikring                                    750        1.000      1.000      1.000
+      Skovrejsningsprojekt i Ringkøbing                         500          500        500        500
+ 16   Grøn trepart, Ringkøbing-Skjern Kommunes projekter      8.000        8.300
+      Grøn trepart, Ringkøbing-Skjern Kommunes projekter
+ 16                                                                      -16.300
+      - Indtægt
+      I alt Klima-, Miljø- og Naturudvalget                   9.250       -5.000     3.000       3.000
+                                                                      Anlægsbeløb - 1.000 kr.
+
+Nr.   Plan- og Trafikudvalget                                2027        2028       2029        2030
+
+      Pulje til vedligehold af broer og bygværker               750          750        750        750
+      Sikre skoleveje i Skjern/Tarm                           8.500        5.900
+      Sikre skoleveje i Skjern/Tarm                                                  -5.400
+      Følgeudgifter 2+1 vej Rute 15                           9.000        7.000      9.000
+      Pulje til cykelstier                                    1.000        1.000      1.000      1.000
+      PTU-anlægspulje                                           750          750        750        750
+ 20   Hvide Sande syd-øst, vejafvanding                                    1.000                11.300
+      Ny vej Ringkøbing Øst                                               18.000
+      Pulje til trafiksikkerhedsprojekter                     1.000        1.000      1.000      1.000
+      Opgradering af belysning i fodgængerfelter                250          250        300        300
+      Pulje til sideudvidelser                                             2.500                 2.500
+      Samarbejdsprojekt med Forsyningen                       5.000        5.000      5.000      5.000
+      Renovering af vejbro ved Sønderskovvej                               6.000
+      Strækningsoptimering mellem Søndervig og Hvide
+                                                              2.000        2.000                 2.000
+      Sande
+      Udskiftning af LED-gadelys - runde 2                    3.300        2.580      2.000      2.000
+      Pulje til havneprojekter                                1.000        1.500      1.500      1.500
+      Belysningsanlæg/reinvesteringer                           560          560        560        560
+      Kommunal sikring af vand til brandslukning                500          500        500        500
+      Renovering af havneanlæg                               10.700        5.000
+ 21   Sanering af Dalgasgade i Troldhede ifm. Kloakprojekt    4.400        4.000
+      I alt Plan- og Trafikudvalget                          48.710       65.290    16.960      29.160
+                                                                      Anlægsbeløb - 1.000 kr.
+Nr.   Børne- og Familieudvalget                             2027         2028      2029         2030
+      Anlægspulje under BFU                                     260         760        760         760
+      Renovering af Tim Skole                                 8.278
+      Forbedring af indeklima                                 2.500        2.500      2.500       2.500
+      Hvide Sande skole - udsættelse af del 2                                                     7.000
+      Skolen i Skjern og Skjernåskolen - SkjernÅskolen        5.000       25.000     30.000
+      Skolen i Skjern og Skjernåskolen - Skolen i Skjern                              5.000     30.000
+      Borris SFO - renovering og ombygning                    1.000
+      STU-huset på Lønborgvej                                                        12.900
+      Ungdomsskolen etape 2                                                4.000
+      Ombygning af Holmbohjemmet til Sommerfuglen             4.000        6.000
+ 27   Skoleprojekt Skjern/Tarm - nye lovkrav                  2.600        2.500                  2.400
+ 28   Asfaltering af parkeringsplads ved Rindum Kjærgaard      500
+ 10   PL-regulering: Hvide Sande Skole                                                            1.500
+ 10   PL-regulering: Skolen i Skern og SkjernÅskolen          5.699                   7.140
+ 10   PL-regulering: STU-huset på Lønborgvej                                            697
+ NY   Skolen i Tarm, licitationsresultat                     5.000
+      I alt Børne- og Familieudvalget                       34.837      40.760     58.997       44.160
+                                                                    Anlægsbeløb - 1.000 kr.
+Nr.   Kultur- og Fritidsudvalget                            2027       2028      2029           2030
+      Pulje til anlægstilskud til idrætshaller                2.992      2.992      2.992         2.992
+ 30   Renovering af Troldbjerg, Hvide Sande                     100      1.000
+ 31   Fiskeriets Hus, Hvide Sande                                                  11.350
+      Puljer til svømmehaller                                            3.000      3.000        3.000
+      I alt Kultur- og Fritidsudvalget                        3.092      6.992    17.342         5.992
+                                                                    Anlægsbeløb - 1.000 kr.
+Nr.   Jordforsyning                                         2027       2028      2029           2030
+ 32   Salg af jord                                          -12.000    -14.000    -14.000       -14.000
+ 32   Køb af jord inkl. byggemodning                         13.500     15.500     15.500        15.500
+      I alt Jordforsyning                                     1.500      1.500      1.500         1.500
+

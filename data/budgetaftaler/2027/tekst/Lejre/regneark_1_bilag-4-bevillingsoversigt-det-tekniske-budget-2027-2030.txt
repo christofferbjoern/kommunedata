@@ -1,0 +1,450 @@
+# kilde: filer/Lejre/regneark_1_bilag-4-bevillingsoversigt-det-tekniske-budget-2027-2030.pdf | metode: pdftotext
+
+Bilag 4 - Bevillingsoversigt det tekniske budget 2027-2030
+
+Budgetforslag 2027-2030
+          Udvalg / Politikområde / Bevilling                                                           Overførsels-
+ Nr.                                              2027          2028          2029          2030
+                1.000 kr. 2027 priser                                                                  adgang
+       LEJRE KOMMUNE - Udvalgsopdelt             2.114.401     2.100.300     2.133.800     2.163.200
+       Økonomiudvalg                              292.985       251.605       249.264       251.612
+       Politisk organisation                         9.023         9.023         9.023         9.023
+                                                                                                      Uden
+11010 Vederlag m.v.                                 7.204         7.204         7.204         7.204
+                                                                                                      overførselsadgang
+                                                                                                      Uden
+11011 Øvrig politisk organisation                   1.195         1.195         1.195          1.195
+                                                                                                      overførselsadgang
+                                                                                                      Uden
+11012 Politiske udvalg                                370           370           370            370
+                                                                                                      overførselsadgang
+                                                                                                      Uden
+11013 Folkeoplysningsudvalget                            38            38            38            38
+                                                                                                      overførselsadgang
+                                                                                                      Med
+11015 Ældreråd                                        126           126           126            126
+                                                                                                      overførselsadgang
+                                                                                                      Med
+11016 Handicapråd                                        78            78            78            78
+                                                                                                      overførselsadgang
+                                                                                                      Uden
+11017 Hegnsyn                                            13            13            13            13
+                                                                                                      overførselsadgang
+       Administrativ organisation                  204.037       204.015       201.750       202.483
+                                                                                                      Med
+12030 Fælles funktioner                            20.391        20.397        20.397        20.397
+                                                                                                      overførselsadgang
+                                                                                                      Med
+12031 Borgmester- & Direktionssekretariat          10.874        10.874        10.874        10.874
+                                                                                                      overførselsadgang
+                                                                                                      Med
+12033 Budgetramme Center for Økonomi               24.289        24.361        24.361        24.361
+                                                                                                      overførselsadgang
+                                                                                                      Med
+12034 Budgetramme Center for Service & Ejendom      2.846         2.846         2.846          2.846
+                                                                                                      overførselsadgang
+                                                                                                      Med
+12035 Budgetramme Center for Kultur & Fritid        2.184         2.184         2.184          2.184
+                                                                                                      overførselsadgang
+                                                                                                      Med
+12036 Budgetramme Center for Børn & Læring          3.384         3.384         3.384          3.384
+                                                                                                      overførselsadgang
+                                                                                                      Med
+12039 Budgetramme Center for Teknik og Miljø       29.078        28.878        28.118        28.118
+                                                                                                      overførselsadgang
+                                                                                                      Med
+12041 Budgetramme Center for Job & Social          60.319        60.720        59.324        60.152
+                                                                                                      overførselsadgang
+                                                                                                      Med
+12042 Budgetramme Center f. Velfærd og Omsorg       8.481         8.225         8.225          8.225
+                                                                                                      overførselsadgang
+                                                                                                      Med
+12044 Borgerrådgiver                                  957           957           957            957
+                                                                                                      overførselsadgang
+                                                                                                      Uden
+12045 Tjenestemandspensioner                       12.489        12.489        12.489        12.489
+                                                                                                      overførselsadgang
+                                                                                                      Med
+12046 Budgetramme Center f. Borgerservice/Digi     28.745        28.699        28.590        28.496
+                                                                                                      overførselsadgang
+       Udlejning m.v.                               -6.181        -9.418        -9.946         -8.474
+                                                                                                      Uden
+13050 Udlejningsboliger                             -1.192        -1.172        -1.422        -2.050
+                                                                                                      overførselsadgang
+                                                                                                      Uden
+13051 Ældreboliger                                  -5.113        -8.370        -8.648        -6.548
+                                                                                                      overførselsadgang
+                                                                                                      Uden
+13052 Forpagtningsafgifter m.v.                          -74           -74           -74          -74
+                                                                                                      overførselsadgang
+
+
+
+                                                    Side - 1
+Bilag 4 - Bevillingsoversigt det tekniske budget 2027-2030
+
+          Udvalg / Politikområde / Bevilling                                                    Overførsels-
+ Nr.                                             2027         2028        2029        2030
+                1.000 kr. 2027 priser                                                           adgang
+                                                                                                Uden
+13053 Støttet boligbyggeri                           198          198         198        198
+                                                                                                overførselsadgang
+       Beredskab                                   9.071        9.071       9.071       9.071
+                                                                                                Med
+13555 Beredskab                                    9.071        9.071       9.071       9.071
+                                                                                                overførselsadgang
+       IT og Digitalisering                       23.572       23.572      23.572      23.572
+                                                                                                Med
+13858 IT OG Digitalisering                        23.572       23.572      23.572      23.572
+                                                                                                overførselsadgang
+       Forsikringer og Vikarpuljer                19.067       19.067      19.067      19.067
+                                                                                               Uden
+14060 Bygnings- og løsøreforsikringer              3.630        3.630       3.630       3.630
+                                                                                               overførselsadgang
+                                                                                               Uden
+14061 Arbejdsskadeforsikringer                     4.930        4.930       4.930       4.930
+                                                                                               overførselsadgang
+                                                                                               Uden
+14062 Fælles vikarpulje                           10.507       10.507      10.507      10.507
+                                                                                               overførselsadgang
+       Gebyrer                                      -593         -593        -593         -593
+                                                                                               Uden
+15065 Gebyrer                                       -593         -593        -593         -593
+                                                                                               overførselsadgang
+       Puljer til sparemål                        34.988        -3.133      -2.680      -2.538
+                                                                                               Med
+17080 Råderum og gæld                             34.988       -3.133      -2.680      -2.538
+                                                                                               overførselsadgang
+       Udvalget for Kultur & Fritid               42.433       41.862      41.780      41.780
+       Kultur & Fritid                            42.433       41.862      41.780      41.780
+                                                                                              Med
+21010 Fælles faciliteter                           5.118        5.118       5.118       5.118
+                                                                                              overførselsadgang
+                                                                                              Med
+21011 Idrætshaller                                 1.727        1.727       1.727       1.727
+                                                                                              overførselsadgang
+                                                                                              Med
+21012 Bibliotek & Arkiv                           10.257       10.257      10.257      10.257
+                                                                                              overførselsadgang
+                                                                                              Med
+21014 Fritidsaktiviteter m.v. under folkeoplys     6.242        6.242       6.242       6.242
+                                                                                              overførselsadgang
+                                                                                              Med
+21016 Tilskud t/ kulturelle opg, museer m.v.       7.746        7.746       7.746       7.746
+                                                                                              overførselsadgang
+                                                                                              Med
+21017 Eksterne projektmidler                         652             81          -0        -0
+                                                                                              overførselsadgang
+                                                                                              Med
+21019 Turisme                                           -             -           -         -
+                                                                                              overførselsadgang
+                                                                                              Med
+21020 Musik-, billede- og ungdomsskole            10.689       10.689      10.689      10.689
+                                                                                              overførselsadgang
+       Udvalget for Børn & Ungdom                700.020      699.797     702.631     705.426
+       Skoletilbud                               385.567      384.487     385.951     390.531
+                                                                                              Med
+31010 Fælles udgifter og indtægter                34.183       31.686      34.072      38.652
+                                                                                              overførselsadgang
+                                                                                              Uden
+31011 Forældrebetaling SFO                       -42.593      -42.593     -42.593     -42.593
+                                                                                              overførselsadgang
+                                                                                              Uden
+31012 Fripladser, søskenderabet m.v.              15.073       15.073      15.073      15.073
+                                                                                              overførselsadgang
+                                                                                              Med
+31013 Bet. til/fra stat & kommuner -skoler & s    40.841       40.841      40.841      40.841
+                                                                                              overførselsadgang
+                                                                                              Med
+31014 Allerslev skole                             57.381       56.266      56.468      56.468
+                                                                                              overførselsadgang
+
+
+                                                   Side - 2
+Bilag 4 - Bevillingsoversigt det tekniske budget 2027-2030
+
+          Udvalg / Politikområde / Bevilling                                                Overførsels-
+ Nr.                                           2027         2028       2029       2030
+                1.000 kr. 2027 priser                                                       adgang
+                                                                                          Med
+31015 Bramsnæsvig skole                         33.228       33.847     32.934     32.934
+                                                                                          overførselsadgang
+                                                                                          Med
+31016 Hvalsø skole                              57.092       58.584     59.190    59.190
+                                                                                          overførselsadgang
+                                                                                          Med
+31017 Kirke Saaby skole                         28.011       29.509     30.407    30.407
+                                                                                          overførselsadgang
+                                                                                          Med
+31018 Kirke Hyllinge skole                      33.909       35.064     35.393    35.393
+                                                                                          overførselsadgang
+                                                                                          Med
+31019 Osted skole                               20.344       19.716     19.513    19.513
+                                                                                          overførselsadgang
+                                                                                          Med
+31020 Trællerup skole                           24.984       25.964     26.706    26.706
+                                                                                          overførselsadgang
+                                                                                          Med
+31021 Firkløverskolen                           36.635       36.635     36.635    36.635
+                                                                                          overførselsadgang
+                                                                                          Med
+31022 Ungdomsskolen                                   -            -          -         -
+                                                                                          overførselsadgang
+                                                                                          Med
+31023 Specialundervisningen mv.                 42.715       40.131     37.547    37.547
+                                                                                          overførselsadgang
+                                                                                          Med
+31025 Ungdommens Uddannelsesvejledning           3.763        3.763      3.763      3.763
+                                                                                          overførselsadgang
+       Børn, Unge og Familie                   117.973      117.346    116.378    116.069
+                                                                                          Uden
+32032 Det specialiserede børneområde            71.715       71.085     70.055    69.639
+                                                                                          overførselsadgang
+                                                                                          Med
+32034 Pædagogisk psykologisk rådgivning         15.521       15.524     15.519    15.511
+                                                                                          overførselsadgang
+                                                                                          Med
+32035 Familiehuset                              16.529       16.529     16.529    16.529
+                                                                                          overførselsadgang
+                                                                                          Med
+32037 Tandplejen                                14.208       14.208     14.275    14.391
+                                                                                          overførselsadgang
+       Dagtilbud                               196.480      197.964    200.302    198.826
+                                                                                          Med
+33020 Birken                                     8.017        8.106      8.243      8.263
+                                                                                          overførselsadgang
+                                                                                          Med
+33021 Børnehuset Den Grønne Kile                19.488       19.758     20.159    20.207
+                                                                                          overførselsadgang
+                                                                                          Med
+33022 Børnehuset Fjordly                         6.379        6.448      6.551      6.565
+                                                                                          overførselsadgang
+                                                                                          Med
+33023 Børnehuset Skjoldungerne                  21.898       22.221     22.688    22.732
+                                                                                          overførselsadgang
+                                                                                          Med
+33025 Lærkereden                                 6.668        6.775      6.909      6.901
+                                                                                          overførselsadgang
+                                                                                          Med
+33026 Myreturen                                  8.384        8.481      8.628      8.648
+                                                                                          overførselsadgang
+                                                                                          Med
+33027 Møllebjerghave                             8.466        8.560      8.705      8.728
+                                                                                          overførselsadgang
+                                                                                          Med
+33028 Møllehuset                                 8.899        9.023      9.195      9.204
+                                                                                          overførselsadgang
+                                                                                          Med
+33029 Osted børnehus                            16.036       16.233     16.539    16.590
+                                                                                          overførselsadgang
+                                                                                          Med
+33030 Skovvejens børnehave                       5.350        5.324      5.346      5.411
+                                                                                          overførselsadgang
+                                                                                          Med
+33031 Solsikken                                  8.674        8.781      8.938      8.956
+                                                                                          overførselsadgang
+
+
+
+
+                                                 Side - 3
+Bilag 4 - Bevillingsoversigt det tekniske budget 2027-2030
+
+           Udvalg / Politikområde / Bevilling                                                   Overførsels-
+ Nr.                                             2027         2028        2029        2030
+                 1.000 kr. 2027 priser                                                          adgang
+                                                                                              Med
+33032 Tusindfryd                                  10.860       10.996      11.201      11.228
+                                                                                              overførselsadgang
+                                                                                              Med
+33033 Lejre Børnehus                              13.674       13.879      14.413      14.431
+                                                                                              overførselsadgang
+                                                                                              Med
+33034 Hvalsø Børnehus                              9.249        9.375       9.553       9.565
+                                                                                              overførselsadgang
+                                                                                              Med
+33036 Selvejende institutioner                    15.403       15.448      15.617      15.743
+                                                                                              overførselsadgang
+                                                                                              Med
+33040 Fællesudgifter dagtilbud m.v.                7.668        7.868       7.868       6.122
+                                                                                              overførselsadgang
+                                                                                              Med
+33041 Tilskudsordninger og demografi              35.508       35.398      35.399      35.401
+                                                                                              overførselsadgang
+                                                                                              Uden
+33042 Forældrebetaling dagtilbud                 -51.391      -52.056     -53.152     -53.394
+                                                                                              overførselsadgang
+                                                                                              Uden
+33043 Fripladser, søskendetilskud m.v.            11.564       11.662      11.813      11.837
+                                                                                              overførselsadgang
+                                                                                              Med
+33045 Dagplejen                                   12.622       12.622      12.622      12.622
+                                                                                              overførselsadgang
+                                                                                              Med
+33046 Særlige dagtilbudspladser i Den Grønne K     2.123        2.123       2.123       2.123
+                                                                                              overførselsadgang
+                                                                                              Med
+33070 Sundhedsplejen                               5.965        5.965       5.965       5.965
+                                                                                              overførselsadgang
+                                                                                              Med
+33071 Ressourcepædagoger i dagtilbud               4.976        4.976       4.976       4.976
+                                                                                              overførselsadgang
+       Udvalget for Trafik, Miljø & Byggeri      118.351      115.941     115.609     115.609
+                                                                                                Med
+       Teknik og Miljø                             5.386        5.386       5.438       5.438
+                                                                                                overførselsadgang
+                                                                                              Med
+41010 Natur, Miljø og Plan                         4.211        4.211       4.263       4.263
+                                                                                              overførselsadgang
+                                                                                              Med
+41011 IT-Fagsystemer (GIS)                         1.097        1.097       1.097       1.097
+                                                                                              overførselsadgang
+41012 Byfornyelse                                       79           79          79        79
+       Veje og Trafik                             56.957       55.847      55.847      55.847
+                                                                                               Med
+42020 Vej og Park                                 31.651       31.647      31.647      31.647
+                                                                                               overførselsadgang
+                                                                                               Uden
+42024 Kollektiv trafik                            23.266       22.161      22.161      22.161
+                                                                                               overførselsadgang
+                                                                                               Uden
+42026 Vejbelysning og vejafvandingsbidrag          2.039        2.039       2.039        2.039
+                                                                                               overførselsadgang
+       Forsyningsvirksomhed                         -899         -899        -593         -593
+                                                                                               Uden
+42527 Renovation                                    -645         -645        -645         -645
+                                                                                               overførselsadgang
+                                                                                               Uden
+42528 Rottebekæmpelse                               -254         -254            52         52
+                                                                                               overførselsadgang
+       Ejendomsdrift                              56.906       55.606      54.916       54.916
+                                                                                               Med
+43030 Ejendomsvedligeholdelse                      1.561        1.561       1.561        1.561
+                                                                                               overførselsadgang
+                                                                                               Med
+43031 Drift af administrationsbygninger            4.319        4.319       4.474        4.474
+                                                                                               overførselsadgang
+                                                                                               Uden
+43032 Energiforbrug                               14.841       13.541      12.541      12.541
+                                                                                               overførselsadgang
+
+
+
+                                                   Side - 4
+Bilag 4 - Bevillingsoversigt det tekniske budget 2027-2030
+
+          Udvalg / Politikområde / Bevilling                                                  Overførsels-
+ Nr.                                             2027         2028       2029       2030
+                1.000 kr. 2027 priser                                                         adgang
+                                                                                            Med
+43034 Samordnet Rengøring                         26.823       26.823     26.823     26.823
+                                                                                            overførselsadgang
+                                                                                            Med
+43035 Tekniske Servicefunktioner                   9.362        9.362      9.517      9.517
+                                                                                            overførselsadgang
+       Udvalget for Job, Arbejdsmarked &
+                                                 416.761      433.879    449.872    471.762
+       Integr
+       Jobcenter                                 416.761      433.879    449.872    471.762
+                                                                                            Uden
+51010 STU og FGU                                  14.921       14.919     15.079     15.079
+                                                                                            overførselsadgang
+                                                                                            Uden
+51011 Arb.mar.foranst. og forsørgerydelser       108.297      102.606    102.590    104.276
+                                                                                            overførselsadgang
+                                                                                            Uden
+51012 Introdukt.program udlænd. & ydelser         -1.850       -1.096       -895       -609
+                                                                                            overførselsadgang
+                                                                                            Uden
+51013 Sygedagpenge                                58.274       67.510     70.937     73.411
+                                                                                            overførselsadgang
+                                                                                            Uden
+51014 Dagpenge til forsikrede ledige              49.683       52.065     54.045     57.163
+                                                                                            overførselsadgang
+                                                                                            Uden
+51016 Førtids- & seniorpension                   187.436      197.875    208.117    222.443
+                                                                                            overførselsadgang
+       Udvalget for Social, Sundhed & Ældre      546.933      550.864    568.876    571.045
+       Velfærd og Omsorg                         329.123      332.561    349.821    352.055
+                                                                                             Med
+61010 Fællesudgifter CVO                           9.763        7.553      7.553      7.553
+                                                                                             overførselsadgang
+                                                                                             Uden
+61012 Akt.bestemt medfinans. af sundhedsvæsen      2.308             0          0          0
+                                                                                             overførselsadgang
+                                                                                             Med
+61014 Visitation                                  94.576      100.450    115.880    117.231
+                                                                                             overførselsadgang
+                                                                                             Med
+61018 Hjemme- og Sygepleje                        46.800       47.316     47.817     48.260
+                                                                                             overførselsadgang
+                                                                                             Med
+61020 Genoptræning, sundhed og forebyggelse       37.663       38.168     38.655     39.095
+                                                                                             overførselsadgang
+                                                                                             Med
+61021 Aktivitetscentre                             1.396        1.396      1.396       1.396
+                                                                                             overførselsadgang
+                                                                                             Med
+61022 Sundhed og Udvikling                              -            -          -          -
+                                                                                             overførselsadgang
+                                                                                             Med
+61023 Plejehjemmet Ammershøjparken                47.838       47.911     47.911     47.911
+                                                                                             overførselsadgang
+                                                                                             Med
+61024 Plejehjemmet Bøgebakken                     45.194       46.110     46.953     46.953
+                                                                                             overførselsadgang
+                                                                                             Med
+61025 Hvalsø Plejehjem                            29.709       29.782     29.782     29.782
+                                                                                             overførselsadgang
+                                                                                             Med
+61026 SSH- og SSA elever                          13.875       13.875     13.875     13.875
+                                                                                             overførselsadgang
+       Sociale tilbud                            196.779      196.678    196.726     196.048
+                                                                                             Uden
+62031 Det specialiserede voksenområde myndighe   192.087      191.985    192.034    191.356
+                                                                                             overførselsadgang
+                                                                                             Med
+62033 Team Bostøtte                                7.221        7.221      7.221       7.221
+                                                                                             overførselsadgang
+                                                                                             Med
+62034 Solvang                                     -1.298       -1.298     -1.298      -1.298
+                                                                                             overførselsadgang
+                                                                                             Med
+62035 Bramsnæsvig                                 -1.348       -1.348     -1.348      -1.348
+                                                                                             overførselsadgang
+
+
+
+
+                                                   Side - 5
+Bilag 4 - Bevillingsoversigt det tekniske budget 2027-2030
+
+           Udvalg / Politikområde / Bevilling                                                Overførsels-
+ Nr.                                              2027         2028      2029      2030
+                 1.000 kr. 2027 priser                                                       adgang
+                                                                                             Med
+62036 Bofællesskaber                                  117         117       117       117
+                                                                                             overførselsadgang
+       Diverse ydelser m.v.                        21.031       21.625    22.330    22.942
+                                                                                           Med
+63041 Støtte frivilligt socialt arbejde               380         380       380       380
+                                                                                           overførselsadgang
+                                                                                           Uden
+63044 Udbetaling Danmark m.v.                      20.651       21.245    21.950    22.562
+                                                                                           overførselsadgang
+       Udvalget for Erhverv,Klima,Lokal udv
+                                                    3.529        3.632     3.511     3.634
+       &T
+       Erhverv, Klima, Lokal udvikling & Turism     3.529        3.632     3.511     3.634
+                                                                                           Med
+71010 Erhverv, Klima & Lokal udvikling              2.020        2.123     2.001     2.125
+                                                                                           overførselsadgang
+                                                                                           Med
+71011 Turisme                                       1.509        1.509     1.509     1.509
+                                                                                           overførselsadgang
+
+
+
+
+                                                    Side - 6
+

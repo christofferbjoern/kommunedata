@@ -1,0 +1,421 @@
+# kilde: filer/Rebild/regneark_1_12_aendringsoversigt.pdf | metode: pdftotext
+
+Ændringer fra oprindelig budget 2026 til 2027 samt overslagsår
+
+Beskæftigelses-, Social- og Uddannelsesudvalget
+                                       Sektor 1: Arbejdsmarked
+                                                                                   2027       2028       2029       2030
+Beløb i mio. kr.
+                                                                                   Netto      Netto      Netto      Netto
+Opr.budget 2026 i 2027 priser                                                       495,43     495,43     495,43     495,43
+B2026 i balance                                          Politisk beslutning           0,87       1,18       1,32       1,32
+Demografi pulje 2027-2029                                Demografi/konjunktur          6,13      12,27      18,35      18,35
+Stigende effekt beskæftigelsesreform                     Politisk beslutning          -2,89      -3,94      -4,39      -4,39
+Budgetudgangspunkt 2027                                                             499,50     504,90     510,72     510,72
+Nulstilling af demografipulje                            Demografi/konjunktur         -6,13     -12,27     -18,40     -18,40
+Konjunkturændring 2027, ledige                           Demografi/konjunktur         -1,78      -1,78      -1,78      -1,78
+Konjunkturændring 2027, sygemeldte                       Demografi/konjunktur          0,94       0,94       0,94       0,94
+Konjunkturændring 2026, øvrige ydelser                   Demografi/konjunktur          0,22       0,22       0,22       0,22
+Konjunkturændring 2026, førtids- og seniorpension        Demografi/konjunktur         -0,61      -0,61      -0,61      -0,61
+Tildelingsmodel 2026 STU og FGU                          Demografi/konjunktur          2,33       2,33       2,33       2,33
+Demografivækst 2028-2030                                 Demografi/konjunktur          0,00       6,00      12,00      18,00
+Budget i alt                                                                        494,47     499,73     505,42     511,42
+Ændringer i alt                                                                      -0,92        4,34       9,98     15,98
+
+Beskæftigelses-, Social- og Uddannelsesudvalget
+                                       Sektor 11: Voksne med særlige behov
+                                                                                   2027       2028       2029       2030
+Beløb i mio. kr.
+                                                                                   Netto      Netto      Netto      Netto
+Opr.budget 2026 i 2027 priser                                                       183,97     183,97     183,97     183,97
+Akt25, 16 - Omlægning af indsatsen mod hjemløse          Politisk beslutning           0,19       0,00       0,00       0,00
+Akt25, 57 - Opgavebortfald- regionalt dobbeltdiagnoset   Politisk beslutning          -0,21       0,00       0,00       0,00
+Udgiftsstigning landstendens 2025-2027                   Demografi/konjunktur          4,94       4,94       4,94       4,94
+Udgiftsstigning landstendens 2027-2029                   Demografi/konjunktur          0,51       5,13     10,27      10,27
+Budgetudgangspunkt 2027                                                             189,40     194,05     199,18     199,18
+Fordeling budget                                         Teknisk korrektion            0,00       0,00       0,00       0,00
+B27 Tildelingsmodel voksne/BPA                           Demografi/konjunktur          2,49       2,49       2,49       2,49
+B27-Udgiftsstigning Landstendens 2030                    Demografi/konjunktur          0,00       0,00       0,00       5,13
+Boformer-teknisk korrektion                              Teknisk korrektion            0,00       0,00       0,00       0,00
+Budget i alt                                                                        191,90     196,55     201,68     206,81
+Ændringer i alt                                                                       7,92      12,57      28,30      22,83
+
+Beskæftigelses-, Social- og Uddannelsesudvalget                                    686,36     696,27     707,10     718,23
+
+Børne- og Familieudvalget                                Sektor 3: Børn og unge med særlige behov
+                                                                                   2027       2028       2029       2030
+Beløb i mio. kr.
+                                                                                   Netto      Netto      Netto      Netto
+Opr.budget 2026 i 2027 priser                                                        87,37      87,37      87,37      87,37
+Prognose demografi                                       Demografi/konjunktur          2,10       4,18       6,24       6,24
+Budgetudgangspunkt 2027                                                              89,48      91,55      93,62      93,62
+Tildelingsmodel (foreløbig)                              Demografi/konjunktur          0,38       0,38       0,38       0,38
+Tilpasning demografi i overslagsår                       Demografi/konjunktur          0,00       0,00       0,00       2,00
+Fordeling budget (Udgift/indtægt)                        Teknisk korrektion            0,00       0,00       0,00       0,00
+Budget i alt                                                                         89,86      91,93      94,00      96,00
+Ændringer i alt                                                                       2,48       4,56       6,62       8,62
+
+Børne- og Familieudvalget                                Sektor 4: Dagtilbud
+                                                                                   2027       2028       2029       2030
+Beløb i mio. kr.
+                                                                                   Netto      Netto      Netto      Netto
+Opr.budget 2026 i 2027 priser                                                       207,90     207,90     207,90     207,90
+Prognose demografi                                       Demografi/konjunktur          0,00       1,77       3,22       3,22
+Budgetudgangspunkt 2027                                                             207,90     209,66     211,11     211,11
+Demografi/tildeling dagtilbud                            Demografi/konjunktur          1,16       1,16       1,16       1,16
+Regulering mellemkommunale betalinger                    Demografi/konjunktur         -1,74      -1,74      -1,74      -1,74
+Demografi/tildeling særlige dagtilbud                    Demografi/konjunktur         -5,15      -5,15      -5,15      -5,15
+Børnepakke - Finanslov 2026 fratruket andel vedr. skat   Aktstykke/ny lovgivning       9,74       9,74       9,74       9,74
+Nulstilling demografi 2027-2030                          Demografi/konjunktur          0,00      -1,77      -3,22      -3,22
+Prognose demografi (2028-2030                            Demografi/konjunktur          0,00       2,00       4,00       6,00
+Tilretning antal pladser specialtilbud Fuglereden        Demografi/konjunktur          0,00       0,00       0,00       0,00
+Budget i alt                                                                        211,91     213,90     215,90     217,90
+Ændringer i alt                                                                       4,01       6,01       8,00      10,00
+Børne- og Familieudvalget                                   Sektor 5: Folkeskole
+                                                                                      2027        2028        2029        2030
+Beløb i mio. kr.
+                                                                                      Netto       Netto       Netto       Netto
+Opr.budget 2026 i 2027 priser                                                          396,18      396,18      396,18      396,18
+Udviklingspulje (skatteprovenu)                          Politisk beslutning              4,07        6,28        6,28        6,28
+Folkeskolens kvalitetsprogram                            Politisk beslutning              0,29        1,48        1,48        1,48
+Prognose skoleområdet                                    Demografi/konjunktur             3,09        6,20        9,30        9,30
+Sænkelse af klasseloft                                   Politisk beslutning              0,15        0,15        0,15        0,15
+Budgetforlig 2025                                        Politisk beslutning             -2,12       -2,12       -2,12       -2,12
+Netværk Nord                                             Politisk beslutning             -0,48       -0,48       -0,48       -0,48
+Netværk Syd                                              Politisk beslutning             -0,48       -0,48       -0,48       -0,48
+Netværk Øst                                              Politisk beslutning             -0,48       -0,48       -0,48       -0,48
+B2025 Drift midlertidig skoleløsning                     Demografi/konjunktur             0,00       -0,85       -0,85       -0,85
+Budgetudgangspunkt 2027                                                                400,24      405,91      409,01      409,01
+Demografi Privat- og efterskoler 2027                    Demografi/konjunktur             0,03        0,03        0,03        0,03
+Demografi/tildeling skoler 2027                          Demografi/konjunktur             2,60        2,60        2,60        2,60
+Demografi/takstberegning SFO+SFO2 2027                   Demografi/konjunktur             0,18        0,18        0,18        0,18
+Regulering mellemkommunale betalinger (grænsekrydsere) Demografi/konjunktur               1,80        1,80        1,80        1,80
+Tildelingsmodel vidtgående specialundervisning           Demografi/konjunktur             0,21        0,21        0,21        0,21
+Prognose for demografi 2028-2030                         Demografi/konjunktur             0,00        3,00        6,00        9,00
+Nulstilling demografi 2027-2029                          Demografi/konjunktur            -3,11       -6,21       -9,32       -9,32
+Budgettilpasning inklusionsmidler 2027                   Demografi/konjunktur             0,60        0,60        0,60        0,50
+Aktstykke 2026 (nr 39) Lettilgængelige behandlingstilbud Aktstykke/ny lovgivning          0,52        0,52        0,00        0,00
+Demografi/takst SFO og SFO2 2027                         Demografi/konjunktur             0,38        0,38        0,38        0,38
+Nulstilling af forældrebetaling SFO+SFO2 Bælum           Demografi/konjunktur             0,61        0,61        0,61        0,61
+Budget i alt                                                                           403,96      409,52      412,00      415,00
+Ændringer i alt                                                                          7,86       13,42       15,89       18,79
+
+Børne- og Familieudvalget                                                              705,73      715,35      721,90      728,90
+
+
+Lokale Fællesskaber-, Kultur- og Fritidsudvalget
+                                         Sektor 7: Fritid
+                                                                                      2027        2028        2029        2030
+Beløb i mio. kr.
+                                                                                      Netto       Netto       Netto       Netto
+Opr.budget 2026 i 2027 priser                                                          42,124      42,124      42,124      42,124
+                                                                                        0,000       0,000       0,000       0,000
+Budgetudgangspunkt 2027                                                                42,124      42,124      42,124      42,124
+                                                                                        0,000       0,000       0,000       0,000
+Budget i alt                                                                           42,124      42,124      42,124      42,124
+Ændringer i alt                                                                          0,00        0,00        0,00        0,00
+
+Lokale Fællesskaber-, Kultur- og Fritidsudvalget
+                                         Sektor 8: Kultur og natur
+                                                                                      2027        2028        2029        2030
+Beløb i mio. kr.
+                                                                                      Netto       Netto       Netto       Netto
+Opr.budget 2026 i 2027 priser                                                           12,77       12,77       12,77       12,77
+Budget 2025-2028                                            Politisk beslutning           -1,4        -1,4        -1,4        -1,4
+Budgetforlig 2024 - Tilførsel til lokalomr. og fritidsl     Politisk beslutning             2,6         2,6         2,6         2,6
+Jf. budgetaftalen for 2024 skal beløbet stige i 2028        Politisk beslutning           0,00        2,64        2,64        2,64
+Budgetudgangspunkt 2027                                                                 14,01       16,65       16,65       16,65
+Aktstykke 2027 - Kulturelle opgaver overført fra regionen   Aktstykke/ny lovgivning       0,18        0,18        0,18        0,18
+Budget i alt                                                                            14,19       16,83       16,83       16,83
+Ændringer i alt                                                                          1,42        4,06        4,06        4,06
+
+Lokale Fællesskaber-, Kultur- og Fritidsudvalget                                        56,31       58,95       58,95       58,95
+
+
+Sundheds- og Ældreudvalget                                  Sektor 10: Pleje og omsorg
+                                                                                      2027        2028        2029        2030
+Beløb i mio. kr.
+                                                                                      Netto       Netto       Netto       Netto
+Opr.budget 2026 i 2027 priser                                                          296,47      296,47      296,47      296,47
+Akstykke 2025 - Indkøb af teknologi                      Politisk beslutning             -0,16       -0,16       -0,16       -0,16
+Demografimodel 2027 - prognose                           Demografi/konjunktur             2,50        2,50        2,50        2,50
+Demografimodel 2028 - prognose                           Demografi/konjunktur             0,00        2,73        2,73        2,73
+Demografimodel 2029 - prognose                           Demografi/konjunktur             0,00        0,00        3,49        3,49
+Sundhedsstrukturreformen - forventet budgetbalance (fjernet)
+                                                         Politisk beslutning              1,81        1,81        1,81        1,81
+Moderniseringsplanen - tildeling Skørping ÆC 2028        Politisk beslutning              0,00      14,20       14,20       14,20
+udligning mellemkommunal budgetubalance 25-27            Politisk beslutning           -2,20     -2,20      -2,20      -2,20
+Budgetudgangspunkt 2027                                                              298,42     315,35     318,84     318,84
+Demografimodel 2027 - tilpasning af prognose             Demografi/konjunktur           1,75      1,75       1,75       1,75
+Demografimodel 2028 - tilpasning af prognose             Demografi/konjunktur           0,00      1,99       1,99       1,99
+Demografimodel 2029 - tilpasning af prognose             Demografi/konjunktur           0,00      0,00       2,05       2,05
+Demografimodel 2030 - prognose                           Demografi/konjunktur           0,00      0,00       0,00       5,33
+Sundhedsstrukturreformen - forventet budgetbalance (fjernet)
+                                                         Politisk beslutning           -1,81     -1,81      -1,81      -1,81
+Mellemkommunale refusioner                               Teknisk korrektion             0,00      0,00       0,00       0,00
+Sundhedsreform - Udekørende akutfunktion og midlertidige pladser
+                                                         Aktstykke/ny lovgivning      -15,39    -15,39     -15,39     -15,39
+Sundhedsstrukturreformen - leje fra Regionen             Aktstykke/ny lovgivning       -1,19     -1,19      -1,19      -1,19
+Lejetab for lukkede fordelt 2026                         Politisk beslutning            0,00      0,00       0,00       0,07
+Budget i alt                                                                         281,77     300,69     306,23     311,63
+Ændringer i alt                                                                      -14,70       4,22       9,76     15,16
+
+Sundheds- og Ældreudvalget                                 Sektor 12: Sundhed
+                                                                                    2027       2028       2029       2030
+Beløb i mio. kr.
+                                                                                    Netto      Netto      Netto      Netto
+Opr.budget 2026 i 2027 priser                                                         185,62     185,62     185,62     185,62
+Aktstykke 2025 - Indkøb af teknologi                      Politisk beslutning          -0,10      -0,10      -0,10      -0,10
+Aktstykke 2025 - Initiativer sundhedsreform               Politisk beslutning           0,12       0,12       0,12       0,12
+Budget i balance 2026 - Sundhedsreform                    Politisk beslutning           1,79       1,79       1,79       1,79
+Sundhedsplejen - demografimodel 2027                      Demografi/konjunktur          0,05       0,05       0,05       0,05
+Sundhedsplejen - demografimodel 2028                      Demografi/konjunktur          0,00       0,02       0,02       0,02
+Budgetudgangspunkt 2027                                                               187,49     187,51     187,51     187,51
+Budget i balance 2026 - Sundhedsreform nulstilling        Politisk beslutning          -1,79      -1,79      -1,79      -1,79
+KMF udfases fra 2027 jf. sundhedsreformen                 Aktstykke/ny lovgivning    -120,91    -120,91    -120,91    -120,91
+Sundhedsplejen - demografimodel 2027 - Regulering         Demografi/konjunktur         -0,01      -0,01      -0,01      -0,01
+Sundhedsplejen - demografimodel 2028 - Regulering         Demografi/konjunktur          0,00       0,01       0,01       0,01
+Sundhedsplejen - demografimodel 2029 - Regulering         Demografi/konjunktur          0,00       0,00       0,02       0,02
+Sundhedsplejen - demografimodel 2030                      Demografi/konjunktur          0,00       0,00       0,00       0,04
+Tandplejen - demografimodel 2027                          Demografi/konjunktur          0,08       0,08       0,08       0,08
+Træning - tildelingsmodel 2027                            Demografi/konjunktur          0,16       0,16       0,16       0,16
+Aktstykke 2027 - Kræftplan V                              Aktstykke/ny lovgivning       0,20       0,20       0,20       0,20
+Sundhedsreform - Patientrettet forebyggelse               Aktstykke/ny lovgivning      -3,24      -3,24      -3,24      -3,24
+Sundhedsreform - Andel af specialiseret rehabilitering    Aktstykke/ny lovgivning      -0,27      -0,27      -0,27      -0,27
+Budget i alt                                                                           61,72      61,75      61,77      61,81
+Ændringer i alt                                                                     -123,90    -123,88    -123,85    -123,82
+
+Sundheds- og Ældreudvalget                                                          343,49     362,44     368,00     373,44
+
+
+Plan-, Klima- og Miljøudvalget                             Sektor 13: Ejendomme
+                                                                                    2027       2028       2029       2030
+Beløb i mio. kr.
+                                                                                    Netto      Netto      Netto      Netto
+Opr.budget 2026 i 2027 priser                                                         78,27      78,27      78,27      78,27
+Budgetforlig23 - nedklassificering grusveje               Politisk beslutning          -0,22      -0,44      -0,44      -0,44
+Tilretning driftsbudget ny daginst.                       Politisk beslutning          -0,41      -0,41      -0,41      -0,41
+Budgetudgangspunkt 2027                                                               77,64      77,42      77,42      77,42
+                                                                                        0,00       0,00       0,00       0,00
+Budget i alt                                                                          77,64      77,42      77,42      77,42
+Ændringer i alt                                                                       -0,63      -0,85      -0,85      -0,85
+
+Plan-, Klima- og Miljøudvalget                             Sektor 14: Forsyning
+                                                                                    2027       2028       2029       2030
+Beløb i mio. kr.
+                                                                                    Netto      Netto      Netto      Netto
+Opr.budget 2026 i 2027 priser                                                           0,00       0,00       0,00       0,00
+                                                                                        0,00       0,00       0,00       0,00
+Budgetudgangspunkt 2027                                                                 0,00       0,00       0,00       0,00
+                                                                                        0,00       0,00       0,00       0,00
+Budget i alt                                                                            0,00       0,00       0,00       0,00
+Ændringer i alt                                                                        0,00       0,00       0,00       0,00
+Plan-, Klima- og Miljøudvalget                             Sektor 15: Natur og miljø
+                                                                                       2027         2028        2029       2030
+Beløb i mio. kr.
+                                                                                       Netto        Netto       Netto      Netto
+Opr.budget 2026 i 2027 priser                                                              9,88         9,88        9,88       9,88
+Aktstykke 2026(42) efterreg. Indsatsplan2021               Politisk beslutning            -0,10        -0,10       -0,10      -0,10
+B2025 lokalplaner fordelt i 2026                           Politisk beslutning            -0,04        -0,04       -0,04      -0,04
+Budgetudgangspunkt 2027                                                                    9,75         9,75        9,75       9,75
+                                                                                           0,00         0,00        0,00       0,00
+Budget i alt                                                                               9,75         9,75        9,75       9,75
+Ændringer i alt                                                                          -0,13        -0,13       -0,13      -0,13
+
+Plan-, Klima- og Miljøudvalget                             Sektor 16: Veje og grønne områder
+                                                                                       2027         2028        2029       2030
+Beløb i mio. kr.
+                                                                                       Netto        Netto       Netto      Netto
+Opr.budget 2026 i 2027 priser                                                            33,37        33,37       33,37      33,37
+R2022 afledte driftudgifter stopper i 2026                 Politisk beslutning            -0,08        -0,08       -0,08      -0,08
+B26 Vintertjeneste materielinvestering i 2 år              Politisk beslutning             0,00        -0,52       -0,52      -0,52
+Budgetforlig nedklassificering veje                        Politisk beslutning            -0,90        -0,90       -0,90      -0,90
+Budgetforlig 2023 nedklassificering vej                    Politisk beslutning            -0,03        -0,03       -0,03      -0,03
+Budgetforlig 2023 nedklassificering vej                    Politisk beslutning            -1,64        -3,28       -5,47      -5,47
+Budgetudgangspunkt 2027                                                                  30,72        28,56       26,38      26,38
+Aktstykke 2027, slid på veje, tungevogntog                 Aktstykke/ny lovgivning         0,48         0,51        0,55       0,55
+Budget i alt                                                                             31,20        29,08       26,93      26,93
+Ændringer i alt                                                                          -2,17        -4,29       -6,44      -6,44
+
+Plan-, Klima- og Miljøudvalget                                                          118,59       116,25     114,09     114,09
+
+
+Økonomiudvalget                                            Sektor 17: Administration
+                                                                                        2027        2028        2029       2030
+Beløb i mio. kr.
+                                                                                        Netto       Netto       Netto      Netto
+Opr.budget 2026 i 2027 priser                                                            246,06       246,06     246,06     246,06
+Akt 2025-Det Fælleskommunale Ejendomsstamregister (ESR)   Politisk beslutning              -0,28        -0,28      -0,28      -0,28
+Aktstykket 2025 - Barnets lov                             Politisk beslutning               0,23         0,23       0,23       0,23
+Aktstykke 2026: Beskæftigelsesreform effekt service 26    Politisk beslutning              -3,06        -3,87      -4,03      -4,03
+Aktstykke 2026: Kontanthjælpsreform, systemudgifter (IT - kun    i 2026
+                                                          Politisk beslutning              -0,06        -0,06      -0,06      -0,06
+B2026 i balance: Beskæftigelsesindsatser, budget tilbag   Politisk beslutning               1,07         1,36       1,41       1,41
+Beskæftigelsesreform effekt i 2026-2029 - fremskrevet-tur retur
+                                                          Politisk beslutning              -0,10        -0,13      -0,13      -0,13
+Budgetforlig26 - Lokalplaner ekstern analyse - kun 2026   Politisk beslutning              -0,20        -0,20      -0,20      -0,20
+Cybersikkerhed - B2026                                    Politisk beslutning               0,02        -0,23      -0,23      -0,23
+Cybersikkerhed, drift (Budget i balance) - 2026           Politisk beslutning               1,01         2,02       2,02       2,02
+Ingen valg i 2027 og 2028                                 Politisk beslutning              -0,50        -0,50       0,00       0,00
+Lokalplaner og MIljø fra S. 15 til S. 17-kun 2026         Politisk beslutning              -1,45        -1,45      -1,45      -1,45
+Budgetudgangspunkt 2027                                                                  242,77       243,01     243,40     243,40
+ØK 12.02.2025 pkt 24: Kommunikationsmedarbejder i FCS Teknisk korrektion                    0,62         0,62       0,62       0,62
+Aktstykket 2026 - Brugerbetaling for godkendelse m.v. og tilsyn  (miljøbeskyttelse,
+                                                          Aktstykke/ny                     -0,14
+                                                                         lovgivning husdyrbrug          -0,14
+                                                                                               og gødning)         -0,14      -0,14
+Budgettilpasning - Erhvervsudviklingsrådet                Teknisk korrektion                0,00         0,00       0,00       0,00
+Aktstykke 2026 nr. 27 Terrænnært grundvand                Aktstykke/ny lovgivning           0,08         0,07       0,00       0,00
+Budget i alt                                                                             243,34       243,56     243,88     243,88
+Ændringer i alt                                                                           -2,75        -2,55      -2,22      -2,22
+
+Økonomiudvalget                                            Sektor 19: Fælles lønpuljer - personale
+                                                                                       2027         2028        2029       2030
+Beløb i mio. kr.
+                                                                                       Netto        Netto       Netto      Netto
+Opr.budget 2026 i 2027 priser                                                            25,05        25,05       25,05      25,05
+Budget 2025 - Demografipulje inkl. Nedregulering i 27 og 28Demografi/konjunktur            1,05         2,10        3,15       3,15
+Budgetudgangspunkt 2027                                                                  26,11        27,16       28,21      28,21
+Pulje udmøntet på baggrund af OK 2026                      Teknisk korrektion              2,00         2,00        2,00       2,00
+Budget 2025 - Demografipulje nulstilles.                   Demografi/konjunktur           -1,05        -2,10       -3,15      -3,15
+Budget i alt                                                                             27,06        27,06       27,06      27,06
+Ændringer i alt                                                                           2,00         2,00        2,00       2,00
+Økonomiudvalget                                        Sektor 20: Boligstøtte
+                                                                                2027       2028       2029       2030
+Beløb i mio. kr.
+                                                                                Netto      Netto      Netto      Netto
+Opr.budget 2026 i 2027 priser                                                     19,64      19,64      19,64      19,64
+                                                                                    0,00       0,00       0,00       0,00
+Budgetudgangspunkt 2027                                                           19,64      19,64      19,64      19,64
+Demografi i overslagsårene                             Demografi/konjunktur         0,00       0,50       1,00       1,50
+Budget i alt                                                                      19,64      20,14      20,64      21,14
+Ændringer i alt                                                                    0,00       0,50       1,00       1,50
+
+Økonomiudvalget                                                                 290,03     290,76     291,59     292,09
+
+ANLÆG                                                  Beskæftigelses-, Social- og Uddannelsesudvalget
+                                                                                2027       2028       2029       2030
+Beløb i mio. kr.
+                                                                                Netto      Netto      Netto      Netto
+                                                                                    0,00       0,00       0,00       0,00
+Budget i alt                                                                        0,00       0,00       0,00       0,00
+
+ANLÆG                                                  Børne- og familieudvalget
+                                                                                2027       2028       2029       2030
+Beløb i mio. kr.
+                                                                                Netto      Netto      Netto      Netto
+Budgetudgangspunkt 2027                                                             3,75       3,00       8,50       0,00
+                                                                                    0,00       0,00       0,00       8,50
+Budget i alt                                                                        3,75       3,00       8,50       8,50
+
+ANLÆG                                                  Lokale Fællesskaber-, Kultur- og Fritidsudvalget
+                                                                                2027       2028       2029       2030
+Beløb i mio. kr.
+                                                                                Netto      Netto      Netto      Netto
+Budgetudgangspunkt 2027                                                             3,78       2,23       2,00       0,00
+                                                                                    0,00       0,00       0,00       1,50
+Budget i alt                                                                        3,78       2,23       2,00       1,50
+
+ANLÆG                                                  Sundheds- og Ældreudvalget
+                                                                                2027       2028       2029       2030
+Beløb i mio. kr.
+                                                                                Netto      Netto      Netto      Netto
+Budgetudgangspunkt 2027                                                             2,20       2,20       2,45       0,00
+                                                                                    0,00       0,00       0,00       2,45
+Budget i alt                                                                        2,20       2,20       2,45       2,45
+
+ANLÆG                                                  Plan-, Klima- og Miljøudvalget
+                                                                                2027       2028       2029       2030
+Beløb i mio. kr.
+                                                                                Netto      Netto      Netto      Netto
+Budgetudgangspunkt 2027                                                           15,77      22,25      18,80        0,00
+Regulering asfalt flyttet fra 29 til 26 3,1 mio. kr.                                0,00       0,00      -3,10       0,00
+Budget i alt                                                                      15,77      22,25      15,70        0,00
+
+ANLÆG                                                  Økonomiudvalget
+                                                                                2027       2028       2029       2030
+Beløb i mio. kr.
+                                                                                Netto      Netto      Netto      Netto
+Budgetudgangspunkt 2027                                                           68,18      61,30      75,09        0,00
+                                                                                    0,00       0,00       0,00     70,45
+Prisfremskrivning Gro                                                               1,30       1,23       1,50       1,35
+Budget i alt                                                                      69,48      62,53      76,59      71,80
+
+Anlæg i alt                                                                       94,98      92,21    105,24       84,24
+
+FORSKYDNINGER                                                                   2027       2028       2029       2030
+                                                                                Netto      Netto      Netto      Netto
+P/L fremskrivning
+Fremskrivningsprocent                                                              0,00       0,00       0,00       0,00
+Beregnet fremskrivning                                                             0,00      47,63     110,98     177,58
+P/L fremskrivning I alt                                                            0,00      47,63    110,98     177,58
+
+Renter
+Renter - Kommunekredit                                                             3,12       3,15       3,00       2,77
+Renter - lån Danske Bank                                                           0,16       0,12       0,08       0,04
+Renter - Nykredit                                             0,08         0,08         0,08         0,08
+Renter - Ældreboliger                                         0,60         0,58         0,56         0,54
+Renter - Pengeinstitutter                                    -0,30        -0,05        -0,05         0,18
+Renteindtægt - obligationer                                  -3,40        -3,40        -3,40        -3,40
+Renteindtægt - diverse                                       -0,10        -0,10        -0,10        -0,10
+Garantiprovision forsyningsvirksomheder                      -2,60        -2,70        -2,80        -2,90
+Rente af indefrosne feriemidler                               0,46         0,53         0,61         0,40
+Renter i alt                                                -1,99        -1,80        -2,03        -2,40
+
+Lånafvikling/-optagelse (dranst 6)
+Afdrag KommuneKredit                                        27,28        27,39        25,61        24,48
+Afdrag Nykredit                                               0,06         0,06         0,06         0,06
+Afdrag til pengeinstitutter                                   0,95         0,95         0,95         0,95
+Afdrag Ældreboliger                                           2,51         2,54         2,56         2,59
+Lånoptag forventet (drans 7) (funktion 085570)               -4,50        -4,98        -7,53        -8,25
+Indefrosne feriemidler - afdrag (085573 drans 6)              2,10         2,10         2,10         0,40
+Lånafvikling/-optagelse i alt                               28,40        28,05        23,75        20,23
+
+Finansforskydninger
+Indskud i Landsbyggefonden                                   6,00         6,00         6,00         6,00
+Kirkeskatter                                                 0,00         0,00         0,00         0,00
+Afregning af mellemværende med Nordværk                      2,10         2,10         0,00         0,00
+Deponering vedrørende dagtilbud (leasing)                    0,00         0,00         0,00         0,00
+Moderniseringsplan - ældreområdet - flyttet til anlæg        0,00         0,00         0,00         0,00
+Moderniseringsplan - salg at Skørping ÆC                     0,00         0,00         0,00         0,00
+Moderniseringsplanen - indskud i landsbyggefonden            0,00         0,00         0,00         0,00
+Udvidet producent ansvar                                    0,616        0,616        0,616        0,616
+Udnyttelse af serviceramme                                 -10,00       -10,00       -10,00       -10,00
+Buffer serviceramme                                          0,00         0,00         0,00         0,00
+Udligning af effekten vedr. efterregulering for år           0,00         0,00         0,00         0,00
+Finansforskydninger i alt                                   -1,28        -1,28        -3,38        -3,38
+
+SKATTER                                                  2027         2028         2029         2030
+                                                         Netto        Netto        Netto        Netto
+Funktion 07.65:
+Forskudsskat inkl. Skråt skatteloft                      -1.842,10    -1.930,13    -2.009,90    -2.121,22
+Efterreg. Pga. selvbudgettering                              21,72        25,15        18,49         0,00
+Selskabsskat                                                -45,86       -41,82       -42,92       -44,92
+Grundskyld                                                  -91,90       -95,04       -93,57       -92,04
+Øvrige skatter                                               -0,94        -1,35        -1,35        -1,35
+Skatter i alt                                           -1.959,08    -2.043,18    -2.129,25    -2.259,53
+
+TILSKUD OG UDLIGNING                                    2027,00      2028,00      2029,00      2030,00
+
+Funktion 07.62:
+Kommunal udligning                                          43,68        47,41       49,200        68,96
+efterregulering 2024 - Udligning                           -47,10       -33,26      -16,169         0,00
+Statstilskud til kommuner                                 -240,36      -252,49     -263,004      -257,97
+Efterregulering 2024 - Statstilskud                          4,08         2,24       -3,885         0,00
+Kompensation af tab ved ændring i dækningsafgift            -3,66         0,00        0,000         0,00
+Udligning og tilskud udlæn.                                  8,33         8,79        9,346         9,45
+Udligning af selskabsskat                                  -17,40       -22,49      -22,914       -23,82
+Modregning - skattestigning 2023-2024                        6,56         0,00        0,000         0,00
+Generelt løft af ældreplejen                                -4,73        -4,85       -4,978        -5,11
+Kvalitet i ældreplejen                                      -6,34        -6,50       -6,670        -6,85
+Bedre dagtilbud                                             -4,37        -4,48       -4,598        -4,72
+Udviklingsbidrag - sundhed                                   4,11         4,23        4,370         4,51
+Tilskud styrkelse kommunernes likviditet                   -28,30       -28,30      -28,296       -28,30
+Tilskud til værdig ældrepleje                               -6,64        -6,80       -6,986        -7,17
+Pulje til bekæmpelse af ensomhed                            -0,64        -0,65       -0,670        -0,69
+Kompensationsordning vedrørende grundskyld                  -1,30         0,00        0,000         0,00
+Overgangsordning vedr. sundhedsreform (skøn)                -0,51        -0,51       -0,506        -0,51
+Ekstra finansieringstilskud                                -16,44        -8,99        0,000         0,00
+Forventet demografiløft fra regeringsaftaler                 0,00        -5,00      -10,000       -15,00
+Generelle tilskud i alt                                  -311,00      -311,63      -305,76      -267,22
+

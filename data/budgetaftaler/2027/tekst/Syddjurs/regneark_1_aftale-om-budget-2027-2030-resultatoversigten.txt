@@ -1,0 +1,20 @@
+# kilde: filer/Syddjurs/regneark_1_aftale-om-budget-2027-2030-resultatoversigten.pdf | metode: pdftotext
+
+Resultatoversigt aftale om budget 2027-2030
+Netto, hele mio. kr.                           2027     2028     2029     2030
+Tilskud og udligning og moms                    -570     -592     -586     -595
+Skatter                                       -2.880   -2.970   -3.085   -3.187
+Finansiering i alt                            -3.449   -3.562   -3.671   -3.782
+Driftsudgifter og statsrefusion                3.319    3.330    3.340    3.355
+PL stigning i overslagsårene                       0      88      186      289
+Renter                                            -1      -1       -1       -2
+Resultat af ordinær drift                      -131     -146     -146     -140
+Bruttoanlæg                                     153      158      147      140
+Plejeboliger                                     12       18       26       40
+Anlægsindtægter                                 -39      -41      -30      -30
+Anlægsvirksomhed i alt                          126      135      144      150
+Øvrige                                          -22       -3       -1       -1
+Afdrag                                           57       51       48       43
+Optagelse af lån                                -15      -23      -33      -50
+Resultat                                         14       15       12        1
+

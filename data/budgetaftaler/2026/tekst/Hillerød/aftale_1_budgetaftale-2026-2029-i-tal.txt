@@ -1,0 +1,1078 @@
+# kilde: filer/Hillerød/aftale_1_budgetaftale-2026-2029-i-tal.pdf | metode: pdftotext
+
+Budgetaftale 2026-2029
+
+Mio.kr. , netto, årets priser                                                   2025                   2026                2027              2028                      2029
+                                                                         Korrigeret
+                                                                          Budget                Budget              Budget             Budget                Budget              26 27 28 29
+DRIFTS OG ANLÆGSUDGIFTER:
+Skatter                                                                        -4.032,8        -4.299,018           -4.565,354 -4.752,349                      -4.813,563
+Refusion købsmoms                                                                  -1,5             0,000                0,000      0,000                           0,000
+Tilskud og udligning                                                             -178,2           -93,833               80,529     78,344                         -19,122
+Driftsudgifter                                                                  3.975,5         4.095,291            4.142,381 4.139,690                        4.144,153
+Renter                                                                              5,6             4,267                3,341      3,391                           3,441
+Resultat af ordinær drift                                                        -231,5          -293,293             -339,103   -530,924                        -685,091
+Anlægsudgifter (HK 0, 2-6)                                                        128,9           186,672              548,900    273,296                         247,440
+Anlægsindtægter (HK 0, 2-6)                                                                       -11,346              -19,429     -0,500                         -10,500
+Skattefinansieret område ialt                                                     -102,5         -117,967              190,369   -258,128                        -448,151
+Anlægsudgifter (HK 1 - brugerfinansieret og uden for anlægsloft)                                    0,000                0,000      0,000                           0,000
+Brugerfinansieret område ialt                                                                       0,000                0,000      0,000                           0,000
+Pris og lønskøn FF&AU                                                                                                    1,903      2,234                          -1,146
+Pris og lønskøn AØ                                                                                                       3,248      2,383                           0,892
+Pris og lønskøn i alt                                                                0,0            0,000              156,160    306,846                         472,896
+Årets resultat, ekskl. HK 1 - brugerfinansieret anlæg                             -102,5         -117,967              351,680     53,336                          24,490
+
+KAPITALBEVÆGELSER:
+Årets resultat, inkl. HK 1 - brugerfinansieret anlæg                              -102,5         -117,967              351,680             53,336                   24,490
+Låneoptagelse                                                                      -33,8          -14,522              -14,522            -14,522                  -14,522
+Afdrag på lån                                                                       35,8           33,352               32,150             32,650                   33,150
+Finansforskydninger                                                                 74,9          -11,023              -11,077            -10,278                  -10,577
+
+Ændring af likviditet ('POSITIVT TAL er lig med forbrug af likvider)
+** inkl. korrektioner vedr. likviditetstræk                                         -25,7        -110,160              358,231             61,186                   32,541
++ = udgift/underskud - = indtægt/overskud
+
+
+                                                                       forventet kasse ult.   forventet kasse   forventet kasse ult. forventet kasse
+                                                                              2025                ult.2026             2027              ult. 2028   forventet kasse ult. 2029
+Likviditet ultimo 30.06.2025 (423,694 mio. kr.)                                449,348            559,508              201,277           140,091                  107,550
+OBS - udgangspunkt for kassen
+
+
+
+NØGLETAL:
+Skatteprocent                                                                      25,60              25,60                25,60            25,60                     25,60
+Grundskyldspromille *) - Produktionsjord                                                               5,85                 5,85             5,85                      5,85
+
+  08-09-2025 kl. 10:40                                                                                                                                                           Budgetaftale 2026-2029 i tal
+Grundskyldspromille *) - Øvrige ejendomme                                                                     20,65          6,60           6,60         6,60           6,60
+Langfristet gæld - skattefinans.                                                                              641,9         623,1          605,5        587,3          568,7
+Servicerammen (med pl - dvs i løbende priser) overslagsår beregnet                                          2.978,2       3.090,9        3.186,7      3.275,9        3.367,6
+Udgifter indenfor servicerammen (med pl - dvs i løbende priser)                                                           3.110,3        3.207,1      3.307,1        3.466,4
++ = udgift/underskud - = indtægt/overskud
+
+*) fra 2024 omlægges beskatning for boligejere fra afgiftspligtige grundværdier til beskatning direkte på
+grundværdien for ejendomsejere. Grundskyldspromillen fastsættes ved lov.
+Mer (+) /Mindre (-) forbrug på af servicerammen                                                                            -0,002
+
+
+Serviceudgifter, Finansieringsforslag                                                                                     -60,958        -37,775      -45,061        -59,625
+Serviceudgifter, Aktivitetsudvidelser og afledt drift                                                                      41,524         70,170       70,622         50,685
+Overførselsudgifter FF og AU                                                                                               -0,610         -0,610       -0,610         -0,610
+
+Anlægsønsker afkrydset                                                                                                      73,9           73,0          35,3              9,8
+
+                                                                                                                      2025/2026     2025/2027      2025/2028 2025/2029
+
+PL-skøn Drift - juni 2025                                                                                                  0,031          0,060         0,090            0,120
+PL-skøn Anlæg - juni 2025                                                                                                  0,022          0,044         0,067            0,091
+
+
+
+
+  08-09-2025 kl. 10:40                                                                                                                                                           Budgetaftale 2026-2029 i tal
+FINANSIERINGSFORSLAG. FORSLAG DER ER MARKERET MED X I HØJRE KOLONNE INDGÅR I BUDGETFORSLAGET
+
+
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+Finansieringsforslag til budget
+
+
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                                            Akt. Service       2026      2027      2028      2029   Områdets           Godkendte
+Finansieringsforslag                                                                                 -61.568   -38.385   -45.671   -60.235    budget            korrektioner
+Akt. 11, Administrationen
+
+11FF2026-001 Indkøbsprovenu                                                            11   100       -1.200    -1.200    -1.200    -1.200     1.176.441
+11FF2026-001 Indkøbsprovenu                                                            11   100       -1.350    -1.200    -1.200    -1.200     1.176.441               x
+11FF2026-002 Lægeerklæringer                                                           11   100         -700      -700      -700      -700         3.484               x
+11FF2026-003 Administrationens fællesudgifter                                          11   100         -200      -200      -200      -200         1.284               x
+11FF2026-004 Puljebiler og biler i Visitation og Hjælpemidler                          11   100         -170      -170      -170      -170           433               x
+11FF2026-005 Forsikringspolitik                                                        11   100         -100      -100      -100      -100         1.097               x
+11FF2026-006 UDGÅR                                                                     11   100                                                                        x
+11FF2026-007 Monopolbrud – bortfald af udgifter til kritiske forudsætningssystemer     11   100        -750      -750      -750      -750          8.366               x
+11FF2026-008 Automatisering                                                            11   100        -300      -300      -300      -300                              x
+11FF2026-009 Ydelsesstøtte                                                             11   100        -100      -100      -100      -100          1.316               x
+11FF2026-010 Udvalgenes aktiviteter og printere til byrådet                            11   100        -100      -100      -100      -100            339
+NY11FF2026-010 Udvalgenes aktiviteter                                                  11   100                             -70       -70                              x
+NY11FF2026-010 Tilpasning af printere til byrådets medlemmer                           11   100         -30       -30       -30       -30                              x
+11FF2026-011 Tjenestemandspensioner                                                    11   100           0         0         0      -100         20.574               x
+11FF2026-012 Kompetenceudvikling                                                       11   100        -500      -500      -500      -500          4.262               x
+11FF2026-013 Administrativ lønreduktion - Borgerservice og Digitalisering              11   100        -350      -350      -350      -350        275.724               x
+11FF2026-013 Administrativ lønreduktion - Økonomi og opkrævning                        11   100        -450      -450      -450      -450        275.724               x
+11FF2026-013 Administrativ lønreduktion - Familie og Sundhed på stabsområdet           11   100        -250      -250      -250      -250        275.724               x
+11FF2026-013 Administrativ lønreduktion - HUV sfa. beskæftigelsesreform                11   100        -400      -400      -400      -400        275.724               x
+11FF2026-013 Administrativ lønreduktion - Omprioritering i klimaplanen 1 årsværk       11   100        -650      -650      -650      -650        275.724
+11FF2026-013 Administrativ lønreduktion - By og Miljø                                  11   100        -650      -650      -650      -650        275.724               x
+
+
+08-09-202510:40                                                                       Side 3 af 31                                                      Budgetaftale 2026-2029 i tal
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                                            Akt. Service     2026     2027     2028     2029    Områdets           Godkendte
+11FF2026-013 Administrativ lønreduktion - Social og Arbejdsmarkedsområdet sfa.
+beskæftigelsesreform                                                                   11   100      -1.800   -2.600   -2.600   -2.600       275.724               x
+NY11FF2026-013 B Administrativ lønreduktion - Social og Arbejdsmarkedsområdet sfa.
+Beskæftigelsesreform - stigende profl i ovslagsår jf. direktionens budgetoplæg         11   100          0    -2.106   -3.391   -3.639       275.724               x
+11FF2026-013 Administrativ lønreduktion - Residual                                     11   100       -813       -13      -13      -13       275.724               x
+11FF2026-014 Ændring af PC udskiftningscyklus fra hvert 4. år til hvert 5. år          11   100         84       -33   -5.774    5.180                             x
+
+
+
+Akt. 12, Ejendomme
+12FF2026-001 Nedlæggelse af ½ TSL stilling                                             12   100        -250     -250     -250     -250        22.050
+12FF2026-002 Rådgiverpulje                                                             12   100        -100     -100     -100     -100         1.000               x
+12FF2026-003 Forbrugsafgifter                                                          12   100      -1.000   -1.000   -1.000   -1.000        32.302               x
+12FF2026-004 Renovering af kommunale bygninger, anlæg på drift                         12   100      -1.750   -1.750   -1.750   -1.750        12.776               x
+12FF2026-005 Husleje grunde og bygninger                                               12   100        -200     -200     -200     -200        35.764               x
+12FF2026-006 Får og Bjørneklo                                                          12   100         -30      -30      -30      -30           356
+
+Akt. 13, Rengøring - Bestiller
+13FF2026-001 Reduktion i antallet af flyvere                                           13   100       -200     -200     -200     -200          7.920               x
+13FF2026-002 Reduktion af rengøring på 4.-5. klassetrin                                13   100       -100     -100     -100     -100         21.226               x
+13FF2026-003 Hovedrengøring                                                            13   100       -347     -347     -347     -347          3.484
+13FF2026-004 Synlig rengøring, besparelse på tillæg for forskudt tid                   13   100       -233     -233     -233     -233          2.880               x
+
+Akt. 21, Natur, Miljø og Klima
+21FF2026-001 Naturpleje på kommunens arealer – reduktion                               21   100       -100     -100     -100     -100            845
+21FF2026-002 Drift på kommunens grønne arealer – reduktion                             21   100        -75      -75      -75      -75          3.242
+21FF2026-003 Bestillingsopgaver græsklipning                                           21   100        -94      -94      -94      -94            147               x
+
+Akt. 23, Kirkegårde
+23FF2025-001 Fjernelse af bænke og mindre biodiversitet på kirkegårdene                23   100        -66      -66      -66      -66          6.134
+
+Akt. 27, Ejendomme - Grøn drift
+
+
+
+08-09-202510:40                                                                       Side 4 af 31                                                  Budgetaftale 2026-2029 i tal
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                                              Akt. Service     2026     2027     2028     2029    Områdets           Godkendte
+Akt. 28, By og Miljø
+28FF2026-001 Opkrævning af byggesagsgebyr for afslag                                     28   100        -100    -100     -100     -100         -2.235               x
+28FF2026-002 Vejbelysning og signalstyring                                               28   100        -100    -100     -100     -100          1.920               x
+28FF2026-003 Forberedende projektering                                                   28   100        -200    -200     -200     -200            200               x
+28FF2026-004 Vedligeholdelse og renholdelse                                              28   100           0    -100     -100     -100          2.484               x
+28FF2026-005 Trafiksikkerhed                                                             28   100        -200    -200     -200     -200          2.191               x
+28FF2026-006 Belægninger veje                                                            28   100           0    -500     -500     -500         18.366               x
+28FF2026-007 Serviceteam                                                                 28   100        -100    -100     -100     -100          1.620               x
+28FF2026-008 Signaler                                                                    28   100        -200    -250     -250     -250            860               x
+28FF2026-009 Signalrenovering                                                            28   100        -200    -250     -250     -250          1.105               x
+28FF2026-010 Energirenovering                                                            28   100      -1.000    -300     -300     -300          6.137               x
+28FF2026-011 Administration                                                              28   100        -100    -100     -100     -100            520               x
+
+Akt. 31, Beskæftigelsesindsats
+31FF2026-001 Lønudgifter til borgere i kommunale løntilskud                              31   100        -27      -27      -27      -27           815
+NY31FF2026-001 Lønudgifter til borgere i kommunale løntilskud                            31   100       -100     -100     -100     -100           815                x
+
+Akt. 32, Specialiseret voksenområde
+32FF2026-001 Personalereduktioner på tilbuddene på det specialiserede voksenområde
+på hhv. 2 % og 4 % - scenarie A                                                          32   100      -1.213   -1.213   -1.213   -1.213       118.200
+32FF2026-001 Personalereduktioner på tilbuddene på det specialiserede voksenområde
+på hhv. 2 % og 4 % - scenarie B                                                          32   100      -2.426   -2.426   -2.426   -2.426       118.200
+32FF2026-002 Rammebesparelse på den socialfaglig myndighed – scenarie A                  32   100      -3.403   -3.403   -3.403   -3.403       278.000
+32FF2026-002 Rammebesparelse på den socialfaglig myndighed – scenarie B                  32   100      -2.190   -2.190   -2.190   -2.190       278.000               x
+32FF2026-003 Reduktion af Værestedets åbningsdage med personalebemanding                 32   100        -340     -340     -340     -340         1.000
+
+32FF2026-004 Nedbringelse af forbrug på krisecentre ved at øge indsatsen vedrørende
+vold i nære relationer. Forudsætter vedtagelse af 11AU2026-002 (investeringsforslag)     32   100       -600     -600     -600     -600         12.000               x
+32FF2025-005 Opfølgende vurdering af støtten til borgere med lettere støtte              32   100       -300     -300     -300     -300         23.900               x
+32FF2026-006 Ophæve samarbejdsaftale med TUBA om behandlingspladser til unge ml.
+25-35 år.                                                                                32   100       -193     -286     -286     -286           286
+32FF2026-007 Nedlæggelse af peer-funktion på Trollesbro                                  32   100       -417     -417     -417     -417           417                x
+
+
+
+08-09-202510:40                                                                         Side 5 af 31                                                  Budgetaftale 2026-2029 i tal
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                                             Akt. Service     2026     2027     2028     2029    Områdets       Godkendte
+32FF2026-008 Flytning af ungestøtte til voksenområdet                                   32   100       -500     -500     -500     -500        19.400          x
+
+Akt. 33, Forsørgelsesydelser
+
+Akt. 34, Ældreområdet
+34FF2026-001 Plejehjem - rammebesparelse                                                34   100      -5.100   -5.100   -5.100   -5.100      253.607
+34FF2026-002 Udvikling af det nære sundhedsvæsen - omlægning af aktivitet               34   100       -292     -292     -292     -292           292            x
+34FF2026-003 Fjernelse af udviklingsmidler - Sundhedscentret som fyrtårn                34   100       -250     -250     -250     -250           250            x
+34FF2026-004 Afskaffelse af tilbuddet - Samvær med demente                              34   100       -305     -305     -305     -305           305
+NY34FF2026-004 Tilpasning af tilbuddet - Samvær med demente                             34   100       -150     -150     -150     -150           305            x
+34FF2026-005 udgår                                                                      34   100
+34FF2026-006 Nødkald - indskrænkning af målgruppe                                       34   100       -100     -150     -150     -150       105.192            x
+
+34FF2026-007 Plejehjem - yderligere rammebesparelse ses i sammenhæng 34FF2026-001       34   100      -2.823   -2.323   -2.323   -2.323      253.607
+
+
+
+Akt. 35 Sundhed
+35FF2026-001 Patient og borgerrettet forebyggelse - reduktion af budget                 35   100        -750   -1.200   -1.200   -1.200        8.900            x
+35FF2026-002 Sundhedsklyngemidler                                                       35   100        -409     -409     -409     -409          409            x
+35FF2026-003 Reduktion i antal timer til praksiskonsulent                               35   100         -50      -50      -50      -50          130            x
+35FF2026-004 Træning på plejehjemmene - reduktion i serviceniveau                       35   100      -1.000   -1.000   -1.000   -1.000       41.900            x
+33FF2026-005 Reduktion i serviceniveau på Rehabiliteringsafdelingen for borger, der
+venter på plejehjem                                                                     35   100       -700     -700     -700     -700        30.500            x
+
+
+
+Akt. 41, Dagtilbud børn
+
+41FF2026-001 Nedsættelse af tilskud til hjemmepasning (udelukker 41FF2026-002)          41   100        -446     -446     -446     -446        1.060
+41FF2026-002 Bortfald af tilskud til hjemmepasning (udelukker 41FF2026-001)             41   100      -1.060   -1.060   -1.060   -1.060        1.060
+41FF2026-003 Bortfald af tilskud til aktivitetsmidler til børnehave (afsat til mad)     41   100      -1.567   -1.567   -1.567   -1.567        1.567            x
+41FF2026-004 Ledelsesstruktur                                                           41   100        -233     -465     -465     -465          465            x
+
+
+
+
+08-09-202510:40                                                                        Side 6 af 31                                              Budgetaftale 2026-2029 i tal
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                                                     Akt. Service     2026     2027     2028     2029    Områdets           Godkendte
+
+41FF2026-006 Uddannelsesmæssig sammensætning (53% pædagog / 47% medhjælpere)                    41   100      -3.514   -3.514   -3.514   -3.514       250.192
+
+
+
+Akt. 42, Skoler og Unge
+42FF2026-001 Reduktion af rammebeløb til almenundervisning, ledelse og adm. 1.-9.
+klasse (100%) scenarie A                                                                        42   100      -7.124   -7.124   -7.124   -7.124       210.000
+42FF2026-001 Reduktion af rammebeløb til almenundervisning, ledelse og adm. 1.-9.
+klasse (75%) scenarie B                                                                         42   100      -5.343   -5.343   -5.343   -5.343       210.000
+42FF2026-001 Reduktion af rammebeløb til almenundervisning, ledelse og adm. 1.-9.
+klasse (50%) Scenarie C                                                                         42   100      -3.562   -3.562   -3.562   -3.562       210.000
+
+42FF2026-002 Reduktion af budget til tillæg til lærere der underviser mere end 750 timer        42   100      -1.250   -1.250   -1.250   -1.250         1.669               x
+42FF2026-003 Reduktion af budget til tosprogstillæg                                             42   100        -750     -750     -750     -750         1.314               x
+42FF2026-004 Reduktion af budget til betaling for elever på kombineret 10. klasse på en
+erhvervsskole                                                                                   42   100        -900     -900     -900     -900         1.394               x
+42FF2026-005 Faldende udgifter til søskendetilskud i HFO                                        42   100      -2.150   -2.150   -2.150   -2.150         8.959               x
+
+42FF2026-006 Rammebesparelse på Hillerød Uddannelses- og Vejledningscenter (HUV)                42   100       -363     -363     -363     -363         18.000               x
+
+
+
+Akt. 43, Kriminalpræventive- og boligsociale aktiviteter
+
+43FF2026-001 Reduktion i pulje til boligsociale aktiviteter (ikke aftalebundne midler)          43   100        -39      -39      -39      -39            448
+43FF2026-002 Reduktion i Basen og SSP                                                           43   100        -60      -60      -60      -60          4.488
+
+
+
+Akt. 44 Familier
+44FF2026-001 Reduktion i borgerudgifter ved indkøb af økonomistyringssystemet Calibra -
+skal ses sammen med 11AU2026-005                                                                44   100      -1.000   -1.000   -1.000   -1.000       244.000               x
+44FF2026-002 Rammebesparelse i Pædagogisk Psykologisk rådgivning                                44   100      -3.000   -3.000   -3.000   -3.000        17.900
+
+44FF2026-003 Kvalitetsstandarder for aflastning og afløsning, scenarie 3 (oprindelig linje)     44   100      -1.200   -1.300   -1.300   -1.300        26.000               x
+
+
+
+08-09-202510:40                                                                                Side 7 af 31                                                  Budgetaftale 2026-2029 i tal
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                                             Akt. Service     2026     2027     2028     2029    Områdets           Godkendte
+NY44FF2026-003 Kvalitetsstandarder for aflastning og afløsning, scenarie 2              44   100       -200     -200     -200     -200         26.000
+NY44FF2026-003 Kvalitetsstandarder for aflastning og afløsning, scenarie 1              44   100          0        0        0        0         26.000
+44FF2026-004 Kontraktforhandling                                                        44   100      -1.300   -1.300   -1.300   -1.300        59.800
+NY44FF2026-004 Kontraktforhandling                                                      44   100      -1.750   -1.750   -1.750   -1.750        59.800               x
+44FF2026-005 Færre patienter i privat tandpleje                                         44   100       -167     -167     -201     -201           900                x
+44FF2026-006 Stabilisering af Familiesektionen - skal ses sammen med 11AU2026-006
+støttende indsatser                                                                     44   100       -610     -610     -610     -610         43.600               x
+
+44FF2026-006 Stabilisering af Familiesektionen - skal ses sammen med 11AU2026-006       44   200       -458     -915    -1.373   -1.830        43.600
+NY44FF2026-006 Styrkelse af Familiesektionen - skal ses sammen med 11AU2026-006
+tabt arbejdsfortjeneste                                                                 44   200       -610     -610     -610     -610         43.600               x
+
+Akt. 45, Kultur og Fritid
+45FF2026-001 Besparelse på Hillerød Bibliotekerne                                       45   100       -542     -542     -542     -542         25.850
+NY45FF2026-001 Besparelse på Hillerød Bibliotekerne                                     45   100       -200     -200     -200     -200
+NY45FF2026-001 Besparelse på Hillerød Bibliotekerne åbningstid nedsat i skoleferier     45   100       -242     -242     -242     -242                              x
+45FF2026-002 Hillerød Musikskole scenarie A, mindreudgifter                             45   100       -174     -174     -174     -174         11.793
+45FF2026-002 Hillerød Musikskole scenarie B, merindtægter                               45   100       -174     -174     -174     -174         -3.023               x
+45FF2026-003 Museum Nordsjælland                                                        45   100        -51      -51      -51      -51          2.761
+45FF2026-004 Frivilligcenter Hillerød                                                   45   100        -40      -40      -40      -40            756
+45FF2026-005 Reduktion i §17/§18 puljen                                                 45   100        -29      -29      -29      -29            435
+45FF2026-006 Ramme til forsamlingshusene                                                45   100        -60      -60      -60      -60            405
+
+
+
+Akt. 46, Folkeoplysning
+46FF2026-001 Folkeoplysningsudvalget rammereduktion                                     46   100       -121     -121     -121     -121          6.009
+
+
+
+Akt. 47, Idræt og Sundhed
+47FF2026-001 Reduktion af budget til Uvelse Fritids Center                              47   100        -62      -62      -62      -62          1.800
+47FF2026-002 Reduktion af budget til HGI Selvforvaltning                                47   100        -62      -62      -62      -62          1.770
+47FF2026-003 Reduktion af budget til FrederiksborgCentret                               47   100       -714     -714     -714     -714         43.254
+
+
+08-09-202510:40                                                                        Side 8 af 31                                                  Budgetaftale 2026-2029 i tal
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                             Akt. Service      2026    2027   2028     2029    Områdets           Godkendte
+
+
+
+
+Flytte drift til anlæg
+Ejendomsvedligeholdelse                                                 12   100      -11.088      0      0        0                              x
+Asfaltbelægning                                                         28   100      -11.000      0      0        0                              x
+Asfaltbelægning - fremrykning til 2025                                  28   100       -4.000      0      0        0                              x
+
+Afledt effekt af udskydelse af Generationernes Kvartershus med 1 år
+Drift af plejehjem, samt køb og salg af pladser                         34 100                         -156   -24.400                             x
+Dagtilbud Børn                                                          41 100                                   -926                             x
+Deponering                                                            Finans                                  -69.982                             x
+
+
+
+
+08-09-202510:40                                                        Side 9 af 31                                                Budgetaftale 2026-2029 i tal
+AKTIVITETSUDVIDELSER. ØNSKER DER ER MARKERET MED X I HØJRE KOLONNE INDGÅR I BUDGETFORSLAGET
+
+
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+
+
+
+Aktivitetsudvidelser
+
+
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                                                          obs   Akt. Service    2026     2027     2028     2029 Områdets         Godkendte
+
+
+Aktivitetsudvidelser                                                                                                    38.929   65.767   67.980   49.793   budget        korrektioner
+
+Akt. 11, Administration
+11AU2026-001 Styrket opfølgning via ansættelse af to sagsbehandlere på det specialiserede
+voksenområde (OLU)                                                                                         11     100   1.220    1.220    1.220    1.220      11.500
+NY11AU2026-001 Styrket sagsbehandling på det specialiserede voksenområde (OLU)                             11     100     458      610      610      610      11.500            x
+11AU2026-002 Nedbringelse af forbrug på krisecentre ved at øge indsatsen vedrørende vold i nære
+relationer. Forudsætter vedtagelse af 32FF2026-004 (investeringsforslag). (OLU)                            11     100     300      300      300      300             0          x
+11AU2026-003 Partneraftale med Nordsjælland Håndbold (ISU)                                                 11     100     250      250      250      250             0
+11AU2026-004 Fortsættelse af fritidspas – tæt rådgivning og administration af ordningen (FOU)              11     100     100      100      100      100           0
+11AU2026-005 Investering i Calibra - skal ses sammen med 44FF2026-001                                      11     100     223      223      223      223           0            x
+11AU2026-006 Stabilisering af Familiesektionen - skal ses sammen med 44FF2026-006                          11     100   4.960    4.960    4.960    4.960      28.200
+NY11AU2026-006 Styrkelse af Familiesektionen - skal ses sammen med 44FF2026-006 - løsning der
+er udgiftsneurtal                                                                                          11     100   1.220    1.220    1.220    1.220      28.200            x
+11AU2026-007 Klima og grønne målsætninger, miljøvurderinger og sikring af natur, miljø.                    11     100     770      770      770      770      14.853
+11AU2026-007 Klima og grønne målsætninger, miljøvurderinger og sikring af natur, miljø.                    21     100     500      500      500      500           0
+11AU2026-008 Klimavurdering af budgetønsker – pilotprojekt                                                 11     100     100      100      100        0           0
+11AU2026-008 Klimavurdering af budgetønsker – pilotprojekt                                                 21     100     100      100      100        0           0
+11AU2026-009 Håndhævelse af beskyttede naturtyper                                                          11     100     770      770      770      770      14.853
+NY11AU2026-009 Håndhævelse af beskyttede naturtyper                                                        11     100     578      770      770      770      14.853            x
+11AU2026-010 Vandforsyningsbehov, grundvandsparker og risiko for grundvandsforurening                      11     100     770      770      770      770      14.853
+
+NY11AU2026-010 Vandforsyningsbehov, grundvandsparker og risiko for grundvandsforurening                    11     100     578      770      770      770      14.853            x
+11AU2026-011 Øge Fællesskabspuljen målrettet børn og unge ( KFU)                                           11     100     421      421      421      421         579
+11AU2026-012 Fællesskabspulje – målrettet voksne og ældre (KFU)                                            11     100     500      500      500      500           0
+11AU2026-013 Personalepolitisk pakke - tværgående investeringsforslag                                      11     100     970      970      970      970                        x
+11AU2026-013 Personalepolitisk pakke - tværgående investeringsforslag                                      11     100    -970     -970     -970     -970                        x
+11AU2026-014 Stigende udgifter til serviceopgaver på rådhuset efter flytning                               11     100     300      300      300      300
+11AU2026-015 Sygedagpengerefusioner                                                                        11     100   5.918    5.918    5.918    5.918       -5.918
+
+
+08-09-202510:40                                                                                   Side 10 af 31                                              Budgetaftale 2026-2029 i tal
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                                                            obs   Akt. Service   2026    2027    2028    2029 Områdets        Godkendte
+NY11AU2026-015 Sygedagpengerefusioner - gradvist stigende til 50% central / 85 % decentral i 2029
+                                                                                                             11     100   1.140   2.280   3.420   4.560    -5.918
+11AU2026-016 Biodiversitetsplan                                                                              11     100     400     400       0       0    14.853
+11AU2026-017 Styrket fokus på overgangen fra barn til voksen for unge med særlige behov                      11     100     305     305     305     305    11.500
+11AU2026-018 Tværkommunal fælles sekretariatsbetjening af de kommunale medlemmer af
+sundhedsråd Nordsjælland                                                                                     11     100    273     273     273     273            0          x
+11AU2026-019 Dyrevelfærd, Scenarie A - akt 11                                                                11     100    130     130     130     130
+11AU2026-019 Dyrevelfærd, Scenarie A - akt 32                                                                32     100    108     108     108     108
+11AU2026-019 Dyrevelfærd, Scenarie A - akt 34                                                                34     100     57      57      57      57
+11AU2026-019 Dyrevelfærd, Scenarie A - akt 41                                                                41     100    556     556     556     556
+11AU2026-019 Dyrevelfærd, Scenarie A - akt 42                                                                42     100     47      47      47      47
+11AU2026-019 Dyrevelfærd, Scenarie A - akt 44                                                                44     100      5       5       5       5
+11AU2026-019 Dyrevelfærd, Scenarie B - akt 11                                                                11     100    199     199     199     199
+11AU2026-019 Dyrevelfærd, Scenarie B - akt 32                                                                32     100    145     145     145     145
+11AU2026-019 Dyrevelfærd, Scenarie B - akt 34                                                                34     100     90      90      90      90
+11AU2026-019 Dyrevelfærd, Scenarie B - akt 41                                                                41     100    826     826     826     826
+11AU2026-019 Dyrevelfærd, Scenarie B - akt 42                                                                42     100     78      78      78      78
+11AU2026-019 Dyrevelfærd, Scenarie B - akt 44                                                                44     100      8       8       8       8
+11AU2026 - samlende aktiviteter på Torvet og forankres i Hillerød ByForum                                    11     100    300     300     225     150                       x
+
+Akt. 12, Ejendomme
+12AU2026-001 Hegning på daginstitutioner og indskoling grundet sikkerhed                                     12     100    400     400     400     400            0
+12AU2026-002 Kvartersvært og tværgående aktiviteter i Generationernes Kvarterhus                             12     100      0       0       0     700            0
+12AU2026-003 Helge Holmskov skulpturer – renovering og vedligehold                                           12     100     55       5       5       5            0
+12AU2026-004 Stigende udgifter til rotteskader på kommunale ejendomme                                        12     100    200     200     200     200            0
+12AU2026-005 Snerydning på kunstgræsbanerne i Skævinge og Brødeskov                                          12     100     35      35      35      35            0
+12AU2026-006 Ny kunst-klimalegeplads ved biblioteket og kulturaksen - drifts- og
+vedligeholdelsesudgifter                                                                                     12     100             30      30      30            0
+12AU2026-006 Ny kunst-klimalegeplads ved biblioteket og kulturaksen - drifts- og
+vedligeholdelsesudgifter                                                                                     12     100             20      20      20
+12AU2026-006 Ny kunst-klimalegeplads ved biblioteket og kulturaksen - drifts- og
+vedligeholdelsesudgifter                                                                                     45     100             -20     -20     -20
+
+Akt. 13, Rengøring - Bestiller
+13AU2026-001 Øget rengøring Kulturaksen                                                                      13     100    260     260     260     260      1.683
+
+Akt. 21, Natur, Miljø og Klima
+21AU2026-001 Egedammen; natursamarbejde med Nationalparken                                                   21     100    400      80      80      80      1.475
+21AU2026-001 Egedammen; natursamarbejde med Nationalparken de 400 anlæg                                      21     100      0      80      80      80      1.475            x
+Akt. 23, Kirkegårde
+
+
+
+08-09-202510:40                                                                                     Side 11 af 31                                         Budgetaftale 2026-2029 i tal
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                                                              obs   Akt. Service     2026     2027     2028     2029 Områdets        Godkendte
+
+Akt. 27, Ejendomme - Grøn drift
+
+Akt. 28, By og Miljø
+28AU2026-001 Dobbeltudnyttelse af P-pladser med appen Visitors                                                 28     100      250      250      250      250
+UDGÅR - 28AU2026-002 Samkørsel og Ta'Med App
+28AU2026-003 Vintertjeneste - bedre service med opklassificering af vejklasse og omlægning af
+stiruter                                                                                                       28     100      300      300      300      300     11.950            x
+28AU2026-004 Udskiftning af små og åbne affaldsspande                                                          28     100       50       50       50       50        480            x
+28AU2026-005 Natdrift på buslinje 380R                                                                         28     100        0      140      140      140                       x
+28AU2026-006 Busdrift 60E                                                                                      28     100    1.850    1.000    1.000    1.000
+NY28AU2026-006 Busdrift 60E                                                                                    28     100        0    1.000    1.000    1.000                       x
+NY28AU2026-006 Busdrift 60E                                                                                    28     100    1.000    1.000    1.000    1.000
+NY28AU2026-006 Busdrift 60E halvtimes drift                                                                    28     100    1.000      500      500      500
+NY28AU2026-007 samkørsel - ny APP                                                                              28     100      175      150      150      150                       x
+
+Akt. 31, Beskæftigelsesindsats
+
+Akt. 32, Specialiseret voksenområde
+32AU2026-001 Udvikling i udgifter som følge af tilgang af borgere i 2026 baseret på prognoseværktøj
+for det specialiserede voksenområde                                                                            32     100   12.585   13.707   13.707   13.707    278.000
+32AU2026-001 Udvikling i udgifter som følge af tilgang af borgere i 2026 baseret på prognoseværktøj
+for det specialiserede voksenområde – scenarie med faldende profil                                             32     100   12.585   13.707   10.280    6.854    278.000            x
+32AU2026-002 Udvikling i udgifter baseret på tidligere års prognoseværktøj på det specialiserede
+voksenområde                                                                                                   32     100     -875    4.136    9.146    9.146    278.000
+32AU2026-002 Udvikling i udgifter baseret på tidligere års prognoseværktøj på det specialiserede
+voksenområde – scenarie med faldende profil                                                                    32     100     -875    4.136    6.860    4.573    278.000            x
+
+Akt. 33, Forsørgelsesydelser
+
+
+Akt. 34, Ældre
+34AU2026-001 Udvidet dagcentertilbud - åbningstid                                                              34     100     490      490      490      490       8.289
+34AU2026-002 Udvidet dagcentertilbud - mobilt dagcenter                                                        34     100     226      226      226      226
+34AU2026-003 Kognitiv stimulationsterapi (CST)                                                                 34     100      107      107      107      107
+NY34AU2026-003 Kognitiv stimulationsterapi (CST)                                                               34     100       87       87       87       87                       x
+34AU2026-004 Øget serviceniveau for rengøring                                                                  34     100      150      300      323      323     90.287
+
+Akt. 35, Sundhed,
+
+
+
+08-09-202510:40                                                                                       Side 12 af 31                                              Budgetaftale 2026-2029 i tal
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                                                             obs   Akt. Service    2026     2027     2028     2029 Områdets        Godkendte
+35AU2026-001 Ressourcer til øget aktivitet på træningsområdet - scenarie A                                    35     100    2.250    2.250    2.250    2.250    41.900
+35AU2026-001 Ressourcer til øget aktivitet på træningsområdet - scenarie B                                    35     100    1.125    1.125    2.250    2.250    41.900
+NY35AU2026-001 Ressourcer til øget aktivitet på træningsområdet - scenarie C                                  35     100    1.125    1.125    1.125    1.125    41.900            x
+
+Akt. 41, Dagtilbud børn
+41AU2026-001 Specialiserede indsatser, budget i balance - Scenarie A                                          41     100   10.347   10.347   10.347   10.347    13.517
+41AU2026-001 Specialiserede indsatser, budget i balance - Scenarie B                                          41     100   10.347   10.347    7.760    5.174    13.517            x
+41AU2026-002 Øget aktivitetsmidler - set i relation til stærke fællesskaber                                   41     100    1.090    1.084    1.124    1.124     7.976            x
+41AU2026-003 Ekstra medarbejder til skovbørnehave - skal ses i sammenhæng med 50AØ2026-280)
+                                                                                                              41     100     160      382      382      382            0
+
+
+Akt 42, Skoler og Unge
+
+42AU2026-001 Øget brug af to fagprofessionelle i folkeskolerne til styrkelse af stærke fællesskaber           42     100    1.667    4.000    4.000    4.000   210.000            x
+42AU2026-002 Uddannelsesstillinger til lærerstuderende                                                        42     100      483    1.040    1.040    1.040         0
+42AU2026-003 Opnormering af budgettet til Hillerød Fritidsordning (HFO) fritidspædagogiske arbejde
+funderet i stærke fællesskaber                                                                                42     100    2.100    2.100    2.100    2.100    42.000
+
+42AU2026-004 Budget til specialundervisning på skoleområdet – budget i balance, scenarie A                    42     100     416     6.555   10.190   10.190   146.900
+42AU2026-004 Budget til specialundervisning på skoleområdet – budget i balance (100, 100, 75 og
+50) scenarie B                                                                                                42     100     416     6.555    7.643    5.095   146.900            x
+42AU2026-005 Budget til fortsat samarbejde med Frivilligcenteret om trivselsgrupper                           42     100     286       154        0        0       201            x
+
+
+Akt. 43, Kriminalpræventive- og boligsociale aktiviteter
+43AU2026-001 Bemanding af Street-Lab som forebyggende fællesskab                                              43     100     500      670      670      670       416
+NY43AU2026-001 Bemanding af Street-Lab som forebyggende fællesskab                                            43     100     560      730      730      730       416
+NY43AU2026-001 Løft af Basens budget (SKIF og Street Lab mm)                                                  43     100     300      300      500      500                       x
+
+Akt. 44, Familier
+44AU2026-001 Budget til anbringelser, støttende indsatser og vidtgående specialundervisning- uløst
+finansieringsbehov - (scenarie A)                                                                             44     100    7.000   16.768   29.059   29.059   244.000
+44AU2026-001 Budget til anbringelser, støttende indsatser og vidtgående specialundervisning- uløst
+finansieringsbehov - (scenarie B)                                                                             44     100    7.000   16.768   21.795   14.530   244.000            x
+
+Akt. 45, Kultur og Fritid
+45AU2026-001 Udvidelse af Lokalhistorisk arkivs ressourcer                                                    45     100     495      495      495      495        177
+NY45AU2026-001 Udvidelse af Lokalhistorisk arkivs ressourcer                                                  45     100     248      495      495      495        177            x
+45AU2026-002 Ressourcer til at understøtte fællesskab og netværk i lokalsamfund                               45     100     300      300      300      300      6.484
+
+
+
+08-09-202510:40                                                                                      Side 13 af 31                                             Budgetaftale 2026-2029 i tal
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                                                            obs   Akt. Service   2026     2027    2028   2029 Områdets        Godkendte
+45AU2026-003 Ressourcer til at understøtte kultur, erhverv- og brobyggende aktiviteter i Hillerød
+bymidte i samarbejde med C4 Videncenter                                                                      45     100    300      300    300      0             0
+45AU2026-004 Koncerter på Torvet og Posen                                                                    45     100    300      300    300      0             0
+45AU2026-005 Inddragelse af lokale fællesskaber og civilsamfundet i helhedsplejen, Ældreloven                45     100    500      500      0      0
+NY45AU2026-005 Inddragelse af lokale fællesskaber og civilsamfundet i helhedsplejen, Ældreloven              45     100    200      200    200    200                        x
+45AU2026-006 Skævinge Kultur, Idræt og Fritidshus – ressourcer til værtsfunktion                             45     100    250      250    250    250
+
+Akt. 46, Folkeoplysningsudvalget
+ingen forslag                                                                                                46     100
+
+Akt. 47, Idræt og Sundhed
+47AU2026-001 Gadevang klatreklub, tilskud til udendørs klatrevæg                                             47     100     623       0      0      0             0
+NY47AU2026-001 Gadevang klatreklub, tilskud til udendørs klatrevæg                                           47     100       0     623      0      0                        x
+47AU2026-002 Hillerød Tennis og Padelklub, tilskud til overdækning af padelbaner                             47     100   3.204       0      0      0             0
+
+47AU2026-003 Nordsjællands Svæveflyveklub, tilskud til indkøb af græsklippere til græsslåmaskine             47     100    427        0      0      0             0
+47AU2026-004 Forslag om fremrykning af investering i 2026 fra 2027, jf. bilag 9
+FrederiksborgCentrets input til budget 2026                                                                  47     100   8.522   -8.522     0      0      42.553
+
+
+
+
+08-09-202510:40                                                                                     Side 14 af 31                                         Budgetaftale 2026-2029 i tal
+Anlægskorrektioner til budget
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+i 1000 kr.                                                                                    2026      2027      2028      2029
+Vedtaget anlægsbudget, oktober 2024                                                         348.824   286.260   203.722         0
+
+
+
+Forslag til anlægsbudget 2025-2028 - Bruttoanlægsudgifter                             A     112.762   475.886   237.973   237.636         Godkendte
+
+Forslag til anlægsbudget 2025-2028 - Bruttoanlægsindtægter                            I     -11.346   -19.429      -500   -10.500        korrektioner
+
+
+
+ANLÆG DER ER MARKERET MED X I HØJRE KOLONNE INDGÅR I DEN VEDTAGNE ANLÆGSPLAN
+
+                                                                                                                                          Kolonne11
+
+Jordforsyning
+XA-0000000203 Favrholm, Generationernes Kvarter, byggemodning til boliger             A      8.254      5.213        0          0
+XA-0000000203 Favrholm, Generationernes Kvarter, byggemodning til boliger             A      1.254     12.213        0          0              x
+XA-0000000208 Ullerød Nord - Infrastruktur og byggemodning                            A      1.023      9.730        0          0              x
+XA-0000000208 Ullerød Nord - Infrastruktur og byggemodning                            I          0    -16.129        0          0              x
+XA-0000000238 Favrholm Syd, arkæologiske udgravninger                                 A      1.049      1.049        0          0              x
+XA-0000000238 Favrholm Syd, arkæologiske udgravninger                                 I          0          0        0    -10.500              x
+XA-0000000242 Salg af Petras Hus, Hulvejen 31                                         A        125          0        0          0              x
+XA-0000000242 Salg af Petras Hus, Hulvejen 31                                         I     -4.400          0        0          0              x
+XA-0000000303 Favrholm, byggemodning til erhverv, Favrholm alle                       A      1.076      7.515        0          0              x
+Faste ejendomme
+XA-0000001035 Separatkloakering og akutte kloakbehov                                  A        745         0         0         0               x
+XA-0000001048 Favrholm, Generationernes Kvarter Hus                                   A     16.805    28.500    40.749    46.000
+XA-0000001048 Favrholm, Generationernes Kvarter Hus                                   A      1.000    15.805    28.500    40.749               x
+XA-0000001049 Genopretning af bygninger 2023-2026                                     A         75         0         0         0               x
+XA-0000001056 Energibesparende foranstaltninger 2026                                  A     12.708    12.707    12.708    12.708               x
+XA-0000001060 Genopretning af bygninger 2024-2027                                     A      1.945     1.944         0         0
+XA-0000001060 Genopretning af bygninger 2024-2027                                     A          0     3.889         0         0               x
+
+08-09-202510:40                                                             Side 15 af 31                                      Budgetaftale 2026-2029 i tal
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+i 1000 kr.                                                                                      2026      2027     2028     2029
+XA-0000001061        Genopretning af bygninger 2028                                      A         0        0     3.145    3.146              x
+XA-0000001063        Lækagesikring, flere ejndomme                                       A       562                  0        0              x
+XA-0000001064        Returvandstemperatur, tiltag for at mindske strafafgift             A       767      768         0        0              x
+Fritidsområder
+XA-0000002008        Etablering af flere nyttehaver                                      A       235        0        0        0               x
+Fritidsfaciliteter
+XA-0000003132        Kunstgræsbane i Hillerød Øst                                        A         0      229      113    10.136
+XA-0000003132        Kunstgræsbane i Hillerød Øst                                        A         0                         229              x
+XA-0000003134        Hillerød Stadion, løbelys og minibane                               A         0        0        0       898              x
+XA-0000003135        Hillerød Stadion, kunstgræsbane FIFA-pro                            A         0        0        0         0              x
+Vandløbsvæsen
+XA-0000007107        Kritiske vandløbsstrækninger, opretninger                           A       614        0        0        0               x
+Kommunale veje
+XA-0000022200        Infrastruktur i Favrholm                                            A        302   12.389   15.101        0              x
+XA-0000022202        Favrholm, to signalkryds på Overdrevsvejen                          A          0        0        0    3.020              x
+XA-0000022213        Favrholm, Pøleå sti til Milnersvej                                  A        948   10.259        0        0              x
+XA-0000022216        Favrholm, stier                                                     A        281        0        0        0              x
+XA-0000022219        Cykelinfrastruktur, pulje                                           A        856    8.500        0        0              x
+XA-0000022220        Cykelinfrastruktur, Frederiksværksgade/Slotsgade                    A      6.784        0        0        0
+XA-0000022220        Cykelinfrastruktur, Frederiksværksgade/Slotsgade                    A      1.784    5.000        0        0              x
+XA-0000022221        Cykelinfrastruktur, Brødeskovvej                                    A      5.785        0        0        0
+XA-0000022221        Cykelinfrastruktur, Brødeskovvej                                    A        785    5.000        0        0              x
+XA-0000022227        Cykelsti Peder Oxes Alle, Kjeldsvangkilen                           A      3.239    6.539    1.003        0              x
+XA-0000022227        Cykelsti Peder Oxes Alle, Kjeldsvangkilen                           I     -1.600   -3.300     -500        0              x
+XA-0000022343        Markedspladsen, busparkering og trafikafvikling                     A          0        0        0    3.745              x
+XA-0000022345        Øget fremkommelighed på det overordnede vejnet                      A      5.370      750        0        0
+XA-0000022345        Øget fremkommelighed på det overordnede vejnet                      A        370    5.750        0        0              x
+XA-0000022364        BRT-inspirerende tiltag                                             A        740        0        0        0              x
+XA-0000022364        BRT-inspirerende tiltag                                             I     -5.346        0        0        0              x
+XA-0000022365        Helsingørsgade, fornyelse og renovering                             A      1.143        0        0        0              x
+XA-0000022371        Vejstøj, reduktion af gener                                         A        229        0        0        0              x
+
+
+08-09-202510:40                                                                Side 16 af 31                                  Budgetaftale 2026-2029 i tal
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+i 1000 kr.                                                                                       2026      2027     2028      2029
+XA-0000022372 Brødeskovvej, cykelstirabat                                                A        640     2.500        0         0              x
+XA-0000022373 Hæve-sænkepullerter i midtbyen                                             A      1.801         0        0         0              x
+XA-0000022374 Vejbelysning, energirenovering 2024-2026                                   A      2.209     2.106    2.106     2.106              x
+Folkeskolen m.m.
+XA-0000030153 Sophienborg Skolen, midlertidig kapacitet                                  A          0         0        0       873              x
+XA-0000030161 Frederiksborg Byskole, etape 2, klassefløjen                               A     29.999    44.448        0         0
+XA-0000030161 Frederiksborg Byskole, etape 2, klassefløjen                               A      4.999    69.448        0         0
+XA-0000030161 Frederiksborg Byskole, etape 2, klassefløjen                               A     16.960    57.487        0         0              x
+XA-0000030166 Grønnevang Skole, 0.-5. klasse                                             A     15.613   132.552   84.278   104.246              x
+XA-0000030168 Hillerødsholmskolen, afd. Gadevang, kapacitetsudvidelse                    A          0         0        0       750              x
+XA-0000030169 10. klassesskolen, miljøsanering                                           A         52       138        0         0              x
+XA-0000030170 Nødebo helhedsplan                                                         A      3.202    12.610   16.507         0              x
+XA-0000030174 Hillerød Vest Skolen, afd. Ålholm, kapacitetsudvidelse                     A     27.236    31.743   19.513     3.199
+XA-0000030174 Hillerød Vest Skolen, afd. Ålholm, kapacitetsudvidelse                     A      2.236    56.743   19.513     3.199              x
+XA-0000030175 Hillerødsholmskolen, kapacitetsudvidelse                                   A      4.000    30.495   29.374    40.139
+XA-0000030175 Hillerødsholmskolen, kapacitetsudvidelse                                   A          0    34.495   29.374    40.139              x
+XA-0000030176 Sophienborgskolen, kapacitetsudvidelse                                     A      2.271     5.720   25.739    24.318
+XA-0000030176 Sophienborgskolen, kapacitetsudvidelse                                     A      2.271     5.720   25.739    12.159              x
+XA-0000030179 Grønnevang skole, genhusning                                               A     31.613         0        0     9.668
+XA-0000030179 Grønnevang skole, genhusning                                               A     21.613    10.000        0     9.668              x
+Dagtilbud til børn og unge
+XA-0000051427 Daginstitutioner, kapacitetstilpasning                                     A      5.115         0       0         0
+XA-0000051427 Daginstitutioner, kapacitetstilpasning                                     A        115     5.000       0         0               x
+XA-0000051430 Børnehuset Troldehøjen, udbygning                                          A      5.600     3.800       0         0               x
+XA-0000051434 Affaldssortering, daginstitutioner                                         A      1.841         0       0         0               x
+Tilbud til børn og unge med særlige behov
+XA-0000052105 Hillerød Dagbehandlingsskole, sammenlægning                                A     32.060     8.023       0         0
+XA-0000052105 Hillerød Dagbehandlingsskole, sammenlægning                                A      4.960    35.123       0         0               x
+Sundhedsudgifter
+XA-0000048856 Sundhedscenter                                                             A         0         0        0      5.798
+XA-0000048856 Sundhedscenter - reduktion af anlægsbevilling i 2025 til 3,7 mio. kr.      A         0         0        0          0              x
+
+
+08-09-202510:40                                                                Side 17 af 31                                    Budgetaftale 2026-2029 i tal
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+i 1000 kr.                                                                                              2026     2027     2028     2029
+Administrativ organisation
+XA-0000065007 Flytning af HUV, UUH og ændringer på rådhuset                                     A        715       0        0        0               x
+XA-0000065105 Udmøntning af klimahandleplan                                                     A        343       0        0        0               x
+XA-0000065164 Planlægning af byudvikling i Favrholm                                             A      1.132     509        0        0
+NYXA-0000065164Planlægning af byudvikling i Favrholm                                            A        250     500        0        0               x
+XA-0000065206 Digitaliseringspulje                                                              A        432       0        0        0               x
+
+                                                                                                A     73.910   73.014   35.323    9.804
+Anlægsønsker 2026 - 2029 - bruttoanlægsudgifter
+Anlægsønsker 2026 - 2029 - Bruttoanlægsindtægter                                                I         0        0        0        0
+
+Flytning af drift til anlæg fra FF-skema                                                        A     22.088       0        0        0               x
+
+ANLÆG DER ER MARKERET MED X I HØJRE KOLONNE INDGÅR SOM ÆNDRING TIL UDSENDT ANLÆGSPLAN
+
+Økonomiudvalget
+Kapacitet
+50AØ2026-020        Hillerød Krematorium, rådgivermidler til udvidelse af kapacitet            A        200        0        0        0               x
+50AØ2026-020        Hillerød Krematorium, rådgivermidler til udvidelse af kapacitet            11         6        0        0        0               x
+
+Nedslidning
+50AØ2026-040        Genopretning af kommunale bygninger                                        A      10.000   10.000   10.000   10.000
+50AØ2026-040        Genopretning af kommunale bygninger                                        11        300      300      300      300
+50AØ2026-041        Genopretning af kritiske, tekniske installationer                          A       4.000    4.000    4.000    4.000
+50AØ2026-041        Genopretning af kritiske, tekniske installationer                          11        120      120      120      120
+50AØ2026-042        Genopretning af bygninger, takstfinansierede institutioner                 A           0    1.400    1.400        0
+50AØ2026-042        Genopretning af bygninger, takstfinansierede institutioner                 11          0       42       42        0
+50AØ2026-043        Trollesbro, renovering af tag og tekniske installationer                   A       7.000   10.000        0        0              x
+50AØ2026-043        Trollesbro, renovering af tag og tekniske installationer                   11        255      255        0        0              x
+50AØ2026-044        Udgår
+50AØ2026-045        Udgår
+
+08-09-202510:40                                                                       Side 18 af 31                                  Budgetaftale 2026-2029 i tal
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+i 1000 kr.                                                                                           2026     2027     2028     2029
+50AØ2026-047       Vedligehold af lys på boldbanerne                                        A       1.000    1.000    1.000       0
+50AØ2026-047       Vedligehold af lys på boldbanerne                                        11         30       30       30       0
+
+Udvikling
+50AØ2026-080       Renovering af træplantningerne på rådhusets parkeringsarealer            A         350        0        0        0
+50AØ2026-080       Renovering af træplantningerne på rådhusets parkeringsarealer            11         11        0        0        0
+50AØ2026-080       Renovering af træplantningerne på rådhusets parkeringsarealer            12          0       37       37        0
+50AØ2026-081       Tilplantning af kommunale ejendomme                                      A         300      300      300      300
+50AØ2026-081       Tilplantning af kommunale ejendomme                                      11          9        9        9        9
+50AØ2026-082       Tilgængelighedsindsats 2026-2029                                         A         500      500      500      500              x
+50AØ2026-082       Tilgængelighedsindsats 2026-2029                                         11         15       15       15       15              x
+50AØ2026-082       Tilgængelighedsindsats 2026-2029                                         12          0       15       30       45              x
+50AØ2026-083       Udmøntning af Klimahandleplan                                            A         300      300      300      300
+50AØ2026-083       Udmøntning af Klimahandleplan                                            11          9        9        9        9
+50AØ2026-083       Udmøntning af Klimahandleplan                                            12        120      120      120      120
+50AØ2026-084       Realisering af boligpolitikkens mål om almene boliger                     F     16.000   21.000   35.000   47.000
+50AØ2026-085       Nedrivning af Roskildevej 173                                            A         350        0        0        0
+50AØ2026-085       Nedrivning af Roskildevej 173                                            11         11        0        0        0
+
+Arkitektur, Byplan og Trafikudvalget
+Nedslidning
+50AØ2026-140       Vejafvanding, renovering af stikledninger og brønde                      A       3.000    3.000    3.000    3.000              x
+50AØ2026-140       Vejafvanding, renovering af stikledninger og brønde                      11        325      325      325      325
+50AØ2026-140       Vejafvanding, renovering af stikledninger og brønde                      11        100      325      325      325              x
+
+Udvikling
+50AØ2026-180       Registrering af bevaringsværdige bygninger, før 1940 – forarbejde til     A       500      500        0        0               x
+                   bevarende lokalplaner
+50AØ2026-180       Registrering af bevaringsværdige bygninger, før 1940 – forarbejde til    11       130      130        0        0
+                   bevarende lokalplaner
+
+
+
+08-09-202510:40                                                                    Side 19 af 31                                  Budgetaftale 2026-2029 i tal
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+i 1000 kr.                                                                                     2026    2027    2028    2029
+50AØ2026-180   Registrering af bevaringsværdige bygninger, før 1940 – forarbejde til    11      60     200               0               x
+               bevarende lokalplaner
+50AØ2026-181   Registrering af bevaringsværdige bygninger, 1940-1980 – forarbejde til   A        0       0     500     500
+               bevarende lokalplaner
+50AØ2026-181   Registrering af bevaringsværdige bygninger, 1940-1980 – forarbejde til   11       0       0     130     130
+               bevarende lokalplaner
+50AØ2026-182   Skolesti til Hanebjerg skoledistrikt afd. Brødeskov                      A     2.500   8.000   5.000      0
+50AØ2026-182   Skolesti til Hanebjerg skoledistrikt afd. Brødeskov                      11      740     740     740      0
+50AØ2026-182   Skolesti til Hanebjerg skoledistrikt afd. Brødeskov                      28        0       0       0    375
+50AØ2026-183   Sti langs golfbane til Ny Hammersholt                                    A       500   5.000       0      0
+50AØ2026-183   Sti langs golfbane til Ny Hammersholt                                    11      300     300       0      0
+50AØ2026-183   Sti langs golfbane til Ny Hammersholt                                    28        0       0     137    137
+50AØ2026-184   Mobilitetsplan og prøvehandlinger - Grøn mobilitet og mindre             A     2.500   2.500       0      0
+               trængsel
+50AØ2026-184   Mobilitetsplan og prøvehandlinger - Grøn mobilitet og mindre             11     100     100       0       0
+               trængsel
+50AØ2026-184   Mobilitetsplan og prøvehandlinger - Grøn mobilitet og mindre             28       0       0      90      90
+               trængsel
+NY50AØ2026-184 grøn mobilitet - pilotprojekter                                          A     1.000   1.000       0       0              x
+NY50AØ2026-184 grøn mobilitet - pilotprojekter                                          11       40      40       0       0              x
+50AØ2026-185   Grøn infrastruktur i Vølundsvej-Industrivænget – planer                  A       350     150       0       0
+50AØ2026-185   Grøn infrastruktur i Vølundsvej-Industrivænget – planer                  11       50      50       0       0
+50AØ2026-186   Busvendeplads på Guldhalevej                                             A     1.100   1.660       0       0
+50AØ2026-186   Busvendeplads på Guldhalevej                                             11      100     100       0       0
+50AØ2026-186   Busvendeplads på Guldhalevej                                             28        0       0      69      69
+50AØ2026-186   Busvendeplads på Guldhalevej                                             A       700   2.060       0       0              x
+50AØ2026-186   Busvendeplads på Guldhalevej                                             11      100     100       0       0
+50AØ2026-186   Busvendeplads på Guldhalevej                                             11       50     150       0       0              x
+50AØ2026-186   Busvendeplads på Guldhalevej                                             28        0       0      69      69              x
+50AØ2026-187   Cykelstipulje                                                            A     9.000   9.000   9.000   9.000
+50AØ2026-187   Cykelstipulje                                                            11      360     360     360     360
+
+
+08-09-202510:40                                                               Side 20 af 31                              Budgetaftale 2026-2029 i tal
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+i 1000 kr.                                                                                     2026      2027      2028      2029
+50AØ2026-187   Cykelstipulje                                                          28          0         0      675       675
+NY50AØ2026-187 Udbygning af cykelstinettet                                            A       1.500     3.500                                  x
+NY50AØ2026-187 Udbygning af cykelstinettet                                            11         60       140                                  x
+NY50AØ2026-187 Cykelstipulje + stier                                                  28
+50AØ2026-188   Byrumsmarkører Helsingørgade, forslag fra Byforum                      A         50       200         0         0               x
+50AØ2026-188   Byrumsmarkører Helsingørgade, forslag fra Byforum                      11       150       150         0         0
+
+Børn, Familie og Ungeudvalget
+Kapacitet
+50AØ2026-220   Daginstitutioner, pulje til funktionsopgradering                       A         500       500       500      500
+50AØ2026-220   Daginstitutioner, pulje til funktionsopgradering                       11         15        15        15       15
+50AØ2026-220   Daginstitutioner, pulje til funktionsopgradering                       A           0       500       500      500               x
+50AØ2026-220   Daginstitutioner, pulje til funktionsopgradering                       11          0        15        15       15               x
+50AØ2026-221   Hillerød Vest Skolen, afd. Ålholm, merøkonomi i forbindelse med        A       3.950     5.505     2.200      650               x
+               kapacitetsudvidelse
+50AØ2026-221   Hillerød Vest Skolen, afd. Ålholm, merøkonomi i forbindelse med        11        92        92        92        92               x
+               kapacitetsudvidelse
+50AØ2026-221   Hillerød Vest Skolen, afd. Ålholm, merøkonomi i forbindelse med        12       915      2.175     1.555       15               x
+               kapacitetsudvidelse
+50AØ2026-221   Hillerød Vest Skolen, afd. Ålholm, merøkonomi i forbindelse med        13        60       150       100         0               x
+               kapacitetsudvidelse
+50AØ2026-221   Hillerød Vest Skolen, afd. Ålholm, merøkonomi i forbindelse med        42        16        16        16        16               x
+               kapacitetsudvidelse
+50AØ2026-221   Merøkonomi byggeplads (atletik)                                         A        600         0         0         0              x
+XA-0000030166 Grønnevang Skole, 0.-5. klasse                                           A     15.613   132.552    84.278   104.246
+50AØ2026-222   Grønnevang Skole, afd. Jespervej, fordeling af økonomi                  A     71.687   -19.551    28.723     4.754
+NY50AØ2026-222 Grønnevang Skole, afd. Jespervej, fordeling af økonomi                  A     21.687    30.449    28.723     4.754              x
+XA-0000030166 I alt grønnevang efter krydser                                                 37.300   163.001   113.001   109.000
+50AØ2026-223   Grønnevang Skole, afd. Nødebo – scenarie 1A - tilbygning til            A      1.950     5.850     8.775     2.925
+               fritidsbrugere med maksimal sambrug
+
+
+
+08-09-202510:40                                                              Side 21 af 31                                     Budgetaftale 2026-2029 i tal
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+i 1000 kr.                                                                                 2026    2027      2028    2029
+50AØ2026-223   Grønnevang Skole, afd. Nødebo – scenarie 1A - tilbygning til        11      147      147      147     147
+               fritidsbrugere med maksimal sambrug
+50AØ2026-223   Grønnevang Skole, afd. Nødebo – scenarie 1A - tilbygning til        12       24       24       24     193
+               fritidsbrugere med maksimal sambrug
+50AØ2026-223   Grønnevang Skole, afd. Nødebo – scenarie 1A - tilbygning til        13        0        0        0     129
+               fritidsbrugere med maksimal sambrug
+50AØ2026-223   Grønnevang Skole, afd. Nødebo – scenarie 1A - tilbygning til        42       24       24       24      24
+               fritidsbrugere med maksimal sambrug
+50AØ2026-224   Grønnevang Skole, afd. Nødebo – scenarie 1B - tilbygning til         A     2.250   6.750    10.125   3.375
+               fritidsbrugere med delvis sambrug og eget klublokale
+50AØ2026-224   Grønnevang Skole, afd. Nødebo – scenarie 1B - tilbygning til        11      169      169      169     169
+               fritidsbrugere med delvis sambrug og eget klublokale
+50AØ2026-224   Grønnevang Skole, afd. Nødebo – scenarie 1B - tilbygning til        12       28       28       28     238
+               fritidsbrugere med delvis sambrug og eget klublokale
+50AØ2026-224   Grønnevang Skole, afd. Nødebo – scenarie 1B - tilbygning til        13        0        0        0     158
+               fritidsbrugere med delvis sambrug og eget klublokale
+50AØ2026-224   Grønnevang Skole, afd. Nødebo – scenarie 1B - tilbygning til        42       28       28       28      28
+               fritidsbrugere med delvis sambrug og eget klublokale
+NY50AØ2026-224 Grønnevang Skole, afd. Nødebo – skole 6 klasselokaler                A             -2.800
+NY50AØ2026-224 Grønnevang Skole, afd. Nødebo – skole p-plads                        A     2.100
+NY50AØ2026-224 Grønnevang Skole, afd. Nødebo – Klubhus nødvendig renovering         A     3.100                                        x
+
+NY50AØ2026-224 Grønnevang Skole, afd. Nødebo – Klubhus                             11       93                                         x
+NY50AØ2026-224 Grønnevang Skole, afd. Nødebo – Klubhus pavilloner leje             12                        115     230
+NY50AØ2026-224 Grønnevang Skole, afd. Nødebo – Klubhus pavilloner rengøring        13                         32      64
+NY50AØ2026-224 Grønnevang Skole, afd. Nødebo – Klubhus pavilloner deponering        F      750      -30      -30     -30
+
+Nedslidning
+50AØ2026-240   Buevej, renoveringsopgaver                                          A       885    3.000     2.000    900
+50AØ2026-240   Buevej, renoveringsopgaver                                          11       51       51        51     51
+NY50AØ2026-240 Buevej, renoveringsopgaver                                          A       885    3.000                                x
+
+
+08-09-202510:40                                                           Side 22 af 31                                Budgetaftale 2026-2029 i tal
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+i 1000 kr.                                                                                        2026     2027     2028     2029
+NY50AØ2026-240 Buevej, renoveringsopgaver                                                  11      51       51                                 x
+
+Udvikling
+50AØ2026-280       Garderobeforhold i Skovbørnehave – skal ses i sammenhæng med AU         A      240      160        0        0
+                   41AU2026-003 Ekstra medarbejder til skovbørnehave
+50AØ2026-280       Garderobeforhold i Skovbørnehave – skal ses i sammenhæng med AU         11       6        6        0        0
+                   41AU2026-003 Ekstra medarbejder til skovbørnehave
+50AØ2026-280       Garderobeforhold i Skovbørnehave – skal ses i sammenhæng med AU         12       0        4        8        8
+                   41AU2026-003 Ekstra medarbejder til skovbørnehave
+50AØ2026-281       Grønnevang Skole, afd. Nødebo – etablering af idrætshal og tilhørende   A      400      400     4.000   14.800
+                   parkeringsareal
+50AØ2026-281       Grønnevang Skole, afd. Nødebo – etablering af idrætshal og tilhørende   11     247      247      247      247
+                   parkeringsareal
+50AØ2026-281       Grønnevang Skole, afd. Nødebo – etablering af idrætshal og tilhørende   12      41       41       41       41
+                   parkeringsareal
+50AØ2026-281       Grønnevang Skole, afd. Nødebo – etablering af idrætshal og tilhørende   42      41       41       41       41
+                   parkeringsareal
+
+Idræts og Sundhedsudvalget
+Nedslidning
+50AØ2026-340   Renovering af svømmehal                                                     A     1.900   10.050   10.050   12.050
+50AØ2026-340   Renovering af svømmehal                                                     11      255      255      255      255
+50AØ2026-340   Renovering af svømmehal                                                     47      300      300      300      300
+NY50AØ2026-340 Renovering af svømmehal - mindre reperationer                               A     1.900                 0        0              x
+NY50AØ2026-340 Renovering af svømmehal - hydraulik - broer og bunde                        A     1.050    9.000        0        0              x
+NY50AØ2026-340 Renovering af svømmehal - vandbehandlingssystem                             A         0        0        0   19.000
+NY50AØ2026-340 Renovering af svømmehal - sidebygning                                       A         0        0        0        0
+NY50AØ2026-340 Renovering af svømmehal                                                     11      255      255        0        0              x
+NY50AØ2026-340 Renovering af svømmehal - levetidsforlængelse                               47      300      300      300      300              x
+50AØ2026-341   Udskiftning af Brødeskov kunstgræsbane                                      A         0    3.250        0        0
+50AØ2026-341   Udskiftning af Brødeskov kunstgræsbane                                      11        0       98        0        0
+
+
+08-09-202510:40                                                                  Side 23 af 31                                 Budgetaftale 2026-2029 i tal
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+i 1000 kr.                                                                                          2026    2027   2028   2029
+50AØ2026-342   Udgår
+50AØ2026-343   Renovering af Hillerød Stadion K1                                            A      2.800       0     0      0
+50AØ2026-343   Renovering af Hillerød Stadion K1                                            11        84       0     0      0
+NY50AØ2026-343 Renovering af Hillerød Stadion K1                                            A          0   2.800     0      0               x
+NY50AØ2026-343 Renovering af Hillerød Stadion K1                                            11         0      84     0      0               x
+
+Udvikling
+50AØ2026-380       Hillerød Badminton, opgradering af lys jf. Badminton Danmarks             A      300       0      0      0
+                   anbefalinger
+50AØ2026-380       Hillerød Badminton, opgradering af lys jf. Badminton Danmarks            11        9       0      0      0
+                   anbefalinger
+50AØ2026-381       Midlertidige atletikfaciliteter                                          A      3.000      0      0      0               x
+50AØ2026-381       Midlertidige atletikfaciliteter                                          11        90      0      0      0               x
+50AØ2026-381       Midlertidige atletikfaciliteter                                          47       125    125    125      0               x
+
+Kultur- og Fritidsudvalget
+
+Natur, Miljø og Klimaudvalget
+Nedslidning
+50AØ2026-540       Kritiske vandløbsstrækninger, opretninger                                 A        0     600    400    400               x
+50AØ2026-541       Egedammen; natursamarbejde med Nationalparken                             A      400       0      0      0               x
+
+Udvikling
+50AØ2026-580       Udviklingsplan for kirkegårde                                            A       300       0      0      0
+50AØ2026-580       Udviklingsplan for kirkegårde                                            11        9       0      0      0
+                   Biodiversitetsplan                                                       A       400     400      0      0               x
+
+Omsorg og Livskraftsudvalget
+Kapacitet
+50AØ2026-620       Servicecenter for hjælpemidler og velfærdsteknologi i
+                   FrederiksborgCentret. Ændret til Fremtidens hjælpemiddeldepot
+
+
+08-09-202510:40                                                                    Side 24 af 31                            Budgetaftale 2026-2029 i tal
+ - = mindreudgift/merindtægt + = merudgift/mindreindtægt
+i 1000 kr.                                                                    2026      2027      2028      2029
+50AØ2026-620       Fremtidens hjælpemiddeldepot                     A         400         0         0         0               x
+50AØ2026-620       Fremtidens hjælpemiddeldepot                     11         12         0         0         0               x
+
+Nye Korrektioner i alt - netto                                              73.910    73.014    35.323     9.804
+
+
+
+Nyt anlægsbudget                                                           175.326   529.471   272.796   236.940
+
+
+
+
+08-09-202510:40                                            Side 25 af 31                                      Budgetaftale 2026-2029 i tal
+AFLEDT DRIFT SOM FØLGE AF VEDTAGNE ANLÆGSØNSKER UDEN FOR
+
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+
+
+Afledt drift uden for rammen til budget
+08-sep-2025
+
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                  2026    2027    2028   2029   Godkendte
+Afledt drift udenfor rammen                               2.595   4.403   2.642   892    korrektioner
+
+Akt. 11, Administration
+Afledt drift på anlægsønsker                              1.179   1.622    447    447         x
+
+Akt. 12, Ejendomme
+Afledt drift på anlægsønsker                               915    2.190   1.585    60         x
+
+Akt. 13 Rengøring, bestiller
+Afledt drift på anlægsønsker                                60     150     100      0         x
+
+Akt. 27 Ejendomme - Grøn drift
+Afledt drift på anlægsønsker                                 0       0       0      0         x
+
+Akt. 21. Natur, Miljø og Klima
+Afledt drift på anlægsønsker                                 0       0       0      0         x
+
+Akt. 23. Kirkegårde
+Afledt drift på anlægsønsker                                 0       0       0      0         x
+
+Akt. 28. By og Miljø
+Afledt drift på anlægsønsker                                 0       0      69     69         x
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                  2026   2027   2028   2029   Godkendte
+
+
+Akt. 30. Ungdommens Uddannelsesvejledning
+Afledt drift på anlægsønsker                                 0      0      0      0        x
+
+Akt. 31. Beskæftigelsesindsats
+                                                             0      0      0      0        x
+
+Akt. 33. Forsørgelsesydelser
+Afledt drift på anlægsønsker                                 0      0      0      0        x
+
+Akt. 32. Specialiseret voksenområde
+Afledt drift på anlægsønsker                                 0      0      0      0        x
+
+Akt. 34. Ældreområdet
+Afledt drift på anlægsønsker                                 0      0      0      0        x
+
+Akt. 35. Sundhedsområdet
+Afledt drift på anlægsønsker                                 0      0      0      0        x
+
+Akt. 36 Erhverv og Turisme
+Afledt drift på anlægsønsker                                 0      0      0      0        x
+
+Akt. 41. Dagtilbud børn
+Afledt drift på anlægsønsker                                 0      0      0      0        x
+
+Akt. 42. Skoler og Unge
+Afledt drift på anlægsønsker                                16     16     16     16        x
+
+Akt. 43, Kriminalpræventive- og boligsociale aktiviteter
+Afledt drift på anlægsønsker                                 0      0      0      0        x
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                 2026   2027   2028   2029   Godkendte
+Akt. 44. Familier
+Afledt drift på anlægsønsker                                0      0      0      0        x
+
+Akt. 45. Kultur og Fritid
+Afledt drift på anlægsønsker                                0      0      0      0        x
+
+Akt. 46. Folkeoplysning
+Afledt drift på anlægsønsker                                0      0      0      0        x
+
+Akt. 47. Idræt og Sundhed
+Afledt drift på anlægsønsker                              425    425    425    300        x
+SKAT, TILSKUD OG UDLIGNING SAMT FINANSPOSTER. DE ANFØRTE
+BELØB ER ÆNDRINGER TIL OPRINDELIGT BUDGET
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+
+
+korrektioner vedrørende Finansiering mm
+08-sep-2025
+
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                                                             2026         2027         2028         2029
+                                                                                             -4.326.508      -4.475.513   -4.645.317   -4.645.317
+
+Skatter                                                                                        -156.055       -292.400     -329.565     -390.779
+
+BOF 3 2024                                                                                          11.599           0            0             0
+justering af skatteindtægter vedr. pl stigning fra 2028 til 2029 - artskonto 69080001                                                    -153.190
+Justering af skatteindtægter vedr. pl. Stigning som konsekvens af nye anlæg i 2029                                                         -23.673
+justering af skatteindtægter vedr. pl nedjustering marts skøn artskonto 69080001                    15.932       15.602       14.918        15.288
+justering af skatteindtægter vedr. pl nedjustering juni skøn artskonto 69080001                   9.529           9.456        9.696        9.779
+Basisberegning 85 % af befolkningsprognosen                                                    -193.115        -317.458     -354.179     -238.983
+
+
+
+
+Refusion af købsmoms                                                                                    0            0            0             0
+
+
+
+
+08-09-202510:40                                                                     Side 29 af 31                                                    Budgetaftale 2026-2029 i tal
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                                                      2026      2027      2028      2029
+
+
+Tilskud og udligning                                                                         97.275   293.591   312.179   214.713
+
+Efterregulering af KMF for 2025 - til afregning feb.2027 i R2026                          -3.872
+Basisberegning 85 % af befolkningsprognosen                                              101.147      293.591   312.179   214.713
+
+
+
+
+Låneoptagelse                                                                                 3.025    -2.100    -2.100    -2.100
+
+BOF 1 2025 - Omplaceret budgetramme - vejbelysning, energirenovering 2024-2026                3.025    -2.100    -2.100    -2.100
+
+
+
+
+Renter                                                                                         668        671       721       771
+
+Tilretning renteprofil vedr. FrederiksborgCentret - BY dec.                                   1.350     1.350     1.350     1.350
+Tilretning profil - indefrosne feriepenge - renter                                              188       191       241       291
+BOF 2 - 2025 Garantiprovision                                                                  -870      -870      -870      -870
+
+
+
+Afdrag                                                                                        -590       -590       -90      410
+
+Tilretning profil - indefrosne feriepenge - afdrag                                             -590      -590       -90       410
+
+
+
+Finansforskydninger                                                                           1.408     1.408     1.408     1.109
+
+
+Deponering Generationernes Kvarter              50AØ2022-083                                                               55.982
+Tilretning frigørelsesprofil vedr. FrederiksborgCentret - BY dec.                             1.440     1.440     1.440     1.440
+Tilretning frigørelsesprofil oprydning                                                          -32       -32       -32      -331
+
+
+
+08-09-202510:40                                                              Side 30 af 31                                          Budgetaftale 2026-2029 i tal
+- = mindreudgift/merindtægt + = merudgift/mindreindtægt
+1.000 kr.                                                                             2026   2027      2028       2029
+50AØ2026-084 Realisering af boligpolitikkens mål om almene boliger                      0      0          0          0
+
+Deponering Trollehøjen
+Deponering ændring ift. Generationernes Kvartershus                                                              14.000
+Deponering Pavilloner i Nødebo                                                          0      0          0           0
+Afledt effekt af udskydelse af Generationernes Kvartershus med 1 år                                             -69.982
+
+
+
+Nye korrektioner i alt                                                           -54.269     580    -17.447   -175.876
+
+
+
+
+08-09-202510:40                                                       Side 31 af 31                                       Budgetaftale 2026-2029 i tal
+

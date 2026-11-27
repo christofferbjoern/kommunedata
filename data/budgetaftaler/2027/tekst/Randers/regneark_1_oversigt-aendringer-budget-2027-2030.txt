@@ -1,0 +1,137 @@
+# kilde: filer/Randers/regneark_1_oversigt-aendringer-budget-2027-2030.pdf | metode: pdftotext
+
+Oversigt ændringer budgetaftale 2027-2030
+                                                                                          Nettobeløb (1.000 kr.)
+                                  Overskrift                    2026         2027          2028           2029           2030
+      Drift, service
+      Tekniske korrektioner, service                                   514     -1.329           -815           -815         -815
+      Demografi, børn                                                          -9.510         -9.510         -9.510       -9.510
+      Demografi, Skole                                                         -5.036         -5.036         -5.036       -5.036
+      Demografi, social voksne                                                 13.125         13.125         13.125       13.125
+      Demografi, social børn                                                    6.223          6.223          6.223        6.223
+      Demografi, omsorg                                                        21.164         21.164         21.164       21.164
+      Demografi, Økonomiudvalget nulstilles                                   -25.966        -25.966        -25.966       -25.966
+      Finansiering af vuggestuer - opsparing centralt på
+                                                                 -10.000
+      dagtilbudsområdet
+
+      Børn og unge i udsatte posistioner skal løftes
+      Skoleområdet - annullering af rammebesparelse                             7.240         12.350          5.150
+      Overbygning tilbage på Østervangsskolen                                       500
+      Specialskoleområdet - videreførelse bedre normering                                      2.600
+      Åbningstid SFO og fritidshjem                                             1.400          1.400          1.400        1.400
+      Teaterskolen Kastalia, driftstilskud 2027-2030                                 50            50               50          50
+      Projekt SANS, Teaterskolen Kastalia                                            80            80
+      Fremtidens Randerspuljen - finansiering                                    -360
+
+
+      Atraktiv bosætningskommune og boliger i bedre kvalitet
+
+      Model afledt drift, natur, land og by                                     1.500          1.500          1.500        1.500
+      Vejvedligeholdelse, broer og bygværker                                    3.000          3.000          3.000        3.000
+      Natteravnene , tilskud 2027-2030                                               25            25               25          25
+      No 17 - videreførelse                                                         900           900              900
+      Randers idrætshaller                                                      4.100
+      Blå Sol                                                                       850           850
+      Eventpuljen - finansiering                                                 -850           -850
+
+
+      En mere erhvervsvenlig kommune og flere arbejdspladser
+      Tiltrækningsstrategi - virksomheder                                           500
+      Fremtidens Randerspuljen - finansiering                                    -500
+      Flere parkeringspladser Laksetorvet - forsøg                                  300
+
+      Klimabro, Flodbyen og Fremtidens Fjernvarne - myndighed                   2.625          4.875          5.625        5.625
+
+      Nordsøstien                                                                   375           375              375
+      Erhvervs- og udviklingspuljen - finansiering                               -375           -375           -375
+
+
+      Flere selvforsørgende borgere
+      Investeringsmodeller - arbejdsmarkedsområdet                              2.800          1.360          1.360        1.120
+      Hjernerystelseskoordinator - investeringsmodel                                470           470
+      Talents of Tomorrow                                                           810           810
+      Fremtidens Randerspuljen - finansiering                                    -810           -810
+      Lakridsen - videreførelse                                                                   200
+      Danmarks Veteraner Kronjylland                                                150           150              150       150
+      Den samlede pulje til veteranindsatsen - finansiering                      -150           -150           -150         -150
+      Selvhjælp Randers                                                             230           230              230       230
+      SAM-foreningen                                                                              575              575       575
+      §18-midlerne - finansiering                                                               -575           -575         -575
+
+
+      Øget Sundhed og trivsel
+      Krisecenteret - projekt Ung uden Vold                                         500           500              500
+      Fritid for alle                                                               445           445
+      Fremtidens Randerspulje - finansiering                                     -445           -445
+Styrket indsats for talent- og eliteidrætten                                    210        210
+Team Danmark-aftalen - udvidelse                                                200        200        200        200
+Sundhedsindsatser og områdeudvikler                                             500        500
+Fremtidens Randerspulje - finansiering                                         -500       -500
+Sundhedsindsats unge - nikotin, alkohol og spil                                 500        500
+Tøjvask ældreområdet - afskaffelse af brugerbetaling                            300        500        500        500
+
+Uforbrugte driftsmidler - medfinansiering kunstgræsbaner            -200       -400
+
+
+Service i alt                                                    -9.686,0   24.841,0   30.135,0   19.625,0   12.835,0
+PL regulering                                                                            783,5    1.074,0    1.081,5
+Service i alt inkl. PL                                           -9.686,0   24.841,0   30.918,5   20.699,0   13.916,5
+Drift, øvrig drift
+Tekniske korrektioner, øvrig drift
+Investeringsmodeller arbejdsmarkedsområdet - indsats                          5.400      1.800      1.800      1.200
+Investeringsmodeller arbejdsmarkedsområdet - ydelser                          -8.200     -3.160     -3.160     -2.320
+Investeringsmodel - hjernerystelseskoordinator                                            -470       -470
+
+
+Øvrig drift i alt                                                      0      -2.800     -1.830     -1.830     -1.120
+PL regulering                                                                              -48        -96        -90
+Øvrig drift i alt inkl. PL                                             0      -2.800     -1.878     -1.926     -1.210
+Skattefinansieret anlæg
+Tekniske korrektioner                                             -9.026     -20.976    21.252      8.750
+Anlægspulje til politisk udmøntning, nulstilles - kan anvendes
+                                                                                        -19.750    -19.716    -10.000
+til konkrete anlægsprojekter*
+Kapacitet på dagtilbudsområdet (vuggestuer)                                  10.000     23.000     30.000     30.000
+Medfinansiering af vuggestuer - omprioritering af
+                                                                 -15.000
+anlægsmidler på skoleområdet
+Medfinansiering af vuggestuer - jordforsyning                    -26.400      -1.400     -1.400     -1.400     -1.400
+Bygningsvedligehold                                                            1.500      3.000      4.500      6.000
+Ny administrationsbygning - foranalyse                                        1.000
+Socialområdet - boligplan                                                                2.500      4.500      5.000
+Ny brandstation                                                               4.000     13.000     25.000
+Brandhaner - sløjfning                                                        2.200      2.500      2.500      2.500
+Dokning Ragna                                                                   100
+Mellerup færgeleje og moler                                                     100
+Skovrejsning                                                                             1.000      1.000      1.000
+Naturgenopretning                                                               800
+Områdefornyelse                                                                                     2.200      2.200
+Kunstgræsbaner - yderligere tilskud                                           3.600
+Flodbyen - rammebeløb (finansiering)                                          -1.500     -3.000     -3.750     -3.750
+
+
+
+Skattefinansieret anlæg i alt                                    -50.426       -576     42.102     53.584     31.550
+PL regulering                                                                              758      1.946      1.735
+Anlæg i alt inkl. PL                                             -50.426       -576     42.860     55.530     33.285
+Låneoptagelse
+Øvrig låneoptagelse                                                               0      -7.500     -9.590     -2.090
+Lånedispensationer, ydelsen fremgår under drift - kan
+                                                                            -31.200    -10.100    -10.100      -3.500
+anvendes til anlægsprojekter
+Låneoptagelse i alt                                                         -31.200    -17.600    -19.690      -5.590
+Finansiering
+Opsparingen til Klimabroen - finansiering                                     -1.125     -1.875     -1.875     -1.875
+Ydelsen på lån - øvrig lånefinansiering                                           0          0        545      1.229
+Ydelsen på lån vedr. lånedispensation                                                    2.267      2.949      3.630
+Finansiering i alt                                                            -1.125       392      1.619      2.984
+Skatter og tilskud
+
+Tekniske korrektioner - Sundhedsreform, korrigeret
+                                                                               -800       -800       -800       -800
+overgangstilskud
+Tekniske korrektioner, skatter, tilskud og udligning                          1.500     -3.910     -2.825       -377
+Skatter og tilskud i alt                                                        700      -4.710     -3.625     -1.177
+Ændringer i alt inkl. P/L                                        -60.112     -10.160    49.982     52.607     42.209
+

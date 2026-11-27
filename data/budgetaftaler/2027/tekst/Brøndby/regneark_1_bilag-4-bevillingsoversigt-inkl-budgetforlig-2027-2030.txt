@@ -1,0 +1,234 @@
+# kilde: filer/Brøndby/regneark_1_bilag-4-bevillingsoversigt-inkl-budgetforlig-2027-2030.pdf | metode: pdftotext
+
+  Bevillingsoversigt 2027 - 2030 til 2. behandling, inkl. budgetforlig
+                                                              Budget-     Budget-     Budget-     Budget-
+Nettotal i 1.000 kr. (-indtægter) i 2027-priser               forslag     overslag    overslag    overslag
+                                                               2027         2028        2029        2030
+DRIFT OG REFUSION                                             3.661.995 3.736.088 3.748.948 3.768.851
+Økonomiudvalget                                                 517.456   516.878   512.854   505.552
+0101 Politisk organisation                                       12.685     12.745      16.226      13.979
+  010101      Erhvervsudvikling og Turisme                        1.519      1.519       1.519        1.519
+  010102      Vederlag mv.                                        8.850      8.850       9.157        9.065
+  010103      Kontingenter, valgafholdelse mv.                    2.317      2.377       5.550        3.395
+0102 Administrativ organisation - rådhuspersonale mv.           245.224    242.563     241.975     241.964
+  010201      Adm. org. - Økonomiafdelingen                      34.726     33.801      33.801      33.801
+              Adm. org. - Staben for Politik og
+  010202      Kommunikation                                      32.334     32.334      32.334      32.334
+              Adm. org. - Børne-, Kultur- og
+  010203      Idrætsforvaltningen                                47.479     47.482      47.482      47.482
+  010204      Adm. org. - Social- og Sundhedsforvaltningen       73.175     71.417      70.829      70.819
+  010205      Adm. org. - Teknik- og Miljøforvaltning            57.511     57.529      57.529      57.529
+0103 Puljer mv.                                                  86.586     85.951      79.623      74.623
+  010301      Lønpuljer mv.                                      82.583     82.583      82.583      82.583
+  010302      Uddannelse mv.                                      4.500      4.472       4.472        4.472
+  010303      Direktørlønninger                                   7.542      7.542       7.542        7.542
+  010304      Servicerammepulje                                  15.420     24.845      24.839      24.839
+  010316      Organisationsudvikling                              1.525      1.525       2.235        2.235
+  010307      Overheadindtægter (administrationsindtægter)      -19.827     -19.827     -19.827     -19.827
+  010308      Puljer mv.                                         -5.158     -15.190     -22.222     -27.222
+0104 Fællesudgifter                                              71.293     73.952      73.363      73.318
+  010401      Fælles it og telefoni                              55.659     56.637      56.764      56.739
+  010402      Forsikringspræmier                                 11.511     13.161      14.207      14.187
+  010403      Økonomiske fællesudgifter                           3.208      3.239       1.478        1.478
+  010404      Juridiske udgifter                                  2.573      2.573       2.573        2.573
+  010405      Fælles kontorhold, inventar og repræsentation       5.308      5.308       5.308        5.308
+  010406      Ejendomsadministration mv.                        -16.401     -16.401     -16.401     -16.401
+  010407      Redningsberedskab                                   9.435      9.435       9.435        9.435
+0105 Bygningsdrift                                              101.667    101.667     101.667     101.667
+  010501      Energi                                             26.206     26.206      26.206      26.206
+  010502      Vedligehold                                        22.600     22.600      22.600      22.600
+  010503      TSM                                                14.740     14.740      14.740      14.740
+  010504      Rengøring                                          38.122     38.122      38.122      38.122
+Teknik- og Planudvalget                                         63.349      62.646      65.798      65.798
+0201 Teknik og Plan                                              26.209     26.209      26.209      26.209
+  020101      Sekretariat                                          687         687         687             687
+  020102      Plan                                                 -224       -224        -224         -224
+  020103      Kollektiv transport                                25.746     25.746      25.746      25.746
+
+
+
+                                                                                             Side 1 af 5
+                                                   Budget-     Budget-     Budget-     Budget-
+Nettotal i 1.000 kr. (-indtægter) i 2027-priser    forslag     overslag    overslag    overslag
+                                                    2027         2028        2029        2030
+0202 Veje                                             37.139     36.436      39.588      39.588
+  020201      Fælles udgifter                          3.911      3.237       3.237        3.237
+  020202      Vejområdet                              23.618     23.582      23.633      23.633
+  020203      Værksted                                 9.611      9.618      12.719      12.719
+Grøn omstilling og Miljøudvalget                     22.215      20.677      20.048      19.604
+0301 Grøn omstilling og Miljø                          6.814      5.565       4.936        4.492
+  030101      Klima og Miljø                           2.942      1.693       1.064             620
+  030102      Strandområder                            3.872      3.872       3.872        3.872
+0302 Grønne områder                                   17.964     17.676      17.676      17.676
+  030201      Grønne områder                          17.964     17.676      17.676      17.676
+0303 Renovation                                       -2.564      -2.564      -2.564      -2.564
+  030301      Affaldshåndtering                       -2.546      -2.546      -2.546      -2.546
+Kultur-, Idræt og Fritidsudvalget                    84.592      84.587      84.583      84.583
+0401 Idræt og Fritid                                  34.578     34.578      34.578      34.578
+  040101      Kultur, Idræt og Fritid - centralt      24.868     24.868      24.868      24.868
+  040102      Vestbadet                                7.163      7.163       7.163        7.163
+  040103      Dyregården Søholt                        2.547      2.547       2.547        2.547
+0402 Kultur                                           50.014     50.009      50.004      50.004
+  040201      Ungdoms- og Musikskolen                 21.282     21.282      21.282      21.282
+  040202    Kulturhuse og Biblioteker                 28.732     28.727      28.722      28.722
+Børne- og Skoleudvalget                            1.168.144 1.189.774 1.188.186 1.196.029
+0501 Skoler og Uddannelse                            601.804    614.218     613.403     614.797
+  050101      Skoler og Uddannelse, øvrigt           177.011    194.012     192.255     192.255
+  050102      Brøndbyøster Skole                     143.192    142.776     142.808     142.905
+  050103      Brøndbyvester Skole                    139.910    136.068     136.457     136.457
+  050104      Brøndby Strand Skole                   119.134    119.030     119.550     120.847
+  050105      10. Klasseskolen                        22.557     22.333      22.333      22.333
+0502 Sundhedspleje, Dagtilbud og Pladsanvisning      326.195    330.324     330.052     335.601
+  050201      Dagtilbud                               24.882     28.999      28.777      34.235
+  050202      Dagplejen                                9.542      9.542       9.542        9.542
+  050203      Stolpebo                                 5.568      5.568       5.568        5.568
+  050205      Spættebo                                 2.325      2.325       2.325        2.325
+  050206      Lærkebo                                  6.323      6.323       6.323        6.323
+  050207      Hyldebakkegård                           8.679      8.679       8.679        8.679
+  050208      Brøndbygård                              7.938      7.938       7.938        7.938
+  050209      Glentebo                                10.630     10.630      10.630      10.630
+  050210      Nordstjernen                            15.087     15.087      15.087      15.087
+  050211      Højstensgård                             8.905      8.905       8.905        8.905
+  050212      Hvidtjørnen                              8.694      8.694       8.694        8.694
+  050213      Påfuglen                                15.794     15.794      15.794      15.794
+  050214      Strandbo                                 8.825      8.825       8.825        8.825
+
+
+                                                                                  Side 2 af 5
+                                                             Budget-     Budget-     Budget-     Budget-
+Nettotal i 1.000 kr. (-indtægter) i 2027-priser              forslag     overslag    overslag    overslag
+                                                              2027         2028        2029        2030
+  050215      Myretuen                                          15.136     15.136      15.136      15.136
+  050216      Nattergalen                                       22.267     22.267      22.267      22.267
+  050217      Kærdammen                                          9.681      9.681       9.681        9.681
+  050218      Himmel og Hav                                     14.516     14.516      14.516      14.516
+  050219      Silergård                                          9.089      9.089       9.089        9.089
+  050221      Svanen                                             7.962      7.962       7.962        7.962
+  050222      Uglebo                                             9.203      9.203       9.203        9.203
+  050223      Lindelund                                          9.483      9.483       9.483        9.483
+  050224      Brumbassen                                        14.299     14.299      14.299      14.299
+  050225      Fuglemosen                                        14.292     14.292      14.292      14.292
+  050226      Vesterled                                         10.349     10.349      10.349      10.349
+  050227      Tranehaven                                        20.242     20.242      20.242      20.242
+  050228      Kirkebjerg                                        20.022     20.022      20.022      20.022
+  050250      Sundhedsplejen                                    16.462     16.475      16.426      16.517
+0503 Børn, Unge og Forebyggelse                                240.146    245.232     244.731     245.631
+  050301      Børn, Unge og Familier                           187.726    187.180     188.077     188.977
+  050310      PPR                                               26.990     32.623      31.814      31.814
+  050315      FGU og KUI                                        15.982     15.982      15.392      15.392
+  050320      SSP og Ungeenheden                                 9.448      9.448       9.448        9.448
+Beskæftigelses-, Handicap og Socialudvalget                  1.243.452 1.270.642 1.286.727 1.302.616
+0601 Beskæftigelse - Forsørgerydelser                          717.103    741.972     758.406     774.566
+  060101      Forsørgelsesydelser                              717.103    741.972     758.406     774.566
+0602 Beskæftigelse - Aktivering                                131.342    130.844     130.505     130.164
+  060202      Kommunal beskæftigelsesindsats                   131.342    130.844     130.505     130.164
+0603 Undervisning og vejledning                                   -556       -568        -579         -590
+  060301      Vestegnens Sprog- og Kompetencecenter               -556       -568        -579         -590
+0604 Det specialiserede voksenområde                           317.479    318.014     318.011     318.038
+  060401      Specialrådgivningen - Myndighedsopgaver          305.338    305.873     305.870     305.839
+  060402      Botilbuddene i Brøndby                            -3.686      -3.686      -3.686      -3.686
+  060403      Job- og Aktivitetscenter Vestegnen                -2.343      -2.343      -2.343      -2.343
+  060404      Behandlingscenter Brøndby                           -319       -319        -319         -319
+  060405      Multihus og Bostøtte                              18.490     18.490      18.490      18.548
+0605 Det borgernære område                                      78.084     80.379      80.384      80.438
+  060501      Borgernære ydelser                                78.084     80.379      80.384      80.438
+Ældre- og Omsorgsudvalget                                     562.786     590.884     590.753     594.669
+0701 Ældreområdet                                              528.950    558.683     559.384     562.896
+  070101      Ældreområdet, Visitation - myndighedsopgaver     160.816    161.550     162.382     165.009
+  070102      Ældreområdet - Tværgående opgaver                 62.874     59.673      59.763      60.348
+  070103      Ældrecentrene                                    220.711    252.438     251.961     251.961
+  070104      Træningscenter Brøndby                            31.745     31.916      32.171      32.473
+  070105      Hjemmeplejen                                      52.805     53.107      53.107      53.107
+
+
+                                                                                            Side 3 af 5
+                                                                 Budget-     Budget-     Budget-     Budget-
+Nettotal i 1.000 kr. (-indtægter) i 2027-priser                  forslag     overslag    overslag    overslag
+                                                                  2027         2028        2029        2030
+0702 Sundhedsområdet                                                33.836     32.201      31.369      31.773
+  070202      Udvikling af sundhedsindsatser mv.                     4.151      4.151       4.151        4.151
+  070203      Tandplejen                                            29.685     28.050      27.219      27.622
+RENTER                                                               1.558      1.558       1.558        1.558
+722074999     Gebyr - Indskud i pengeinstitutter m.v.                  700        700         700             700
+722074999     Investerings- og placeringsforeninger                 -3.000      -3.000      -3.000      -3.000
+728144999     Tilgodehavender i betalingskontrol                      -200       -200        -200         -200
+              Andre tilgodehavender vedrørende hovedkonto
+728154999     0-8                                                     -450       -450        -450         -450
+752564100     Renter                                                   200        200         200             200
+              Anden kortfristet gæld med indenlandsk
+752564999     betalingsmodtager                                        400        400         400             400
+755684001     Kommunale ældreboliger                                    48         48          48             48
+755704001     Kommunale ældreboliger                                 5.060      5.060       5.060        5.060
+755734000     Lønmodtagernes Feriemidler, indeksering                  300        300         300             300
+758784005     Investerings- og placeringsforeninger                 -1.500      -1.500      -1.500      -1.500
+FINANSIERING                                                     -4.041.055 -4.047.846 -4.184.540 -4.358.136
+762807001     Kommunal udligning                                 -1.012.342 -1.033.929 -1.067.489 -1.113.814
+762807002     Statstilskud til kommuner                           -294.511    -387.284    -415.202    -418.914
+762807003     Ekstra generelt tilskud                              -28.244     -12.113          0               0
+762807007     Efterreguleringer                                     69.464          0           0               0
+762807010     Udligning af selskabsskat                             33.192     40.670      40.666      39.103
+              Udligning af dækningsafgift vedr. offentlige
+762807011     ejendomme                                               -189       -188        -191         -198
+762807222     Betinget statstilskud vedr. anlæg og service         -27.785          0           0               0
+762817001     Udligning vedr. udlændinge                           -46.310     -48.809     -51.880     -54.660
+762817005     Efterreguleringer                                        886          0           0               0
+762827002     Kommunalt udviklingsbidrag                            -5.508      -5.651      -5.809      -5.972
+762867013     Tilskud til bedre kvalitet i dagtilbud                -5.280      -5.417      -5.569      -5.725
+762867014     Tilskud til et generelt løft af ældreplejen           -7.068      -7.252      -7.455      -7.664
+762867015     Tilskud til styrket kvalitet i ældreplejen           -37.942     -37.947     -38.204     -38.742
+762867019     Finansieringstilskud                                  -7.404      -7.597      -7.809      -8.028
+762867025     Tilskud til værdig ældrepleje                           -708       -726        -747         -768
+762867026     Tilskud til bekæmpelse af ensomhed                   -72.684     -74.574     -76.662     -78.808
+762867028     Tilskud til udsatte hovedstadskommuner                -5.508      -5.651      -5.809      -5.972
+765877002     Refusion af købsmoms                                 -75.656     -75.656     -75.656     -75.656
+765877003     Udgifter til købsmoms                                 75.656     75.656      75.656      75.656
+768907001     Forskudsbeløb af kommunal indkomstskat             -1.967.126 -1.999.029 -2.064.886 -2.148.390
+768907002     Afregning af forskelsbeløb                          -201.949          0           0               0
+768927001     Afregning af selskabsskat m.v.                      -174.540    -214.126    -215.882    -211.909
+768937002     Andel af bruttoskat efter forskerskatteordningen      -4.913      -4.913      -4.913      -4.913
+768937004     Kommunens andel af skat af dødsboer                     -373       -373        -373         -373
+
+
+
+                                                                                                Side 4 af 5
+                                                                Budget-     Budget-     Budget-       Budget-
+Nettotal i 1.000 kr. (-indtægter) i 2027-priser                 forslag     overslag    overslag      overslag
+                                                                 2027         2028        2029          2030
+768947001     Grundskyld                                         -169.173    -185.365    -194.608      -221.737
+768957001     Dækningsafgift af offentlige ejendomme               -3.768      -3.768      -3.768        -3.768
+              Dækningsafgift af forretningsejendommes
+768957003     grundværdi                                          -82.284     -65.068     -69.580       -78.936
+AFDRAG PÅ LÅN OG LEASING                                            7.228      7.228     7.228            7.228
+955739000     Lønmodtagernes feriemidler                            4.200      4.200       4.200          4.200
+955779101     Langfristet gæld - Ældreboliglån, afdrag               421         421         421               421
+955779103     Langfristet gæld -Gildhøjhjemmet, afdrag                66          66             66            66
+955779109     Langfristet gæld – Æblehaven, afdrag                    12          12             12            12
+955779116     Langfristet gæld - Strandboligerne, afdrag            1.928      1.928       1.928          1.928
+955779124     Langfristet gæld - Enghusene, afdrag                   600         600         600               600
+BALANCEFORSKYLDNINGER                                              13.420     13.420      13.420        13.420
+932218934     Letbanen indskud                                      9.400      9.400       9.400          9.400
+932238401     Boligindskud - Udbetalte lån                            45          45             45            45
+932238404     Boligindskud - Udbetalte lån pensionister               -10         -10         -10              -10
+932258934     Brøndby Havn, udlejede pladser                          -70         -70         -70              -70
+932258941     Indfri lån af ejendomsskat                           -4.000      -4.000      -4.000        -4.000
+932258942     Ejendomsskat I-Lån Grundskyld                         8.230      8.230       8.230          8.230
+              Lån til fjernvarmeinstallation for pensionister
+932258944     m.fl.                                                  -130       -130        -130           -130
+951529097     Refusion af ATP-bidrag                               -3.398      -3.398      -3.398        -3.398
+951529100     ATP-bidrag kontant- og uddannelseshjælp               1.670      1.670       1.670          1.670
+951529101     ATP-bidrag sygedagpenge                                900         900         900               900
+951529116     ATP-bidrag revalidering og ledighedsydelse             170         170         170               170
+951529117     ATP-bidrag til fleksjobansatte                         270         270         270               270
+              ATP-bidrag af ressourceforløbsydelse i
+951529118     ressourceforløb                                        388         388         388               388
+951529403     Statens andel af boliglån - pligtlån                    -30         -30         -30              -30
+952599406     Ældreboliger - henlæggelse til vedligeholdelse         631         631         631               631
+952599407     Ældreboliger - henlæggelse ved fraflytning              92          92             92            92
+952599408     Ældreboliger - Opsamlet resultat                       -298       -298        -298           -298
+952599909     Forsikringspræmier                                     -440       -440        -440           -440
+
+
+
+
+                                                                                                 Side 5 af 5
+

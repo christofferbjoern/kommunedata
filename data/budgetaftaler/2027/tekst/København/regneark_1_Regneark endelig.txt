@@ -1,0 +1,797 @@
+# kilde: filer/København/regneark_1_Regneark endelig.pdf | metode: pdftotext
+
+                                                                                                                    Bilag 1 - Finansiering og udgifter
+
+
+
+
+     Budget 2027
+     14-09-2026 12:10
+     Bilag 1. Finansiering og udgifter
+
+     Budget-
+                                                                                  (mio. kr., 2027 p/l                2027                                 2028                             2029                             2030                              I alt
+     notat
+
+                                                                                                                   Brutto-                               Brutto-                          Brutto-                          Brutto-                          Brutto-
+                                                                                                        Service    anlæg      Øvrige       Service       anlæg     Øvrige      Service    anlæg      Øvrige     Service    anlæg      Øvrige     Service    anlæg      Øvrige
+                                                                                                              0
+ 1 BF2027        Ledigt service- og anlægsmåltal i budgetforslag 2027                                     952,4      250,0
+
+                 Finansiering
+     BF2027,     Udisponeret råderum i budgetforslag 2027 ved effektiviseringsniveau på 179 mio.
+ 2                                                                                                          0,0        0,0     3.360,8            0,0        0,0   1.384,7         0,0        0,0    1.688,6        0,0        0,0     1.906,1       0,0        0,0     8.340,3
+     ØK01        kr., inkl. overskydende midler fra reel kasse
+ 3 ØK42          Mindreudgifter til afledt drift til endnu ikke færdiggjorte anlægsprojekter i 2026         0,0        0,0           7,7          0,0        0,0        0,0        0,0        0,0        0,0        0,0        0,0        0,0        0,0        0,0          7,7
+ 4 ØK08          Investerings- og innovationsforslag til budget 2027                                       -11,4      -4,2        -0,6            -3,9      -2,3         0,0        0,0       -1,7        0,0       0,0        -1,0       0,0      -15,3       -9,3         -0,6
+ 5 ØK08          Udmøntning af investerings- og innovationspuljerne 2027                                    11,4       0,0         0,0             0,0       0,0         0,0        0,0        0,0        0,0       0,0       13,8        0,0        11,4      13,8          0,0
+ 6 ØK07 (V)      Nyt skøn for overførsler sfa. Økonomisk Redegørelse august                                 0,0        0,0        13,6             0,0       0,0         0,0        0,0        0,0        0,0       0,0        0,0        0,0        0,0        0,0         13,6
+ 7 ØK07 (V)      Konsekvenser af tekniske ændringsforslag (TÆF)                                              1,8       0,0        -0,8             1,5       0,0       -10,4        1,4        0,0      -10,4       0,7        0,0      -10,4        5,4        0,0        -31,9
+ 8 ØK76          Frigivelse af kassereservation vedr. E-huset                                               0,0        0,0        12,3             0,0       0,0         0,0        0,0        0,0        0,0       0,0        0,0        0,0        0,0        0,0         12,3
+ 9 ØK74*         Reduktion af busfremkommelighedspuljen i 2026-2030                                         0,0        9,1         11,8            0,0       8,1         0,0        0,0        8,1        0,0       0,0         8,1       0,0        0,0       33,2          11,8
+10 KT196*        Finansiering fra byfornyelsesrammen                                                        0,0        0,0        50,0             0,0       0,0       25,0         0,0        0,0        0,0       0,0        0,0        0,0        0,0        0,0        75,0
+ 11 BF2027       Reservation til håndtering af økonomiske konsekvenser af sundhedsreformen                  0,0        0,0        75,0             0,0       0,0         0,0        0,0        0,0        0,0       0,0        0,0        0,0        0,0        0,0        75,0
+12 BF2027        Reserveret måltal til OFS26/27                                                            26,2        0,0       -26,2             0,0       0,0         0,0        0,0        0,0        0,0       0,0        0,0        0,0       26,2        0,0       -26,2
+13 BF2027        Puljen til uforudsete udgifter                                                            16,4        0,0         0,0             0,0       0,0         0,0        0,0        0,0        0,0       0,0        0,0        0,0       16,4        0,0          0,0
+14 BF2027        Puljen til forsikrede ledige                                                               0,0        0,0        22,3             0,0       0,0         0,0        0,0        0,0        0,0       0,0        0,0        0,0        0,0        0,0        22,3
+15 -             Omplacering mellem årene                                                                 952,4      242,3    -3.668,0         1.289,9     493,0   -1.380,0     1.185,3     812,7    -1.468,1   1.096,5      759,8     -316,0    4.524,1    2.307,8    -6.832,0
+
+16               Finansiering i alt                                                                       996,8      247,2       -142,2        1.287,5     498,7       19,4     1.186,7      819,1     210,2    1.097,2      780,7    1.579,8    4.568,1    2.345,6     1.667,2
+
+                 Need to
+                 Børne- og Ungdomsudvalget
+                 Tidlig anlægsbevilling samt valg af funktioner i ledigt areal i Vognværkstedet
+17 BU01                                                                                                     0,0       21,7           0,0          0,0       33,8        0,0        0,0       33,8        0,0        0,0        0,0        0,0        0,0       89,4          0,0
+                 (Scenarie 2a)
+18 BU02 (V)      Etablering af elevator på Heiberg Skole                                                    0,0        5,8           0,0          0,0        0,0        0,0        0,0        0,0        0,0        0,0        0,0       0,0         0,0        5,8         0,0
+19 BU03          Anlægsbevilling til modernisering af faglokaler                                            0,0       22,3           0,0          0,0       86,4        0,0        0,0        5,9        0,0        0,0        9,9      12,6         0,0      124,5        12,6
+20 BU04 (V)      Anlægsbevilling til Skolen på Levantkaj                                                    0,0       32,4           0,0          0,0       53,0        0,0        0,0      133,0        0,0        0,0      135,2     554,6         0,0      353,6       554,6
+21 BU05          Planlægningsmidler til nye daginstitutionsgrupper                                          0,0        9,5           0,0          0,0        9,5        0,0        0,0        9,5        0,0        0,0        0,0       0,0         0,0       28,4         0,0
+                 Anlægsbevilling til Skolen ved Himmelhøj samt
+22 BU06 (V)                                                                                                 0,0       35,8           5,8          0,0       49,2        0,0        0,0       119,4       0,0        2,4      138,2       86,5        2,4      342,6        92,3
+                 idrætshal
+23 BU07 (V)      Anlægsbevilling til udvidelse og modernisering af Strandparkskolen                         3,8        6,6           0,0          8,3        4,6        0,0         9,1      25,3        0,0       10,0       66,3       78,9       31,2      102,8        78,9
+                 Planlægningsbevilling til omlægning af Rosenvængets Skole (scenarie 1 -
+24 BU08                                                                                                     0,0         1,9          0,0          0,0        0,0        0,0        0,0        0,0        0,0        0,0        0,0        0,0        0,0         1,9         0,0
+                 Omlægning af Rosenvængets skole til ny målgruppe) (tekst)
+25 BU09          Pulje til kapacitetsafhjælpende foranstaltninger                                           0,0       25,5           0,0          0,0        0,0        0,0        0,0        0,0        0,0        0,0        0,0        0,0        0,0       25,5          0,0
+                 Anlægsbevillings til renovering af legepladser mv. i skoler og daginstitutioner
+26 BU10                                                                                                     0,0        4,0           0,0          0,0       15,8        0,0        0,0        0,0        0,0        0,0        0,0        0,0        0,0       19,8          0,0
+                 (tekst)
+27 BU11          Anlægsbevilling til tandklinik på Kobbelvænget (tekst)                                     0,0         2,1          0,4          0,0       -2,3        0,0        0,0        6,3        0,0        0,0        0,0        3,6        0,0         6,1         4,0
+                 Anlægsbevilling til modernisering af ventilation på Korsager Skole (scenarie 1 -
+28 BU12                                                                                                     0,0       15,0           0,0          0,0       33,2        0,0        0,0        14,1       0,0        0,0        0,0        0,0        0,0       62,3          0,0
+                 ventilationsanlægget placeres på terræn)
+29 BU13          Tilbageførsel af midler til udvidelse af daginstitutionen Rosa                             0,0        -1,3          0,0          0,0       -0,4        0,0        0,0        -1,1       0,0        0,0        0,0        0,0        0,0       -2,8          0,0
+                 Finansiering af finanslovsaftale om minimumsnormeringer, lavere
+30 BU21 (V)                                                                                               102,1        0,0           0,0         102,1       0,0        0,0       102,1       0,0        0,0       102,1       0,0        0,0      408,5        0,0          0,0
+                 forældrebetaling og forbedrede vilkår for private dagtilbud
+
+             Klima-, Teknik- og Miljøudvalget
+31 KT001 (V) Skæv DUT vedr. ny lov om terrænnært grundvand                                                   1,0       0,0           1,7           1,2       0,0        0,0         1,4       0,0        0,0         1,4       0,0        0,0        4,9        0,0          1,7
+32 KT004 (V) Skæv DUT ifm. indførelse af fuld brugerbetaling for miljøtilsyn                                 1,9       0,0           1,8           1,9       0,0        0,0         1,9       0,0        0,0         1,9       0,0        0,0        7,4        0,0          1,8
+
+                                                                                                                                Side 1 af 11
+                                                                                                                   Bilag 1 - Finansiering og udgifter
+
+
+
+
+   Budget-
+                                                                                 (mio. kr., 2027 p/l                2027                               2028                            2029                            2030                             I alt
+   notat
+
+                                                                                                                  Brutto-                             Brutto-                         Brutto-                         Brutto-                         Brutto-
+                                                                                                       Service    anlæg      Øvrige       Service     anlæg      Øvrige    Service    anlæg      Øvrige    Service    anlæg      Øvrige    Service    anlæg      Øvrige
+
+               Kultur-, Fritids- og Borgerserviceudvalget
+33 KF029       Genhusning på Ørestad skole                                                                -3,6      -35,2          -1,6        -3,3      -8,5        0,0      -3,5       -2,3        0,0       0,0       -12,6     -23,7      -10,5     -58,5      -25,3
+
+               Socialudvalget
+               Nedbringelse af visitationslisten relateret til forsyningsforpligtelsen på
+34 SO01                                                                                                   211,1       0,0           0,0       327,1       0,0        0,0     334,9        0,0        0,0     281,0        0,0        0,0    1.154,0       0,0         0,0
+               botilbudsområdet (tekst)
+35 SO02        Tilbagebetaling af need to midler vedr. ambulant alkoholbehandling                          -1,0       0,0           0,0         0,0       0,0        0,0       0,0        0,0        0,0       0,0        0,0        0,0       -1,0       0,0         0,0
+36 SO03        Udgiftsstigning til køb af pladser på krisecentre og herberger                              8,9        0,0           0,0         8,9       0,0        0,0       8,9        0,0        0,0       8,9        0,0        0,0      35,4        0,0         0,0
+37 SO04        Merudgifter grundet handleplan til botilbud på Boserupvej (tekst)                          93,2        0,0           0,0         0,0       0,0        0,0       0,0        0,0        0,0       0,0        0,0        0,0      93,2        0,0         0,0
+               Udgifter til køb af botilbudspladser som følge af visitering af borgere på Kildevæld
+38 SO05                                                                                                   10,9        0,0           0,0         0,0       0,0        0,0       0,0        0,0        0,0       0,0        0,0        0,0      10,9        0,0         0,0
+               (tidligere Borgervænget)
+               Planlægningsbevilling til børne- og ungehjem med op til 16 pladser på Åkandevej
+39 SO06                                                                                                    0,0         1,9          0,0         0,0        1,9       0,0       0,0        0,0        0,0       0,0        0,0        0,0       0,0        3,9         0,0
+               41
+               Anlægsbevilling til ombygning af det tidligere EAT-køkken på Edith Rodes Vej 8 til
+40 SO07 (V)                                                                                                0,9        3,7           2,4         0,9      19,7        0,0        1,5      32,8        0,0       2,8        9,9       13,5        6,1      66,0        15,9
+               at rumme et børne- og ungehjem
+41 SO08        Anlægsbevilling til modernisering af botilbud Mimersgade 71-73                              0,3        1,6           0,0         0,3       1,6        0,0       0,3       10,0        0,0       0,3        11,7       5,7       1,2       24,9         5,7
+42 SO09 (V)    Merudgifter grundet handleplan på botilbuddet Sundholm Pleje                                8,1        0,0           0,0         7,3       0,0        0,0       7,3        0,0        0,0       7,3         0,0       0,0      29,8        0,0         0,0
+
+               Sundheds- og Omsorgsudvalget
+   SU01 (V)/
+43           SU01 Plejeboligplan 2026 – 2035 (Tilvalg 1) / SU02 Fortrolig sag (tekst)                    -39,9      -34,6      -232,5         -41,6     -46,6      -12,3      -26,1      -15,7     182,2     -20,9        0,4      471,5    -128,5      -96,5      408,8
+   SU02
+               Midler til grundkapital til finansiering af indskud i Landsbyggefonden til
+44 -                                                                                                       0,0        0,0        -89,9          0,0       0,0        0,0       0,0        0,0        0,0       0,0        0,0        0,0       0,0        0,0       -89,9
+               plejeboliger
+   SU03 (F)
+45             Kapacitetsudfordringer og helhedsplan for hjemmeplejen og myndighed                         3,0       12,5           0,0         2,8      15,0        0,0       3,8        2,0        0,0       3,7        0,0        0,0      13,3       29,5         0,0
+   (V)
+46 SU04        Københavns Kommunes ekstraudgifter til SOSU-elevløn (SUND)                                 84,7        0,0           0,0       90,0        0,0        0,0      71,2        0,0        0,0      69,6        0,0      69,6      315,5        0,0       69,6
+47 SU04        Københavns Kommunes ekstraudgifter til SOSU-elevløn (SOC)                                  28,4        0,0           0,0       27,1        0,0        0,0      26,5        0,0        0,0      26,5        0,0      26,5      108,5        0,0       26,5
+48 SU06 (F)    Kapacitetsudfordringer på kommunale midlertidige pladser                                    0,0        1,2           1,5        0,0        0,0        0,0       0,0        0,0        0,0       0,0        0,0       0,0        0,0        1,2        1,5
+49 SU05        Udskiftning af kølesystem og tag i Københavns Madservice                                    0,0        5,9           0,0        0,0        0,0        0,0       0,0        0,0        0,0       0,0        0,0       0,0        0,0        5,9        0,0
+
+               Rettidig omhu
+               Beskæftigelses-, Integrations- og Erhvervsudvalget
+50 BI01        Etablering af yderligere indkvarteringskapacitet i pavilloner på Vindmøllevej               0,0        0,0         28,3          0,0        7,1       0,0       0,0        0,0        0,0       0,0        0,0        4,4       0,0         7,1      32,7
+
+               Børne- og Ungdomsudvalget
+51 BU20        Servicebevilling til BUFs flytteenhed                                                       3,0        0,0           0,0         3,0       0,0        0,0       3,0        0,0        0,0       3,0        0,0        0,0      12,0        0,0         0,0
+
+               Klima-, Teknik- og Miljøudvalget
+52 KT005 (V) Bedre cykelforhold i Danmarks største cykelkryds Søtorvet                                     0,0         1,0          0,0         0,0       0,9        0,0       0,0        8,4        0,0       0,0        3,4       -2,1       0,0       13,6        -2,1
+
+53 KT008 (V) Udvidelse af cykel- og gangsti og bedre belysning gennem Amager Fælled                        0,0         1,4          0,0         0,0       0,8        0,0       0,0        5,4        0,0        0,1       3,7       -1,7        0,1       11,3       -1,7
+
+
+               Kultur-, Fritids- og Borgerserviceudvalget
+54 KF003       Finansiering af fondsmoms til projektet "Thorvaldsen: Fra fortid til samtid"                0,0        0,0           0,6         0,0       0,0        0,6       0,0        0,0        0,6       0,0        0,0        0,6       0,0        0,0         2,5
+
+               Socialudvalget
+55 SO10        Medfinansiering til drift af stofindtagelsesrummet Reden                                    5,3        0,0           0,0         5,4       0,0        0,0       5,6        0,0        0,0       5,7        0,0        0,0      21,9        0,0         0,0
+56 SO11        Medfinansiering til drift af et mobilt stofindtagelsesrum i København                       0,0        0,0           0,0         2,4       0,0        0,0       2,4        0,0        0,0       2,5        0,0        2,6       7,3        0,0         2,6
+               Anlægs- og servicemidler til genhusning ifm. modernisering af Sundholmsvej
+57 SO12                                                                                                    0,3        5,9           0,0         0,0        1,3       0,0       0,0        0,0        0,0       0,0        0,0        1,7       0,3        7,2         1,7
+               10A-B
+58 SO13        Supplerende planlægningsbevilling til modernisering af botilbuddet Holme                    0,8        4,2           0,4         0,0       0,0        0,0       0,0        0,0        0,0       0,0        0,0        0,0       0,8        4,2         0,4
+
+                                                                                                                               Side 2 af 11
+                                                                                                                 Bilag 1 - Finansiering og udgifter
+
+
+
+
+   Budget-
+                                                                               (mio. kr., 2027 p/l                2027                              2028                           2029                           2030                            I alt
+   notat
+
+                                                                                                                Brutto-                            Brutto-                        Brutto-                        Brutto-                        Brutto-
+                                                                                                     Service    anlæg      Øvrige       Service    anlæg     Øvrige    Service    anlæg     Øvrige    Service    anlæg     Øvrige    Service    anlæg     Øvrige
+              Anlægsbevilling til modernisering af E-huset ved nybyggeri på areal ved Sjælør St.
+59 SO14 (V)                                                                                              0,2       68,4           4,5       0,2       31,3       0,0       0,2       86,3       0,0       0,2       86,3     133,9       0,6      272,4      138,4
+              (tekst)
+              Supplerende anlægsbevilling til Boserupvej til etablering af beskæftigelsestilbud
+60 SO15 (V)                                                                                              0,0        2,8           1,5       0,0        4,9       0,0       0,0        4,8       0,0        0,1       0,9       2,6        0,1      13,4        4,1
+              (tekst)
+              Anlægsbevilling til modernisering af Sundholmsvej 24A til ni herbergspladser til
+61 SO16 (V)                                                                                              0,7         2,1          0,0       6,4       15,0       0,0       6,9        3,0       0,0       6,9        0,0       0,0      20,9       20,2        0,0
+              kvinder
+
+              Sundheds- og Omsorgsudvalget
+62 SU04       Københavns Kommunes ekstraudgifter til SOSU-elevløn - Voksenelevløn (SOC)                  0,4        0,0           0,0        5,1       0,0       0,0       6,7        0,0       0,0       6,8        0,0       6,8      19,0        0,0        6,8
+
+63 SU04       Københavns Kommunes ekstraudgifter til SOSU-elevløn - Voksenelevløn (SUND)                18,5        0,0           0,0       38,1       0,0       0,0      49,2        0,0       0,0       51,1       0,0      51,1     156,9        0,0       51,1
+
+
+              Fastholdelse og rekruttering
+64 BU25*      Spor 4. Seniorordning for pædagoger personale på 65 år og derover                          2,0        0,0           0,0       2,0        0,0       0,0       2,0        0,0       0,0       2,0        0,0       0,0       8,0        0,0        0,0
+65 BU25*      Spor 1. Uddannelse af meritlærere samt vikarmidler                                         3,8        0,0           0,0       5,3        0,0       0,0       6,0        0,0       0,0       6,0        0,0       0,0      21,0        0,0        0,0
+66 BU25*      Spor 1. Uddannelse af meritpædagoger samt lønkompensation til vikardækning                 2,9        0,0           0,0       3,3        0,0       0,0       4,0        0,0       0,0       4,0        0,0       0,0       14,1       0,0        0,0
+67 BU25*      Spor 1. Rekrutteringssupport på dagtilbudsområdet                                          2,0        0,0           0,0       2,0        0,0       0,0       2,0        0,0       0,0       2,0        0,0       0,0        8,0       0,0        0,0
+68 BU25*      Spor 2. Mentorordning og lærerstartsforløb på skoler                                       3,6        0,0           0,0       2,9        0,0       0,0       2,6        0,0       0,0       2,6        0,0       0,0       11,7       0,0        0,0
+              Spor 1. Support til skolernes administrative opgaver med merituddannelser og
+69 BU25*                                                                                                  1,5       0,0           0,0        1,0       0,0       0,0        1,0       0,0       0,0        1,0       0,0       0,0       4,5        0,0        0,0
+              rekruttering
+              Spor 1. Support til dagtilbuddenes administrative opgaver med merituddannelser
+70 BU25*                                                                                                  1,5       0,0           0,0        1,0       0,0       0,0        1,0       0,0       0,0        1,0       0,0       0,0       4,5        0,0        0,0
+              og rekruttering
+71 BU25*      Spor 2. Uddannelse af mentorer                                                             0,3        0,0           0,0       0,3        0,0       0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,6        0,0        0,0
+72 BU25*      Spor 2. Implementeringsstøtte og frikøb af mentorer                                        2,6        0,0           0,0       2,6        0,0       0,0       2,6        0,0       0,0       2,6        0,0       0,0      10,5        0,0        0,0
+73 BU25*      Spor 3. Arbejdsmiljø København – opgavebank og arbejdspladsforløb                          0,8        0,0           0,0       0,8        0,0       0,0       0,0        0,0       0,0       0,0        0,0       0,0       1,6        0,0        0,0
+74 BU25*      Spor 1. Udvidelse af uddannelsespladser til sundhedsplejersker                             1,9        0,0           0,0       1,9        0,0       0,0       1,9        0,0       0,0       1,9        0,0       0,0       7,6        0,0        0,0
+75 SO17*      Flere faguddannede i Socialforvaltningen gennem styrket rekruttering                       3,2        0,0           0,0       3,2        0,0       0,0       3,2        0,0       0,0       3,2        0,0       0,0      13,0        0,0        0,0
+76 SO18*      Styrket faglighed og flere faguddannede via uddannelse og kompetenceudvikling              7,7        0,0           0,0       7,7        0,0       0,0       7,7        0,0       0,0       7,7        0,0       0,0      30,6        0,0        0,0
+              Styrket midlertidig normering på socialpsykiatrisk botilbud – indsats for trivsel og
+77 SO57                                                                                                   3,1       0,0           0,0        3,1       0,0       0,0        3,1       0,0       0,0        3,1       0,0       0,0      12,5        0,0        0,0
+              fastholdelse af personale
+              Udvidelse af rekrutteringsgrundlaget til SUF (Indsats A. Rekruttering af
+78 SU07                                                                                                  0,5        0,0           0,0       0,5        0,0       0,0       0,5        0,0       0,0       0,5        0,0       0,0       2,0        0,0        0,0
+              udenlandsk arbejdskraft)
+              Udvidelse af rekrutteringsgrundlaget til SUF (Indsats B. Udvidelse af
+79 SU07                                                                                                  0,7        0,0           0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,7        0,0        0,0
+              rekrutteringsgrundlaget for sygeplejersker og SOSU'er)
+80 SU07       Udvidelse af rekrutteringsgrundlaget til SUF (Indsats C1. Sprogscreening)                   0,1       0,0           0,0        0,1       0,0       0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,2        0,0        0,0
+              Udvidelse af rekrutteringsgrundlaget til SUF (Indsats C2. Udvidelse af tilbuddet
+81 SU07                                                                                                  0,5        0,0           0,0       0,5        0,0       0,0       0,5        0,0       0,0       0,5        0,0       0,0        1,8       0,0        0,0
+              om skræddersyet danskundervisning)
+82 SU07       Udvidelse af rekrutteringsgrundlaget til SUF (Indsats D. SOSU-eleven i centrum)            4,2        0,0           0,0       4,2        0,0       0,0       4,2        0,0       0,0       4,2        0,0       0,0      17,0        0,0        0,0
+              Udvidelse af rekrutteringsgrundlaget til SUF (Indsats E. Etablering af spireordning
+83 SU07                                                                                                   1,1       0,0           0,0        1,1       0,0       0,0        1,1       0,0       0,0        1,1       0,0       0,0       4,4        0,0        0,0
+              på SUF's plejehjem)
+84 SU08       Styrket tilknytning til SUF (Indsats 1. Reduceret ledelsesspænd)                           8,3        0,0           0,0       8,3        0,0       0,0       8,3        0,0       0,0       8,3        0,0       0,0      33,0        0,0        0,0
+85 SU08       Styrket tilknytning til SUF (Indsats 2. Styrket faglig introduktion)                       0,5        0,0           0,0       0,5        0,0       0,0       0,5        0,0       0,0       0,5        0,0       0,0       2,1        0,0        0,0
+86 SU08       Styrket tilknytning til SUF (Indsats 3a. Fast forebyggende supervision)                    2,3        0,0           0,0       2,3        0,0       0,0       2,3        0,0       0,0       2,3        0,0       0,0       9,1        0,0        0,0
+87 SU09*      Videreførelse og udvidelse af seniorordninger i SUF                                        4,8        0,0           0,0       5,5        0,0       0,0       5,5        0,0       0,0       5,5        0,0       0,0      21,4        0,0        0,0
+
+              Sikker by                                                                                                                                                                                              0,0       0,0
+88 BI14 (V)   Indsats mod ekstremisme i København (BIU)                                                  5,7        0,0           0,0       5,7        0,0       0,0       5,7        0,0       0,0       5,7        0,0       0,0      22,8        0,0        0,0
+89 BI14 (V)   Indsats mod ekstremisme i København (BUU)                                                  0,4        0,0           0,0       0,4        0,0       0,0       0,4        0,0       0,0       0,4        0,0       0,0       1,6        0,0        0,0
+90 BI14 (V)   Indsats mod ekstremisme i København (SOC)                                                  2,6        0,0           0,0       2,6        0,0       0,0       2,6        0,0       0,0       2,6        0,0       0,0      10,2        0,0        0,0
+
+                                                                                                                             Side 3 af 11
+                                                                                                                 Bilag 1 - Finansiering og udgifter
+
+
+
+
+    Budget-
+                                                                               (mio. kr., 2027 p/l                2027                              2028                            2029                           2030                             I alt
+    notat
+
+                                                                                                                Brutto-                            Brutto-                         Brutto-                        Brutto-                         Brutto-
+                                                                                                     Service    anlæg      Øvrige       Service    anlæg      Øvrige    Service    anlæg     Øvrige    Service    anlæg      Øvrige    Service    anlæg     Øvrige
+               Job og Uddannelse til dømte og varetægtsfængslede (scenarie 1 - treårig
+ 91 BI21                                                                                                 11,6       0,0           0,0       11,6       0,0        0,0       11,6       0,0       0,0       0,0        0,0        0,0      34,7        0,0       0,0
+               videreførsel)
+               Kommunale tryghedsvagter (scenarie a - etårig forlængelse af de nuværende 4
+92 KF074                                                                                                 2,9        0,0           0,0       0,0        0,0        0,0       0,0        0,0       0,0       0,0        0,0        0,0       2,9        0,0       0,0
+               årsværk)
+               Sociale viceværter og lokal jobskabelse i almene boligafdelinger (scenarie 1 -
+93 SO29                                                                                                   1,3       0,0           0,0        1,3       0,0        0,0        1,3       0,0       0,0        1,3       0,0        0,0       5,3        0,0       0,0
+               minimumsmodel) (BIU)
+               Sociale viceværter og lokal jobskabelse i almene boligafdelinger (scenarie 1 -
+94 SO29                                                                                                  2,8        0,0           0,0       2,8        0,0        0,0       2,8        0,0       0,0       2,8        0,0        0,0       11,2       0,0       0,0
+               minimumsmodel) (SOC)
+ 95 SO30       Ny Start                                                                                  7,8        0,0           0,0       7,8        0,0        0,0       7,8        0,0       0,0       7,8        0,0        0,0      31,4        0,0       0,0
+ 96 SO31 (V)   SSP+ indsats for kriminalitetstruede unge (BIU)                                           1,5        0,0           0,0       1,5        0,0        0,0       1,5        0,0       0,0       1,5        0,0        0,0       6,1        0,0       0,0
+ 97 SO31 (V)   SSP+ indsats for kriminalitetstruede unge (SOC)                                           0,8        0,0           0,0       0,8        0,0        0,0       4,6        0,0       0,0       4,6        0,0        0,0      10,7        0,0       0,0
+ 98 SO46       Samarbejdsmodel vedr. vold i nære relationer (BIU)                                        1,3        0,0           0,0       1,3        0,0        0,0       1,3        0,0       0,0       1,3        0,0        0,0       5,2        0,0       0,0
+ 99 SO46       Samarbejdsmodel vedr. vold i nære relationer (SOC)                                        2,5        0,0           0,0       2,1        0,0        0,0       2,1        0,0       0,0       2,1        0,0        0,0       8,9        0,0       0,0
+100 ØK19       Sikker By akutpulje, anlæg                                                                0,0        0,5           0,0       0,0        0,0        0,0       0,0        0,0       0,0       0,0        0,0        0,0       0,0        0,5       0,0
+
+               Udsatte boligområder
+101 BI49       Koordineret indsats til fremme af kommunale fritidsjob for udsatte unge (BIU)              1,2       0,0           0,0        1,2       0,0        0,0       0,0        0,0       0,0       0,0        0,0        0,0       2,5        0,0       0,0
+
+102 BI49       Koordineret indsats til fremme af kommunale fritidsjob for udsatte unge (BUU)              1,4       0,0           0,0        1,4       0,0        0,0       0,0        0,0       0,0       0,0        0,0        0,0       2,8        0,0       0,0
+
+103 BI49       Koordineret indsats til fremme af kommunale fritidsjob for udsatte unge (SOC)              1,3       0,0           0,0        1,3       0,0        0,0       0,0        0,0       0,0       0,0        0,0        0,0       2,7        0,0       0,0
+
+104 BI49       Koordineret indsats til fremme af kommunale fritidsjob for udsatte unge (KTU)             0,8        0,0           0,0       0,8        0,0        0,0       0,0        0,0       0,0       0,0        0,0        0,0        1,5       0,0       0,0
+              Omdannelse af Frederikssundsvej (Forandringsplan for Husum Nord) (initiativ 1 -
+105 KT072 (V)                                                                                            0,0         1,8          0,0       0,0         1,9       0,0       0,0        2,0       0,0       0,0        13,1       6,0       0,0       18,7       6,0
+              omdannelse af strækningen Storegårdsvej til Husumvej)
+106 KT070     Byggekoordinering i Husum Nord                                                             0,8        0,0           0,0       0,8        0,0        0,0       0,8        0,0       0,0       0,8        0,0        0,0       3,0        0,0       0,0
+107 KT071      Omdannelse af Laden på Sundholm – screenings- og planlægningsbevilling                    0,0        2,4           0,0       0,0        0,0        0,0       0,0        0,0       0,0       0,0        0,0        0,0       0,0        2,4       0,0
+
+108 KF064      Lokale samarbejder på den genåbnede bemandede legeplads i Mimersparken                    0,8        0,0           0,0       0,8        0,0        0,0       0,0        0,0       0,0       0,0        0,0        0,0        1,5       0,0       0,0
+109 SO28       Videreførelse af HFI (Helhedsorienteret familieindsats) (BIU)                             1,3        0,0           0,0       1,3        0,0        0,0       1,3        0,0       0,0       1,3        0,0        0,0       5,4        0,0       0,0
+ 110 SO28      Videreførelse af HFI (Helhedsorienteret familieindsats) (BUU)                             0,7        0,0           0,0       0,7        0,0        0,0       0,7        0,0       0,0       0,7        0,0        0,0       3,0        0,0       0,0
+  111 SO28     Videreførelse af HFI (Helhedsorienteret familieindsats) (KFU)                             0,9        0,0           0,0       0,9        0,0        0,0       0,9        0,0       0,0       0,9        0,0        0,0       3,5        0,0       0,0
+112 SO28       Videreførelse af HFI (Helhedsorienteret familieindsats) (SOC)                             2,0        0,0           0,0       2,0        0,0        0,0       2,1        0,0       0,0       2,0        0,0        0,0       8,3        0,0       0,0
+ 113 SO28      Videreførelse af HFI (Helhedsorienteret familieindsats) (SUND)                            0,8        0,0           0,0       0,8        0,0        0,0       0,8        0,0       0,0       0,8        0,0        0,0       3,1        0,0       0,0
+               Tilskud til udbygning af Almene Kunstklubber for børn og unge (scenarie 1 -
+114 KF101      tilskud til udbygning af kunstklub på Nørrebro samt opstart af 2 kunstklubber i           2,0        0,0           0,0       2,0        0,0        0,0       2,0        0,0       0,0       2,0        0,0        0,0       8,0        0,0       0,0
+               Valby og Amager Vest)
+
+              Tingbjerg
+115 KT045     Foranalyse af byrum ved Ruten-Skolesiden i Tingbjerg                                       0,0         1,3          0,0       0,0        0,7        0,0       0,0        0,0       0,0       0,0        0,0        0,0       0,0        2,0       0,0
+              Forbedrede forhold for cykler og gående ifm. genopretning i Tingbjerg (initiativ 1 -
+116 KT022 (V)                                                                                            0,0        6,0           0,0       0,0        3,6        0,0       0,2        0,0       0,0       0,2        4,0        0,0       0,3       13,6       0,0
+              Omprofilering af Ruten og Initiativ 2 - Cykelstier på Terasserne)
+117 BI60      Natfodbold i Tingbjerg                                                                     0,9        0,0           0,0       0,9        0,0        0,0       0,0        0,0       0,0       0,0        0,0        0,0        1,9       0,0       0,0
+
+               Østhavnen
+118 KT048      Handlingsplan for kommunal vej- og stiinfrastruktur i Østhavnen                           0,0        2,3           0,0       0,0        2,3        0,0       0,0        2,3       0,0       0,0        0,0        0,0       0,0        7,0       0,0
+    KF011,
+119            Multihal til idræt i Kløverparken (screening) (tekst)                                     0,4        0,0           0,0       0,0        0,0        0,0       0,0        0,0       0,0       0,0        0,0        0,0       0,4        0,0       0,0
+    ØK72
+               Byudvikling af Østhavnen (årsværk ifm. metrolinje M5 til Lynetteholm og årsværk
+120 KT003*                                                                                               3,0        0,0           0,0       3,8        0,0        0,0       3,8        0,0       0,0       3,8        0,0        0,0      14,4        0,0       0,0
+               til håndtering af regn- og spildevand
+121 KT173      Hensigtserklæring om grundkøb til park i Kløverparken/Quintus (tekst)                     0,0        0,0           0,0       0,0        0,0        0,0       0,0        0,0       0,0       0,0        0,0        0,0       0,0        0,0       0,0
+
+
+
+                                                                                                                             Side 4 af 11
+                                                                                                                 Bilag 1 - Finansiering og udgifter
+
+
+
+
+    Budget-
+                                                                               (mio. kr., 2027 p/l                2027                                2028                             2029                            2030                            I alt
+    notat
+
+                                                                                                                Brutto-                              Brutto-                          Brutto-                         Brutto-                        Brutto-
+                                                                                                     Service    anlæg      Øvrige       Service      anlæg      Øvrige     Service    anlæg      Øvrige    Service    anlæg     Øvrige    Service    anlæg      Øvrige
+                Styringsmodel for ejendomsvedligehold
+122 KF009*      Styringsmodel for ejendomsvedligehold 2027-2036 - Scenarie 3 (tekst)                     0,0      -52,8           0,3       219,5       37,2        0,3      204,8      212,4        0,3     204,8      206,3       0,3     629,1      403,1         1,1
+
+              Delaftale om parkering
+    KT176a
+123           Justering i beboerlicens for el- og benzinbiler                                          -34,4        0,0         34,4        -30,9        0,0      30,9       -27,5        0,0      27,5      -24,0        0,0     24,0      -116,8       0,0       116,8
+    (V)
+124 KT189 (V) Øremærkning af gadeparkeringspladser til beboere med beboerlicens                          0,5        0,0          -0,1         0,4        0,0       -0,4        0,4        0,0       -0,4       0,4        0,0      -0,4        1,8       0,0        -1,3
+              Flere kommunale p-pladser (initiativ 1 - åbning af 50 kommunale p-pladser aften,
+125 KT052                                                                                                0,4        0,0           0,0         0,0        0,0        0,0        0,0        0,0        0,0       0,0        0,0       0,0       0,4        0,0        0,0
+              nat og weekend for køretøjer med beboerlicens)
+                Længdeparkering til skråparkering (Initiativ 1 - udvidet kortlægning af
+126 KT055                                                                                                0,0        0,7           0,0         0,0        0,0        0,0        0,0        0,0        0,0       0,0        0,0       0,0       0,0        0,7        0,0
+                mulighederne for at vende længde- til skråparkering Østerbro og Indre by)
+                Længdeparkering til skråparkering (initiativ 2 - omlægning af længdeparkering til
+127 KT055 (V)                                                                                            0,0         1,2          0,0         0,0        4,8        0,0       -0,3         1,6       0,4       -1,0       0,0       1,1       -1,3       7,6         1,5
+                skråparkering - Østerbro og Indre By)
+128 KT246       Poser på 80 ekstra el-delebilspladser                                                    -1,2       0,0           1,3        -1,3        0,0        1,3        -1,3       0,0        1,3       -1,3       0,0       1,3       -5,1       0,0        5,2
+                Screening af skråparkeringspladser og kommunale parkeringspladser på Østerbro
+129 KT055a                                                                                               0,0        0,0           0,0         0,0        0,0        0,0        0,0        0,0        0,0       0,0        0,0       0,0       0,0        0,0        0,0
+                (tekst)
+
+                Delaftale vedr. byliv, parkering og sikre skoleveje
+130 KT145a (V) Flere erhvervsparkeringspladser i København (Scenarie 1, 45 pladser)                       1,3       0,0           0,0          1,1       0,0        0,0         1,1       0,0        0,0        1,1       0,0       0,0       4,5        0,0        0,0
+
+131 KT146a (V) Etablering af flere besøgshandicapparkeringspladser, 60 pladser                            1,1       0,0          -0,5         1,6        0,0        -1,1        2,1       0,0       -1,6       2,7        0,0      -2,2       7,5        0,0        -5,4
+              Evaluering af omlægningen af cykel- og bilparkering og nye tiltag i
+132 KT147*                                                                                               0,0        0,0           0,0         0,0        0,0        0,0        0,0        0,0        0,0       0,0        0,0       0,0       0,0        0,0        0,0
+              Middelalderbyen (tekst)
+133 KT148     Forsøgsordning med at flytte cykler, der er parkeret udenfor stativer                      0,7        0,0           0,0         0,7        0,0        0,0        0,0        0,0        0,0       0,0        0,0       0,0       1,5        0,0        0,0
+134 KT149 (V) Flere strækninger til forsøgsordning med udvidet udeservering                              0,3        0,0           0,0         0,0        0,0        0,0        0,0        0,0        0,0       0,0        0,0       0,0       0,4        0,0        0,0
+135 KT150*    Bevilling til flere sikre skoleveje (Initiativ 1)                                          0,0        0,0           0,0         0,0        3,8        0,0        0,0        0,0        0,0       0,0        0,0       0,0       0,0        3,8        0,0
+136 KT150*    Bevilling til flere sikre skoleveje (Initiativ 2)                                          1,0        0,0           0,0          1,1       0,0        0,0        0,0        0,0        0,0       0,0        0,0       0,0       2,1        0,0        0,0
+              Etablering af yderlige midlertidige grønne byrum i Middelalderbyen (Scenarie 1 -
+137 KT151 (V)                                                                                             0,1        1,5          0,0         0,2         1,5       0,0        0,3        0,0        0,0       0,3        0,0       0,0        1,0       3,0        0,0
+              Etablering af grønne byrum i Middelalderbyen)
+              Flagskibsprojekt A i Middelalderbyen (Initiativ 1 - Anlæg af flagskibsprojekt A
+138 KT152 (V)                                                                                            0,0        0,8           0,0         0,0         1,5       0,0        0,0        3,5        0,0     0,021       12,7    0,1500       0,0       18,5        0,2
+              Nørregade)
+    KT154*
+139           7-9 grønne bylivsgader                                                                     0,0         1,9          0,0         0,0         2,1       0,0        0,7        5,7        0,0        1,4       3,4      12,8        2,1       13,1       12,8
+    (V)
+140 KT153     Bylivsgade i Hovedvagtsgade (tekst)                                                        0,0        0,0           0,0         0,0        0,0        0,0        0,0        0,0        0,0       0,0        0,0       0,0       0,0        0,0        0,0
+
+                Øvrigt vedr. bylig og trafik
+    KT073a      Ændring af udeserveringsgebyr (scenarie 1, initiativ 1 - 75% reduktion af det
+141                                                                                                      0,4        0,0           0,0         0,0        0,0        0,0        0,0        0,0        0,0       0,0        0,0       0,0       0,4        0,0        0,0
+    (V)         nuværende tilsynsniveau med udeserveringer og udvikling af ny takstmodel)
+142 KT197       Foranalyse af bilfrie gader                                                              0,0        0,9           0,0         0,0        0,0        0,0        0,0        0,0        0,0       0,0        0,0       0,0       0,0        0,9        0,0
+143 KT100       Strategisk byrumsplan for Vanløse Bymidte (tekst)                                        0,0        0,0           0,0         0,0        0,0        0,0        0,0        0,0        0,0       0,0        0,0       0,0       0,0        0,0        0,0
+144 KT039*      Trafiksikkerhedstiltag ved Bryggebroens landing på Islands Brygge (tekst)                0,0        0,0           0,0         0,0        0,0        0,0        0,0        0,0        0,0       0,0        0,0       0,0       0,0        0,0        0,0
+145 KT053*      Udvidet praksis for uddeling af flyers ved ny skiltning                                  0,4        0,0           0,0         0,4        0,0        0,0        0,4        0,0        0,0       0,4        0,0       0,0       1,5        0,0        0,0
+
+                Klima
+146 KT199       Københavns klimaråd (Scenarie 1 - klimaråd)                                               1,0       0,0           0,0         1,0        0,0        0,0         1,0       0,0        0,0        1,0       0,0       0,0        4,1       0,0        0,0
+    KF057,
+147             Klimatilvalg A og B til styringsmodel for ejendomsvedligehold 2027-2036                  0,0       23,6           0,0         0,0       25,3        0,0        0,0       26,9        0,0       0,0       28,5       0,0       0,0      104,2        0,0
+    KF058
+148 KT188       Videreudvikling af LCA-platform for Københavns Klima partnerskab for Byggeri             0,8        0,0           0,0         0,8        0,0        0,0        0,8        0,0        0,0       0,8        0,0       0,0       3,0        0,0        0,0
+149 KT012*      Myndighedsbehandling af varmeprojekter som følge af Klimastrategien                       1,8       0,0           0,0         1,8        0,0        0,0         1,8       0,0        0,0        1,8       0,0       0,0       7,0        0,0        0,0
+
+
+
+                                                                                                                             Side 5 af 11
+                                                                                                                       Bilag 1 - Finansiering og udgifter
+
+
+
+
+    Budget-
+                                                                                     (mio. kr., 2027 p/l                2027                              2028                           2029                           2030                            I alt
+    notat
+
+                                                                                                                      Brutto-                            Brutto-                        Brutto-                        Brutto-                        Brutto-
+                                                                                                           Service    anlæg      Øvrige       Service    anlæg     Øvrige    Service    anlæg     Øvrige    Service    anlæg     Øvrige    Service    anlæg      Øvrige
+                Træer i København (Initiativ 1 - Plantning af 150-250 nye træer/skovplantning i
+150 KT101 (V)                                                                                                  0,0         1,0          0,0        0,1       0,2       0,0        0,1       0,0       0,0        0,1       0,0       0,0       0,4         1,2       0,0
+                eksisterende bede m.m.)
+151 KT067       Krav på fossilfrie køretøjer ifm. kommunens anlægsarbejde                                      0,8         1,0          0,0       0,8        6,0       0,0       0,8        6,0       0,0       0,8        6,0       0,0       3,0       19,0        0,0
+                Optimering af m2 i fagforvaltningernes funktionsprogrammer og undersøgelse af
+152 ØK65                                                                                                        1,5       0,0           0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0        0,0       0,0        1,5       0,0        0,0
+                multifunktionelle m2 ud fra klimahensyn
+                Pulje til reduktion af klimaaftrykket fra indkøb (model 1 - obligatoriske og specifikke
+153 ØK22                                                                                                        1,3       0,0           0,0       5,9        0,0       0,0      10,4        0,0       0,0      10,4        0,0       0,0      28,0        0,0        0,0
+                kriterier)
+154 KT102       Merudgifter til HVO (tekst - finansieres via ØK22 Klimapulje)                                  0,0        0,0           0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0        0,0        0,0
+155 KT069a      Partnerskab for fremme af reparation og holdbare produkter                                     1,5        0,0           0,0       1,5        0,0       0,0       0,0        0,0       0,0       0,0        0,0       0,0       3,0        0,0        0,0
+156 KT094       Kantineløftet - Partnerskab om grønne kantiner                                                 1,7        0,0           0,0       1,7        0,0       0,0       1,7        0,0       0,0       1,7        0,0       0,0       6,9        0,0        0,0
+
+                Byudvikling
+                Kommunal støtte til stiftelse af nye andelsboligforeninger (Scenarie 1 - Køb af 120-
+157 KT041*                                                                                                      1,5       0,0         30,0         1,7       0,0       0,0        1,7       0,0       0,0        1,7       0,0       0,0       6,4        0,0       30,0
+                150 andelsboliger)
+                Bemanding af opsøgende boligpatrulje i København (inkl. tilvalg - ekstra
+158 KT042*                                                                                                     11,5       0,0           0,0       11,5       0,0       0,0       11,5       0,0       0,0       11,5       0,0       0,0      46,0        0,0        0,0
+                bemanding i KFF i Huslejenævnet)
+159 KT043*      Stabil drift af lokalplanområdet                                                               11,7       0,0           0,0       13,9       0,0       0,0       0,0        0,0       0,0       0,0        0,0       0,0      25,6        0,0        0,0
+160 KT044       Eksekvering af almene boliger                                                                  2,3        0,0           0,0        2,3       0,0       0,0       2,3        0,0       0,0       2,3        0,0       0,0       9,1        0,0        0,0
+161 ØK39*       Analyser og borgerdialog ifm. Planstrategi 2027 og Kommuneplan 2028 (tekst)                     1,8       0,0           0,0        1,8       0,0       0,0       0,0        0,0       0,0       0,0        0,0       0,0       3,6        0,0        0,0
+
+                Foranalyse af en naturbaseret stormflodssikring af Amager Strandpark (initiaitiv 1
+162 KT050       inkl. tilvalg 1 - Foranalyse af stormflodsport mellem Amager Strandpark og                     0,0        2,2           0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0        2,2        0,0
+                Prøvestenen)
+163 KT086       Borgerinddragelse ifm. stormflodssikring af hovedstadsområdet (tekst)                          0,0        0,0           0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0        0,0        0,0
+                Samarbejde om myndighedspraksis for byggeaffaldshåndtering og genbrug
+164 KT183                                                                                                      0,0        0,0           0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0        0,0        0,0
+                (tekst)
+165 KT164       Realisering af Visionsplan for Sundholm (tekst)                                                0,0        0,0           0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0        0,0        0,0
+166 KT034       Ydelsesstøtte til renovering af Otto Mønsteds Kollegium                                        0,0        0,0           0,0       0,7        0,0       0,0       0,7        0,0       0,0       0,7        0,0       0,0       2,2        0,0        0,0
+167 ØK50        Hensigtserklæring vedr. udbygning af Metro M5 (tekst)                                          0,0        0,0           0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0        0,0        0,0
+168 KT009       Realisering af indsatser på toiletprioriteringslisten (tekst)                                  0,0        0,0           0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0        0,0        0,0
+169 KT018a      Hensigtserklæring vedr. passage langs havnefronten ved Nokken (tekst)                          0,0        0,0           0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0        0,0        0,0
+170 KT065       Foranalyse af området omkring togbroen ved Nørrebro st.                                        0,0        1,5           0,0       0,0        0,5       0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0        2,0        0,0
+
+                Begrønning
+                Plantehuller til facadebeplanting (Initiativ 1 - Udvidelse af puljen til plantehuller i
+171 KT074                                                                                                       1,0       2,4           0,0        1,0       2,4       0,0        1,0       2,4       0,0       0,0        0,0       0,0       3,0         7,1       0,0
+                faceadebeplantning og Initiativ 2 - Lokal indsats gennem miljøpunkterne)
+172 KT211 (V)   Flytning af træer ifm. den kommende metrolinje M5                                              0,0         0,1          0,0       0,0        1,2       0,0       0,2        0,8       0,0       0,2        0,0       0,0       0,4         2,1       0,0
+173 KT057       Foranalyse af nyt byrum omkring Børsen                                                         0,0         1,1          0,0       0,0        0,2       0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0         1,3       0,0
+174 KT037 (V) Ansættelse af stadsgartner                                                                       2,0        0,0           0,0       2,0        0,0       0,0       2,0        0,0       0,0       2,0        0,0       0,0        8,1       0,0        0,0
+175 KT088       Bynaturregnskab (tekst)                                                                        0,0        0,0           0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0        0,0        0,0
+176 KT209       Analyse af scenarie om reetablering af Rådhushaven                                             0,0        0,2           0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0        0,2        0,0
+                Budgetudfordring efter genudbud af driftsopgaver i Brønshøj-Husum på
+177 KT241                                                                                                      0,0        0,0           0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0        0,0        0,0
+                Vesterbro og Amager Øst (tekst)
+                Helhedsplan for de indre søer (initiativ 1 - idékatalog vedr. forbedring af vandmiljø
+                og biodiversitet i De Indre Søer, initiativ 2 - idékatalog vedr. begrønning og
+178 KT160                                                                                                       2,1       0,0           0,0        2,1       0,0       0,0       0,0        0,0       0,0       0,0        0,0       0,0       4,2        0,0        0,0
+                lignende biodiversitetsfremmende tiltag på arealerne omkring Søerne, initiativ 3 -
+                screening af mere naturlige søkanter) (tekst)
+                Genopretning af de fysiske værdier i grønne områder 2028-2030 (scenarie 1 -
+179 KT002*                                                                                                     0,0        0,0           0,0       0,0        5,0       0,0       0,0        3,8       0,0       0,0       10,4       0,0       0,0       19,2        0,0
+                Fastholdelse af vedligeholdelsesefterslæb på 2027-niveau)
+180 KT026 (V) Åbning af Lygte Å i parken ved Bispeengen                                                        0,0        0,5           0,0       0,0        2,5       0,0       0,3        3,2       0,0       0,6        0,0       0,0       0,8        6,2        0,0
+
+
+
+                                                                                                                                   Side 6 af 11
+                                                                                                                     Bilag 1 - Finansiering og udgifter
+
+
+
+
+   Budget-
+                                                                                  (mio. kr., 2027 p/l                 2027                               2028                            2029                           2030                            I alt
+   notat
+
+                                                                                                                    Brutto-                             Brutto-                         Brutto-                        Brutto-                        Brutto-
+                                                                                                         Service    anlæg      Øvrige       Service     anlæg      Øvrige    Service    anlæg     Øvrige    Service    anlæg     Øvrige    Service    anlæg      Øvrige
+                Anlægsbevilling til Fremtidens Grøndalspark (Initiativ 2 - Åbent vandelement i
+181 KT063 (V)                                                                                                0,0        0,8           0,0        0,0        0,9        0,0       0,0        0,9       0,0        0,1       5,9      11,7        0,1       8,5        11,7
+                Grøndalsparken)
+
+                Cykelpakke
+182 KT014       Grønne bølger for cyklister (inkl. tilvalg med abonnement på Floating bike data)             0,7        0,0           0,0        0,3        0,0        0,0       0,3        0,0       0,0       0,3        0,0       0,0        1,6       0,0        0,0
+
+                Forbedrede trafikale forhold på Artillerivej ved Boldklubben Hekla (initiativ 1 og
+183 KT049 (V)                                                                                                0,0         1,0          0,0         0,1        7,1       0,0       0,2        0,3       0,0       0,2        0,0       0,2       0,5        8,4        0,2
+                tilvalg 2 - Etablering af grussti og overgang ved stoppestedet)
+184 KT076       Forsøg med cykelgade på Vester Voldgade                                                      0,0         1,2          0,0        0,0        0,3        0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0         1,5       0,0
+                Forbedrede forhold for cyklister på Frederiksholmsbroen og Nyholmsbroen
+185 KT157                                                                                                    0,0        0,2           0,0        0,0        0,0        0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0        0,2        0,0
+                (initiativ 1 - Indsnævring af kørebanen på Frederiksholmbroen og Nyholmsbroen)
+186 KT208       Informationskampagne og skiltning ifm. alternativ cykelrute på Nørrebro                      0,0        0,2           0,0        0,0        0,0        0,0       0,0        0,0       0,0       0,0        0,3       0,0       0,0        0,5        0,0
+                Supplerende cykelparkering i Middelalderbyen (inkl. tilvalg - evaluering af
+187 KT220 (V)                                                                                                0,0        0,4           0,0        0,0         0,1       0,0       0,0        0,0       0,0       0,0        0,0       0,2        0,1       0,5        0,2
+                belægning samt fremkommelighed)
+
+                Børneområdet
+188 BU26 (V)    Implementering af minimumsnormeringer frem til skolestart                                   31,7        0,0           0,0       31,7        0,0        0,0      31,7        0,0       0,0      31,7        0,0       0,0     126,7        0,0        0,0
+                Implementering af minimumsnormeringer frem til skolestart - udmøntning af
+189 BU26 (V)                                                                                                -31,7       0,0           0,0       -31,7       0,0        0,0      -31,7       0,0       0,0      -31,7       0,0       0,0    -126,7        0,0        0,0
+                pulje fra budgetforslag 2027
+190 BU94        Udmøntning af statslige midler (tekst)                                                       0,0        0,0           0,0        0,0        0,0        0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0        0,0        0,0
+                God trivsel og lavt fravær i skolen (2 årigt pilotprojekt på 5 skoler og initiativ 4 -
+191 BU35*                                                                                                    3,2        0,0           0,0        5,5        0,0        0,0       3,2        0,0       0,0       0,9        0,0       0,0      12,9        0,0        0,0
+                forældregrupper)
+192 BU66        Supplerende indsatser til forebyggelse af skolefravær (tekst)                                0,0        0,0           0,0        0,0        0,0        0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0        0,0        0,0
+                Lavere klasseloft (Driftsbevilling til ekstra klasser) (scenarie 6 - Klasseloft på 24
+193 BU57                                                                                                     5,8        0,0           0,0       18,8        0,0        0,0       15,1       0,0       0,0       0,0        0,0       0,0      39,7        0,0        0,0
+                elever i bh. og 1. klasse i 2 år)
+                Højkvalitetsdagtilbud (Initiativ 1a. Forberedelsestid til pædagoger, 30 timer årligt
+194 BU34                                                                                                    15,6        0,0           0,0       18,8        0,0        0,0      18,8        0,0       0,0      18,8        0,0       0,0      72,0        0,0        0,0
+                pr. gruppe) (tekst)
+                Indsatser for børn med diagnoser (Øget tid til skolerne til sociallæring og andre
+195 BU64*                                                                                                   10,0        0,0           0,0       10,0        0,0        0,0      10,0        0,0       0,0      10,0        0,0       0,0      40,0        0,0        0,0
+                metoder)
+196 BU32*       Flere lejrskoler (Initiativ 1, scenarie a - 6. årgang)                                       7,0        0,0           0,0        7,0        0,0        0,0       0,0        0,0       0,0       0,0        0,0       0,0      13,9        0,0        0,0
+197 BU70        Efteruddannelsesforløb om undervisning i følsomme emner                                      2,6        0,0           0,0        2,7        0,0        0,0       0,0        0,0       0,0       0,0        0,0       0,0       5,3        0,0        0,0
+                Dækning af merudgifter og analyse af behandlings- og specialundervisningstilbud
+198 BU24*       samt fleksible skoletilbud (Fælles BUF-SOF specifik udfordring) (inkl. analyse)             27,9        0,0           0,0       25,9        0,0        0,0       0,0        0,0       0,0       0,0        0,0       0,0      53,7        0,0        0,0
+                (BUF)
+199 BU28 (V)    Supplerende budgetmodel for undervisning i 2027                                             17,6        0,0           0,0       17,6        0,0        0,0      17,6        0,0       0,0      17,6        0,0       0,0      70,5        0,0        0,0
+                Videreførelse og udbygning af indsatsen for skoletoiletter (scenarie 1 - Renovering
+200 BU40*                                                                                                    0,3        5,4           0,0        0,3        11,7       0,0       0,3       12,9       0,0       0,0        0,0       0,0       0,8       29,9        0,0
+                af skoletoiletter på 5-7 skoler)
+                Pre-planlægningsbevilling til etablering af klub på Sluseholmen
+201 BU31 (F)                                                                                                 0,0        0,5           0,0        0,0        0,0        0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0        0,5        0,0
+                (planlægningsbevilling til etablering af klub på Sluseholmen)
+                Gratis bind og tamponer på de københavnske folkeskoler (scenarie 4 - udvidelse til
+202 BU76*                                                                                                    3,0        0,0           0,0        3,0        0,0        0,0       0,0        0,0       0,0       0,0        0,0       0,0        6,1       0,0        0,0
+                74 skoler)
+203 BU50        Børne- og ungefaciliteter i Nordsøkvarteret (tekst)                                          0,0        0,0           0,0        0,0        0,0        0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0        0,0        0,0
+204 BU54        Forbedret indeklima på skoler (tekst)                                                        0,0        0,0           0,0        0,0        0,0        0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0        0,0        0,0
+                Modulpasning i daginstitutioner (scenarie 1b - 30 timers modul med uændret
+205 BU69                                                                                                     4,2        0,0           0,0        4,2        0,0        0,0       4,2        0,0       0,0       4,2        0,0       0,0      16,8        0,0        0,0
+                pladspris i 25 pct. af daginstitutionerne - faldende indtægter) (tekst)
+                Hensigtserklæring om undersøgelse af modeller for gratis skolemad til de yngste
+206 BU93                                                                                                     0,0        0,0           0,0        0,0        0,0        0,0       0,0        0,0       0,0       0,0        0,0       0,0       0,0        0,0        0,0
+                elever (tekst)
+
+                Sundhed- og omsorgsområdet
+207 SU35        Ekspertgruppe for sundhed og luftforurening                                                   1,1       0,0           0,0         1,1       0,0        0,0        1,1       0,0       0,0        1,1       0,0       0,0       4,6        0,0        0,0
+208 SU42        Ventetidsgaranti på efterfødselstilbuddet                                                    4,2        0,0           0,0        2,7        0,0        0,0       2,7        0,0       0,0       2,7        0,0       0,0      12,4        0,0        0,0
+
+                                                                                                                                 Side 7 af 11
+                                                                                                                         Bilag 1 - Finansiering og udgifter
+
+
+
+
+    Budget-
+                                                                                     (mio. kr., 2027 p/l                  2027                              2028                         2029                         2030                           I alt
+    notat
+
+                                                                                                                        Brutto-                            Brutto-                      Brutto-                      Brutto-                       Brutto-
+                                                                                                            Service     anlæg      Øvrige   Service        anlæg      Øvrige Service    anlæg      Øvrige Service    anlæg      Øvrige Service     anlæg      Øvrige
+209 SU39        Fjernelse af egenbetaling til Omsorgstandpleje                                                   2,0         0,0        0,0      2,0            0,0       0,0     2,0        0,0       0,0     2,0        0,0       0,0     7,9         0,0        0,0
+210 SU41        En samlet demenspakke til styrkelse af demensindsatsen (tekst)                                   7,4         0,0        0,0      8,4            0,0       0,0     4,4        0,0       0,0     1,8        0,0       0,0    21,9         0,0        0,0
+ 211 SU17       Etablering af plejehjem til yngre borgere under 65 år                                             1,1        0,0        0,0      1,7            0,0       0,0     0,9        0,0       0,0     0,9        0,0       0,0     4,4         0,0        0,0
+212 SU16        Fast kontaktperson i hjemmeplejen                                                                0,6         0,0        0,0      1,2            0,0       0,0     1,3        0,0       0,0     0,0        0,0       0,0     3,0         0,0        0,0
+213 SU47*       Navneændring fra ”plejecenter” til ”plejehjem” (tekst)                                           0,0         0,0        0,0      0,0            0,0       0,0     0,0        0,0       0,0     0,0        0,0       0,0     0,0         0,0        0,0
+214 SU48 (V)    Produktionskøkkener på plejehjem                                                                 0,0         5,0        0,0      0,4           10,8       0,0     0,8        6,3       0,0     0,8        0,0       0,0     1,9        22,1        0,0
+                Håndtering af overdraget merforbrug fra SOF til SUF ifm. politisk aftale om
+215 SU11*                                                                                                        8,3        0,0           0,0        2,1       0,0       0,0      0,0       0,0       0,0      0,0       0,0       0,0     10,5        0,0         0,0
+                ressortændringer
+216 SU18 (V)    Bevilling til forebyggende angstforløb i Center for Mental Sundhed                               5,0        0,0           0,0        5,0       0,0       0,0      5,0       0,0       0,0      5,0       0,0       0,0     20,2        0,0         0,0
+217 SU63        Hensigtserklæring vedr. sundhedsforskning (tekst)                                                0,0        0,0           0,0        0,0       0,0       0,0      0,0       0,0       0,0      0,0       0,0       0,0      0,0        0,0         0,0
+218 SU61        Hensigtserklæring vedr. nye lokaler til Center for Børn og Unges Sundhed (tekst)                 0,0        0,0           0,0        0,0       0,0       0,0      0,0       0,0       0,0      0,0       0,0       0,0      0,0        0,0         0,0
+
+
+                Socialområdet
+219 SO32*       Tværsektorielt udsatteteam med Region Hovedstaden                                                3,3        0,0           0,0        0,0       0,0       0,0      0,0       0,0       0,0      0,0       0,0       0,0      3,3        0,0         0,0
+220 SO68        Pulje til understøttelse af civilsamfundet                                                       4,9        0,0           0,0        4,9       0,0       0,0      4,9       0,0       0,0      4,9       0,0       0,0     19,7        0,0         0,0
+                Tilskud til Reden Ung – forebyggelse og støtte til børn og unge under 18 år, der
+221 SO61                                                                                                         0,8        0,0           0,0        0,8       0,0       0,0      0,8       0,0       0,0      0,8       0,0       0,0      3,4        0,0         0,0
+                udveksler seksuelle ydelser
+                Tillægsbevilling til Voksenklubben Lavuk (scenarie 1 - tillægsbevilling til
+222 SO38 (V)                                                                                                      1,4       0,0           0,0        1,6       0,0       0,0      1,7       0,0       0,0      1,9       0,0       0,0      6,5        0,0         0,0
+                Voksenklubben Lavuk, én kørsel om ugen)
+223 SO37        Videreførelse af Genskabet                                                                        1,6       0,0           0,0        1,6       0,0       0,0      1,6       0,0       0,0      1,6       0,0       0,0      6,3        0,0         0,0
+224 SO33        Driftstilskud til Kilden                                                                          0,1       0,0           0,0        0,1       0,0       0,0      0,1       0,0       0,0      0,1       0,0       0,0      0,4        0,0         0,0
+                Øget personrettet tilsyn på private bosteder (scenarie 1 - udkørende specialteam
+225 SO45                                                                                                         2,5        0,0           0,0        2,5       0,0       0,0      2,5       0,0       0,0      2,5       0,0       0,0      10,1       0,0         0,0
+                på voksenområdet)
+    SO19*,
+226 SO20*,      Socialområdet - specifikke udfordringer                                                         50,0        0,0           0,0       50,0       0,0       0,0     50,0       0,0       0,0     50,0       0,0       0,0    200,0        0,0         0,0
+    SO21*
+                Dækning af merudgifter og analyse af behandlings- og specialundervisningstilbud
+227 BU24*       samt fleksible skoletilbud (Fælles BUF-SOF specifik udfordring) (inkl. analyse)                 29,7        0,0           0,0       29,2       0,0       0,0      0,0       0,0       0,0      0,0       0,0       0,0     58,8        0,0         0,0
+                (SOF)
+                Trin for Trin – Social indsats for udsatte gadesovere og migranter ved
+                Christianshavns Torv (Scenarie 2 - Videreførelse af Trin for Trin og opsøgende
+228 SO47*                                                                                                        3,2        0,0           0,0        3,2       0,0       0,0      0,0       0,0       0,0      0,0       0,0       0,0      6,5        0,0         0,0
+                indsats på Christianshavns Torv samt udvidedet åbningstider i værestedet
+                Pakhuset)
+229 KT023 (V) Fleksibelt og socialt byrum på Christianshavns Torv                                                0,0        2,6           0,0        0,4       4,3       0,0      0,8       2,9       0,0      1,2       0,8       0,0      2,5        10,5        0,0
+
+
+                Beskæftigelses-, integrations- og erhvervsområdet
+                Styrkelse af erhvervsområdet i KK (initiativ 1 - brohoveder for erhvervsområder,
+230 BI04*                                                                                                        5,8        0,0           0,0        5,8       0,0       0,0      5,8       0,0       0,0      5,8       0,0       0,0     23,2        0,0         0,0
+                initiativ 2 - styrket dialog, og initiativ 3 - stærkere viden og erhvervsindsigt) (tekst)
+231 BI50*       Styrkelse af indsatsen mod negativ social kontrol                                                1,3        0,0           0,0        1,3       0,0       0,0      0,0       0,0       0,0      0,0       0,0       0,0      2,6        0,0         0,0
+232 BI51*       Styrkelse af fleksjobområdet                                                                     3,8        0,0           0,0        3,8       0,0       0,0      3,8       0,0       0,0      3,8       0,0       0,0     15,0        0,0         0,0
+233 BI06        AI i beskæftigelsesindsatsen                                                                     3,2        0,0           0,0        3,2       0,0       0,0      3,2       0,0       0,0      3,2       0,0       0,0     12,8        0,0         0,0
+234 BI35        Tiltag til forbedring af vilkår for sexarbejdere i København                                      1,1       0,0           0,0        0,0       0,0       0,0      0,0       0,0       0,0      0,0       0,0       0,0       1,1       0,0         0,0
+235 BI20        Videreførelse af støtte til Sabaah                                                               0,7        0,0           0,0        0,7       0,0       0,0      0,7       0,0       0,0      0,7       0,0       0,0      3,0        0,0         0,0
+236 BI05        Helhedsorienteret koordinering af indsatser for borgere i risiko for lange forløb                7,6        0,0           0,0        7,6       0,0       0,0      6,1       0,0       0,0      0,0       0,0       0,0     21,2        0,0         0,0
+
+237 BI54        Innovation, erhverv og tværgående kapacitet i Københavns Kommune (tekst)                         0,8        0,0           0,0        0,0       0,0       0,0      0,0       0,0       0,0      0,0       0,0       0,0      0,8        0,0         0,0
+238 BI68        Copenhagen Goodwill Ambassadors (tekst)                                                          0,0        0,0           0,0        0,0       0,0       0,0      0,0       0,0       0,0      0,0       0,0       0,0      0,0        0,0         0,0
+239 BI74        Hensigtserklæring om international rekruttering (tekst)                                          0,0        0,0           0,0        0,0       0,0       0,0      0,0       0,0       0,0      0,0       0,0       0,0      0,0        0,0         0,0
+                Indsatser under "Handleplan mod racisme, etnisk diskrimination og
+240 BU87*                                                                                                         1,0       0,0           0,0        1,0       0,0       0,0      0,0       0,0       0,0      0,0       0,0       0,0      2,0        0,0         0,0
+                hadforbrydelser” (indsats 2 - forsøg med strategi eller handleplaner)
+
+                                                                                                                                     Side 8 af 11
+                                                                                                                       Bilag 1 - Finansiering og udgifter
+
+
+
+
+    Budget-
+                                                                                    (mio. kr., 2027 p/l                 2027                             2028                         2029                         2030                          I alt
+    notat
+
+                                                                                                                      Brutto-                           Brutto-                      Brutto-                      Brutto-                      Brutto-
+                                                                                                           Service    anlæg      Øvrige   Service       anlæg      Øvrige Service    anlæg      Øvrige Service    anlæg      Øvrige Service    anlæg      Øvrige
+241 ØK24         Tilskud til Ørestad Innovation City Copenhagen                                                 0,6        0,0        0,0      0,6           0,0       0,0     0,6        0,0       0,0     0,6        0,0       0,0     2,4        0,0        0,0
+242 BI62         Turismepartnerskab for at fremme små madhandlende i København (tekst)                         0,0        0,0           0,0       0,0       0,0       0,0      0,0       0,0       0,0      0,0       0,0       0,0      0,0       0,0         0,0
+
+
+                 Initiativer til beskyttelse af jødisk liv og kultur
+243 BI73         Henisgtserklæring om antisemitisme (tekst)                                                    0,0        0,0           0,0       0,0       0,0       0,0      0,0       0,0       0,0      0,0       0,0       0,0      0,0       0,0         0,0
+244 KF068 (V) Øget bevilling til Mosaisk Nordre Begravelsesplads                                               0,0        0,0           0,0       0,0       0,0       0,0      0,0       0,0       0,0      0,0       0,0       0,0      0,1       0,0         0,0
+                 Bevilling til Jødisk Informationscenter (Videreførelse af støtte til Jødisk
+245 BI36 (V)                                                                                                   0,0        0,0           0,0       1,5       0,0       0,0      1,5       0,0       0,0      1,5       0,0       0,0      4,5       0,0         0,0
+                 Informationscenter)
+                 Bevilling til Jødisk Informationscenter (ekstra bevilling til Jødisk
+246 BI36*                                                                                                      0,3        0,0           0,0       0,3       0,0       0,0      0,3       0,0       0,0      0,3       0,0       0,0      1,2       0,0         0,0
+                 Informationscenter)
+247 KF099        Tilskud til fotoudstilling om jødisk liv i Danmark                                            0,2        0,0           0,0       0,0       0,0       0,0      0,0       0,0       0,0      0,0       0,0       0,0      0,2       0,0         0,0
+248 KF071 (V) Tilskud til rejseudstillingen Ordets Magt                                                         0,1       0,0           0,0       0,1       0,0       0,0      0,1       0,0       0,0      0,1       0,0       0,0      0,2       0,0         0,0
+249 BU51         Åben Skoleforløb med Dansk Jødisk Museum                                                      0,5        0,0           0,0       0,5       0,0       0,0      0,5       0,0       0,0      0,5       0,0       0,0      2,0       0,0         0,0
+250 SU56         Tilskud til foreningen ChabaDanmark                                                           0,0        0,0           0,0       0,0       0,0       0,0      0,0       0,0       0,0      0,0       0,0       0,0      0,1       0,0         0,0
+
+                 Kultur- og fritidsområdet
+251 KF001 (V) Opretholdelse af serviceniveau til folkeoplysende foreninger                                     6,8        0,0           6,7       6,8       0,0       0,0      6,8       0,0       0,0      6,8       0,0       0,0     27,3       0,0         6,7
+                 Karens Minde Kulturhusforening – Fortsættelse af tilskud til udvidet åbningstid
+252 KF030                                                                                                      0,5        0,0           0,0       0,5       0,0       0,0      0,5       0,0       0,0      0,5       0,0       0,0      1,8       0,0         0,0
+                 (inkl. tilvalg - øget drift)
+253 KF039        Fortsættelse af brobold (inkl. tilvalg - udvidelse af Brobold-indsats)                        3,0        0,0           0,0       3,0       0,0       0,0      3,0       0,0       0,0      3,0       0,0       0,0     12,1       0,0         0,0
+                 Én teaterbillet til alle børn i Københavns Kommune (scenarie 2 - tilskud til En til
+254 KF005                                                                                                      3,3        0,0           0,0       3,3       0,0       0,0      3,3       0,0       0,0      3,3       0,0       0,0     13,2       0,0         0,0
+                 alle og billetpris på max 75 kr.)
+                 Hensigtserklæring om kultur, fritid og fællesskaber i udviklingen af Nordhavn og
+255 KF150                                                                                                      0,0        0,0           0,0       0,0       0,0       0,0      0,0       0,0       0,0      0,0       0,0       0,0      0,0       0,0         0,0
+                 Ny park i Nordhavn (tekst)
+256 KF034        Mere offentlig adgang til havnebadene uden livredning                                         0,2        0,0           0,0       0,2       0,0       0,0      0,2       0,0       0,0      0,2       0,0       0,0      0,9       0,0         0,0
+257 KF084        Konservering af gipsmodelsamlingen på Københavns Rådhus                                       0,3        0,0           0,0       0,3       0,0       0,0      0,3       0,0       0,0      0,3       0,0       0,0      1,0       0,0         0,0
+258 KF110        Screeningsbevilling til udvidelse af Københavns Museums magasin                               0,4        0,0           0,0       0,0       0,0       0,0      0,0       0,0       0,0      0,0       0,0       0,0      0,4       0,0         0,0
+                 Skærpet kontrol med tilskud til folkeoplysende foreninger (Scenarie 1 - ét årligt
+259 KF119*                                                                                                     0,0        0,0           0,0       0,0       0,0       0,0      2,8       0,0       0,0      2,8       0,0       0,0      5,5       0,0         0,0
+                 tilsyn med folkeoplysende foreninger)
+260 KF017        Partnerskab om Kulturens hovedstad                                                            6,8        0,0           0,0       6,3       0,0       0,0      6,3       0,0       0,0      0,0       0,0       0,0     19,3       0,0         0,0
+                 Forlængelse af kultur-/frizone på Christians Brygge 31 (inkl. tilvalg 1 - yderligere én
+261 KF093                                                                                                      3,0        0,0           0,0       0,2       0,0       0,0      0,0       0,0       0,0      0,0       0,0       0,0      3,2       0,0         0,0
+                 kultur-/frizone)
+262 KF031        Videreførelse af tilskud til foreningen FitforKids                                            0,4        0,0           0,0       0,4       0,0       0,0      0,4       0,0       0,0      0,4       0,0       0,0      1,4       0,0         0,0
+263 KF032 (V) Driftstilskud til Copenhagen Contemporary (tekst)                                                5,3        0,0           0,0       5,3       0,0       0,0      5,3       0,0       0,0      5,3       0,0       0,0     21,1       0,0         0,0
+                 Tilskud til Foreningen Musikhuset København og til
+264 KF050                                                                                                      6,7        0,0           0,0       6,6       0,0       0,0      6,6       0,0       0,0      6,6       0,0       0,0     26,4       0,0         0,0
+                 bygningsdrift af Musikhuset København fra 2027
+265 ØK13*        Copenhagen Sprint 2028-2030 (tekst)                                                           0,0        0,0           0,0       8,5       0,0       0,0      7,5       0,0       0,0      6,5       0,0       0,0     22,5       0,0        0,0
+266 ØK66*        Forlængelse af Megaeventpuljen                                                                0,0        0,0           0,0       0,0       0,0       0,0      0,0       0,0       0,0      0,0       0,0      30,9      0,0       0,0       30,9
+                 Tilsyn med folkeoplysende foreningers brug af svømmehaller uden for offentlig
+267 KF095                                                                                                      0,5        0,0           0,0       0,5       0,0       0,0      0,5       0,0       0,0      0,5       0,0       0,0      2,0       0,0         0,0
+                 åbningstid
+268 KF002 (V) Øget bevilling til afvikling af valg                                                             5,0        0,0           0,0       5,0       0,0       0,0      0,3       0,0       0,0      5,0       0,0       0,0     15,3       0,0         0,0
+
+                 Foranalyse af tiltag, der skal gøre Valbyparken bedre egnet som eventsted (initiativ
+269 KT047                                                                                                      0,0         1,5          0,0       0,0       0,5       0,0      0,0       0,0       0,0      0,0       0,0       0,0      0,0       2,0         0,0
+                 1 - foranalyse af udviklingstiltag på Festpladsen og Strandplænen)
+
+270 KF035 (V) Nye kunstnerophold under ICORN-fribyordningen fra 2027 og frem                                    1,3       0,0           0,0       1,3       0,0       0,0      1,3       0,0       0,0      1,3       0,0       0,0      5,0       0,0         0,0
+271 KF148        Forbedret adgang til skolernes lokaler for musikforeninger                                     1,1       0,0           0,0       0,9       0,0       0,0      0,0       0,0       0,0      0,0       0,0       0,0      2,0       0,0         0,0
+272 ØK49         Funktionsprogram for natur- og kulturpark i Kalvebod golfbane                                 0,0        2,1           0,0       0,0       0,0       0,0      0,0       0,0       0,0      0,0       0,0       0,0      0,0       2,1         0,0
+
+                                                                                                                                   Side 9 af 11
+                                                                                                                      Bilag 1 - Finansiering og udgifter
+
+
+
+
+      Budget-
+                                                                                   (mio. kr., 2027 p/l                 2027                                 2028                           2029                           2030                            I alt
+      notat
+
+                                                                                                                     Brutto-                               Brutto-                        Brutto-                        Brutto-                        Brutto-
+                                                                                                         Service     anlæg      Øvrige   Service           anlæg      Øvrige Service      anlæg      Øvrige Service      anlæg      Øvrige Service      anlæg      Øvrige
+273 ØK49b     Udvidet funktionsprogram for natur- og kulturpark i Kalvebod golfbane                           0,0         0,3        0,0      0,0               0,0       0,0     0,0          0,0       0,0     0,0          0,0       0,0     0,0          0,3        0,0
+274 KF149 (V) Forsøg med øget foreningstid i Emdrup Bad og Sundby Bad                                         0,6         0,0        0,0      0,6               0,0       0,0     0,6          0,0       0,0     0,6          0,0       0,0     2,6          0,0        0,0
+275 KF146 (V) Finansiering af brugsretter og tilskud                                                          2,0         0,0        0,0      4,4               0,0       0,0     4,4          0,0       0,0     4,4          0,0       0,0    15,1          0,0        0,0
+276 KF082     Reperiodisering af budget og tilskud til Triennalen                                             -1,1        0,0        3,8      3,2               0,0       0,0     5,4          0,0       0,0    -5,4          0,0      -5,4     2,1          0,0        -1,6
+              Bevilling til service- og tryghedsrunderinger på Kultur-, Fritids- og
+277 KF037 (V)                                                                                                  3,1       0,0          0,0            3,1       0,0       0,0        3,1       0,0        0,0       3,1       0,0       0,0       12,2       0,0         0,0
+              Borgerserviceforvaltningens faciliteter mellem 15.00-24.00
+278 KT215     Hensigtserklæring om Huset i Lundtoftegade (tekst)                                              0,0        0,0          0,0           0,0        0,0       0,0       0,0        0,0        0,0      0,0        0,0       0,0       0,0        0,0         0,0
+              Valby Idrætspark - henisgtserklæring om salgsindtægter og beslutning om
+279 ØK63 (F)                                                                                                  0,0        0,0          0,0           0,0        0,0       0,0       0,0        0,0        0,0      0,0        0,0       0,0       0,0        0,0         0,0
+              parkeringsløsning (tekst)
+
+                Øvrige
+280 ØK61        Kvalitetsløft og øget robusthed i køkkendriften (tekst)                                       0,0        0,0          0,0           0,0        0,0       0,0       0,0        0,0        0,0      0,0        0,0       0,0       0,0        0,0         0,0
+281 KF083       Genetablering af gardiner på rådhusets 2. sal                                                 0,3        0,0          0,0           0,0        0,0       0,0       0,0        0,0        0,0      0,0        0,0       0,0       0,3        0,0         0,0
+                Afskaffelse af takst for kremation af børn under 15 år (scenarie 2 - afskaffelse af
+282 KF143       taksten for kremation af børn under 15 år finansieres gennem forhøjet takst for               0,0        0,0          0,0           0,0        0,0       0,0       0,0        0,0        0,0      0,0        0,0       0,0       0,0        0,0         0,0
+                medlemskab af et keramikværksted)
+283 KF073       Copenhagen Visitor Service og Mobil Gæsteservice (tekst)                                      0,0        0,0          0,0           0,0        0,0       0,0        0,0       0,0        0,0       0,0       0,0       0,0       0,0        0,0         0,0
+284 KT010       Håndteringen af flere servicemålsager på byggesagsområdet                                     4,5        0,0          0,0           1,2        0,0       0,0       -2,1       0,0        0,0      -5,2       0,0       0,0       -1,6       0,0         0,0
+                Sagsbehandlingssystem til byggesager og IT-system til
+285 KT066                                                                                                     0,0        5,7          0,0           0,0        0,0       0,0       0,0        0,0        0,0      0,0        0,0       0,0       0,0        5,7         0,0
+                parkering (initiativ 1 - Implementering af IT-system og projektledelse)
+286 KF096 (F) Sikring af Rådhuset 1 (tekst)                                                                   0,0        0,0          0,0           0,0        0,0       0,0       0,0        0,0        0,0      0,0        0,0       0,0       0,0        0,0         0,0
+                Styrket indsats mod økonomisk kriminalitet i byggeri i Københavns Kommune
+287 ØK17                                                                                                      0,2        0,0          0,0           0,0        0,0       0,0       0,0        0,0        0,0      0,0        0,0       0,0       0,2        0,0         0,0
+                (Indsats 4 - juridiske vurderinger) (tekst)
+288 ØK31 (F)* Investeringsplan for et styrket beredskab                                                       6,3        12,0         2,4           8,4        15,0      0,0       8,4        15,0       0,0      8,4        0,0       0,0       31,5      42,0         2,4
+
+289 ØK29*       Finansiering af en lavere takststigning ved Københavns Busterminal (tekst)                    3,3        0,0          0,0           0,0        0,0       0,0       0,0        0,0        0,0      0,0        0,0       0,0       3,3        0,0         0,0
+
+
+                Idrætsmilliarden
+290 -           Udmøntning af måltal fra idrætsmilliarden                                                     0,0      -54,4         54,4           0,0        0,0       0,0       0,0        0,0        0,0      0,0        0,0       0,0       0,0      -54,4        54,4
+291 KF023       Planlægningsbevilling til halkompleks med svømmehal i Nordhavn                                0,0        5,8          0,0           0,0        5,8       0,0       0,0        0,0        0,0      0,0        0,0       0,0       0,0        11,6        0,0
+292 KF021*      Screeningsbevilling til udvidelse af Gl. Valbyhal                                             0,0        0,5          0,0           0,0        0,0       0,0       0,0        0,0        0,0      0,0        0,0       0,0       0,0        0,5         0,0
+293 KF061 (V) Mimersparken – optimering af lys og forbedring af bruger- og tilskuerforhold                    0,0        3,5          0,0           0,2        0,0       0,0       0,2        0,0        0,0      0,2        0,0       0,0       0,6        3,5         0,0
+                Husumparken – udvidelse af areal, nyt hegn og nyt lysanlæg (screenings- og
+294 KF047                                                                                                     0,2        0,6          0,2           0,0        0,0       0,0       0,0        0,0        0,0      0,0        0,0       0,0       0,2        0,6         0,2
+                anlægsbevilling)
+295 KF004       Kommunal deltagelse ifm. etablering af havnebad ved Langelinie (tekst)                        0,0        0,4          0,0           0,0        0,4       0,0       0,0        0,4        0,0      0,0        0,4       0,0       0,0         1,6        0,0
+    KF015*
+296             Omlægning af lejemål til nye kultur- og idrætsfaciliteter                                     2,8        6,0          0,0           3,8        0,0       0,0       3,8        0,0        0,0      3,8        0,0       0,0       14,2       6,0         0,0
+    (V)
+297 KT011 (V)   Fodboldbaner i Ny Park i Nordhavn                                                             0,0        2,8          0,0           0,0        2,8       0,0       0,0        19,9       0,0      0,8       26,9       0,0       0,8       52,4         0,0
+                Planlægningsbevilling til opgradering af Tingbjerg Stadion (scenarie 2 -
+298 KF053                                                                                                     0,0        2,6          0,0           0,0        0,0       0,0       0,0        0,0        0,0      0,0        0,0       0,0       0,0        2,6         0,0
+                modernisering af Tingbjerg Stadion med nye funktioner)
+299 KF020*      Screeningsbevilling til sportspromenade og sportsloop i Valby Idrætspark                      0,0        0,5          0,0           0,0        0,0       0,0       0,0        0,0        0,0      0,0        0,0       0,0       0,0         0,5        0,0
+300 KF040*      Anlægspulje til idrætsfaciliteter                                                             0,9        11,1         0,0           0,9        9,0       0,0       0,9        9,0        0,0      1,9        9,0       0,0       4,6        38,1        0,0
+301 KF024       Planlægningsbevilling til ny materialegård i Valby Idrætspark                                 0,0        2,6          0,0           0,0        0,0       0,0       0,0        0,0        0,0      0,0        0,0       0,0       0,0         2,6        0,0
+
+
+302             Udgifter i alt                                                                             996,8       247,2       -142,2        1.287,5     498,7       19,4   1.186,7      819,1     210,2   1.097,2     780,7    1.579,8   4.568,1   2.345,6     1.667,2
+
+303             Indtægter - udgifter                                                                          0,0        0,0          0,0           0,0        0,0       0,0       0,0        0,0        0,0      0,0        0,0       0,0       0,0        0,0         0,0
+304             Ikke anvendt råderum i alt                                                                      -                                                                                                                                                       0,0
+305             Uforbrugt servicemåltal                                                                       0,0          -
+306             Uforbrugt anlægsmåltal ved vejledende anlægsmåltal + 7,5 pct.                                   -        7,7
+307             Reserveret måltal (ufinansieret)                                                             58,8       50,0
+
+                                                                                                                                 Side 10 af 11
+                                                                                                                    Bilag 1 - Finansiering og udgifter
+
+
+
+
+     Budget-
+                                                                                   (mio. kr., 2027 p/l               2027                               2028                          2029                          2030                                I alt
+     notat
+
+                                                                                                                       Brutto-                           Brutto-                       Brutto-                        Brutto-                         Brutto-
+                                                                                                            Service    anlæg     Øvrige      Service      anlæg    Øvrige Service       anlæg      Øvrige Service     anlæg      Øvrige Service       anlæg      Øvrige
+ 308              Puljen til uforudsete udgifter                                                                 50,8     28,7
+ 309              Reserveret måltal til investeringspuljerne i 2027                                              73,6     65,0
+ 310              Reserveret måltal til innovationspuljen i 2027                                                 15,0         -
+Anm.: (F) fortroligt budgetnotat, (V) driftsmidler i initiativet er afsat varigt, */stjerne enten indhold og/eller økonomi i budgetnotatet er ikke fulgt i regnearket/budgetaftalen, (tekst) der indgår en hensigtserklæring i budgetaftalen.
+                                                                                                            2027                                2028                          2029                          2030                        I alt
+     Budget-                                                                                                       Brutto-                             Brutto-                       Brutto-                       Brutto-                            Brutto-
+     notat                                                                                               Service    anlæg     Øvrige        Service     anlæg    Øvrige    Service    anlæg    Øvrige    Service    anlæg     Øvrige     Service       anlæg     Øvrige
+                  Bilag 1A - Udmøntning af pulje til genopretning af vejinfrastruktur
+ 313 KT077        Udmøntning pulje til genopretning af vejinfrastruktur                                      0,0       0,0           0,0         0,0       0,0       0,0       0,0       0,0       0,0       0,0    -187,3        0,0           0,0    -187,3        0,0
+
+                  Genopretning af gadebelysning
+ 314 KT077        Udskiftning af konventionelle lyskilder samt udskiftning af gamle master                   0,0       0,0           0,0         0,0       0,0       0,0       0,0       0,0       0,0       0,0      25,0        0,0           0,0      25,0        0,0
+                  Genopretning af signalanlæg
+ 315 KT077        Udskiftning af forældet signalmateriel                                                     0,0       0,0           0,0         0,0       0,0       0,0       0,0       0,0       0,0       0,0       5,0        0,0           0,0       5,0        0,0
+                  Genopretning af vejstrækninger - udføres i synergi
+316 KT077         Ravnsborggade                                                                              0,0       0,0           0,0         0,0       0,0       0,0       0,0       0,0       0,0       0,0       9,6        0,0           0,0       9,6        0,0
+317 KT077         Molbechsvej                                                                                0,0       0,0           0,0         0,0       0,0       0,0       0,0       0,0       0,0       0,0       7,9        0,0           0,0       7,9        0,0
+318 KT077         Sibbernsvej                                                                                0,0       0,0           0,0         0,0       0,0       0,0       0,0       0,0       0,0       0,0       3,9        0,0           0,0       3,9        0,0
+319 KT077         Valby Langgade (Ålholmvej-Roskildevej)                                                     0,0       0,0           0,0         0,0       0,0       0,0       0,0       0,0       0,0       0,0      20,8        0,0           0,0      20,8        0,0
+320 KT077         Jyllingevej (Ålekistevej-kommunegrænsen)                                                   0,0       0,0           0,0         0,0       0,0       0,0       0,0       0,0       0,0       0,0      18,5        0,0           0,0      18,5        0,0
+321 KT077         Brønshøjvej (Fuglsang Allé-Bellahøjvej)                                                    0,0       0,0           0,0         0,0       0,0       0,0       0,0       0,0       0,0       0,0       6,0        0,0           0,0       6,0        0,0
+                  Genopretning af vejstrækninger - sammenhængende projekter
+322 KT077         Kronprinsensgade (Pilestræde-Købmagergade)                                                 0,0       0,0           0,0         0,0       0,0       0,0       0,0       0,0       0,0       0,0       2,9        0,0           0,0       2,9        0,0
+323 KT077         Silkegade                                                                                  0,0       0,0           0,0         0,0       0,0       0,0       0,0       0,0       0,0       0,0       1,9        0,0           0,0       1,9        0,0
+324 KT077         Langelinie (Folkebernadottes Allé-Langelinie Allé)                                         0,0       0,0           0,0         0,0       0,0       0,0       0,0       0,0       0,0       0,0      10,0        0,0           0,0      10,0        0,0
+325 KT077         Ved Norgesporten (Kastellet-Langelinie)                                                    0,0       0,0           0,0         0,0       0,0       0,0       0,0       0,0       0,0       0,0       2,5        0,0           0,0       2,5        0,0
+326 KT077         Borthigsgade                                                                               0,0       0,0           0,0         0,0       0,0       0,0       0,0       0,0       0,0       0,0       8,9        0,0           0,0       8,9        0,0
+327 KT077         Studsgaardsgade                                                                            0,0       0,0           0,0         0,0       0,0       0,0       0,0       0,0       0,0       0,0      12,0        0,0           0,0      12,0        0,0
+328 KT077         Østbanegade (Vordingborggade-"Blinde ender"                                                0,0       0,0           0,0         0,0       0,0       0,0       0,0       0,0       0,0       0,0       4,0        0,0           0,0       4,0        0,0
+329 KT077         Holstebrogade (Middelfartsgade-Ringkøbinggade)                                             0,0       0,0           0,0         0,0       0,0       0,0       0,0       0,0       0,0       0,0       2,0        0,0           0,0       2,0        0,0
+330 KT077         Lersø Parkallé (Lokalvej fra Aldersrogade til Haraldsgade, lige side)                      0,0       0,0           0,0         0,0       0,0       0,0       0,0       0,0       0,0       0,0       3,0        0,0           0,0       3,0        0,0
+331 KT077         Lersø Parkallé (Lokalvej fra Haraldsgade til Vermundsgade, ulige side)                     0,0       0,0           0,0         0,0       0,0       0,0       0,0       0,0       0,0       0,0       8,5        0,0           0,0       8,5        0,0
+332 KT077         Horsekildevej (Valby Langgade-Blankavej)                                                   0,0       0,0           0,0         0,0       0,0       0,0       0,0       0,0       0,0       0,0       6,6        0,0           0,0       6,6        0,0
+333 KT077         Sylviavej                                                                                  0,0       0,0           0,0         0,0       0,0       0,0       0,0       0,0       0,0       0,0       6,7        0,0           0,0       6,7        0,0
+
+                  Individuelle vejstrækninger
+334 KT077         Gammel Kalkbrænderi Vej (Randersgade-Silkeborggade)                                        0,0       0,0           0,0         0,0       0,0       0,0       0,0       0,0       0,0       0,0       10,1       0,0           0,0       10,1       0,0
+335 KT077         Ørholmgade                                                                                 0,0       0,0           0,0         0,0       0,0       0,0       0,0       0,0       0,0       0,0       5,5        0,0           0,0       5,5        0,0
+336 KT077         Slesvigsgade (Ny Carlsberg Vej-Alsgade)                                                    0,0       0,0           0,0         0,0       0,0       0,0       0,0       0,0       0,0       0,0       6,0        0,0           0,0       6,0        0,0
+337               Udmøntning pulje til genopretning af vejinfrastruktur i alt                                0,0       0,0           0,0         0,0       0,0       0,0       0,0       0,0       0,0       0,0       0,0        0,0           0,0       0,0        0,0
+
+
+
+
+                                                                                                                                Side 11 af 11
+

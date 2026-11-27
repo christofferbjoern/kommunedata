@@ -1,0 +1,186 @@
+# kilde: filer/Viborg/regneark_1_da.pdf | metode: pdftotext
+
+Økonomi / JoB
+                                                     Budgetforlig 2027 - 2030
+                                                          Økonomisk overblik
+Resultatopgørelse (minus = indtægter)
+                                        Regnskab Oprindeligt Budgetopfølgning
+(mio. kr.)                                                                        Budget 2027     Budget 2028      Budget 2029      Budget 2030
+                                          2025   budget 2026      2026
+Resultatopgørelse (minus = indtægter)
+Skatter og generelle tilskud              -7.468,8   -7.706,6          -7.716,3        -7.543,3         -7.628,4         -7.812,6         -8.024,7
+Serviceudgifter                            4.817,6    5.033,4           5.074,1         5.157,5          5.120,6          5.106,9          5.067,5
+Overførselsudgifter                        1.862,2    2.035,7           2.006,5         2.085,4          2.120,5          2.158,1          2.199,1
+Kommunal medfinansiering                     434,2      462,2             462,2             0,0              0,0              0,0              0,0
+Pris- og lønstigninger (drift)                 0,0        0,0               0,0             0,0            166,6            369,2            577,1
+Renter                                       -12,8      -11,7             -11,9           -12,8            -11,2             -9,6             -6,9
+Resultat før anlæg og afdrag m.v.           -367,6     -187,0            -185,3          -313,2           -231,8           -188,0           -188,0
+Anlægsudgifter (skattefinansieret)           179,3      215,6             290,9           226,1            223,1            244,7            167,6
+Alment boligbyggeri                           10,3       10,2              11,6             5,3              5,0              5,0              5,0
+Jordforsyning                                -29,5       -4,9              44,0            23,4             60,9             75,3             66,7
+Pris- og lønstigninger (anlæg)                 0,0        0,0               0,0             0,0              3,5              7,5              7,6
+Nettoafdrag på gæld                           87,1       36,5              40,6            25,5             14,9            -17,2              0,0
+Likviditetsvirkning af det
+skattefinansierede område                   -120,4      70,5             201,8           -32,9              75,6           127,3             58,9
+Affaldsforsyning                               7,8     -10,3              13,6           -32,1             -23,9           -18,1             -4,9
+Øvrige finansforskydninger                   -31,9      55,3              15,6            10,7             -21,1             1,0             -3,6
+Samlet likviditetsvirkning                  -144,5     115,6             231,0           -54,3              30,7           110,3             50,5
+Likviditet (minus = kasseforbrug)
+Likvide aktiver primo                        60,0       204,5            204,5           -26,5             27,8             -2,9            -113,2
+Samlet likviditetsvirkning                  144,5      -115,6           -231,0            54,3            -30,7           -110,3             -50,5
+Likvide aktiver ultimo                      204,5        88,9            -26,5            27,8             -2,9           -113,2            -163,7
+Gennemsnitlig likviditet                    640,0       435,0            500,0           410,0            420,0            355,0             270,0
+                                                                                                                            Budgetforlig 2027-2030
+Økonomi / HLS
+                                        Specifikation af ændringerne i forhold til basisbudgettet
+Udvalg (beløb
+       (beløb ii 1.000
+                 1.000 kr.)
+                       kr.)                                                                             2027      2028      2029           2030
+Indtægter
+        Tidligere skattenedsættelse på 0,2 pct. tilbagerulles                                          -42.957   -44.248   -45.620        -47.278
+
+
+Serviceudgifter
+BUU     Familieområdet                                                                                 15.000    20.200    24.400         24.400
+SSU     Socialområdet                                                                                  23.000    26.600    29.100         29.100
+SSU     Driftsbesparelse ved etablering af nyt botilbud                                                                                   -6.000
+SSU     Styrkelse af pulje til §18-midler                                                               2.000     2.000     2.000          2.000
+ØEU     Naturvidenskabernes Hus                                                                         1.000     1.000     1.000          1.000
+
+        Konstitueringsaftale:
+BUU     Skoler                                                                                          9.000    14.000    14.000         14.000
+BUU     Lejrskoler                                                                                      1.600     1.600     1.600          1.600
+BUU     Dagtilbud - Pædagogandel                                                                        5.000    10.000    15.000         16.100
+BUU     Styrket indsats for børn og unge i mistrivsel (skolevægring)                                    5.000     5.000     5.000          5.000
+ØEU     Vækstpakke                                                                                     10.000    10.000    10.000         10.000
+ÆAU     Bedre normeringer i ældreområdet                                                                4.000     4.000     4.000          4.000
+
+        Reduktioner:
+ØEU     Videreføre 0,5% reduktion i 2030                                                                                                  -24.000
+ØEU     Administrativ besparelse                                                                        -4.200    -8.400    -8.400         -8.400
+ØEU     Reduktion af budgetbuffer                                                                       -5.000
+Flere   Undlade prisfremskrivning i 2027 på puljer udenfor velfærdsområderne (BUU, ÆAU og SSU)          -3.500    -3.500    -3.500         -3.500
+Flere   Tilbagerul indsatser fra tidligere års budgetforlig (Saunagus og Hjarbækfjord arbejdsgruppe)    -1.200    -1.200    -1.200         -1.200
+BUU     Reduktioner efter forslag fra forvaltningen                                                     -3.500    -3.500    -3.500         -3.500
+SSU     Reduktioner efter forslag fra forvaltningen                                                     -3.500    -3.500    -3.500         -3.500
+
+
+
+
+                                                                                 Side 1 af 4
+                                                                                                                Budgetforlig 2027-2030
+Økonomi / HLS
+                                       Specifikation af ændringerne i forhold til basisbudgettet
+Udvalg (beløb
+       (beløb ii 1.000
+                 1.000 kr.)
+                       kr.)                                                                   2027     2028     2029           2030
+
+        Reduktioner (mulighedskatalog):
+ØEU     Budgettilpasning på politikområdet Administrativ Organisation                         -1.000   -1.000   -1.000         -1.000
+ØEU     Undlade at give adgang til Vicki for medarbejdere, der ikke har en mailadresse          -300     -300     -300           -300
+ØEU     Reduktion af budget til dataunderstøttelse og automatisering.                           -500     -500     -500           -500
+ØEU     Bortfald af pulje til ekstern bistand til Plan og Byggeri                               -500     -500     -500           -500
+ØEU     Budgettilpasning af bevilling til projektet “Viborg Science Kommune”                     -95      -95      -95            -95
+ØEU     Budgettilpasninger på politikområdet Politisk Organisation (Fonden VisitAarhus)         -167     -205     -243           -281
+ØEU     Budgettilpasninger på politikområdet Politisk Organisation (FOREVER festival)         -4.234   -3.292
+ØEU     Bortfald af tilskud til Naturvidenskabernes Hus                                         -769     -769     -769           -769
+ØEU     Bortfald af driftstilskud til Viborg Flyveplads                                         -311     -311     -311           -311
+ØEU     Reduktion af Byrådets markedsføringspuljer                                            -2.000   -2.000   -2.000         -2.000
+ØEU     Reduktion af midler til bygge- og anlægsarbejder                                      -2.500   -2.500   -2.500         -2.500
+ØEU     Reduktion i Ejendomsservice                                                           -1.500   -1.500   -1.500         -1.500
+KFU     Bortfald af pulje til energiinvesteringer klubhuse/spejderhuse                          -977     -977     -977           -977
+KFU     Budgettilpasning, reduktion vedr. folkeoplysning - lokaletilskud                      -1.700   -1.700   -1.700         -1.700
+KFU     Reduktion af puljen Kultur og Fritidsudvalgets dispositionssum                          -200     -200     -200           -200
+KFU     Aftalen med DGI Midtjylland fornyes ikke                                                -250     -250     -250           -250
+KFU     Fjernelse af driftstilskud til Kongenshus Mindepark                                     -310     -310     -310           -310
+TU      Reduktion af vedligehold og drift af vejbelysning                                     -1.000   -1.000   -1.000         -1.000
+KMNU    Halvering i vedligehold af rekreative områder                                           -400     -400     -400           -400
+KMNU    Lukning af pulje til initiativer, der sikrer biers bestøvning mv.                       -600     -600     -600           -600
+KMNU    Reduktion af klimatilpasningsprojekter                                                  -600     -600     -600           -600
+BUU     Budgettilpasning efter lukning af hjemmepasningsordning                               -1.200   -1.200   -1.200         -1.200
+BUU     Nedlæggelse af puljer til tidsbegrænsede projekter                                    -1.000   -1.000   -1.000         -1.000
+ÆAU     Tilpasning af budget til hjælpemidler                                                 -1.000   -1.000   -1.000         -1.000
+ÆAU     Nedlæggelse af indsatsen med klippekort på ældreområdet                               -7.737   -7.737   -7.737         -7.737
+
+        Afledt drift vedrørende anlæg:
+ØEU     Afledt drift - Nedrivning af Østergade 8, Møldrup                                                        -104            -104
+
+
+                                                                                Side 2 af 4
+                                                                                                               Budgetforlig 2027-2030
+Økonomi / HLS
+                                          Specifikation af ændringerne i forhold til basisbudgettet
+Udvalg (beløb
+       (beløb ii 1.000
+                 1.000 kr.)
+                       kr.)                                                             2027      2028         2029           2030
+BUU     Afledt drift - Nye lokaler til Klub Stedet                                        200          200       200            200
+SSU     Afledt drift - Udbygning af Hjælpemiddelservice                                                                          40
+KFU     Afledt drift -Åpromenadens legeplads                                               50           50        50             50
+
+
+Demografiregulering:
+ÆAU     Dagtilbud                                                                      -12.000   -12.000      -12.000        -12.000
+BUU     Skoler                                                                          -9.200    -9.200       -9.200         -9.200
+BUU     Ældreområdet                                                                    12.200    12.200      12.200         12.200
+Serviceudgifter i alt                                                                   15.100    35.604      50.454         21.556
+
+
+Anlægsudgifter
+ØEU     Nedrivning af Østergade 8, Møldrup                                               1.000
+ØEU     Velkomstcenter for Hærvejen (scenarie 2)        (udgifter)                                    8.000   33.098
+ØEU     Velkomstcenter for Hærvejen (scenarie 2)        (indtægter)                     15.667
+BUU     Renovering og fornyelse af faglokaler i folkeskolerne                                                  6.000           6.000
+BUU     Nye lokaler til Klub Stedet                                                      3.500        2.000
+BUU     Kulturtorv på Stoholm Skole                                                      2.000
+SSU     Udbygning af hjælpemiddelservice                                                                       1.800          5.200
+KFU     Viborg Stadion renovering af spær-konstruktion                                                         1.190          1.190
+KFU     Renovering og fornyelse af kunstgræsbaneanlæg                                                          2.500          2.500
+TU      Realisering af strategisk udviklingsplan for Viborg Midtby                                            10.000         10.000
+TU      Områdefornyelse Bjerringbro Etape 2                                                500          600      300
+TU      Områdefornyelse Bjerringbro Etape 2                                               -300         -360     -180
+TU      Legeplads ved Åpromenaden, Bjerringbro                                                                 2.500
+SSU     Etablering af længerevarende botilbud                                            8.000    20.000      54.000         38.000
+Flere   Videreførelse af anlæg i 2030                                                                                        57.855
+KMNU    Strategisk jordkøb til bynær naturudvikling                                                   1.000     1.000         1.000
+KMNU    Statsligt finansierede vand- og naturprojekter 2026                                                    -8.650
+
+
+
+                                                                      Side 3 af 4
+                                                                                                                  Budgetforlig 2027-2030
+Økonomi / HLS
+                                      Specifikation af ændringerne i forhold til basisbudgettet
+Udvalg (beløb
+       (beløb ii 1.000
+                 1.000 kr.)
+                       kr.)                                                                 2027       2028      2029            2030
+Tekniske tilretninger
+ØEU     Nybygget Døgn Og Aflastningsinst. som Erstatning For Egeskovhus Og Rødehus           5.374    -20.000    14.626
+TU      Helhedsplan for Ellekonebakken                                                                 -5.000     5.000
+ØEU     Nye jordkøb                                                                         -4.000     -2.754     2.754          4.000
+TU      Byggemodning, boliggrunde                                                                      -2.500                    2.500
+
+Anlægsudgifter i alt                                                                        31.741       986    125.938        128.245
+
+
+Låntagning og deponering
+        Lån til nyt botilbud                                                                -8.000    -20.000   -54.000         -38.000
+        Lån energiforbedrende foranstaltninger                                             -20.000    -20.000   -20.000         -20.000
+        Ændringer i renter og afdrag                                                                    2.240     5.440          11.360
+Låntagning og deponering i alt                                                             -28.000    -37.760   -68.560         -46.640
+
+
+Finansforskydninger
+        Tilbagebetaling udlæg vedrørende industripark mm.                                             -30.000
+
+
+Ændringer til basisbudgettet i alt                                                        -24.116    -75.418    62.212         55.883
+
+
+
+
+                                                                            Side 4 af 4
+

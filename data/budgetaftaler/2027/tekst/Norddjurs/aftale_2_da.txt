@@ -1,0 +1,85 @@
+# kilde: filer/Norddjurs/aftale_2_da.pdf | metode: pdftotext
+
+Driftsændringer for 2027-2030
+
+Udvalg              Ændring                                                                                                                                         2027        2028       2029       2030
+                    Ændringer i 1. behandlingen
+alle                Tilbagerulning af tidligere tilpasning af servicemål                                                                                                          3,000     30,000     30,000
+alle                Ny model for tilpasning af servicemål 2027                                                                                                        -10,000    -20,000    -20,000    -20,000
+alle                Ny model for tilpasning af servicemål 2028                                                                                                                   -20,000    -40,000    -40,000
+alle                Ny model for tilpasning af servicemål 2029                                                                                                                              -15,000    -30,000
+
+
+                    Nulstilling/nedregulering af puljer:
+ØK                  Værn om servicerammen - reduceres så der i 2027 er 5,5 mio. kr. tilbage i puljen                                                                  -11,000
+ØK                  Pulje til brug af overførte midler nulstilles                                                                                                      -5,000     -5,000     -5,000     -5,000
+ØK                  Strategisk pulje under Økonomiudvalget halveres                                                                                                    -0,500     -0,500     -0,500     -0,500
+
+
+                    Prioriteringer i budgettet:
+ØK                  Fælles beredskab - opjustering af mandskab sammen med Syddjurs og Favrskov                                                                         0,220      0,220      0,220      0,220
+ØK                  Fælles beredskab - etablering af bådløsning i Fjellerup fra 2027                                                                                   0,050      0,050      0,050      0,050
+ØK                  Intern Beredskabskoordinator i 2 år                                                                                                                0,650      0,650
+ØK                  Fortsættelse af opnormering med én planmedarbejder via VE puljen - (KB160626 sag nr. 8)                                                            0,650      0,650      0,650      0,650
+EVK                 Midler til understøttelse af Kattegat Green Synergi                                                                                                0,150      0,150      0,150
+ØK                  Styrkelse af erhvervsområdet                                                                                                                       0,855      0,855      0,855      0,855
+ØK                  Boligpolitisk gruppe med fokus på det strategiske bosætningsarbejde - midler til sekretariatsunderstøttelse                                        0,150      0,150
+ØK                  Programleder - til understøttelse af reduktion af administrationsudgifterne i 2027 og 1 kvartal 2028                                               0,700      0,125
+KFL                 Græsklipning af baner ved GIC                                                                                                                      0,450
+NMT                 Veteranhus husleje                                                                                                                                 0,083
+BFS                 Fremtidens folkeskole - midler til afledte effekter på driften                                                                                     2,000      2,000      2,000
+SB                  Udvidet og fleksibel bostøtte i en periode på 3 år                                                                                                 0,500      0,500      0,500
+KFL                 Bus til juniorklub i midt                                                                                                                          0,220      0,220      0,220      0,220
+NMT                 Videreførelse af pulje til samskabelse omkring vedligehold af grønne arealer                                                                       0,500
+
+                    Tekniske tilretninger:
+SPO                 Budgettilretning indenfor servicerammen på voksenmyndighed på socialområdet                                                                       10,000     10,000     10,000     10,000
+SPO                 Budgettilretning udenfor servicerammen på voksenmyndighed på socialområdet                                                                        -10,000    -10,000    -10,000    -10,000
+ØK                  Forventede frigørelse af midler vedr. m2 flyttes fra driften til anlægsindtægter mhp. salg af bygninger                                            5,000
+
+
+                    Afledt drift på anlæg                                                                                                                              0,085      -0,130     -0,200     -0,200
+
+
+                    Ændringer i 2. behandlingen
+NMT                 Anholt Færgedrift                                                                                                                                  1,600      1,600      1,600      1,600
+ØK                  Puljen til administrative ændringer finansierer ændringen vedr. Anholt Færgefart                                                                   -1,600     -1,600     -1,600     -1,600
+ØK                  Ukraineindsats                                                                                                                                     0,300
+ØK                  Puljen til administrative ændringer finansierer ekstra ukraineindsats.                                                                             -0,300
+ØK                  Forlængelse af en midlertidig medarbejder ved voksen myndighed                                                                                     0,550      0,550
+SPO                 Sundhedsbus                                                                                                                                        0,500
+KFL                 Styrkelse af kulturtilbud - Kulturklubben og Kunststi                                                                                              0,500      0,500      0,500      0,500
+NMT                 Leje af arealer foran butikker til gadeservering gøres gratis                                                                                      0,040      0,040      0,040      0,040
+KFL                 Kollektiv trafik udvides med ekstra studiebus fra Grenaa til Vest om eftermiddagen                                                                 0,200      0,200      0,200      0,200
+KFL                 Kollektiv trafik udvides med ekstra studiebus - finansieres indenfor eksisterende ramme på KFL til kollektiv trafik                                -0,200     -0,200     -0,200     -0,200
+KFL                 Skolebus - udvidelse med bus ved Børneby Nord                                                                                                      0,400      0,400      0,400      0,400
+KFL                 Skolebus - udvidelse med bus ved Børneby Nord - finansieres indenfor eksisterende ramme på KFL til kollektiv trafik                                -0,400     -0,400     -0,400     -0,400
+
+
+
+ØK                  Sygefraværsrefusion vedr. konto 6 - alle budgetter under kt. 6 bidrager til nulstilling, men fremover vil alle få refusion ved langtidssygdom
+
+
+Ændringer på driften i alt                                                                                                                                           -12,647    -35,970    -45,515    -63,165
+
+
+
+                    Strukturel balance mio. kr. i budgetoplæg                                                                                                       2027        2028       2029       2030
+                    Resultat af ordinær drift i teknisk budget                                                                                                        -51,251    -24,269    -21,866     1,056
+                    Driftsændringer i budgetforslaget                                                                                                                 -12,647    -35,970    -45,515    -63,165
+                    Pris- og lønstigninger på driftsændringer                                                                                                                     -0,826     -2,327     -5,061
+                    §16 tilskud - Særligt vanskeligt stillede kommuner                                                                                                -25,100
+                    Effekt af ændret skøn for overgangsordning sundhedsreformen                                                                                        -4,952     -4,952
+                    Resultat af ordinær drift i 1. behandlingsbudgettet - krav om balance i styrelsesloven                                                            -93,950    -66,017    -69,708    -67,170
+                    Anlægsudgifter                                                                                                                                   125,704    139,398    120,677     86,757
+                    Anlægsindtægter                                                                                                                                   -35,950    -16,725    -27,731    -15,150
+                    Afdrag ordinære lån                                                                                                                                4,653      4,722      4,808      4,878
+                    Afdrag ældreboliger                                                                                                                               21,344     21,436     21,530     21,624
+                    Afdrag indefrosne feriepenge                                                                                                                       1,557      1,591      1,639      1,688
+
+
+
+                    Strukturel balance (+ underskud og - overskud) incl. reservation på ca. 140 mio. kr. til fremtidens folkeskole i budgetperioden                   23,358     84,405     51,215     32,627
+
+                    Kassebeholdning gennemsnit                                                                                                                       509,450    421,920    335,459    288,962
+

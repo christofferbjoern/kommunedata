@@ -1,0 +1,287 @@
+# kilde: filer/Hvidovre/regneark_1_budgetvedtagelse-opdateret-finansieringsoversigt-drift-og-anlaeg.pdf | metode: pdftotext
+
+Finansieringsoversigt      -    Budgetaftale - 061026
+I mio. kr.                                                     Budget      Overslagsår Overslagsår Overslagsår
+- = udgifter                                                    2027          2028        2029        2030
+A. DET SKATTEFINANSIEREDE OMRÅDE
+Indtægter
+Skatter                                                          3.732,6       3.911,1     4.060,1      4.253,9
+Tilskud og udligning                                               997,7         880,7       917,0        915,1
+Indtægter i alt                                                 4.730,4        4.791,8     4.977,1     5.169,0
+Driftsudgifter (ekskl. forsyningsvirksomhed)
+Økonomiudvalget                                                   -611,8         -640,9      -642,8      -643,6
+Klima-, Miljø- og Teknikudvalget                                  -227,9         -224,2      -218,3      -217,5
+Kultur- og Fritidsudvalget                                        -118,7         -118,7      -118,7      -118,7
+Børne- og Uddannelsesudvalget                                   -1.517,6       -1.523,6    -1.528,2    -1.528,2
+Ældreudvalget                                                     -601,5         -612,8      -623,1      -623,1
+Social-, Sundheds- og Borgerserviceudvalget                       -749,2         -746,9      -744,4      -744,4
+Erhvervs- og Beskæftigelsesudvalget                             -1.139,2       -1.164,1    -1.169,3    -1.169,3
+
+Tekniske korrektioner 1                                             -7,4          12,0        -3,4       -13,4
+Medfinansiering af sundhedsvæsenet bortfalder                      277,5         277,5       277,5       277,5
+Overførselsindkomster/konjunkturnotat                                9,1          26,0        26,1         3,3
+Lov- og cirkulæreprogram                                            39,0          38,7        39,9        41,0
+Afledt drift af anlægsprojekter                                      0,2          -0,4        -0,7        -0,4
+Modpost for ekstra skatteindtægter (B25-28)                         -7,5          25,9        25,9        25,9
+Minimumsnormeringer førskoletilbud (Økonomiaftalen for 2027)        -2,9          -2,9        -2,9        -2,9
+Tekniske korrektioner 2                                              0,1           2,0         3,1         3,1
+
+Direktionens driftsændringer:
+Driftsforslag                                                        7,1            3,7         5,6         8,9
+
+Budgetaftale - budgetændringer på drift                             -6,5         -11,6       -12,4       -12,0
+
+Indtægter/rammebesparelser/effektiviseringer                                                  40,0        23,0
+
+I alt driftsudgifter, netto                                     -4.657,1      -4.660,3    -4.646,2    -4.690,9
+P/L                                                                             -123,0      -258,0      -402,0
+Renter                                                             14,0           12,3        11,6        11,2
+RESULTAT FØR ANLÆG OG AFDRAG M.V. (ORDINÆR DRIFT)                  87,3           20,9        84,5        87,2
+I alt anlægsudgifter
+I alt anlægsindtægter
+
+Budgetaftale - budgetændringer på anlæg                          -134,7        -119,9      -106,2       -135,4
+RESULTAT AF DET SKATTEFINANSIEREDE OMRÅDE                          -47,4         -99,1       -21,7       -48,2
+
+B. FORSYNINGSVIRKSOMHEDER
+Drift - Renovationsområdet                                           8,4            8,7        11,6        12,9
+Anlæg - Renovationsområdet                                          -5,1           -8,7       -14,6       -16,0
+
+C. RESULTAT I ALT (A+B)                                            -44,1         -99,1       -24,7       -51,3
+Afdrag                                                             -31,8          -33,2       -33,5       -34,4
+Optagne lån, øvrige områder                                         16,3           21,7        33,0        47,3
+Optagne lån, Affaldsområdet                                                         5,1         8,7        30,6
+Ændringer af kortfristede tilgodehavender og gæld, samt
+langfristede tilgodehavender (øvrige finansforskydninger)            9,0            9,0         9,0         7,1
+I alt finansielle poster                                            -6,5           2,6        17,2        50,7
+ÆNDRING AF LIKVIDE AKTIVER                                         -50,6         -96,5        -7,5        -0,7
+
+LIKVIDE AKTIVER, ULTIMOBEHOLDNING                                 324,8          228,3       220,7       220,1
+
+
+Serviceramme inkl. løft af kommunernes ramme med 3,3                          3.645,21
+mia. kr.
+Serviceramme, forventet med indregnede forudsætninger                         3.645,20
+Mindre end udmeldt serviceramme                                                   0,01
+
+Vejledende anlægsramme (udmeldt af KL)                                         167,54
+Bruttoanlæg                                                                    143,74
+Mindre end udmeldt anlægsramme                                                  23,80
+Budgetaftale - budgetændringer på drift
+I mio. kr. Politikområde      Forslag                                                               Netto     Netto     Netto     Netto     J/N
+-=                                                                                                  2027      2028      2029      2030
+udvidelse
+Nr.
+
+Prioriteringskatalog:                                                                                                                       JA
+05b         Specialiseret        Forebyggende og tidlige indsatser (Videreførsel af Hvidovre          -1,70     -1,70     -1,70     -1,70   JA
+            børneområde          Familiehus)
+08          Skoler og            Finansiering af ECHO - Et fritidstilbud til unge under Kometen       -0,20                                 JA
+            Uddannelse
+14          Dagtilbud, sundheds- Deltidspasning på institutioner                                      -0,37     -0,37     -0,37     -0,37   JA
+            og tandpleje
+
+60          Kultur og            Afskaf af lukkedage på hovedbiblioteket                              -0,20     -0,05     -0,05     -0,05   JA
+            folkeoplysning
+106         Sundhed              Forlængelse af samarbejdsaftale med Frivilligcenter Hvidovre         -0,78     -0,78     -0,78     -0,78   JA
+76          Beskæftigelsesindsat Investering i IGU-vejleder, integrationsgrunduddannelse              -0,60     -0,60                       JA
+            s
+76          Beskæftigelsesindsat Investering i IGU-vejleder, integrationsgrunduddannelse              1,24      2,37                        JA
+            s
+77          Beskæftigelsesindsat Investering i kontraktkonsulent til beskæftigelsesfaglige indkøb     -0,70     -0,70     -0,70     -0,70   JA
+            s
+77          Beskæftigelsesindsat Investering i kontraktkonsulent til beskæftigelsesfaglige indkøb     2,00      2,00      2,00      2,00    JA
+            s
+78          Beskæftigelsesindsat Investering i virksomhedskonsulent til partnerskaber med fokus       -0,60     -0,60     -0,60     -0,60   JA
+            s                    på ordinære timer
+78          Beskæftigelsesindsat Investering i virksomhedskonsulent til partnerskaber med fokus                 1,50      2,99      2,99    JA
+            s                    på ordinære timer
+79          Beskæftigelsesindsat Investering i fastholdelseskonsulent til sygemeldte i Hvidovre       -0,60     -0,60     -0,60     -0,60   JA
+            s                    Kommune
+79          Beskæftigelsesindsat Investering i fastholdelseskonsulent til sygemeldte i Hvidovre       0,73      0,73      0,73      0,73    JA
+            s                    Kommune
+Budgetaftale - budgetændringer på drift
+I mio. kr. Politikområde      Forslag                                                       Netto     Netto     Netto     Netto     J/N
+-=                                                                                          2027      2028      2029      2030
+udvidelse
+Nr.
+
+Egne forslag:                                                                                                                       JA
+           Dagtilbud, sundheds- Uddannelsesstillinger                                                   -2,00     -2,00     -2,00   JA
+           og tandpleje
+
+            Dagtilbud, sundheds- Minimumsnormeringer på førskoleområdet                       -3,50     -3,50     -3,50     -3,50   JA
+            og tandpleje
+
+            Administrativ       §17, stk. 4 udvalg om børn og unges trivsel                   -0,10     -0,10                       JA
+            organisation
+            Ældre               Plejeområdet - realistiske budgetter på plejehjemmene        -7,50      -7,50     -7,50     -7,50   JA
+            Ældre               Bedre mad til vores ældre                                    -0,50      -0,50     -0,50     -0,50   JA
+            Plan og Miljø       Fart på byudvikling                                          -2,00                                  JA
+            De specialiserede   Tekniske korrektioner - demografiregulering på de            13,22     12,84     16,20     21,54    JA
+            områder             specialiserede områder UDGÅR
+            De specialiserede   Finansiel buffer til de specialiserede områder               -13,00    -12,00    -16,00    -21,00   JA
+            områder
+                                                                                                                                    JA
+            Idræt og fritid     Sommeråbent i ishaller - forlænges til 2027                   -1,30                                 JA
+
+            Ejendomme           Bygningsvedligeholdelse - overflyttes fra drift til anlæg    10,00                                  JA
+                                                                                                                                    JA
+I alt udvidelser                                                                              -6,46    -11,56    -12,38    -12,04   JA
+Budgetaftale - budgetændringer på anlæg
+I mio. kr.               Anlægsprojekt                                                        Netto     Netto     Netto     Netto     Netto     Netto     Netto     Netto     Netto     Netto   Netto   Anlægs-
+- = udvidelse                                                                                 2026      2027      2028      2029      2030      2031      2032      2033      2034      2035    2036     sum
+Politik-område
+Direktionens forslag til investeringsoversigt (allerede vedtagne projekter):
+DAGTILBUD OG KLUB           5729 Idrætsinstitutionen Tumlehuset, Udgfter                       -12,57                                                                                                     -88,91
+DAGTILBUD OG KLUB           5729 Idrætsinstitutionen Tumlehuset, Indtægter                      -0,68                                                                                                      18,21
+DAGTILBUD OG KLUB           5786 Liggehal ved Børnehuset Egevolden                              -1,75                                                                                                      -1,75
+DAGTILBUD OG KLUB           5800 Klub Nord, Udvidelse af nuværende arealer                     -10,99                                                                                                     -15,14
+SKOLER                      1310 Faciliteter til brandkadethold                                 -0,50                                                                                                      -0,50
+SKOLER                      3448 Holmegårdsskolen, indskoling og udskoling                      -2,16                                                                                                    -187,28
+SKOLER                      3456 Ventilation på skoler                                          -2,61                         -0,53     -9,91                                                             -35,05
+SKOLER                      3460 Skolerne, Håndværk og designlokaler                            -1,48                                                                                                     -11,62
+SKOLER                      3462 Hal ved Risbjergskolen                                        -15,91    -24,45                                                                                           -44,10
+SKOLER                      3462 Hal ved Risbjergskolen                                        -20,60    -19,68                                                                                           -44,02
+SKOLER                      3466 Skoleudviklingsplanen                                          -2,49                                                                                                     -15,58
+SKOLER                      3475 Præstemoseskolen, nye faglokaler, Udgifter                    -21,32     -0,71                                                                                           -29,27
+SKOLER                      3475 Præstemoseskolen, nye faglokaler, Indtægter                    -0,07                                                                                                       0,00
+SKOLER                      3476 Støjdæmp. foranstaltn. indendørs Engstrandskolen               -3,20     -9,67                                                                                           -12,87
+SKOLER                      3476 Støjdæmp. foranstaltn. indendørs Engstrandskolen               -0,65     -1,36    -10,91                                                                                 -12,92
+SKOLER                      3477 Skolernes kvalitetsprogram, indretning og inventar             -8,19    -14,66                                                                                           -24,86
+SKOLER                      3478 Kapacitetsudvid./Etabl.pavilloner - Huset v/ Avedøre Skole    -12,72                                                                                                     -12,72
+
+KULTUR OG FRITID            0270 Etabl.befæst.areal og miljøcont.-græsn.areal                   -0,40                                                                                                       -0,40
+                            QuarkNaturcen.
+KULTUR OG FRITID            0286 Sønderkær omklædningsfaciliteter                               -8,47                                                                                                     -14,34
+KULTUR OG FRITID            0300 Vision for idrætsområdet, Udgifter                            -13,61    -20,36    -20,36    -20,36    -66,17                                                            -142,25
+KULTUR OG FRITID            0300 Vision for idrætsområdet, Udgifter                             -3,21    -10,59    -20,36    -20,36    -20,36    -66,17                                                  -142,44
+KULTUR OG FRITID            0300 Vision for idrætsområdet, Indtægter (ekstern finansier.)                 20,00     20,00                                                                                  40,00
+KULTUR OG FRITID            0300 Vision for idrætsområdet, Indtægter (ekstern finansier.)                           20,00     20,00                                                                        40,00
+KULTUR OG FRITID            0303 Klubhus til Rebæk IF                                            0,02                                                                                                      -6,86
+KULTUR OG FRITID            0304 Kunstgræsbaner                                                 -1,38                                                                                                     -12,19
+KULTUR OG FRITID            0305 Stald, Avedøre Rideskole                                       -1,43                                                                                                      -3,35
+KULTUR OG FRITID            0311 Pumptrack, klubhus                                             -0,23                                                                                                      -0,25
+KULTUR OG FRITID            0312 Frydenhøjhallen (udbedring skimmelsvamp)                       -3,00                                                                                                      -3,00
+KULTUR OG FRITID            0313 Fornyelse af kunstgræstæpper (Avedøre Stadion)                 -0,50    -10,79                                             -5,38                                         -16,67
+KULTUR OG FRITID            0320 Multisal i Præstemoseområdet                                                                          -42,76                                                             -42,76
+KULTUR OG FRITID            3390 Vandtårnet udvendig renovering                                 -1,26                                                                                                      -9,80
+KULTUR OG FRITID            3395 Garderobe og handicaptoilet i Kometen                          -0,35                                                                                                      -0,35
+KULTUR OG FRITID            0402/02 Pumptrack-cykelbane, Ellipsebakkerne                        -0,04                                                                                                      -3,60
+KULTUR OG FRITID            0403 Skaterbane (inkl. afdækning)                                   -0,30                                   -5,70                                                              -6,11
+KULTUR OG FRITID            0403 Skaterbane (inkl. afdækning)                                                                                     -0,31     -5,70                                          -6,12
+KULTUR OG FRITID            0406 Padelbaner                                                     -0,20                                                                                                      -0,20
+KULTUR OG FRITID            0407 Ismaskine til Frihedens Idrætscenter                           -0,90                                   -0,92                                   -0,92                      -2,73
+KLIMA OG ENERGI             0205 Fjernvarme i kommunale ejendomme                               -2,95     -3,05                                                                                            -6,05
+KLIMA OG ENERGI             0293 Klimaløsningstiltag                                           -14,84     -3,32                                                                                           -21,23
+KLIMA OG ENERGI             0293 Klimaløsningstiltag                                           -11,63     -0,77     -3,13                                                                                 -18,59
+KLIMA OG ENERGI             0942 Miljø- og energipuljen 2024                                    -1,07                                                                                                      -8,00
+KLIMA OG ENERGI             0943 Miljø- og energipuljen 2025                                    -3,00                                                                                                      -7,17
+KLIMA OG ENERGI             0944 Miljø- og energipuljen 2026-27                                 -3,88     -7,30                                                                                           -11,18
+KLIMA OG ENERGI             1051 Investering i Energifælleskab Avedøre                          -0,05                                                                                                      -0,90
+KLIMA OG ENERGI             1060 Klimaplan                                                     -13,00     -8,55    -24,84    -30,95    -27,49    -27,49    -27,49    -27,49    -26,47                    -216,15
+KLIMA OG ENERGI               1060/01 Kommunale bygninger, energirenovering                     -6,10     -1,83    -17,10    -23,21    -22,80    -28,71    -25,86    -25,86    -24,84                     -176,31
+Budgetaftale - budgetændringer på anlæg
+I mio. kr.               Anlægsprojekt                                                            Netto     Netto     Netto     Netto     Netto     Netto     Netto     Netto     Netto     Netto     Netto     Anlægs-
+- = udvidelse                                                                                     2026      2027      2028      2029      2030      2031      2032      2033      2034      2035      2036       sum
+Politik-område
+KLIMA OG ENERGI            1060/02 Solceller og batterier på kommunale bygninger (solceller         -2,40     -1,63     -1,63     -1,63     -1,63     -1,63     -1,63     -1,63     -1,63                          -15,43
+                               komm.tage)
+KLIMA OG ENERGI                1060/03 Fossilfri biler (emmisionsfri kommunale køretøjer)           -4,50     -5,09     -6,11     -6,11     -3,05      2,85                                                        -22,01
+KLIMA OG ENERGI              1060 Klimaplan                                                        -13,00     -7,81    -24,05    -30,31    -32,75    -29,32    -27,79    -25,04    -24,74    -19,65    -19,65    -256,51
+KLIMA OG ENERGI                1060/01 Kommunale bygninger, energirenovering                        -6,10     -1,02    -16,29    -22,40    -25,45    -25,45    -25,45    -22,40    -22,40    -16,29    -16,29     -199,52
+KLIMA OG ENERGI                1060/02 Solceller og batterier på kommunale bygninger (solceller     -2,40     -2,54     -2,90     -3,05     -2,54     -2,04     -0,81     -0,81     -0,81     -0,81     -0,81      -19,55
+                               komm.tage)
+KLIMA OG ENERGI                1060/03 Fossilfri biler (emmisionsfri kommunale køretøjer)           -4,50     -3,44     -3,94     -3,94     -3,94                                                                  -19,77
+KLIMA OG ENERGI                1060/04 Fossilfri kommunale byggepladser - ny                                  -0,81     -0,81     -0,81     -0,81     -0,81     -0,81     -0,81     -0,81     -0,81     -0,81       -8,14
+KLIMA OG ENERGI                1060/05 Genanvendelse af regnvand - ny                                                   -0,10     -0,10               -1,02     -0,71     -1,02     -0,71     -1,73     -1,73       -7,13
+KLIMA OG ENERGI              1070 Klimafond                                                         -3,30               -7,30     -7,30     -7,30     -7,30     -7,30     -7,30     -7,30     -7,30     -7,30     -69,04
+KLIMA OG ENERGI              1071 Forundersøgelser (miljøkons.vurd.) af stormflodsprojekt                     -4,07     -4,07     -4,07     -4,07     -4,07     -4,07                                             -24,43
+KLIMA OG ENERGI              1071 Forundersøgelser (miljøkons.vurd.) af stormflodsprojekt                     -4,55     -4,55     -4,55     -4,55     -4,55     -4,55                                             -27,33
+KLIMA OG ENERGI              6312 Rådhuset Fløj A Energirenovering                                  -8,39                                                                                                         -30,84
+VEJE, TRAFIK OG HAVN         0220 Beplantning (træer, skove)                                        -5,71     -3,36     -3,36                                                                                     -13,32
+VEJE, TRAFIK OG HAVN         0220 Beplantning (træer, skove)                                        -4,21               -3,36                                                                                      -8,46
+VEJE, TRAFIK OG HAVN         2514 BRT-linjer langs Ring 2½, forundersøgelse                         -0,33                                                                                                          -0,33
+VEJE, TRAFIK OG HAVN         2517 Udvikling af Hvidovre Havn, bygninger mm                          -2,29     -2,75    -12,62    -18,93     -9,26     -0,78                                                       -48,52
+VEJE, TRAFIK OG HAVN         2517 Udvikling af Hvidovre Havn, bygninger mm                          -2,29    -13,39    -16,67    -24,93                                                                           -59,15
+VEJE, TRAFIK OG HAVN         2520 Sikre skoleveje (Trafikstrategi)                                  -7,45                                                                                                         -16,59
+VEJE, TRAFIK OG HAVN         2524 Sti fra Bakkeskoven til Kettevej                                  -1,31                                                                                                          -1,53
+VEJE, TRAFIK OG HAVN         2529 To kranlastbiler                                                            -3,44                                                                                                -3,44
+VEJE, TRAFIK OG HAVN         2535 Parkeringspulje                                                   -9,50     -2,04     -2,04                                                                                     -19,36
+VEJE, TRAFIK OG HAVN         2535 Parkeringspulje                                                   -3,50     -8,14     -2,04                                                                                     -19,47
+VEJE, TRAFIK OG HAVN         2536 Støjskærm, S-tog ved Åmarken Station                              -3,00                                                                                                          -3,00
+VEJE, TRAFIK OG HAVN         2536 Støjskærm, S-tog ved Åmarken Station                              -1,00     -2,04                                                                                                -3,04
+VEJE, TRAFIK OG HAVN         2537 Belysning og andre tryghedsfremmende tiltag                       -2,88     -1,53     -1,53     -1,53     -1,53     -1,53     -1,53     -1,53     -1,53                         -15,22
+VEJE, TRAFIK OG HAVN         2538 Fodhvilere, supercykelsti, cykelpumper og pullerter               -0,25     -0,15     -0,15                                                                                      -0,56
+VEJE, TRAFIK OG HAVN         2539 Gartnerhaven-Byvej, sanering                                      -3,50     -3,56     -3,56                                                                                     -10,63
+VEJE, TRAFIK OG HAVN         2539 Gartnerhaven-Byvej, sanering                                      -0,50     -3,56     -3,56     -3,05                                                                           -10,68
+VEJE, TRAFIK OG HAVN         2540 Sønderkær P-pladser, Rydoltowy Plads                              -1,50                                                                                                          -1,50
+VEJE, TRAFIK OG HAVN         2541 Akut vedligeholdelse af pladser og udearealer (B27 ff afsat       -5,00                                                                                                          -5,00
+                             på drift)
+VEJE, TRAFIK OG HAVN         2542 HOFOR spildevandsledning, Risbjergkvarteret                                 -0,74     -1,63     -1,63     -1,40                                                                  -5,40
+VEJE, TRAFIK OG HAVN         2542 HOFOR spildevandsledning, Risbjergkvarteret                                 -0,74     -1,63     -1,63     -1,40                                                                  -5,40
+VEJE, TRAFIK OG HAVN         3459 Skolerne, renovering af affaldsrum                                -0,37                                                                                                          -2,00
+EJENDOMME                    0210 Vedligeholdelse af kommunale ejendomme                           -24,00                                                                                                         -24,00
+EJENDOMME                    0211 Midlertidige flygtningeboliger (ukrainere)                        -3,44                                                                                                          -3,44
+VOKSENSPEC.                  5807 Retræten, botilbud til midlertidigt ophold                                  -0,51     -4,58                                                                                      -5,09
+VOKSENSPEC.                  5807 Retræten, botilbud til midlertidigt ophold                                                      -0,51     -4,58                                                                  -5,09
+VOKSENSPEC.                  5808 Udvidelse af Værket (midl. pavilloner)                            -2,00                         -0,71                                                                            -2,71
+VOKSENSPEC.                  5808 Udvidelse af Værket (midl. pavilloner)                            -0,50     -3,21                                   -0,71                                                        -4,42
+VOKSENSPEC.                  5809 Skæve boliger, Udgifter                                           -1,00     -2,55                                                                                                -3,55
+VOKSENSPEC.                  5809 Skæve boliger, Udgifter                                           -0,50     -1,55     -0,50     -4,00                                                                            -6,55
+VOKSENSPEC.                  5809 Skæve boliger, Indtægter                                                                                   3,00                                                                   3,00
+ÆLDRE                        5799 Plejehjemmet Krogstenshave, permanent helhedsløsn.                -8,85                                                                                                          -9,02
+                             Afd. 51 (tidl. udskiftning tag)
+ÆLDRE                        5799 Plejehjemmet Krogstenshave, permanent helhedsløsn.                -2,00     -1,02     -0,51     -0,51     -4,94                                                                   -9,14
+                             Afd. 51 (tidl. udskiftning tag)
+ÆLDRE                        5803 Hvidovregade 49 - Paletten                                        -7,39     -3,41    -10,38     -5,09                                                                           -26,96
+ÆLDRE                        5803 Hvidovregade 49 - Paletten                                        -4,39     -1,71    -12,42     -7,81                                                                           -27,01
+Budgetaftale - budgetændringer på anlæg
+I mio. kr.               Anlægsprojekt                                                        Netto     Netto     Netto     Netto     Netto     Netto     Netto     Netto     Netto     Netto     Netto     Anlægs-
+- = udvidelse                                                                                 2026      2027      2028      2029      2030      2031      2032      2033      2034      2035      2036       sum
+Politik-område
+ÆLDRE                    5804 Helhedspl. Multihus (skure,badeforh.,affaldsgård,arkiv)           -2,80                                                                                                          -2,80
+ÆLDRE                    5804 Helhedspl. Multihus (skure,badeforh.,affaldsgård,arkiv)           -1,50     -1,32                                                                                                -2,82
+ÆLDRE                    5810 Plejeboligkapacitet Strandmarkshave                               -4,00                                                                                                          -4,00
+ÆLDRE                    5810 Plejeboligkapacitet Strandmarkshave                               -2,00     -2,04                                                                                                -4,04
+KØB OG SALG              0287 Salg af Hvidovrevej 432-438, Indtægter                                       8,00                                                                                                 8,00
+KØB OG SALG              1025 Frasalg 14 grunde Præstemosen (kolonihaver), Udgifter             -0,01                                                                                                          -0,01
+KØB OG SALG              1025 Frasalg 14 grunde Præstemosen (kolonihaver), Udgifter             -0,12     -0,07     -0,07     -0,07     -0,07     -0,07     -0,07     -0,07     -0,07     -0,14     -0,14      -0,98
+KØB OG SALG              1025 Frasalg 14 grunde Præstemosen (kolonihaver), Indtægter             1,31      6,70      3,00      3,00                                                                            15,31
+
+KØB OG SALG                 1025 Frasalg 14 grunde Præstemosen (kolonihaver), Indtægter          1,00      1,00      1,00      1,00      1,00      1,00      1,00      1,00      1,00      2,00      1,69      14,00
+
+KØB OG SALG                 6013 Køb af Solgården og Kastanjehuset                             -23,80                                                                                                         -23,80
+BRUGERFINANSIERET           1600 Genbrugshaller/byttecentral                                    -4,97                                                                                                          -5,00
+(AFFALDSOMRÅDET)
+BRUGERFINANSIERET           1600 Genbrugshaller/byttecentral                                              -5,06                                                                                                -5,09
+(AFFALDSOMRÅDET)
+BRUGERFINANSIERET           1605 Fossilfri vogne                                                         -18,63    -14,65    -15,99    -24,80    -13,34    -26,57                                            -113,98
+(AFFALDSOMRÅDET)
+BRUGERFINANSIERET           1605 Fossilfri vogne                                                                    -8,73    -14,65    -15,99    -24,80    -13,34    -26,57                                  -104,08
+(AFFALDSOMRÅDET)
+
+Direktionens forslag til investeringsoversigt (nye projekter):
+DAGTILBUD OG KLUB           Renovering af tag og bygning Børnehavehuset Brostykkevej                      -0,41                                                                                                -0,41
+                            (selvejende institution) - pantsikres
+DAGTILBUD OG KLUB           Udskiftning af toiletter i Børnehavehuset Lodsvej (selvejde                   -0,49                                                                                                -0,49
+                            institution) - pantsikres
+KULTUR OG FRITID            Renovering af svømmehalsbassin og dæk i Frihedens                             -2,04    -17,31    -11,20                                                                           -30,54
+                            Idrætscenter
+VEJE, TRAFIK OG HAVN Udskiftning af gamle signalanlæg                                                     -3,56     -3,05     -3,05     -3,05                                                                 -12,73
+VEJE, TRAFIK OG HAVN Vedligeholdelse af veje, fortove og cykelstier                                       -5,00     -5,00     -5,00     -5,00     -5,00     -5,00     -5,00     -5,00     -5,00     -5,00     -50,00
+VEJE, TRAFIK OG HAVN Analyse af kommunale vejprojekter ved udvidelse af                                   -0,51                                                                                                -0,51
+                            Amagermotorvejen
+EJENDOMME                   Gungehuskvarteret (helhedsplan for byudvikling)                               -2,04     -0,81     -0,81     -0,31                                                                  -3,97
+
+Egne forslag
+VEJE, TRAFIK OG HAVN        Fodgængerfelt i krydset ved Allingvej                                         -2,50                                                                                                -2,50
+KLIMA OG ENERGI             Forundersøgelse af landindvinding og stormflodssikring ved                    -2,00     -2,00                                                                                      -4,00
+                            Avedøre Holme
+EJENDOMME                   Bygningsvedligeholdelse - overflyttes fra drift og herefter til    -10,00                                                                                                         -10,00
+                            2026
+
+
+
+I alt udvidelser                                                                              -269,19   -139,80   -128,65   -120,82   -151,42   -138,77    -69,66    -64,52    -38,56    -30,09    -30,40   1.574,42
+

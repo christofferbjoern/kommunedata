@@ -1,0 +1,123 @@
+# kilde: filer/Langeland/regneark_1_Budgetforhandlingsoversigt-for-budget-2025-2028---Bilag-til-budgetaftale.pdf | metode: pdftotext
+
+Budgetforhandlingsoversigt 2025-2028
+
+
+       (Beløb er angivet i hele tusinde)                                                                                                                           2025       2026       2027       2028
+
+Udgangspunkt:                 Resultat af ordinær drift ved budgetforslag til 1. behandling i KMB den 9. september 2024 (- = driftsoverskud)                       -28.678    -25.548    -11.776     -2.883
+
+  T           Tekniske        Specifikation af tekniske budgetændringer efter 1. behandlingen:
+  E      budgetændringer      ABUS - Objektiv finansiering til Socialtilsyn Syd                                                                                        -11        -11        -11        -11
+  K             efter         ABUS - Elevtalsregulering - Skoler                                                                                                    -1.459     -1.459     -1.459     -1.459
+  N       1. behandlingen     ABUS - Børnetalsregulering - Dagplejen                                                                                                  -206       -206       -206       -206
+  I                           ABUS - Børnetalsregulering - Dagplejen - forældrebetaling                                                                                 52         52         52         52
+  S                           ABUS - Børnetalsregulering - Dagtilbudsområdet                                                                                        -1.247     -1.247     -1.247     -1.247
+  K                           ABUS - Børnetalsregulering - Dagtilbudsområdet - forældrebetaling                                                                        432        432        432        432
+                              KTT - Bagenkop Havn - Forventet mindreindtægt på landing af fisk vedr. erhvervsskibe                                                     100        100        100        100
+                              ØK - Seniorrådsvalg 2025                                                                                                                  97          0          0          0
+                              I alt                                                                                                                                 -2.242     -2.339     -2.339     -2.339
+
+  K          Politiske        Specifikation af politiske ændringsforslag efter 1. behandlingen:
+  A      ændringsforslag      Budgetkatalog 2025 - Forslag nr. 3: Grøfterensning hvert 2. år frem for hvert år - Udgår                                                   0          0          0          0
+  T            efter          Budgetkatalog 2025 - Forslag nr. 4: Brugerbetaling ifm. skiltning til arrangementer - Udgår                                                0          0          0          0
+  A      1. behandlingen      Budgetkatalog 2025 - Forslag nr. 5: Yderligere reduktion i pleje af grønne arealer - Udgår                                                 0          0          0          0
+  L                           Budgetkatalog 2025 - Forslag nr. 6: Reducering af pulje til landsbypedelordning - Udgår                                                    0          0          0          0
+  O                           Budgetkatalog 2025 - Forslag nr. 7: Energirenovering, herunder varmestyring i kommunale bygninger - Ændret                              -300       -300       -300       -300
+  G                           Budgetkatalog 2025 - Forslag nr. 8: Salg af nye udstykninger i Rudkøbing ved Rue Mark, Strandlystvej, Møllebakken og Vejlen -
+                                                                                                                                                                          0          0          0          0
+                              Udgår på driftssiden, idet den flyttes til anlægssiden
+                              Budgetkatalog 2025 - Forslag nr. 17: Nedlæggelse af kulturpuljen - Udgår                                                                   0          0          0          0
+                              Budgetkatalog 2025 - Forslag nr. 18: Reduktion af Udviklingspuljen - Udgår                                                                 0          0          0          0
+                              Budgetkatalog 2025 - Forslag nr. 24: Administrative ressourcer i Administrativ Stab - Udgår                                                0          0          0          0
+                              Budgetkatalog 2025 - Forslag nr. 25: Administrative effektiviseringer                                                                      0       -300       -300       -300
+                              I alt                                                                                                                                   -300       -600       -600       -600
+
+  Æ          Politiske        Udskydning af implementeringstidspunkt for besparelser på ældreområdet:
+  L      ændringsforslag      Udgangspunkt for ukonkretiseret besparelsesramme i 2025                                                                                6.955      6.955      6.955      6.955
+  D            efter          Rehabiliteringsstrategi                                                                                                               -1.000     -2.000     -2.000     -2.000
+  R      1. behandlingen      Flådestyring og ændring af ruter                                                                                                        -500       -500       -500       -500
+  E
+                                                                                                                                                                    -1.000     -1.500     -1.500     -1.500
+                              Ny organisering i Ældre og Sundhed - tættere ledelse, rum for refleksion og sparring, bedre trivsel, kvalitet og mindre sygefravær
+                              Rengøring på plejecentre                                                                                                                -100       -100       -100       -100
+                              Hjælpemiddeldepot - tilpasning til politisk besluttet serviceniveau                                                                     -300       -300       -300       -300
+                              Vakant stilling som Ældre og sundhedschef til 31. maj 2025 (ØK)                                                                         -400          0          0          0
+                              Rammebesparelse i overslagsårene                                                                                                           0       -850     -1.700     -2.555
+                              I alt                                                                                                                                  3.655      1.705        855          0
+
+  Æ          Politiske        Specifikation af politiske ændringsforslag efter 1. behandlingen:
+  N      ændringsforslag      Dimensionering af PAU-elever                                                                                                             237        237        237        237
+  D            efter          Dimensionering af SOSU-elever                                                                                                            500        500        500        500
+  R      1. behandlingen      EU-Persondataforordningen                                                                                                                600        600        600        600
+  I                           Udvikling og markedsføring på kultur- og turismeområdet fra 2026 (EKT)                                                                     0        580        580        580
+  N                           Drift af SHORES Langeland (KTT)                                                                                                            0        600        600        600
+  G                           Udviklingspuljen, reserveret til Sommeropera                                                                                               0        -50          0          0
+  E                           Udviklingspuljen, Sommeropera                                                                                                              0         50          0          0
+  R                           Vedligeholdelse af cykelladestandere                                                                                                      25         25         25         25
+                              Driftsbesparelse på drift af ny daginstitution                                                                                             0          0     -2.200     -2.200
+                              Registrering af bevaringsværdige træer i projekt om fortidsminder                                                                         10         10         10         10
+                              Nedbringelse af sygefravær                                                                                                              -300       -300       -300       -300
+                              Flådestyring af biler                                                                                                                   -250       -250       -250       -250
+                              Indtægter ved autocamperturisme og parkeringsregulering                                                                                  -50       -100       -100       -100
+                              Lejrskoler i udskolingen i folkeskolen                                                                                                   150        150        150        150
+                              Rebellens kor til koncerter på Langeland                                                                                                  25         25         25         25
+                              Udvidelse af landsbypedelordning                                                                                                         100        100        100        100
+                              Naturformidling og naturdannelse i folkeskolen/ungdomsskolen, evt. i samarbejde med Geopark Sydfyn, biolog m.fl.                          75         75         75         75
+                              Driftsudgifter til toiletfaciliteter                                                                                                     100        100        100        100
+                              Generelle reserver                                                                                                                     7.500          0          0          0
+                              Budgetværn til overførsel mellem årene 2024 og 2025 reduceres fra 6 mio. kr. til 3 mio. kr.                                           -3.000          0          0          0
+                              I alt                                                                                                                                  5.722      2.352        152        152
+
+  R          Politiske        Specifikation af politiske ændringsforslag efter 1. behandlingen:
+  E      ændringsforslag      Gevinstrealisering ved udbud af den daglige bankforretning (ØK)                                                                         -200       -200       -200       -200
+  D            efter          Borgerrådgivning, budgettilpasning og fastholdelse af serviceniveau på 15 timer ugentligt (ØK)                                           -45        -90        -90        -90
+  U      1. behandlingen      Selvforsikringspulje vedr. motorkøretøjer (ØK)                                                                                          -300          0          0          0
+  K                           Lønforhandlingspulje til fordeling ophører (ØK)                                                                                         -500       -500       -500       -500
+  T                           Abonnementer og kontingenter i Vej, Park og Ejendomme samt i Teknik og Miljø administration (KTT)                                        -70        -70        -70        -70
+  I                           Private opholdssteder for børn, kendte sager (ABUS)                                                                                     -300       -300       -300       -300
+  O                           Voksensocial område, ledsageordninger m.v. (ABUS)                                                                                       -500       -500       -500       -500
+  N                           Rammebesparelse: Borger, social og arbejdsmarked (ABUS)                                                                                 -200       -200       -200       -200
+  E                           Tværprofessionelt samarbejde vedr. PPR (ABUS)                                                                                           -229       -229       -229          0
+  R                           Justering af tidligere opskrivning af indtægter vedrørende børnehaven Vejlen, Simmerbølle og Vuggestuen Midt (ABUS)                     -300       -300       -300       -300
+                              Børnehaver i andre kommuner (ABUS)                                                                                                       -60        -60        -60        -60
+                              IT-personale på skolerne (ABUS)                                                                                                         -100       -100       -100       -100
+                              Reduktion på ledelse og administration i dagplejen (ABUS)                                                                               -159       -159       -159       -159
+                              Reduktion i læringssekretariatet (pladsanvisningen) (ABUS)                                                                               -75        -75        -75        -75
+                              I alt                                                                                                                                 -3.038     -2.783     -2.783     -2.554
+
+                Renter        Specifikation af politiske ændringsforslag efter 1. behandlingen:
+                              Renter vedr. ny daginstitution                                                                                                              0      732         732        732
+                              Renter vedr. 4-årig investeringsplan for havnene                                                                                            0      229         458        686
+                              I alt                                                                                                                                       0      961       1.190      1.418
+
+                               Resultat af ordinær drift                                                                                                           -24.881    -26.252    -15.302     -6.806
+                               Anlæg:
+                               Anlægsramme                                                                                                                               0          0      6.800      6.800
+                               Anlægsprojekt: Medfinansieringspulje på erhvervs- og turismeområdet i forbindelse med fondssøgning                                      300        300        300        300
+                               Anlægsprojekt: Cykelknudepunktnetværk                                                                                                   158        367          0          0
+                               Anlægsprojekt: Sygeplejeklinik i Nord                                                                                                   200          0          0          0
+                               Anlægsprojekt: 4-årig investeringsplan for havnene med samlet fleksibelt rammebeløb på 30 mio. kr.                                    7.500      7.500      7.500      7.500
+                               Anlægsprojekt: Ny daginstitution                                                                                                     24.000     21.000          0          0
+                               Anlægsprojekt: Salg af udstykninger                                                                                                  -2.000     -2.000     -2.000     -2.000
+                               Anlægsprojekt: Byggemodning                                                                                                           5.000          0          0          0
+                               Anlægsprojekt: Sikre cykelveje fra Nord til Syd og trafikforhold i Rudkøbing                                                            300          0          0          0
+                                    - Finansiering via overførsler fra 2024 til 2025 fra projekt til trafikdæmpende foranstaltninger 2024                             -300          0          0          0
+                               Anlægsprojekt: Landsby- og områdefornyelse (egenfinansieringsandel)                                                                     400        400        400        400
+                               Anlægsprojekt: Trafikdæmpende foranstaltninger og etablering af affaldsøer som trafikchikane                                            500      1.000          0          0
+                               Anlægsprojekt: Vigeplads Helsned                                                                                                        300          0          0          0
+                               Anlægsprojekt: Gasværksgrunden omdannes til grusbelagt parkeringsplads inkl. beplantning                                                300          0          0          0
+                               Anlægsprojekt: Salg af dele af Gasværksgrunden                                                                                         -100          0          0          0
+                               Anlægsprojekt: Parkeringsplads ved Humblehallen                                                                                          80          0          0          0
+                               Anlægsprojekt: Toiletfaciliteter ved Ristinge Strand                                                                                    140          0          0          0
+                               Anlæg i alt                                                                                                                          36.778     28.567     13.000     13.000
+                               Resultat af det skattefinansierede område                                                                                            11.897      2.315     -2.302      6.194
+                               Afdrag på lån                                                                                                                        19.112     19.252     19.398     19.550
+                               Afdrag på lån vedr. ny daginstitution                                                                                                     0        960        960        960
+                               Afdrag på lån vedr. 4-årig investeringsplan for havnene                                                                                   0        300        600        900
+                               Lånoptagelse vedr. ny daginstitution                                                                                                -24.000          0          0          0
+                               Lånoptagelse vedr. 4-årig investeringsplan for havnene                                                                               -7.500     -7.500     -7.500     -7.500
+                               Øvrige balanceforskydninger og kursreguleringer                                                                                           0          0          0          0
+                               Samlet likviditetsændring*                                                                                                             -491     15.327     11.157     20.104
+       * Påvirkningen af pris- og lønudviklingen for overslagsårene 2026-2028 er ikke indregnet i den samlede likviditetsændring ovenfor.
+

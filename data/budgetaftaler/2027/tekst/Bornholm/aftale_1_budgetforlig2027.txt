@@ -1,0 +1,273 @@
+# kilde: filer/Bornholm/aftale_1_budgetforlig2027.pdf | metode: pdftotext
+
+Bornholms Regionskommune                                                                                                                                      Budget 2027 - 2030
+
+                                                                 Resultatopgørelser 2024 - 2030
+
+                                                               Regnskab       Regnskab       Budget          Budgetforslag Budgetoverslag Budgetoverslag Budgetoverslag
+              Beløb i Mio. kr. - Løbende priser
+                                                                 2024           2025          2026              2027           2028           2029           2030
+Det skattefinansierede område
+  Indtægter
+    Skatter                                                       -2.102,8       -2.153,3      -2.283,4           -2.365,1       -2.379,0       -2.441,1       -2.492,6
+    Tilskud og udligning                                          -1.302,3       -1.353,4      -1.347,8           -1.130,9       -1.141,7       -1.156,9       -1.187,8
+     - heraf tilskud til særlig vanskeligt stillede kommuner          -95,0         -105,0        -100,0             -110,0         -100,0         -100,0          -100,0
+  Indtægter i alt                                                 -3.405,2       -3.506,8      -3.631,2           -3.496,0       -3.520,6       -3.598,0       -3.680,4
+  Driftsvirksomhed
+    Børne- og Skoleudvalget                                          476,2          512,5         534,6              560,3          564,1          575,7          589,2
+    Social- og Beskæftigelsesudvalget                              1.451,3        1.478,6       1.588,7            1.616,6        1.638,8        1.686,4        1.752,8
+    Ældre- og Sundhedsudvalget                                       848,9          874,0         904,2              659,2          677,2          703,9          732,4
+    Miljø- og Erhvervsudvalget                                       109,7          109,2         102,5              189,2          182,4          188,0          191,2
+    Kultur- og Lokalsamfundsudvalget                                 228,9          233,8         241,1              112,7          112,2          114,5          115,9
+    Økonomiudvalget                                                  177,7          173,2         187,5              237,7          244,8          247,5          250,5
+    Pt. ikke udvalgsfordelt                                                                                            0,0            0,0            0,0            0,0
+ Driftsvirksomhed i alt                                           3.292,5        3.381,2       3.558,6             3.375,6        3.419,6       3.515,9        3.632,1
+ Renter m.v.                                                         -0,5           -2,2            3,2                4,8             5,5           6,1            6,7
+Resultat af ordinær driftsvirksomhed                               -113,1         -127,7          -69,5             -115,6           -95,5         -76,1          -41,6
+ Anlægsvirksomhed                                                    81,9           63,7           97,5               97,0            75,4          86,2           80,0
+Resultat af det skattefinansierede område                           -31,3          -64,1          28,0              -18,6          -20,1           10,1           38,4
+Det brugerfinansierede område
+   Drift                                                               6,1           -4,6             -5,5            -6,4            -5,4          -5,7            -6,0
+   Anlæg                                                               7,7            7,4              0,0             6,2             0,0           0,0             0,0
+   Optagelse af lån                                                    0,0            0,0              0,0             0,0             0,0           0,0             0,0
+Resultat af det brugerfinansierede område                            13,8            2,7          -5,5               -0,2            -5,4          -5,7            -6,0
+
+Samlet resultat                                                     -17,5          -61,3          22,5              -18,7          -25,5            4,4           32,3
+Øvrige poster
+  Optagelse af lån (ekskl. pleje-/ældreboliger)                      -15,9          -18,4         -45,9              -24,2          -13,0          -10,0          -10,0
+  Afdrag på lån                                                       36,4           37,3          36,6               37,9           37,8           37,8           36,3
+  Øvrige balanceforskydninger                                        -50,6           -3,4           4,9                4,9            1,1            1,1            1,1
+  Planlagt forbrug/styrkelse af kassebeholdningen                                                 -19,2                0,0            0,0            0,0            0,0
+Øvrige poster i alt                                                 -30,0           15,5         -23,6               18,5           25,9           29,0           27,5
+Balance ( - = overskud / + = underskud)                             -47,5          -45,8          -1,1               -0,2             0,4          33,4           59,8
+Samlet kassebevægelse (- = kassetræk)                                 47,5           45,8          -18,1               0,2            -0,4          -33,4          -59,8
+
+
+
+Dato: 04-09-2026
+Bornholms Regionskommune                                                                                                                            Budget 2027 - 2030
+
+
+
+Prioriteringsforslag 2027 - 2030
+                                                                                                                 Valgte forslag
+                                                                                                         Beløb i 1.000 kr. i 2026-priser
+Udv.    Beskrivelse af forslaget                                                                       2027       2028         2029         2030
+Børne- og Skoleudvalget
+BSU     Lukning af børnehus fra sommeren 2027 - Østermarie                                             -875      -2.104      -2.104        -2.104
+BSU       Lukning af overgangsprojekt med Natur Bornholm                                               -262        -262        -262         -262
+BSU       De Små Børns Bornholm - finansiering af overførte midler i 2027                             -2.800          0            0           0
+BSU       De Små Børns Bornholm - ophør af programmet fra 2028                                            0      -2.258      -2.258        -2.258
+BSU       Reduktion af ressourcer til understøttelse af drift i Center for Børn og Læring              -300        -300        -300         -300
+BSU       Reduktion i normering, grundet ændret beregningsmodel mellem børnehave og                    -500        -500        -500         -500
+          vuggestue
+BSU       Udfasning af tilskud til madskolen på Paradisbakkeskolen                                     -304        -608        -911        -1.215
+BSU       Rammebesparelse på skoleområdets fællesudgifter                                              -700           0             0          0
+BSU       Halvering af ressource til understøttelse af inkluderende læringsmiljøer og                  -600        -600        -600         -600
+          handleplan
+BSU       Reduktion af ressourcer til understøttelse af drift i Center for Børn og Læring              -500        -500        -500         -500
+BSU       Stigning i forældrebetaling på SFO til 89 procent                                           -1.216     -1.216      -1.216        -1.216
+BSU       Ekstra klassesæt og personlige iPads til elever med læse- og skrivevanskeligheder             861         215           215        215
+          - Scenarie C
+BSU       Pasning af eget barn                                                                        1.000       1.000       1.000        1.000
+BSU       Alle Børns Bornholm – trygge og udviklende fællesskaber                                     2.000       2.000       2.000        2.000
+
+
+Social- og Beskæftigelsesudvalget
+SBU      Urealiseret projekt vedr. Børne- og Ungehjem på Løvstikken                                   1.500       1.500       1.500        1.500
+SBU       Ændring af projekt for Børne- og Ungehjem med 10 pladser                                    -1.000     -2.500      -2.500        -2.500
+SBU       Investeringscase forstærkede og specialiserede plejefamilier                                    0        -500      -1.000        -1.000
+SBU       Øget indsats for anbragte børn                                                              -1.000     -1.000      -1.000        -1.000
+SBU       Reorganisering af arbejdsprocesserne på socialområdet                                           0      -2.000      -2.000        -2.000
+SBU       Reduktion af Børne- og Familiehuset med 4 pladser                                            -650      -1.300      -1.300        -1.300
+SBU       Besparelse på administrative stillinger                                                      -450        -600        -600         -600
+SBU       Visiteret tilbud; Udslusningsmodel for unge i Ungestøtte                                     -300        -300        -300         -300
+SBU       Lukning af aktivitets- og samværstilbuddet Vestergade (Allinge)                              -291        -576        -576         -576
+
+
+Dato: 04-09-2026                                                                        Side 1 af 6
+Bornholms Regionskommune                                                                                                                           Budget 2027 - 2030
+
+
+
+Prioriteringsforslag 2027 - 2030
+                                                                                                                Valgte forslag
+                                                                                                        Beløb i 1.000 kr. i 2026-priser
+Udv.      Beskrivelse af forslaget                                                                    2027        2028        2029          2030
+SBU       Vennepunktet - tilpasning af budgetrammen for § 85-støtte                                  -1.500     -1.500      -1.500        -1.500
+SBU       Botilbud - salg af pladser til andre kommuner                                              -4.000     -4.000      -4.000        -4.000
+SBU       Bortfald af direktørlønning på Kærbygård                                                    -913        -913        -913         -913
+SBU       Bortfald af overhead på Kærbygård                                                          -1.230     -1.230      -1.230        -1.230
+SBU       Personalereduktion som følge af sammenlægning af teams i                                    -500        -600        -600         -600
+          Kommunikationscentret
+SBU       Visiterede aktivitetstilbud jf. § 104 - rammebesparelse                                     -375        -500        -500         -500
+SBU       Halvering af flekspuljen                                                                    -880        -880        -880         -880
+SBU       Nedlæggelse af brobygningspuljen                                                           -2.286     -2.286      -2.286        -2.286
+SBU       Øget ventetid på psykologydelser                                                            -700        -700        -700         -700
+SBU       Øget sagsbehandlingstid for borgere, der ansøger om ydelser                                 -500        -500        -500         -500
+SBU       Ændring af - Åbningstid/sted i Borgerservice (og Jobcenter)                                 -550        -550        -550         -550
+SBU       Ekstra vederlag til støtteophold hos plejefamilier                                           614         614           614        614
+
+
+Ældre- og Sundhedsudvalget
+ASU     Afskaffelse af puljen til bedre bemanding på plejeboligområdet                                -900        -900        -900         -900
+ASU       Tilpasning af organisering i Center for Sundhed og Omsorg                                   -900        -900        -900         -900
+ASU       Reduktion i midler til kvalitetsløft af ældreplejen                                        -2.500     -2.000      -2.000        -2.000
+ASU       Effektivisering af madproduktion i Levebo køkkener                                         -1.200     -1.600      -1.600        -1.600
+ASU       Længere sagsbehandlingstid i Myndighed i Center for Sundhed og Omsorg                       -600        -600        -600         -600
+ASU       Ny organisering af Sønderbo som følge af sundhedsreformen                                   -300        -300        -300         -300
+ASU       Tilpasning af budget til SOSU-elever til faktisk og forventet optag                        -3.500     -2.000      -2.000        -2.000
+ASU       Mindre lagerbeholdning af genbrugshjælpemidler                                             -1.000     -1.000      -1.000        -1.000
+ASU       Reducering af indsatser i forhold til rekruttering og fastholdelse af SOSU-elever           -630      -1.260      -1.260        -1.260
+
+ASU       Reduktion af sygeplejeydelser                                                               -850        -850        -850         -850
+ASU       Kørsel til vederlagsfri fysioterapi                                                        1.100       1.100       1.100        1.100
+
+
+
+
+Dato: 04-09-2026                                                                       Side 2 af 6
+Bornholms Regionskommune                                                                                                                           Budget 2027 - 2030
+
+
+
+Prioriteringsforslag 2027 - 2030
+                                                                                                                Valgte forslag
+                                                                                                        Beløb i 1.000 kr. i 2026-priser
+Udv.     Beskrivelse af forslaget                                                                     2027       2028         2029         2030
+Kultur- og Lokalsamfundsudvalget
+KLU      Reduktion af undervisningstilskudspulje til den folkeoplysende voksenundervisning             -100       -100        -100         -100
+
+KLU       Besparelse på kulturelle puljer                                                                0        -150        -150         -150
+KLU       Alle folkebiblioteker, bortset fra Rønne og Nexø, lukkes, herunder                           -362       -362        -362         -362
+          kombibibliotekerne på skolerne
+KLU       Filmstriben nedlægges, materialekonti og budget til kulturelle tilbud reduceres              -517       -517        -517         -517
+KLU       Veje - anlæg - strukturelle ændringer                                                      -2.537     -2.537            0           0
+KLU       Vintertjenesten - reduktion i rydningstider                                                  -700       -700        -700         -700
+KLU       Grønne områder, ændret bekæmpelsesmetode af rynket rose                                      -250       -250        -250         -250
+KLU       Skove reduktion af vejveligehold samt publikumsfaciliteter                                   -200       -200        -200         -200
+KLU       Teknisk service - Intern omorganisering                                                      -800     -1.200      -1.200        -1.200
+KLU       Delvis opsigelse af aftale om (dør)måtte service                                             -300       -300        -300         -300
+KLU       Strukturel tilgang til kommunens ejendomme - Rum til velfærd                                 -408       -408        -408         -408
+KLU       Kantinedrift og rengøring reduceres på de administrative abejdspladser                       -165       -330        -330         -330
+KLU       Driftsoptimeringer, havnedrift                                                               -200       -200        -200         -200
+KLU       Reducering af banegødning                                                                    -100       -100        -100         -100
+KLU       Etablering af robotplæneklipning på idrætsfaciliteter                                        -811       -811        -811         -811
+KLU       Tilsyn af sikkerhedsrum                                                                      700           0            0           0
+KLU       Energimærkninger bygninger                                                                  1.000      1.000       1.000        1.000
+KLU       Skalsikring i BRK administrationsbygninger                                                  1.368      1.266             0          0
+KLU       Toftegården - renovering af tag                                                             8.200          0             0          0
+KLU       Bornholms Kunstmuseum - renovering af rytterlys (tagvinduer)                                   0       2.200            0           0
+KLU       Faglokaler på afdeling Åvangskolen                                                          1.070          0             0          0
+KLU       Sikring af kritiske funktion ved strømnedbrud på de kommunale plejecentre                    500       1.000       1.000        1.000
+KLU       Sikring af kritiske funktion ved strømnedbrud på de kommunale plejecentre                      0         100           100        100
+KLU       Forslag D Nyt børnehus 101 børneenheder – præfabrikeret byggeri                            10.000     19.300            0           0
+KLU       Forslag D Nyt børnehus 101 børneenheder – præfabrikeret byggeri                              180        -728        -971         -971
+
+
+
+Dato: 04-09-2026                                                                       Side 3 af 6
+Bornholms Regionskommune                                                                                                                            Budget 2027 - 2030
+
+
+
+Prioriteringsforslag 2027 - 2030
+                                                                                                                 Valgte forslag
+                                                                                                         Beløb i 1.000 kr. i 2026-priser
+Udv.      Beskrivelse af forslaget                                                                     2027       2028         2029         2030
+KLU       Skolen ved Vibegård - byggeri - drift                                                       1.884        585          585          585
+KLU       Sagavej som børne- og ungehjem                                                              4.000       3.700             0          0
+KLU       Sagavej som børne- og ungehjem                                                                 78         186           186        186
+KLU       Robotklipningsmaskiner til banearealer                                                      1.463           0             0          0
+KLU       Renovering af vestlig ydermole i Nørrekås Lystbådehavn                                          0       4.000      30.000        30.000
+KLU       Udskydelse af tilskud til Vandkulturhus                                                         0     -15.000             0      15.000
+
+
+Miljø- og Erhvervsudvalget
+MEU      Besparelse på erhvervsfremmeindsatsen                                                        -2.000     -2.000      -2.000        -2.000
+MEU       Reduktion turismeinformationerne (Destination Bornholm)                                      -500        -500        -500          -500
+MEU       Reduktion af Naturpleje                                                                      -500        -500        -500          -500
+MEU       Ny vaskemaskine til busserne på Industrivej                                                  -550        -550        -550          -550
+MEU       § 17 stk 4 udvalg vedr. kommuneplan                                                         2.269       1.244           488          0
+MEU       Nedbringelse af sagsbehandlingstiden på myndighedsområdet plan, byg, natur,                 2.000       2.000       2.000         2.000
+          miljø og vejmyndighed
+MEU       Indsatsplan for bekæmpelse af kæmpebjørneklo                                                   50          50            50         50
+MEU       Fredning af Paradisbakkerne - fredningserstatning                                             700           0            0           0
+MEU       Videreførelse samt opprioritering af ressourcer i kommunen til arbejdet med                 1.000       1.000       1.000            0
+          Energiø Bornholm
+MEU       Ny vaskemaskine til busser                                                                    782           0            0           0
+
+
+Økonomiudvalget
+ØU    Samling af økonomifunktionen i ØP                                                               -1.300     -2.030      -2.030        -2.030
+ØU        Reduktion af controlling i budget og indkøb                                                  -360        -480        -480          -480
+ØU        Administrativ besparelse                                                                     -200        -200        -200          -200
+ØU        Levetidsforlængelse af kritisk it-infrastruktur                                              -830        -395        -395          -395
+ØU        ADK Teknisk implementering                                                                   -100        -100        -100          -100
+ØU        Opsigelse af fælles koncern software                                                          -50         -50           -50         -50
+
+
+
+Dato: 04-09-2026                                                                        Side 4 af 6
+Bornholms Regionskommune                                                                                                                             Budget 2027 - 2030
+
+
+
+Prioriteringsforslag 2027 - 2030
+                                                                                                                  Valgte forslag
+                                                                                                          Beløb i 1.000 kr. i 2026-priser
+Udv.      Beskrivelse af forslaget                                                                      2027       2028         2029         2030
+ØU        Kvalitet på kopipapir                                                                          -42        -42          -42          -42
+ØU        Batteri opgraderinger bærbare computere                                                       -108        -108        -108          -108
+ØU        Kamera udskiftninger                                                                            -90        -90           -90         -90
+ØU        Reduktion af støtte ved IT udbud, SKI-udbud samt gennemgang af kontrakter                     -325        -325        -325          -325
+ØU        Nedlæggelse af stilling i Digitalisering                                                      -325        -325        -325          -325
+ØU        Reduceret støtte i IT servicedesk - længere svartider                                           -51       -639        -639          -639
+ØU        Reduktion i tilskuddet til Foreningen Folkemødet                                              -100        -100        -100          -100
+ØU        Nedlæggelse af borgerrådgiverfunktionen                                                       -617        -617        -617          -617
+ØU        Videreførelse samt opprioritering af ressourcer i kommunen til arbejdet med                    750       1.450       1.450         1.450
+          Energiø Bornholm
+ØU        IT-samarbejde i IT29                                                                           150         150           150        150
+ØU        § 17 stk 4 udvalg vedr. kommuneplan, vederlag                                                  248         248           248          0
+ØU        Genetablering af central fundraiserfunktion                                                    650           0      -2.000        -5.000
+
+
+Rammer til senere udmøntning
+BSU   Budget 2028                                                                                          0      -6.700      -6.700        -6.700
+SBU       Budget 2028                                                                                      0      -7.875      -7.875        -7.875
+ASU       Budget 2028                                                                                      0      -7.975      -7.975        -7.975
+KLU       Budget 2028                                                                                      0      -3.200      -3.200        -3.200
+MEU       Budget 2028                                                                                      0      -1.225      -1.225        -1.225
+ØU        Budget 2028                                                                                      0      -1.600      -1.600        -1.600
+
+
+Niveautilpasninger
+BSU     Niveuatilpasning - Specialundervisning                                                         3.000       3.000       3.000         3.000
+SBU       Niveuatilpasning - Det specialiserede børne- og ungeområde                                  14.800      10.900      10.900        10.900
+SBU       Niveautilpasning - Sociale pensioner                                                        -10.000    -12.000     -15.500         3.500
+KLU       Niveuatilpasning - Vintertjeneste                                                            2.000       2.000       2.000         2.000
+MEU       Niveuatilpasning - BAT                                                                       6.900       6.900       6.900         6.900
+
+
+
+Dato: 04-09-2026                                                                        Side 5 af 6
+Bornholms Regionskommune                                                                                              Budget 2027 - 2030
+
+
+
+Prioriteringsforslag 2027 - 2030
+                                                                                   Valgte forslag
+                                                                           Beløb i 1.000 kr. i 2026-priser
+Udv.      Beskrivelse af forslaget                                       2027       2028         2029         2030
+
+Eksterne ansøgninger
+KLU    Ansøgning om kommunalt tilskud til NaturBornholm                   635         635           635        635
+
+
+TOTAL                                                                   10.392    -46.369     -36.600        -7.640
+
+
+
+
+Dato: 04-09-2026                                          Side 6 af 6
+

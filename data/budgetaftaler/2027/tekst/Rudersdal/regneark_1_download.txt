@@ -1,0 +1,71 @@
+# kilde: filer/Rudersdal/regneark_1_download.pdf | metode: pdftotext
+
+BILAG 1 - DRIFT
+
+Besparelsespulje, Serviceramme
+1. Besparelseskrav (mio. kr.)                                                                  2027     2028     2029     2030
+Besparelsespulje, budgetforslag                                                               40,00    45,00    50,00    55,00
+Rummelighed i serviceramme i budgetforslag                                                    -0,28
+Rest fra Lov- og Cirkulæreprogrammet, serviceramme                                            -0,70     0,37      0,40     0,40
+Movia, forventet mindreforbrug v. trafikbestilling 2027                                       -1,40    -1,40     -1,40    -1,40
+Korrektion, driftsudgifter fejlagtigt kodet som service                                        -1,04   -1,13     -1,21    -1,25
+Opdateret besparelseskrav                                                                     36,58    42,84    47,79    52,75
+
+
+2. Indfrielse af besparelseskrav (mio. kr.)                                                    2027     2028     2029     2030
+Forslag fra besparelseskatalog mm., i alt, jf. bilag 3                                        -36,59   -39,79   -49,85   -53,46
+
+Indfrielse af besparelseskrav                                                                 -36,59   -39,79   -49,85   -53,46
+
+1+2 Status besparelseskrav (+ = udestående, - = finansiering til nye initiativer)               0,00    3,05     -2,06    -0,71
+
+
+
+
+Nye initiativer indenfor servicerammen                                                         2027     2028     2029     2030
+
+Udmøntning af ældrepuljemidler
+Demenspakke                                                                                     1,50    2,00     2,00     2,00
+Elever på social- og sundhed                                                                    1,00    1,00     1,00     1,00
+Nedbringelse af gæld på plejehjem                                                               1,00
+
+Udmøntning af pulje til folkeskolens kvalitetsprogram
+Justering af tildelingsmodel på skoleområdet                                                    0,70    1,90     2,60     2,60
+Pulje til iværksætterklasser                                                                    0,50    0,50     0,50
+
+
+Indsats mod højt elevfravær i folkeskolen                                                       1,66    1,66
+Undersøgelse af social kontrol                                                                  0,30
+Frivilligcentret                                                                                0,50    0,50
+Ekstra lokallønpulje til erfarne pædagoger og pædagogmedhjælpere                                        0,75     1,00     1,00
+Rekruttering og kampagne, flere pædagoger                                                       0,25    0,25
+Partnerskab, Social Myndighed og Rådgivning                                                     0,75    0,75
+Nedbringelse af sagsstamme, social myndighed                                                    1,25    1,50     3,10     3,10
+Ekstra juridisk bistand til social myndighed                                                    0,85    0,85     0,85     0,85
+Broen                                                                                           0,15    0,15
+Øget SSP gadeplansindsats                                                                       0,25    0,50     0,50     0,50
+Billedskolen                                                                                    0,20    0,20     0,20     0,20
+Huskunstnerordning                                                                              0,10    0,10     0,10
+10 pct.point højere økologiprocent                                                                               0,60     1,00
+Venskabsbysamarbejde, Ukraine                                                                   0,30    0,30     0,30
+Byudvikling, Holte                                                                                      0,30     0,45
+Samling af museets magasin, tab af lejeindtægt                                                                            1,00
+IT-sikkerhed                                                                                    1,10    2,87     2,87     2,87
+NEST-grupper                                                                                    0,14
+
+
+I alt nye initiativer                                                                         12,50    16,08    16,07    16,12
+
+
+Øvrig finansiering                                                                             2027      2028    2029     2030
+Servicebuffer nedskrives                                                                       -6,00    -6,00    -6,00    -6,00
+Ældrepulje nedskrives                                                                          -5,10    -5,10    -5,10    -5,10
+Pulje til folkeskolens kvalitetsprogram nedskrives                                             -1,36    -2,43    -2,43    -2,43
+Sjælsø Plejecenter, gradvis åbning af nye pladser                                                       -5,00
+Øvrig finansiering i alt                                                                      -12,46   -18,53   -13,53   -13,53
+
+
+Balance i alt/Luft serviceramme (neg.=luft)                                                     0,04    0,59     0,48     1,88
+
+Note: Der kan som følge af afrunding være afvigelser mellem summen af de anførte beløb og "i alt".
+

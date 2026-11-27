@@ -1,0 +1,43 @@
+# kilde: filer/Fredericia/regneark_1_1. Budgetforslag 2027-2030 - til 2. behandling.pdf | metode: pdftotext
+
+Budgetforslag 2027-2030
+Til 2. behandling
+
+
+
+Resultatopgørelse - mio. kr. - løbende priser                    2027             2028              2029                2030
+Skatter og generelle tilskud                                 -4.551,1         -4.566,9          -4.655,1            -4.800,7
+Serviceudgifter                                               3.185,7          3.134,1           3.089,9             3.084,0
+Øvrige driftsudgifter                                         1.142,9          1.142,8           1.141,5             1.172,0
+Renter                                                           -17,1            -16,9             -14,8               -14,0
+Pris- og lønregulering                                             0,0             98,6            215,7               339,4
+Resultat af ordinær drift                                      -239,7           -208,3            -222,8              -219,3
+Anlæg                                                           162,2            161,3             136,6               124,2
+Pris- og lønregulering                                             0,0               2,2               3,7                4,1
+Resultat af det skattefinansierede område                       -77,5            -44,9             -82,5               -91,0
+Låneoptagelse                                                    -31,5              -2,0              -2,0                0,0
+Afdrag på lån                                                   128,4            103,4               99,1                99,1
+Brugerfinansieret område                                          -0,7              -0,6              -0,6               -0,6
+Øvrige finansforskydninger                                       -55,7               1,8               1,8                1,8
+Resultat i alt                                                  -37,0              57,7              15,8                 9,2
+                                                               (+) = udgift/underskud (-) = indtægt/overskud; beløb i mio. kr.
+
+
+
+Mio. kr.                                                         2027              2028              2029                2030
+Likvide aktiver gennemsnit                                      312,0             303,0             267,0               254,0
+                                                                                   (+) = aktiver (-) = passiver; beløb i mio. kr.
+
+
+
+Rammer - mio. kr.                                                2027             2028               2029                2030
+Vejledende serviceramme fra KL                                3.249,4
+Teknisk serviceramme*                                         3.184,1
+Serviceudgifter i budgetforslag til 2. behandling             3.185,7          3.134,1           3.089,9             3.084,0
+
+Vejledende bruttoanlægsramme fra KL                             213,9
+Bruttoanlæg i budgetforslag til 2. behandling                   213,3             213,9             191,5               183,3
+
+*Oprindelig serviceramme 2026 korrigeret for løft i rammen, jf. ØKA27, PL, Lov og Cirkulære,
+Sundhedsreformen, 0,5% reduktion af servicerammen samt forventet besparelse 2027 mv.
+

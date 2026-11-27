@@ -1,0 +1,137 @@
+# kilde: filer/Halsnæs/regneark_1_hovedoversigt-budget-2027-2030.pdf | metode: pdftotext
+
+                                                         Hovedoversigt - Budget 2027-2030
+                                                                        Forventet
+Alle beløb i 1.000 kr.                                                                    Budgetforslag
+                                                                        regnskab                        Overslag 2028 Overslag 2029 Overslag 2030
+Negative beløb = indtægt                                                                      2027
+                                                                        31.7.2026
+Indtægter i alt                                                           -2.868.404          -2.774.387    -2.810.267    -2.857.817      -2.934.285
+- Heraf skatter                                                           -2.113.958          -2.270.625    -2.295.195    -2.324.251      -2.393.011
+- Heraf særtilskud                                                           -20.000            -25.000       -25.000        -25.000            -25.000
+- Heraf tilskud og udligning                                                -734.446           -478.761      -490.072       -513.566           -521.274
+Prioriterede ændringer vedr. skatteændringer                                                          0             0              0                  0
+Prioriterede ændringer vedr. tilskud og udligning                                                     0             0          5.000              5.000
+
+Drift inkl. refusion (for B27-30 i 27-priser)                              2.830.079          2.668.050     2.665.392      2.679.208       2.697.434
+Servicebufferpulje (for B27-30 i 27-priser)                                                      19.420        20.436        20.423             20.441
+Afsat bufferpulje vedr. servicedrift - konsekvens af prioritering                                -2.974            53             45              37
+Prioriterede driftsændringer inkl. afledt drift på prioriterede anlæg         -6.300              2.557         5.272          4.521           3.722
+Drift inkl. refusion og servicepulje (for B27-30 i 27-priser)              2.823.779          2.687.052     2.691.153      2.704.196       2.721.634
+Pris- og lønfremskrivning af drift inkl. refusion og servicepulje                                     0        61.865        137.708         216.784
+Beregnet PL-virkning af prioriterede ændringer                                                        0           119            237             311
+Drift inkl. refusion, servicepulje og pris- og lønfremskrivning            2.823.779          2.687.052     2.753.138      2.842.141       2.938.729
+
+Renter                                                                              872           1.494          -683          -621              -1.594
+Prioriterede ændringer vedr. renter                                                                   0           269           258                 246
+Renter i alt                                                                        872           1.494          -414          -363              -1.348
+
+Resultat af ordinær drift                                                    -43.753            -85.840       -57.543        -16.039             3.096
+
+Anlægsudgifter indenfor anlægsrammen                                         115.589            114.836       181.320         86.263             58.433
+Prioriterede ændringer                                                         6.175             -5.256         3.667         -1.146            -37.881
+Anlægsindtægter                                                              -39.390            -45.914       -44.427       -101.872            -13.237
+Prioriterede ændringer                                                                           -3.500        -6.000         25.857                  0
+Anlæg i alt (uden ældreboliger)                                               82.374             60.166       134.559          9.102              7.315
+Anlægsudgifter vedr. ældreboliger                                                     0          22.560        34.656        26.687                567
+Prioriterede ændringer                                                                                0             0             0                  0
+Anlæg i alt                                                                   82.374             82.726       169.215        35.789              7.882
+
+Resultat i alt                                                                38.621              -3.113      111.672        19.750             10.978
+
+Optagelse af lån                                                             -27.441            -29.652       -73.352        -44.313             -6.491
+Prioriteret optagelse af lån                                                 -13.168            -14.000             0             0              3.861
+Optagelse af lån i alt                                                       -40.609            -43.652       -73.352        -44.313             -2.630
+- Heraf skattefinansierede lån                                               -40.609            -21.092       -42.996        -22.459             -2.630
+- Heraf ældreboliglån                                                                0          -22.560       -30.356        -21.854                 0
+
+Afdrag på lån                                                                 83.635             69.880       173.826        72.499             62.973
+Prioriteret afdrag på lån                                                                             0           560           560                560
+Afdrag på lån i alt                                                           83.635             69.880       174.386        73.059             63.533
+
+Balanceforskydninger                                                         -14.509            -16.997      -116.846          -100                  0
+Prioriteret balanceforskydninger                                                                      0             0             0                  0
+Balanceforskydninger i alt                                                   -14.509            -16.997      -116.846          -100                  0
+Modpost servicebufferpulje                                                            0         -16.420       -20.436        -20.423            -20.441
+Prioriteret modpost servicebufferpulje                                                            2.974           -53            -45                -37
+Modpost servicebufferpulje i alt                                                      0         -13.445       -20.489        -20.468            -20.478
+
+Finansiering i alt                                                            28.517             -4.214       -36.301         8.178             40.425
+
+Ændring af kassebeholdning
++ = Forbrug af likviditet                                                     67.138              -7.327       75.371        27.928             51.404
+- = Tilgang af likviditet
+
+Beregnet ultimolikviditet
+                                                                              10.813             18.140       -57.231        -85.159           -136.562
+Negative beløb = likviditet under nul
+
+Laveste forventede gennemsnitslikviditet                                     224.061            179.292       138.051       100.310             80.483
+
+
+
+                                                                                                                                  Side 1 / 2
+Nøgletal
+
+Strukturel balance (i mio. kr., årets priser):
+Strukturel balance (- = ubalance)
+(beregnet med anlægsudgifter svarende til KL's anlægsramme, ingen lånoptagelse og                    -76,1    -105,7    -148,1            -157,7
+ingen anlægsindtægter)
+
+
+Servicerammen (i mio. kr., 2027-priser):
+
+Servicedriftsudgifter i budgetforslag ex. servicebufferpulje                                       2.079,5   2.073,6   2.074,4           2.078,6
+
+KL's servicedriftsramme                                                                            2.096,9   2.096,9   2.096,9           2.096,9
+
+Resultat af budgetforslag uden servicebufferpulje (- = overskridelse)                                17,4      23,3      22,5              18,3
+
+servicebufferpulje til servicedriftsrammen                                                           16,4      20,7      20,7              20,8
+
+Serviceudgifter i budgetforslag inkl. servicebufferpulje                                           2.095,9   2.094,4   2.095,2           2.099,4
+
+Afvigelse i forhold til servicedriftsrammen inkl. servicebufferpulje (- = overskridelse)               1,0       2,5       1,7              -2,5
+
+
+Anlægsrammen (i mio. kr., i årets priser):
+
+KL's anlægsramme                                                                                   111,5     111,5     111,5             111,5
+
+Anlægsudgifter indenfor anlægsrammen i budgetforslag                                                109,6     185,0      85,1              20,6
+
+Overholdelse af anlægsramme (- = overskridelse)                                                        1,9     -73,5     26,4              91,0
+
+Beregnet anlægsramme efter befolkningstal                                                           115,6     115,6     115,6             115,6
+
+Overholdelse af befolkningsfordelt anlægsramme (- = overskridelse)                                     6,1     -69,3     30,5              95,1
+
+
+Driftsprojekter med anlægslignende karakter i teknisk budget (i mio. kr., 2027-priser):
+
+Driftsprojekter med anlægslignende karakter                                                 32,7     24,0      22,7      22,7              22,7
+
+
+Langfristet gæld ultimo året (i mio. kr., årets priser):
+
+Gæld i kommunkredit (ex. indefrosne ejendomsskatter) og leasinggæld                        463,7    436,8     410,4     387,1             381,0
+
+Gæld vedr. indefrosne feriepenge                                                            97,3     95,4      93,3      92,0              92,9
+
+Gæld vedrørende ældre- og plejeboliger                                                     106,1    116,7     134,2     143,0             145,6
+
+Langfristet gæld i alt                                                                     667,2    648,9     637,9     622,1             619,5
+Skattefinansieret gæld pr. indbygger i kr.
+- Gæld i kommunkredit (ex. indefrosne ejendomsskatter)
+                                                                                       17.678      16.724    15.817    15.000            14.821
+  og leasinggæld
+- Gæld vedr. indefrosne feriepenge
+Skattefinansieret gæld pr. indbygger i kr.
+- Gæld i kommunkredit (ex. indefrosne ejendomsskatter)                                 14.611      13.725    12.887    12.121            11.915
+  og leasinggæld
+
+
+
+
+                                                                                                                            Side 2 / 2
+

@@ -1,0 +1,159 @@
+# kilde: filer/Aarhus/regneark_3_oekonomioversigt-budget-2027-endelig-efter-2-tm.pdf | metode: pdftotext
+
+                                                                         Service                                                                             Årligt
+                                                                                   2026       2027         2028            2029             2030
+                                                                         / anlæg                                                                           gns. 27-30
+Sektor        Beskrivelse                                                                                   ----- 1.000 kr., 2027 - priser -----
+
+Budgetmodeller i alt (vækst ift. 2026)                                                         188.005      384.417         598.868          829.945          500.309
+          - Børn og Unge                                                                        33.930       91.283         164.348          246.662          134.056
+          - Ældreområdet                                                                       126.537      238.082         350.191          467.640          295.613
+          - Socialområdet                                                                       24.617       49.353          75.853          104.390           63.553
+          - Vejområdet                                                                           2.163        4.171           6.177            8.184            5.174
+          - Grøn model                                                                             758        1.528           2.299            3.069            1.914
+
+              Folkeskole og Dagtilbud
+     5.51     To fagprocessionelle i indskolingen                          S                    33.000       58.000          58.000            58.000          51.750
+     5.51     Reduktion af bidrag til socialprocent                        S                                                  5.000             5.000           2.500
+  0.31/4.71   - Finansiering af øget ambitionsniveau vedr. 17.4            S                                                 -5.000            -5.000          -2.500
+     5.51     Minimumsnormeringer og lavere forældrebetaling               S                    16.000       16.000          16.000            16.000          16.000
+     5.51     Kaløvigskolen - lærere og skoleledelse                       S                     2.500        5.000           5.000             5.000           4.375
+     5.53     Kaløvigskolen - pædagogisk indretning                        A                     1.000                                                            250
+     5.51     OS2-skole                                                    S                     2.700        2.700           1.700                3.500        2.650
+     0.20     Ansættelse af pædagogiske assistenter                        S                     3.000        3.000           3.000                             2.250
+     2.53     Fysiske rammer i dagtilbud, skoler og fritidstilbud          A                                 40.000          35.000            30.000          26.250
+     5.51     Videreførelse af hesteaktiviteterne på Holme Vestergaard     S                         200        200                                               100
+
+              Ældre og Sundhed
+     3.31     Ældre og demens                                              S                    11.000       13.000          13.000            13.000          12.500
+     3.31     Reduktion af bidrag til socialprocent                        S                                                  5.000             5.000           2.500
+  0.31/4.71   - Finansiering af øget ambitionsniveau vedr. 17.4            S                                                 -5.000            -5.000          -2.500
+     3.31     Styrket indsats for borgere med udadreagerende adfærd        S                     2.500        2.500           2.500             2.500           2.500
+     0.20     - Finansiering fra reserve: Udadreagerende borgere           S                                -10.300                                            -2.575
+     0.20     Pladser til borgere med udadreagerende adfærd                A                                 12.300                                             3.075
+  3.31/5.51   Hjernerystelse                                               S                                    750              750                 750          563
+     3.31     Rekruttering af medarbejdere (SOSU m.v.)                     S                     3.500        3.500            3.500               3.500        3.500
+     3.31     Flere fritidsjobbere                                         S                     1.000        1.000            1.000               1.000        1.000
+     3.31     Samling af fondsmidler                                       S        -28.800                                                                    -7.200
+     0.31     Drift af sammenlægning af fonde                              S                       200       20.200              200                 200        5.200
+     3.31     Ulighed i sundhed (mangfoldighed)                            S                     2.000        2.000            2.000               2.000        2.000
+     3.31     Krop og kærlighedsfestival                                   S                       250          250              250                 250          250
+     3.31      - Finansiering fra Sundhedsfond                             S         -1.000                                                                      -250
+     3.31     Ældremad                                                     S                         200                                                           50
+
+              Social og Beskæftigelse
+    1.21      Løft af socialområdet - socialprocent                        S                   107.000      107.000         107.000          107.000          107.000
+    1.21      Socialområde - yderligere løft                               S                    10.000       12.000          12.000           12.000           11.500
+    1.22      Tabt arbejdsfortjeneste                                      O                    15.500       15.500          15.500           15.500           15.500
+    0.20      - Finansiering fra reserve: Tabt arbejdsfortjeneste          O                   -15.500      -15.500         -15.500          -15.500          -15.500
+    0.20      Boliger på det sociale område                                A                    10.000       20.000          18.900                            12.225
+    1.21      Ungestøtte (efterværn for anbragte børn)                     S                     1.500        1.500           1.500                1.500        1.500
+    0.20      Toilet med loftslift til borgere med handicap                A                                    900                                               225
+    2.02      - Finansiering fra tilgængelighedspuljen                     A                                   -400                                              -100
+    2.51      Drift af toilet med loftslift til borgere med handicap       S                       200          200              200              200             200
+    1.20      Investeringsmodeller på beskæftigelse                        S                    10.000       10.000           10.000           10.000          10.000
+    1.50      - Finansiering af sparede forsørgelsesydelser                O                    -5.200      -11.600          -11.600          -11.600         -10.000
+    0.20      FGU                                                          A                                 10.000                                             2.500
+    0.20      Sociolancen                                                  S                     1.300        1.300            1.300                              975
+    1.21      De splittergale                                              S                       450          450              450                 450          450
+    1.21      Videreførelse af Spor 7                                      S                     2.500        2.500            2.500               2.500        2.500
+    1.21      Intervenering i Nåleparken                                   S                       250          250              250                              188
+
+              Idræt og kultur
+     4.72     Renovering af Gellerupbadet                                  A                                                  63.000                            15.750
+     0.20     Reserve til renovering af Gellerupbadet                      A                                                  20.000                             5.000
+     4.72      - Familiebadet                                              A                                                 -83.000                           -20.750
+     4.72     Idrætsfaciliteter                                            A                                  5.000            5.000               5.000         3.750
+  2.01 / 4.71 Idrætsfaciliteter - rejsehold og planområde                  S                     1.000        1.000            1.000               1.000         1.000
+     0.20     Idrætsfaciliteter - drift                                    S                                                                       7.500         1.875
+     0.20     Eskelunden                                                   A                                  1.000                                                250
+     4.72     Styrket vidensgrundlag om diskrimination og racisme          S                       250                                                              63
+     0.31     Et mangfoldigt og inkluderende Aarhus                        S                       500                                                             125
+     4.72     Kongelunden                                                  A                    28.000                                                           7.000
+     0.20     Brobjergskolen                                               A                                                                   20.000            5.000
+     4.71     Train                                                        S          2.500        350          350              350              350              975
+     4.72     Kulturel Modstandskraft og kulturløft i hele kommunen        S                     2.000        1.750            1.000            1.000            1.438
+1.21/4.71/5.51Socialt snyd                                                 S                     3.700        3.700            3.700            3.700            3.700
+     1.50     - Finansiering af sparede forsørgelsesydelser                O                    -3.700       -3.700           -3.700           -3.700           -3.700
+     4.71     Borger og virksomhedsservice - temposkift                    S                     1.000        1.000                                                500
+     4.71     - Finansiering inden for MKB's ramme                         S                    -1.000       -1.000                                               -500
+               Mobilitet og kollektiv trafik
+      2.13     Billigere bus- og letbanebilletter                              S              35.000     35.000     35.000     35.000     35.000
+      2.13     Kollektiv trafik - ny køreplan                                  S              10.000     10.000     10.000     10.000     10.000
+      2.13     Permanentgørelse af høj frekvens på A-bus-linjer 3A, 4A og 6A   S                                     8.000      8.000      4.000
+      0.20     Fremkommelighed på tværs af transportformer                     A                         30.000     30.000     40.000     25.000
+      0.20     Fremkommelighedsprojekter på det kommunale vejnet               A                         12.000     13.000                 6.250
+      0.20     Cykelsti på Hørgårdsvej                                         A                                     7.000                 1.750
+      0.20     Busvendeplads i Kongelunden                                     A                         20.000                            5.000
+      0.20     Cykelparkering                                                  A                         10.000                            2.500
+      2.01     Parkeringspolitik                                               S                 400                                         100
+      0.20     P-hus og Kongelundsmobilitet                                    A                                    10.000                 2.500
+      0.20     Moesgaard Allé                                                  A                         10.000                            2.500
+      2.01     Opstart af Samarbejdet om Østjysk Mobilitet                     S                 500        500                              250
+      0.20     Gade- og byrum over Marselistunnellen                           A                                               75.000     18.750
+      2.02     Promenaden                                                      A                 500                                         125
+      2.02     Støjbekæmpelse                                                  A                                     5.000                 1.250
+      0.34     Borgerbudgettering i oplandet                                   A               2.000      2.000      2.000      2.000      2.000
+
+               Natur og Miljø
+      0.20     Jordfonden                                                      A                                    22.500                  5.625
+      0.20     Udtagning af lavbundsjorde                                      A                         13.000                             3.250
+      2.01     Interessevaretagelse for CCS                                    S                 500        500        500        500         500
+      0.20     - Finansiering fra klimapulje                                   S   -15.000                                                 -3.750
+      2.01     Forpagtning af kommunal landbrugsjord                           S                 100        100        100        100         100
+
+               Erhverv og Iværksætteri
+      0.20     Erhvervsanlægspulje                                             A                           7.500                            1.875
+      0.31     International arbejdskraft                                      S                1.000      1.000                              500
+      0.31     - Finansiering Erhvervspakken                                   S               -1.000     -1.000                             -500
+      0.31     Stærkere rammer for vækst og erhvervsudvikling                  S                2.200      2.200     2.200      2.200       2.200
+      0.31     Security Tech Space                                             S                1.000      1.000                              500
+      0.31     - Finansiering Erhvervspuljen                                   S               -1.000     -1.000                             -500
+      0.31     Fremtidens vandløsninger                                        S                1.000      1.000      1.000      1.000      1.000
+      0.31     - Finansiering inden for BA's ramme                             S               -4.200     -4.200     -3.200     -3.200     -3.700
+      0.31     En indgang for restauratører                                    S                  250        250                              125
+      2.01     Reduktion i tilsyn for udeservering                             S                1.000      1.000                              500
+      0.31     - Finansiering fra BA opsparing                                 S    -2.000                                                   -500
+      0.20     Vandets Hus                                                     A                                               10.000       2.500
+
+               Tryghed og Beredskab
+      2.01     Tryghedspakke - natteravne mm.                                  S                 500        500        500        500        500
+      0.20     Tryghedspakke - belysning                                       A               2.000      2.000      2.000      2.000      2.000
+      2.01     Tryghedsvagte og Østervang                                      S               1.500      1.500      1.500                 1.125
+      2.61     Østjyllands Brandvæsen                                          S                          2.000      4.000      4.000      2.500
+
+               Ejendomme, Byggeri og Boliger
+     2.51      Rammeløft til Aarhus Ejendomme                                  S              30.000     27.500     27.500     25.000     27.500
+     2.53      Afvikling af gæld i Aarhus Ejendomme - Aarhus Ejendomme         A   50.000                                                 12.500
+     0.20      Taskforce-projekter - tryghed om udfordrede byggerier           A              40.000     40.000     20.000                25.000
+     0.20      Nye enhedspriser                                                A                         30.000     30.000     30.000     22.500
+
+               Organisation og Digitalisering
+      0.31     IT-serviceorganisation                                          A               2.000      2.000      2.000                  1.500
+      0.31     - Finansiering via opsparing i BA                               S    -6.000                                                 -1.500
+      0.31     Digital handlefrihed, open source og kunstig intelligens        S               3.500      4.000      4.000      4.000       3.875
+      0.31     - Finansiering via opsparing i BA                               S    -6.000                                                 -1.500
+      0.31     Byrådsvederlag                                                  S     1.000       500        500        500        500         750
+      0.31     Samarbejdsby Grønland                                           S                 250        250        250        250         250
+
+
+
+ Udvidelser i alt (ekskl. budgetmodeller)                                           -5.300   378.650    594.400    527.100    539.450     508.575
+
+Finansiering: Drift
+
+               Fra budgetforslaget:
+               Råderum                                                         S             -197.000   -197.000   -197.000   -197.000   -197.000
+               Finansiering af socialbidrag                                    S             -107.000   -107.000   -107.000   -107.000   -107.000
+
+ Udvidelser (ekskl. budgetmodeller) og finansiering i alt - drift                  -55.300    -10.850    23.100     20.700     21.450       -225
+
+Finansiering: Anlæg
+               Opsparing fra dækningsafgift                                    A                        -219.000   -219.000   -219.000   -164.250
+               Anlægsbuffer                                                    A                                    -50.000    -60.000    -27.500
+               Rest fra anlægsaftale                                           A                                     -2.000    -50.000    -13.000
+                                                                                                                                                0
+               Yderligere finansiering:                                                                                                         0
+
+ Udvidelser (ekskl. budgetmodeller) og finansiering i alt - anlæg                  50.000     85.500     48.300     -68.600   -115.000         50
+

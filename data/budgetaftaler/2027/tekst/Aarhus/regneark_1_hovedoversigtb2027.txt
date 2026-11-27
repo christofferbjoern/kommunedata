@@ -1,0 +1,193 @@
+# kilde: filer/Aarhus/regneark_1_hovedoversigtb2027.pdf | metode: pdftotext
+
+                                                                   HOVEDOVERSIGT
+                                                                 BUDGET 2027-2030
+
+
+
+
+Hovedoversigt til budget, der er flerårig, har til formål på den ene side at give politikerne et
+summarisk overblik over den aktivitetsmæssige og finansielle udvikling i de kommende år
+samt medvirke ti løsningen af oplysningsopgaven over for borgerne, og på den anden side at
+give staten mulighed for umiddelbart efter budgetvedtagelsen at få et summarisk overblik over
+de kommunale budgetter.
+
+
+Hovedoversigten indeholder bruttoudgifter- og indtægter, og den er opstillet i følgende orden:
+
+
+A. Driftsvirksomhed
+B. Anlægsvirksomhed
+C. Renter
+D. Finansforskydninger
+E. Afdrag på lån
+F. Finansiering
+
+
+Summen af posterne A-E finansieres under ét af post F.
+
+
+Hovedoversigten er under driftsvirksomhed og anlægsvirksomhed opdelt magistratsafdelinger.
+
+
+Hovedoversigten er opstillet i følgende priser:
+
+
+1. Hovedkontiene 0-6 er angivet i 2027-priser (faste priser)
+2. Umiddelbart efter hovedkontiene 0-6 er der for hvert af budgetoverslagsårene under en
+  særlig post anført skønnede pris- og lønstigninger for disse konti
+3. Hovedkontiene 7 og 8 er angivet i løbende priser (de enkelte års prisniveau)
+Budget 2027                                                                                     Hovedoversigt (brutto)
+Konto/tekst                                         Regnskab 2025                  Budget 2026              Budgetforslag 2027
+                                                  Udgift      Indtægt           Udgift      Indtægt         Udgift      Indtægt
+                                                     1.000 kroner                  1.000 kroner                1.000 kroner
+
+A. DRIFTSVIRKSOMHED (INKL. REFUSION)
+
+       SOCIALE FORHOLD OG BESKÆFTIGELSE           13.951.484      -2.751.061    13.414.068    -1.969.055    13.409.838    -2.016.942
+       TEKNIK OG MILJØ                             3.363.704      -1.609.494     2.637.448      -851.883     2.545.765      -854.592
+       SUNDHED OG OMSORG                           5.803.449        -388.650     5.610.915      -213.340     4.315.639      -211.462
+       KULTUR OG BORGERSERVICE                     1.762.475        -419.606     1.706.888      -359.516     1.669.045      -355.922
+       BØRN OG UNGE                                7.549.967      -1.384.673     7.598.617    -1.275.151     7.818.048    -1.220.331
+       BORGMESTERENS AFDELING                      1.265.172         -94.908     1.322.573       -20.587     1.335.838       -19.844
+A. DRIFTSVIRKSOMHED I ALT                        33.696.252      -6.648.392    32.290.509    -4.689.532    31.094.173    -4.679.093
+      HERAF REFUSION                                              -1.908.836                  -1.902.585                  -1.965.244
+
+B. ANLÆGSVIRKSOMHED
+
+       SOCIALE FORHOLD OG BESKÆFTIGELSE                6.196               0        63.883      -16.817         26.971      -35.493
+       TEKNIK OG MILJØ                             1.149.109        -894.532       844.692     -370.025      1.099.993     -502.081
+       SUNDHED OG OMSORG                               1.600               0        10.815            0          8.466            0
+       KULTUR OG BORGERSERVICE                       674.425        -316.205       543.037     -115.776        331.376            0
+       BØRN OG UNGE                                        0               0         1.088            0          2.805            0
+       BORGMESTERENS AFDELING                          2.519               0       184.280     -224.956         21.144     -413.217
+B. ANLÆGSVIRKSOMHED I ALT                         1.833.849      -1.210.737     1.647.795     -727.574      1.490.756     -950.790
+
+
+PRIS- OG LØNSTIGNINGER VEDRØRENDE
+HOVEDKONTO 0-6 (BO-ÅRENE)                          -2.095.486        445.609      -878.059       136.153            0             0
+
+C. RENTER                                             77.577        -221.896        75.524     -122.548         76.886     -128.662
+
+D. BALANCEFORSKYDNINGER
+
+8.22 Forøgelse af likvide aktiver                    604.109               0            0             0              0            0
+8.32Forskydninger i tilgodehavender hos staten       225.759          51.149        1.246       314.127         -2.390      336.096
+D. BALANCEFORSKYDNINGER I ALT                       829.868          51.149         1.246      314.127         -2.390      336.096
+
+E. AFDRAG PÅ LÅN OG LEASINGFORPLIGTIGELSER           406.734               0      408.038              0      379.664             0
+
+A + B +C + D + E                                 34.748.794      -7.584.267    33.545.053    -5.089.374    33.039.089    -5.422.450
+
+F. FINANSIERING
+
+8.22 Forbrug af likvide aktiver                            0               0             0    -759.815               0    -198.926
+8.60 Optagne lån                                           0         -64.902             0      54.921               0        -105
+7.62 Tilskud og udligning                          2.484.816      -5.701.897     1.709.125  -5.867.820       1.291.198  -4.375.493
+7.65 Refusion af købsmoms                             15.632               0        10.000           0          10.000           0
+7.68 Skatter                                             287     -23.898.463             0 -23.602.090               0 -24.343.313
+F. FINANSIERING I ALT                             2.500.734     -29.665.261     1.719.125 -30.174.804       1.301.198 -28.917.837
+BALANCE                                          37.249.528     -37.249.529    35.264.178 -35.264.178      34.340.287 -34.340.287
+Budget 2027                                                                                      Hovedoversigt (brutto)
+Konto/tekst                                          Budgetforslag 2028          Budgetforslag 2029          Budgetforslag 2030
+                                                     Udgift       Indtægt        Udgift      Indtægt         Udgift      Indtægt
+                                                        1.000 kroner                1.000 kroner                1.000 kroner
+
+A. DRIFTSVIRKSOMHED (INKL. REFUSION)
+
+       SOCIALE FORHOLD OG BESKÆFTIGELSE              13.488.233    -2.032.165    13.580.270    -2.024.901    13.930.488    -2.028.466
+       TEKNIK OG MILJØ                                2.446.013      -862.362     2.442.874      -861.576     2.584.143      -991.507
+       SUNDHED OG OMSORG                              4.421.001      -211.462     4.473.571      -211.462     4.586.428      -211.462
+       KULTUR OG BORGERSERVICE                        1.665.096      -355.922     1.656.335      -355.922     1.646.962      -351.238
+       BØRN OG UNGE                                   7.933.422    -1.230.562     7.997.611    -1.240.321     8.027.194    -1.250.059
+       BORGMESTERENS AFDELING                         1.353.615       -19.844     1.122.611       -19.844     1.017.327       -19.844
+A. DRIFTSVIRKSOMHED I ALT                           31.307.380    -4.712.318    31.273.273    -4.714.026    31.792.544    -4.852.577
+      HERAF REFUSION                                               -1.980.467                  -1.973.201                  -1.976.767
+
+B. ANLÆGSVIRKSOMHED
+
+       SOCIALE FORHOLD OG BESKÆFTIGELSE                  80.689       -16.817        15.000            0              0            0
+       TEKNIK OG MILJØ                                  889.427      -541.130       936.754     -331.971      1.459.664     -214.276
+       SUNDHED OG OMSORG                                  5.465             0         5.641            0              0            0
+       KULTUR OG BORGERSERVICE                          212.412             0       204.821            0         37.495            0
+       BØRN OG UNGE                                           0             0             0            0              0            0
+       BORGMESTERENS AFDELING                           667.634      -863.186     1.181.118     -311.692       -257.658      -53.268
+B. ANLÆGSVIRKSOMHED I ALT                        1.855.627,136    -1.421.133     2.343.334     -643.663      1.239.501     -267.545
+
+
+PRIS- OG LØNSTIGNINGER VEDRØRENDE
+HOVEDKONTO 0-6 (BO-ÅRENE)                              847.393      -148.101     1.796.643      -281.370     2.746.997      -423.589
+
+C. RENTER                                                72.142      -79.665         66.951      -57.767         63.136      -40.199
+
+D. BALANCEFORSKYDNINGER
+
+8.22 Forøgelse af likvide aktiver                        38.906            0              0            0              0            0
+8.32Forskydninger i tilgodehavender hos staten           -2.063      239.336         -2.063        8.642         -2.063      170.645
+D. BALANCEFORSKYDNINGER I ALT                           36.843      239.336         -2.063         8.642        -2.063      170.645
+
+E. AFDRAG PÅ LÅN OG LEASINGFORPLIGTIGELSER             394.294              0      384.752             0       387.178             0
+
+A + B +C + D + E                                    34.513.679    -6.121.881    35.862.890    -5.688.183    36.227.293    -5.413.264
+
+F. FINANSIERING
+
+8.22 Forbrug af likvide aktiver                               0           0               0    -864.091               0    -147.941
+8.60 Optagne lån                                              0        -105               0        -105               0        -105
+7.62 Tilskud og udligning                             2.178.308  -4.600.706       2.232.158  -4.377.030       2.413.656  -4.317.646
+7.65 Refusion af købsmoms                                10.000           0          10.000           0          10.000           0
+7.68 Skatter                                                  0 -25.979.295               0 -27.175.638               0 -28.771.994
+F. FINANSIERING I ALT                                2.188.308 -30.580.106       2.242.158 -32.416.864       2.423.656 -33.237.686
+BALANCE                                             36.701.987 -36.701.987      38.105.047 -38.105.047      38.650.949 -38.650.950
+Budget 2027                                                                                      Hovedoversigt (brutto)
+Konto/tekst                                          Budgetforslag 2028          Budgetforslag 2029          Budgetforslag 2030
+                                                     Udgift       Indtægt        Udgift      Indtægt         Udgift      Indtægt
+                                                        1.000 kroner                1.000 kroner                1.000 kroner
+
+A. DRIFTSVIRKSOMHED (INKL. REFUSION)
+
+       SOCIALE FORHOLD OG BESKÆFTIGELSE              13.488.233    -2.032.165    13.580.270    -2.024.901    13.930.488    -2.028.466
+       TEKNIK OG MILJØ                                2.446.013      -862.362     2.442.874      -861.576     2.584.143      -991.507
+       SUNDHED OG OMSORG                              4.421.001      -211.462     4.473.571      -211.462     4.586.428      -211.462
+       KULTUR OG BORGERSERVICE                        1.665.096      -355.922     1.656.335      -355.922     1.646.962      -351.238
+       BØRN OG UNGE                                   7.933.422    -1.230.562     7.997.611    -1.240.321     8.027.194    -1.250.059
+       BORGMESTERENS AFDELING                         1.353.615       -19.844     1.122.611       -19.844     1.017.327       -19.844
+A. DRIFTSVIRKSOMHED I ALT                           31.307.380    -4.712.318    31.273.273    -4.714.026    31.792.544    -4.852.577
+      HERAF REFUSION                                               -1.980.467                  -1.973.201                  -1.976.767
+
+B. ANLÆGSVIRKSOMHED
+
+       SOCIALE FORHOLD OG BESKÆFTIGELSE                  80.689       -16.817        15.000            0              0            0
+       TEKNIK OG MILJØ                                  889.427      -541.130       936.754     -331.971      1.459.664     -214.276
+       SUNDHED OG OMSORG                                  5.465             0         5.641            0              0            0
+       KULTUR OG BORGERSERVICE                          212.412             0       204.821            0         37.495            0
+       BØRN OG UNGE                                           0             0             0            0              0            0
+       BORGMESTERENS AFDELING                           667.634      -863.186     1.181.118     -311.692       -257.658      -53.268
+B. ANLÆGSVIRKSOMHED I ALT                        1.855.627,136    -1.421.133     2.343.334     -643.663      1.239.501     -267.545
+
+
+PRIS- OG LØNSTIGNINGER VEDRØRENDE
+HOVEDKONTO 0-6 (BO-ÅRENE)                              847.393      -148.101     1.796.643      -281.370     2.746.997      -423.589
+
+C. RENTER                                                72.142      -79.665         66.951      -57.767         63.136      -40.199
+
+D. BALANCEFORSKYDNINGER
+
+8.22 Forøgelse af likvide aktiver                        38.906            0              0            0              0            0
+8.32Forskydninger i tilgodehavender hos staten           -2.063      239.336         -2.063        8.642         -2.063      170.645
+D. BALANCEFORSKYDNINGER I ALT                           36.843      239.336         -2.063         8.642        -2.063      170.645
+
+E. AFDRAG PÅ LÅN OG LEASINGFORPLIGTIGELSER             394.294              0      384.752             0       387.178             0
+
+A + B +C + D + E                                    34.513.679    -6.121.881    35.862.890    -5.688.183    36.227.293    -5.413.264
+
+F. FINANSIERING
+
+8.22 Forbrug af likvide aktiver                               0           0               0    -864.091               0    -147.941
+8.60 Optagne lån                                              0        -105               0        -105               0        -105
+7.62 Tilskud og udligning                             2.178.308  -4.600.706       2.232.158  -4.377.030       2.413.656  -4.317.646
+7.65 Refusion af købsmoms                                10.000           0          10.000           0          10.000           0
+7.68 Skatter                                                  0 -25.979.295               0 -27.175.638               0 -28.771.994
+F. FINANSIERING I ALT                                2.188.308 -30.580.106       2.242.158 -32.416.864       2.423.656 -33.237.686
+BALANCE                                             36.701.987 -36.701.987      38.105.047 -38.105.047      38.650.949 -38.650.949
+

@@ -1,0 +1,136 @@
+# kilde: filer/Kerteminde/regneark_1_Bilag---Bevillingsoversigt.pdf | metode: pdftotext
+
+Bevillingsoversigt, 1.000 kr.                              Budget 2027    Budget 2028    Budget 2029    Budget 2030
+Indtægter:
+Skatter                                                      -1.582.623     -1.639.337     -1.696.958      -1.696.958
+Tilskud og udligning (inkl. moms)                              -529.750       -533.628       -558.989        -558.989
+Skatter                                                         -27.819        -19.974        -11.276         -63.190
+Tilskud og Udligning                                            -11.730        -14.013         12.649          16.244
+Selvbudgetteringseffekt 2025 - regulering                             0         -2.763              0               0
+Selvbudgetteringseffekt 2024 - regulering                        -5.248              0              0               0
+Sundhedsreform - Bloktilskud                                    120.662        120.662        120.662         120.662
+Sundhedsreform - udligning                                       10.450         10.450         10.450          10.450
+Sundhedsreform - overgangsordning                                22.628         22.628         22.628          22.628
+Ændringer til indtægter                                               0            553          1.105           1.658
+Indtægter i alt                                              -2.003.430     -2.055.422     -2.099.729      -2.147.495
+
+
+Driftsudgifter:
+
+Børn-, Unge og Uddannelsesudvalget:                            475.459        476.139         475.625        475.625
+
+Dagtilbud, uddannelse og unge                                  368.373        369.513         368.999        368.999
+Børn og Familie                                                107.086        106.626         106.626        106.626
+
+
+
+Plan, Teknik & Bosætningsudvalget:                              43.215          44.229         42.746         42.746
+
+Plan, Teknik og Bosætning                                       43.215          44.229         42.746         42.746
+
+
+
+Kultur-, Fritids- og Frivillighedsudvalget:                     42.891          42.892         42.892         42.892
+
+Kultur, Fritid og Frivillighed                                  42.891          42.892         42.892         42.892
+
+
+Ældre-, Handicap-, Psykiatri- og Sundhedsudvalget:             634.820        634.350         634.350        634.350
+
+Pleje og Sundhed                                               480.289        480.075         480.075        480.075
+Handicap og Psykiatri                                          154.531        154.275         154.275        154.275
+
+
+
+Erhvervs-, Vækst- og Arbejdsmarkedsudvalget                    555.934        556.962         555.935        555.935
+
+Arbejdsmarked                                                  194.485        194.485         194.485        194.485
+Førtidspension og Fleksjob                                     353.164        353.164         353.164        353.164
+Erhverv og Vækst                                                 8.285           9.313          8.286          8.286
+
+
+
+Økonomiudvalget:                                               210.865        207.352         207.352        207.352
+
+Politisk organisation, Beredskab og Landsbyudvikling            16.769          16.770         16.770         16.770
+Tværgående administration                                      194.096        190.582         190.582        190.582
+
+
+
+Klima- og Naturudvalget                                         51.086          51.084         51.032         51.032
+
+Klima- og Natur                                                 51.086          51.084         51.032         51.032
+
+
+Pris- og lønregulering                                               0          48.033         99.596        151.238
+
+
+Demografi                                                        2.750           2.750          2.750          2.750
+LCP                                                              9.531           8.183          6.942          5.900
+Sundhedsreformen (opgaveflyt)                                   -18.631        -18.631        -18.631        -18.631
+Sundhedsreformen (KMF)                                         -135.109       -135.109       -135.109       -135.109
+Tekniske korrektioner                                            5.772           5.603          5.535          6.005
+Afledt drift af anlæg                                            3.077           2.722          3.172          3.172
+Udvidelser Arbejdsmarked                                         9.374           9.374          9.374          9.374
+Udvidelse Spec. Soc. område - (Central refusionsordning)           896            504            504             504
+Udvidelse Spec,. Soc. områder                                    9.878          12.308         12.308         12.308
+Omstillingsbidrag                                                -3.468         -1.706         -1.706          -1.706
+Budgetudvidelser                                                10.190          14.803         16.103         16.103
+Budgetreduktioner                                               -11.834         -7.290        -10.290        -13.290
+Regnskabsværn                                                        0              0              0               0
+
+
+Driftsudgifter i alt (ekskl. Forsyningsområdet)               1.896.696      1.954.552      2.000.480      2.048.550
+
+
+Renter mv.                                                       3.643           3.240          2.900          2.900
+Ændringer til renter                                              -703            -625           -596          -1.043
+
+
+Resultat af ordinær driftsvirksomhed                           -103.794        -98.254        -96.945        -97.088
+
+
+Anlæg:
+Anlægsudgifter                                                  76.624          68.700         77.500              0
+Heraf anlæg ældreboliger (indgår ikke i anlægsramme)                 0              0              0               0
+Ændringer til anlægsudgifter                                     -4.510          4.891         -8.000         69.500
+Anlægsudgifter brutto                                           72.114          73.591         69.500         69.500
+
+
+Anlægsindtægter                                                  -7.000             0              0               0
+Ændringer til anlægsindtægter
+Anlæg i alt                                                     65.114          73.591         69.500         69.500
+
+
+Jordforsyning:
+
+Byggemodning                                                       950            500              0               0
+Salg af jord                                                     -4.400         -4.130           -250              0
+Ændringer til jordforsyning udgifter                               130            130            330             310
+Ændringer til jordforsyning indtægter                              530           1.410         -2.320          -2.720
+Jordforsyning i alt                                              -2.790         -2.090         -2.240          -2.410
+
+
+Anlægsudgifter netto i alt                                      62.324          71.501         67.260         67.090
+
+
+Resultat af ordinær drift og anlæg                              -41.470        -26.753        -29.685        -29.998
+
+
+Finansiering:
+
+Låneoptagelse                                                    -6.500         -6.500         -6.500          -6.500
+Ændringer til låneoptagelse                                      6.500               0              0              0
+Afdrag på lån                                                   39.830          41.516         30.745         30.745
+Ændringer til afdrag                                              -898          -2.187           -855           -552
+Balanceforskydninger                                              -553           4.055          4.055          4.055
+Ændringer til balanceforskydninger                                 819           1.919            -56            -46
+Omstillingsbidrag                                                -1.300         -1.300         -1.300          -1.300
+Modpost regnskabsværn                                                0              0              0               0
+Finansiering i alt                                              37.899          37.502         26.088         26.401
+
+
+ÆNDRING AF LIKVIDE AKTIVER                                       -3.572         10.749         -3.597          -3.596
++ = Kasseforbrug
+- = Kasse tilgang
+

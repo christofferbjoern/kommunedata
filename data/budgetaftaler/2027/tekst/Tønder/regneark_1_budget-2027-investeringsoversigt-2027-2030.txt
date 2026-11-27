@@ -1,0 +1,89 @@
+# kilde: filer/Tønder/regneark_1_budget-2027-investeringsoversigt-2027-2030.pdf | metode: pdftotext
+
+Investeringsoversigt 2027-2030
+                                                                              Budget     Overslagsår    Overslagsår    Overslagsår
+I mio. kr.                                                                     2027         2028           2029           2030
+Økonomiudvalget
+     Basisanlæg                                                                  6,122         6,122          6,122          6,122
+           Anlægsbidrag Brand & Redning Sønderjylland                            1,028         1,028          1,028          1,028
+           It investeringer og netforbindelse skoler                             3,706         3,706          3,706          3,706
+           Planlægningsopgaver                                                   1,388         1,388          1,388          1,388
+     Strategisk udvikling                                                       23,421        26,494         37,217         70,543
+           Erhvervsudvikling                                                     0,421         0,421          0,421          0,421
+           Masterplan Tønderhallerne                                                           2,000         24,000         24,000
+           Tønnisgaard - Dannet af Havet (tilskud på 5 mio. kr.)                               4,150
+           Foreningen Museum Wegner                                                                                           7,000
+           Tønder 2030 / pulje til fremtidens skole og dagtilbud                               12,471         12,796         39,122
+           Karrierekollegium                                                     3,000
+           Museum Sønderjylland - helhedsplan                                   20,000         7,452
+Økonomiudvalget i alt                                                           29,542        32,615         43,338         76,664
+Teknik-, Miljø- og Klimaudvalget
+     Basisanlæg                                                                 14,495        15,495         13,495         13,495
+           Pulje til energioptimering                                            1,406         1,406          1,406          1,406
+           Pulje til miljø og naturgenopretning                                  0,927         0,927          0,927          0,927
+           Pulje til trafiksikkerhed, gaderenovering og kloakrenovering          8,100         8,100          8,100          8,100
+           Pulje til vejanlæg generelt                                           4,063         5,063          3,063          3,063
+     Struktur og kapacitetsudvikling                                            17,488        29,386          7,514          6,860
+           Vejanlæg i forbindelse med Tønnisgård                                               5,000
+           Færdiggørelse af Kongevej m.m.                                        7,118         7,765
+           Pulje til legepladser                                                 1,509         1,509           1,509          1,509
+           Brede Å-udvalget, pulje til kortlægning og projektering               1,409         1,409           0,654
+           Spildevandsplan 2028-2038                                             0,352         0,352
+           Landsbyfornyelse                                                      3,500                         3,500          3,500
+           Bygningsforny. & skimmelsvamp                                                        1,851          1,851          1,851
+           Stiforløb til Wegner Museet                                           3,600
+           Tilskud til Ballum-Astrup og Juvrediget                                             11,500
+     Strategisk udvikling                                                       31,920          7,920        14,420          7,500
+           Cykelstipulje - inkl. tilskud fra Vejdirektoratet                                    3,000         5,000          5,000
+           Tønder Byfornyelsespulje                                              2,500                        2,500          2,500
+           Klimatilpasningspulje                                                                2,000         3,000
+           Udviklingsplan Rømø                                                   0,920          0,920         0,920
+           Byudviklingsplaner                                                    2,500                        3,000
+           LIFE Wadden Sea Birds, publikumsfaciliteter i Margrethe Kog nord
+                                                                                 5,000
+           og ved Vidåslusen
+           Ankomst til Rømø - lokalplanlægning for bedre trafikafvikling         0,500          2,000
+           Udviklingsplan Lakolk                                                18,000
+           Industriparker, byggemodning til bolig- og sommerhusformål            2,500
+Teknik-, Miljø- og Klimaudvalget i alt                                          63,903        52,801         35,429         27,855
+Socialudvalget
+     Struktur og kapacitetsudvikling                                             1,875         0,000          1,875          1,875
+           Renoveringsplan for Voksen/Social                                     0,937                        0,938          0,938
+           Renoveringspulje til værksteder § 103/104                             0,937                        0,938          0,938
+     Strategisk udvikling                                                        0,500         0,000          0,000          0,000
+           Eget tilbud til børn og unge                                          0,500
+Socialudvalget i alt                                                             2,375         0,000          1,875          1,875
+Sundhedsudvalget
+     Basisanlæg                                                                  0,533         0,000          0,533          0,533
+           Udskiftning maskinel Fælleskøkken                                     0,533                        0,533          0,533
+Sundhedsudvalget i alt                                                           0,533         0,000          0,533          0,533
+                                                                         Budget      Overslagsår    Overslagsår    Overslagsår
+I mio. kr.                                                                2027          2028           2029           2030
+Kultur- og Fritidsudvalget
+     Basisanlæg                                                             5,006          5,006          5,006          5,006
+           Halrenoveringspulje                                              3,195          3,195          3,195          3,195
+           Tekniske installationer svømmehaller                             1,065          1,065          1,065          1,065
+           Museum Sønderjylland                                             0,746          0,746          0,746          0,746
+     Struktur og kapacitetsudvikling                                       11,114          6,300          0,000          0,000
+           Udskiftning af græstæppe på kunstbanen i Løgumkloster            6,114
+           Renovering af Klosterbadet                                       5,000          6,300
+     Strategisk udvikling                                                   0,000          3,500          3,500          3,500
+           Facilitetsstrategi                                                              3,500          3,500          3,500
+Kultur og Fritidsudvalget i alt                                            16,120         14,806          8,506          8,506
+Arbejdsmarkeds- og Landdistriktsudvalget
+     Basisanlæg                                                             0,526          0,526          0,526          0,526
+           Landsbypulje til understøttelse af LUP                           0,526          0,526          0,526          0,526
+Arbejdsmarkeds- og Landdistriktsudvalget i alt                              0,526          0,526          0,526          0,526
+Børn- og Skoleudvalget
+     Basisanlæg                                                             0,421          0,421          0,421          0,421
+           Legepladser pulje til renovering                                 0,421          0,421          0,421          0,421
+     Struktur og kapacitetsudvikling                                       10,533         15,000          0,000          0,000
+           Faglokaler på skolerne                                           5,533
+           Multisal i Skærbæk                                               5,000         15,000
+Børn- og Skoleudvalget i alt                                               10,954         15,421          0,421          0,421
+ANLÆG I ALT                                                               123,951        116,168         90,627        116,379
+
+Jordforsyning
+Køb/salg af jord og bygninger (køb 3,500 mio. kr./salg 5,000 mio. kr.)      -1,500         -1,500         -1,500         -1,500
+ANLÆG I ALT                                                               122,451        114,668         89,127        114,879
+

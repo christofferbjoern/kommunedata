@@ -1,0 +1,487 @@
+# kilde: filer/Helsingør/aftale_1_forlig-til-print.pdf | metode: pdftotext
+
+BUDGETFORSLAG
+
+Partinavn:      A, B, C, F, I, M, O, V, Æ, Ø
+Version:        Budgetforlig
+Dato:           10. september 2026
+
+Bemærkninger:
+Overblik
+  Basisbudgetforslag
+  Nettotal i mio. kr.                                                                                Budget 2027-
+                                         Budget 2027    Budget 2028    Budget 2029    Budget 2030
+                                                                                                        2030
+  Indtægter i alt                            -5.341,6       -5.472,7       -5.604,8       -5.788,4      -22.207,5
+  Driftsudgifter i alt                        5.093,5        5.230,0        5.402,4        5.590,5       21.316,4
+  Resultat af ordinær driftsvirksomhed
+                                               -248,1         -242,7         -202,5         -197,8         -891,1
+  inkl. renter
+  Resultat af anlæg                             194,3          189,3          204,0          225,2         812,9
+  Lån og balanceforskydninger                    34,7           38,0           26,8           20,5         120,1
+
+  Kassetræk (+=overskud/-=underskud)             19,1           15,3          -28,4          -47,9          -41,8
+
+
+
+  Ændringer
+
+  Nettotal i mio. kr.                                                                                Budget 2027-
+                                         Budget 2027    Budget 2028    Budget 2029    Budget 2030
+                                                                                                        2030
+  Indtægter i alt                                 3,8            3,3            3,4            3,7          14,3
+  Driftsudgifter i alt                           -0,2            1,7           -2,1           -6,5           -7,1
+  Anlæg i alt                                     0,0            0,0            2,5           -2,7           -0,1
+  Lån og balanceforskydninger                     0,0            0,0            0,0            0,0            0,0
+  Kassetræk                                      -3,6           -5,1           -3,8            5,5           -7,1
+
+
+
+  Nyt budgetforslag
+  Nettotal i mio. kr.                                                                                Budget 2027-
+                                         Budget 2027    Budget 2028    Budget 2029    Budget 2030
+                                                                                                        2030
+  Indtægter i alt                            -5.337,8       -5.469,4       -5.601,4       -5.784,7      -22.193,3
+  Driftsudgifter i alt                        5.093,3        5.231,7        5.400,2        5.584,0       21.309,3
+  Resultat af ordinær driftsvirksomhed
+                                               -244,5         -237,6         -201,1         -200,7         -883,9
+  inkl. renter
+  Resultat af anlæg                             194,3          189,3          206,6          222,5         812,7
+  Lån og balanceforskydninger                    34,7           38,0           26,8           20,5         120,1
+  Udenfor kategori                                0,0            0,0            0,0            0,0            0,0
+
+  Kassetræk (+=overskud/-=underskud)             15,5           10,3          -32,2          -42,4          -48,9
+   Gennemsnitlig likviditet
+
+450.000.000
+
+400.000.000
+
+350.000.000
+
+300.000.000
+
+250.000.000
+
+200.000.000
+
+150.000.000
+
+100.000.000
+
+ 50.000.000
+
+         0
+
+
+
+
+                              Gennemsnitslikviditet Basisbudget      Nyt budgetforslag   Mål jf. Økonomisk politik
+
+
+
+   Indtægten fra sommeriva er indarbejdet i likviditeten pr. marts 2027.
+Resultatbudget
+
+                                                                                        Forslag til ændringer                                       Samlet nyt forslag
+                                                                       Budget-       Budgetover- Budgetover-      Budgetover-    Budget-       Budgetover- Budgetover-      Budgetover-
+                                  Hele 1.000 kr.                       forslag         slagsår         slagsår      slagsår      forslag         slagsår         slagsår      slagsår
+                                                                        2027            2028            2029         2030         2027            2028            2029         2030
+INDTÆGTER:
+                Indkomstskat                                                     0               0           0              0    -4.288.907      -4.428.781    -4.516.608     -4.676.442
+                Selskabsskatter                                                  0               0           0              0       -66.417         -70.878       -72.707        -76.030
+                Grundskyld                                                       0               0           0              0      -623.045        -646.948      -674.341       -685.767
+                Dækningsafgift                                               3.570           3.340       3.450          3.650       -19.653         -18.602       -19.129        -20.068
+                Andre skatter                                                    0               0           0              0       -10.147          -9.463        -9.463         -9.463
+                Tilskud og udligning                                             0               0           0              0      -267.210        -231.998      -277.776       -285.593
+                Skøn for kompensation grundskyld                                 0               0           0              0       -62.700         -62.700       -31.350        -31.350
+                Ændringer fra Øvrige forslag                                   256               0           0              0           256               0             0              0
+                Indtægter i alt                                              3.826           3.340       3.450          3.650    -5.337.823      -5.469.370    -5.601.374     -5.784.713
+DRIFTSUDGIFTER (Netto)
+                Eksisterende driftsbudget                                        0               0            0              0    5.068.677       5.071.904     5.101.395      5.135.258
+                Råderumskatalog                                             -1.830          -1.830       -1.320         -1.320       -1.830          -1.830        -1.320         -1.320
+                Driftsønsker                                                 5.399           5.683        5.383          5.383        5.399           5.683         5.383          5.383
+                Ændring af forslag fra 1. behandlingen                      -6.657          -3.048       -7.048        -11.048       -6.657          -3.048        -7.048        -11.048
+                Øvrige forslag (drift)                                       6.000           3.000        3.000          3.000        6.000           3.000         3.000          3.000
+                Ændringer til afledt drift                                    -100            -100          -50              0         -100            -100           -50              0
+                Servicedriftsbufferpuljen                                   -3.000          -2.000       -2.000         -2.000       24.000          25.000        25.000         25.000
+                PL-stigninger i 2028-2030                                        0              44         -111           -504            0         132.965       281.121        435.137
+                Driftsudgifter i alt                                          -188           1.749       -2.146         -6.489    5.095.489       5.233.574     5.407.481      5.591.410
+                Renter m.v.                                                      0               0            0              0       -2.157          -1.834        -7.256         -7.364
+                RESULTAT AF ORDINÆR DRIFTSVIRKSOMHED                         3.638           5.089        1.304         -2.839     -244.491        -237.630      -201.149       -200.667
+ANLÆGSUDGIFTER (Brutto)
+                Eksisterende plan
+                 - udgifter uden puljer                                        851             686       2.600         -4.500      223.860         202.155       193.699        155.939
+                 - indtægter                                                     0               0           0         10.000      -29.557         -38.543       -27.944         -1.000
+,                - salgsindtægter                                                0               0           0              0            0               0             0              0
+                Nye anlægsforslag
+                 - udgifter                                                      0               0           0              0              0             0             0              0
+                 - indtægter                                                     0               0           0              0              0             0             0              0
+                 - salgsindtægter                                                0               0           0              0              0             0             0              0
+                Øvrige forslag
+                 - udgifter                                                      0               0           0              0              0             0             0              0
+                 - indtægter                                                     0               0           0              0              0             0             0              0
+                 - salgsindtægter                                                0               0           0              0              0             0             0              0
+                Fravalgte forslag fra anlægsplan
+                 - udgifter                                                      0               0           0              0              0             0             0              0
+                 - indtægter                                                     0               0           0              0              0             0             0              0
+                 - salgsindtægter                                                0               0           0              0              0             0             0              0
+
+               Anlægspulje (2027 PL)                                              0               0           0              0           0           22.386       33.579         55.965
+               Anlægspuljemidler 2026 (2027 PL)                                -851            -698        -167         -8.470           0                0            0              0
+               PL stigning i 2028-2030                                            0              12          94            302           0            3.348        7.240         11.595
+               Bruttoanlægsudgifter i alt                                         0               0       2.527        -12.668     223.860          227.889      234.518        223.499
+               Anlægsindtægter i alt                                              0               0           0         10.000     -29.557          -38.543      -27.944         -1.000
+               Anlægsudgifter i alt (inkl. anlægspulje)                           0               0       2.527         -2.668     194.303          189.346      206.574        222.499
+               RESULTAT I ALT                                                 3.638          5.090        3.831         -5.507     -50.188          -48.283        5.426         21.832
+               Lån                                                                0               0           0              0     -14.932          -21.932      -21.932        -21.932
+               Bruttolåneoptagelse                                                0               0           0              0     -14.932          -21.932      -21.932        -21.932
+               Afdrag på lån                                                      0               0           0              0      86.972          134.845       76.848         70.642
+               Nettolåneoptagelse                                                 0               0           0              0      72.040          112.913       54.916         48.710
+               Balanceforskydninger                                               0               0           0              0     -37.349         -482.899      -28.110        -28.168
+               Ekstra likviditet E- og I-lån til deponering                       0               0           0              0           0          408.012            0              0
+               Deponering (anlæg)                                                 0               0           0              0           0                0            0              0
+               Balanceforskydninger - ændringsforslag                             0               0           0              0           0                0            0              0
+               Forslag udenfor kategori/andet                                     0               0           0              0           0                0            0              0
+               Kassebeholdning (+=henlæggelse/-=forbrug)                     -3.638         -5.090       -3.831          5.507      15.497           10.258      -32.232        -42.374
+               ÅRETS RESULTAT                                                     0               0           0              0           0                0            0              0
+               Der kan forekomme differencer i forhold til resultatbudgettet pga. afrundinger.
+                                                                               2027            2028        2029           2030
+               Servicedriftsudgifter                                     3.913.409       3.903.486    3.921.737      3.930.097
+               Servicedriftsbufferpuljen                                    24.000          25.000       25.000         25.000
+               Tilvalgte og fravalgte servicedriftsopgaver                    2.812          3.705          -35         -3.985
+               Forventet servicedrift i alt                              3.940.221       3.932.191    3.946.702      3.951.112
+               Servicedriftsramme for Helsingør Kommune 2027             3.940.310       3.940.310    3.940.310      3.940.310
+               Forskel til rammen                                                89          8.119       -6.392        -10.802
+Indtægter
+
+
+Her kan indtastes forslag til ny opkrævningsprocent for indkomstskat. Ændring i provenu for grundskyld og
+dækningsafgift, kan i 2027 - 2028 kun foretages som et nyt forslag om lavere provenu pga. aftalen om nye
+boligskatter.Ved ønske om dette, hjælper ØE med håndteringen.
+
+Efter indtastning af forslag udregnes forskellen i 1.000 kr. som tages med som ændring til det samlede resultatbudget.
+Det er kun muligt at hæve indkomstskatten, samt at sænke både indkomstskat, grundskyld og dækningsafgift.
+Ved ændring af indkomstskatten kommer en afledt effekt af udgiften til det skråskatteloft, som ØE hjælpe med at
+udregne manuelt. Den afledte effekt indtastes under øvrige forslag.
+
+
+
+
+Indkomstskat                                                      2027            2028            2029             2030
+Udskrivningsgrundlag                                        16.431.824      16.978.750      17.566.169       18.187.137
+Nuværende skatteprocent                                          25,82           25,82           25,82            25,82
+Skatteprovenu ved nuværende skatteprocent                    4.242.697       4.383.913       4.535.585        4.695.919
+
+Forslag til ny skatteprocent                                        25,82           25,82           25,82            25,82
+Ændring i 1.000 kr.                                            -               -               -                -
+
+
+
+Området er under statslig forandring i 2027 - 2028
+Grundskyld (kun normaljord)                                       2027            2028            2029             2030
+Provenu af grundskyld (normaljord)                             623.045         646.948         674.341          685.767
+
+Forslag til ny grundskyldsprovenu                              623.045         646.948         674.341          685.767
+Ændring i 1.000 kr.                                                -               -               -                -
+
+
+
+Området er under statslig forandring i 2027 - 2028
+Dækningsafgift                                                      2027            2028            2029             2030
+Provenu af dækningsafgift                                          23.223          21.942          22.579           23.718
+
+Forslag til ny dækningsafgiftsprovenu                              19.653          18.602          19.129           20.068
+Ændring i 1.000 kr.                                                 3.570           3.340           3.450            3.650
+Tilvalgte emner fra Råderumskatalog
+
+                                  Tilvalgte Råderumskatalog i alt                                  -1.830   -1.830      -1.320   -1.320
+
+                                                                                                               Budget
+           Budgetområde                  Nr.                            Titel                                                             Kommentarer
+                                                                                                    2027     2028        2029     2030
+206 - Nordsjællands Park og Vej      r206-001                                                         -25      -25         -25     -25
+                                                 Reduktion i renholdelsesfrekvensen i Helsingør
+206 - Nordsjællands Park og Vej       r206-010   City                                               -200     -200        -200     -200
+                                      r722-001
+722 - Beskæftigelse og Anden Social Service      Reducering i nytteindsats                          -800     -800        -800     -800
+820 - IT og Digitalisering            r820-007   Mindreforbrug på Backup M365-licenser (adm)        -510     -510           0        0
+820 - IT og Digitalisering            r820-015   Færre udgifter til konsulentbistand (adm.)         -100     -100        -100     -100
+                                                 Besparelser på toiletsoignering på skoler, hvor
+825 - Økonomi og Ejendomme           r825-002    lokalerne ikke bruges om eftermiddagen             -150     -150        -150     -150
+827 - Beredskabet                    r827-005    Afstå for at hjælpe ved motionsløb                  -45      -45         -45      -45
+Tilvalgte nye driftsopgaver
+
+                                 Tilvalgte nye driftsopgaver i alt                                   5.399    5.683       5.383    5.383
+
+                                                                                                                 Budget
+           Budgetområde                  Nr.                            Titel                                                                                          Kommentarer
+                                                                                                      2027     2028        2029     2030
+                                      ø201-
+201 - Miljø, Natur og Klima           002       Reduktion af flexturtaksten                            350      350         350      350
+                                      ø201-
+201 - Miljø, Natur og Klima           003       Mågeregulering i Indre By                              300      300           0        0
+                                      ø204-
+204 - Trafik, vej og parkering        005       Øget indsats på spildevandsområdet (adm.)              525      700         700      700 3/4 i 2027
+                                      ø411-     Genindførelse af årlig hyldest til idræts- og
+411 - Idræt og Fritid                 001       foreningslivet                                         100      100         100      100
+                                      ø512-     Tilknytning af en fysioterapeut 10 timer ugentligt
+512 - Forebyggelse                    001       i Familiehuset                                         180      180         180      180
+                                      ø515-                                                                                               OBS der er en øgede omkostning på 515 som skal tilvælges hvis denne
+513 - Skoler                          002       Flytning af store skiftedag til 1. august            -7.600   -7.600      -7.600   -7.600 vælges
+                                      ø515-
+515 - Dagtilbud                       002       Flytning af store skiftedag til 1. august            8.500    8.500       8.500    8.500 OBS der er en besparelse på 513 som skal tilvælges hvis denne vælges
+                                      ø515-
+515 - Dagtilbud                       003       Afskaffelse af 1 lukkeuge i dagtilbud                2.290    2.290       2.290    2.290
+                                      ø619-
+619 -Omsorg og Ældre                  004       Økonomi til seniorrådet                                 50       50          50       50
+                                      ø619-     Oprettelse af pårørendevejleder på sundheds- og
+619 -Omsorg og Ældre                  005       ældreområdet                                           497      663         663      663 3/4 i 2027
+                                      ø825-
+825 - Økonomi og Ejendomme            006       med Boliggården                                        100      100         100      100
+                                      ø828-     Analyse af momsbehandling af privat
+828 - Politik og organisation         001       dagrenovation i Helsingør Kommune                       57        0           0        0
+                                      ø828-
+828 - Politik og organisation         003       Venskabsbysamarbejde med Uummannaq                      50       50          50       50
+Tilvalgte anlægsprojekter (ny anlægsplan)
+
+Tilvalgte anlæg, deponeringer og salgsindtægter i alt      194.303   185.998   199.334   210.904      224.876   192.776   192.776   179.046
+
+                                                                                             Budget
+                            Projekt                                                                                                                                    Kommentarer
+                                                              2027      2028      2029      2030         2031      2032      2033      2034
+Pulje til natur- og stormsikring (udgift)                   19.751    34.121     7.513         0            0         0         0         0
+Pulje til natur- og stormsikring (indtægt)                       0         0   -24.401         0            0         0         0         0
+Blichersvej forbindelse til hospitalsområdet ombygning           0     1.424     6.291         0            0         0         0         0
+Byrumspulje                                                  1.017     1.017     1.017     1.017        1.017     1.017     1.017     1.017
+Cykelstier på Møllebakken                                   11.899         0         0         0            0         0         0         0
+Cykelstier på Møllebakken - tilskud cykelpulje             -10.014         0         0         0            0         0         0         0
+
+Cykelstiprojekter                                            4.693     2.227     6.170         0            0         0         0         0 Her i indgår an204-002 Supercykelsti - Flynderborgvej til Stengade
+Cyklistløsning Gl. Hellebækvej/Marienlyst Allé               9.209         0         0         0            0         0         0         0
+Investeringsplan klimatilpasning indre Helsingør            13.730    13.934    13.730    13.730       13.730    13.730    13.730         0
+Sommariva adgangsvej og parkeringsareal                      1.017    13.065    12.638         0            0         0         0         0
+Trafiksikkerhed i Tikøb                                          0         0     2.678     7.628            0         0         0         0
+Udskiftning af vejbelysning - ramme                          2.439     2.439     2.439     2.439        2.439     2.439     2.439     2.439
+Trafik, mobilitet og parkeringsanalyser                      1.300     1.000         0         0            0         0         0         0 Heri indgår an204-004, an204-005, og an204-008
+an206-004 Renovering støttemure Kongens Have                 1.750         0         0         0            0         0         0         0
+an206-007 Renovering af udvalgte dræn kolonihaver              350         0         0         0            0         0         0         0
+Nyanlæg og levetidsforlængelse arbejde på Nordhavnen             0     1.436     1.435     1.435        1.435     1.435     1.435     1.435
+an309-001 Sameksistens Kulturværftet - Museets placering     4.250         0         0         0            0         0         0         0
+an411-001 Miljørenovering af kunstgræsbaner                  6.000         0     7.000     5.500            0         0         0         0
+an411-002 Modernisering af Helsingørhallen                       0         0     4.000     2.000            0         0         0         0
+Fleksible læringsmiljøer i dagtilbud og skoler - pulje       4.322     4.322     4.322         0            0         0         0         0
+an619-001 Øget dagcenterkapacitet                              654         0         0         0            0         0         0         0
+Bøgehøjgård - etablering af botilbud                        12.396         0         0         0            0         0         0         0
+an718-001 Etablering af ét samlet tilbud: Værestedet
+Vinkeldammen, SPS/SPV, Tjek Ind og Åben Rådgivning           1.500     2.800         0         0            0         0         0         0
+Arealoptimering - pulje (udgift)                             2.543     2.543     2.543         0            0         0         0         0
+Arealoptimering - pulje (indtægt)                          -19.543   -38.543    -3.543    -1.000            0         0         0         0
+Helhedsrenovering af skoler                                 40.000    59.000    63.000    80.190       80.190    80.190    80.190    80.190
+                                                                                                                                            Heri indgår an411-004, an411-005, an513-001, an515-001, an825-
+Planlagt vedligeholdelse                                    42.000    33.000    33.000    38.000       38.000    38.000    38.000    38.000 001
+Pulje til etablering af ladestandere                         1.008     1.119     1.119         0            0         0         0         0
+Udvidelse af Klatretræet                                     3.053     4.922         0         0            0         0         0         0
+Værftshallerne videre udvikling                             11.085    18.185     8.085         0            0         0         0         0 Heri indgår an825-004 og an309-003
+an825-003 Solceller på svømmehallen                          1.750         0         0         0            0         0         0         0
+an825-006 Istandsættelse af bolig på Sindshvile              1.250         0         0         0            0         0         0         0
+an825-007 Konvertering af fossile varmekilder samt generering
+og lagring af grøn energi til eget forbrug                       4.000    4.000    4.000    4.000        0        0        0        0
+Forberedelse uddannelseslandskab                                18.351      686    5.600        0        0        0        0        0
+Ekstra tankvogn                                                  2.543        0        0        0        0        0        0        0
+Ny drejestige                                                        0        0    7.119        0        0        0        0        0
+Ny indsatsledervogn til kommandostade                                0      915        0        0        0        0        0        0
+Reserveret anlægspulje 2028-2030                                     0   22.386   33.579   55.965   55.965   55.965   55.965   55.965
+Rest anlægspuljemidler fra budget 2026-2029                          0        0        0        0   32.100        0        0        0
+Ændringer til forslag der indgik i 1. behandlingen (basisbudget)
+
+                        Ændringer til forslag der indgik i 1. behandlingen (basisbudget)) i alt                       -6.657    -3.048       -7.048    -11.048
+
+                                                                                                                                    Budget
+     Budgetområde            ForslagsNr.                                  Forslagstitel                                                                          Kommentarer
+                                                                                                                        2027     2028         2029       2030
+309 - Kulturen             r309-003        Øget indtægtsgrundlag på Helsingør Vandrehjem og Camping                       -20      -20          -20        -20
+411 - Idræt og Fritid      r411-004        Reduktion af aktivitetstilskud til medlemmer under 25 år                        32       32           32         32
+513 - Skoler               r513-002        Ophøre central finansiering af kørsel af Team V til svømmehallen              150       150          150        150
+513 - Skoler               r513-003        Nedlægge særtildeling til opsøgende arbejde                                   242       581          581        581
+513 - Skoler               r513-005        Reduktion af midler i skolens timebank (adm.)                                 725       875          875        875
+513 - Skoler               r513-006        Besparelse på skolernes vikarforbrug (adm.)                                   592     1.420        1.420      1.420
+
+515 - Dagtilbud            r515-002        Nedsat serviceniveau på pulje til børn med fysiske funktionsnedsættelser      225       225          225       225
+                                           Tilpasning af dagtilbuddenes økonomiske ramme til den faktiske
+515 - Dagtilbud             r515-004       pædagogandel                                                                1.600     3.200        3.200      3.200
+619 - Omsorg og Ældre r619-004             Servicereduktion: Reducere tøjvask til hver 3. uge                            664     1.130        1.130      1.130
+619 - Omsorg og Ældre r619-008             Reduktion af §18 puljen (50%)                                                 630       630          630        630
+619 - Omsorg og Ældre r619-011             Reduktion af §6 puljen (50%)                                                  341       341          341        341
+718 - Særlig Social Indsats r718-004       Lukkedag om fredagen på Værestedet Liv.                                        64       290          290        290
+                                           Økonomiske udfordringer på det specialiserede voksenområde
+718 - Særlig Social Indsats ø718-002       (Servicedrift)                                                                   0         0       -4.000    -8.000
+823 - Erhverv og Uddannelse r823-001       Reduktion i Erhvervs- og Vækstpuljen                                            83        83           83        83
+823 - Erhverv og Uddannelse r823-005       Nedlæggelse af Forum for Dialog og Drøftelse                                    15        15           15        15
+824 - Puljer                ø824-002       Pulje til politisk prioritering                                            -12.000   -12.000      -12.000   -12.000
+Tilvalgte forslag fra 1. behandlingen, inklusiv ny profil til 2. behandlingen
+
+                                       Tilvalgte forslag fra 1. behandlingen i alt                                    12.989    5.791       4.399        3.355
+
+                                                                                                                       Tilvalgte forslag fra 1. behandlingen
+     Budgetområde           ForslagsNr.                                    Forslagstitel                                             (ny profil)
+                                                                                                                        2027      2028           2029        2030 Kommentarer
+
+201 - Miljø, Natur og Klimar201-001         Indtægter fra koncessionsmidler fra reklamefinansierede buslæskærme       -1.582   -1.582       -1.582      -1.582
+204 - Trafik, vej og parkering
+                            r204-001        Reduktion af vejbelysning                                                 -1.000   -1.000       -1.000      -1.000
+204 - Trafik, vej og parkering
+                            r204-002        Reduktion af tilskud til julebelysning (adm.)                               -250     -250         -250        -250
+204 - Trafik, vej og parkering
+                            r204-004        Reduktion af fjernelse af graffiti på broer, tunneller og bygværker         -100     -100         -100        -100
+204 - Trafik, vej og parkering
+                            ø204-001        Manglende indtægt grundet ændring af betalingsparkering                    2.300    2.300        2.300       2.300
+206 - Nordsjællands Park og Vej
+                            r206-008        Nedtagning af en legeplads                                                   -30      -30          -30         -30
+309 - Kulturen              r309-001        Driftskorrektion - reduktion i tilskud til Fyrskib XVII                      -43      -43          -43         -43
+309 - Kulturen              r309-002        Reduktion af udgifter til Fælles Kulturelle Opgaver                         -100     -100         -100        -100
+309 - Kulturen              r309-003        Øget indtægtsgrundlag på Helsingør Vandrehjem og Camping                     -50      -50          -50         -50
+                                            Kulturhus Bølgen færre midler til indvendige forbedringer/optimering af
+309 - Kulturen            r309-004          faciliteter                                                                  -30      -30          -30         -30
+                                            Digitalisering og effektivisering af administrative arbejdsgange -
+309 - Kulturen            r309-005          Bibliotekerne (adm.)                                                        -800     -800        -800         -800
+                                            Reduktion af forskningsaktiviteter/personaletimer - Museum Helsingør
+309 - Kulturen            r309-006          (adm.)                                                                       -80      -80         -80          -80
+309 - Kulturen            r309-007          Omstrukturering talentlinje + takststigning Helsingør Musikskole             -52      -72         -72          -72
+                                            Øgede indtægter samt effektivisering af arbejdsgange - Kulturhus
+309 - Kulturen            r309-008          Kulturværftet og Toldkammeret (KUTO) (adm.)                                 -160     -160        -160         -160
+411 - Idræt og Fritid     r411-001          Revidering af samarbejdsaftale med Dansk Boldspil-Union                     -200     -200        -200         -200
+                                            Takststigning på adgangsbilletter i Helsingør Svømmearena - øget
+411 - Idræt og Fritid     r411-002          indtægtsbudget                                                              -250     -250        -250         -250
+411 - Idræt og Fritid     r411-003          Øget indtægter - Pay & Play                                                  -60      -60         -60          -60
+411 - Idræt og Fritid     r411-005          forventet mindreforbrug på lokaletilskud til foreninger                      -39      -39         -39          -39
+411 - Idræt og Fritid     r411-006          Reduktion af undervisningstilskud til aftenskoler                            -32      -32         -32          -32
+512 - Forebyggelse        ø512-002          Håndtering af øgede udgifter til Tandregulering (øgede omkostninge)          700      475         475          475
+                                            Nedsættelse af personaletimer til udvikling, administration og
+513 - Skoler              r513-007          myndighedsopgaver i Staben BUF (adm.)                                       -160     -260        -260         -260
+513 - Skoler              r513-008          Omlægning af undervisning i basisdansk (adm.)                               -425     -850        -850         -850
+513 - Skoler              ø513-002          Stigende udgifter til elever med behandlingsbehov                            810    1.490         690          470
+513 - Skoler             ø513-003     Minimumsnormeringer frem til skolestart                                     3.265     3.265    3.265    3.265
+515 - Dagtilbud          r515-001     Reduktion i midler til sprogpladser                                          -300      -300     -300     -300
+515 - Dagtilbud          r515-003     Færre midler til uddannelse af pædagogiske assistenter                       -150      -300     -300     -300
+517 - Udsatte børn       r517-001     Tilpasning af muligheder for aflastning i form af dagaflastning              -500    -1.000   -1.000   -1.000
+                                      Styrkelse af den faglige og systemmæssige anvendelse af DUBU i
+517 - Udsatte børn       ø517-001     Familierådgivningen.                                                          650      650        0        0
+                                      Økonomiske udfordringer på det specialiserede børneområde
+517 - Udsatte børn       ø517-002     (servicedrift)                                                              5.000    6.100    7.100    7.100
+                                      Økonomiske udfordringer på det specialiserede børneområde (ikke
+517 - Udsatte børn       ø517-002     servicedrift)                                                                2.600    2.000    1.600    1.600
+619 - Omsorg og Ældre    r619-001     Ændrede arbejdsgange i Forebyggelse og Visitation (adm.)                      -310     -620     -620     -620
+619 - Omsorg og Ældre    r619-002     Uddannelsesområdets mindreforbrug                                           -1.686   -1.686   -1.686   -1.686
+619 - Omsorg og Ældre    r619-003     Omlægning: Øget anvendelse af robotstøvsuger og gulvvasker                     315   -1.061   -1.061   -1.061
+619 - Omsorg og Ældre    r619-005     Bleer samt kompetenceløft på inkontinensområdet                               -245     -530     -530     -530
+619 - Omsorg og Ældre    r619-006     Skærmbesøg som førstevalg på udvalgte indsatser (opskalering)                    0     -500     -500     -500
+619 - Omsorg og Ældre    r619-007     Talegenkendelse                                                                703      -65     -358   -1.176
+                                      DAT - Digitalisering i hverdagen og fokus på rehabilitering og øget
+619 - Omsorg og Ældre    r619-009     selvhjulpenhed (opskalering)                                                  -193     -619     -619     -619
+619 - Omsorg og Ældre    r619-010     Central vagtplanlægning i hjemmeplejen                                      -1.113   -1.613   -1.613   -1.613
+                                      Reducering af tværgående efteruddannelsespulje for ansatte - i en
+619 - Omsorg og Ældre    r619-012     årrække (adm.)                                                                -310     -310     -310        0
+619 - Omsorg og Ældre    r619-013     Administrativ besparelse i sekretariatet (adm.)                                  0     -700     -700     -700
+619 - Omsorg og Ældre    r619-014     Reducering af midler til digitalisering i hverdagen (adm.)                    -200     -435     -204     -220
+619 - Omsorg og Ældre    r619-015     Mindreforbrug myndighedsområdet                                             -2.010   -2.210   -2.210   -2.010
+619 - Omsorg og Ældre    ø619-001     Udvidelse af dagcenterkapacitet                                              1.820    1.820    1.820    1.820
+619 - Omsorg og Ældre    ø619-002     Udvidelse af kapacitet på de kommende kommunale døgnpladser                  1.511    1.100    1.100    1.100
+                                      Tværgående indsats - understøttelse af økonomisk sagsbehandling -
+                                      Center for Job, Borgerservice og Teknologi samt Center for Sundhed og
+619 - Omsorg og Ældre ø619-003        Omsorg (1 årsværk)                                                            300      300      300      300
+714 - Ungeenheden          r714-001   Minimumsindsats - ungeenhed (1 årsværk) (adm)                                -520     -520     -520     -520
+718 - Særlig Social Indsatsr718-005   Styrket fokus på hjemløseområdet (adm.)                                      -250     -500     -500     -500
+
+718 - Særlig Social Indsatsr718-006   Oprettelse af ekstra pladser til Aktivitets- og Samværstilbud (SEL § 104)       0     -500    -1.000   -1.000
+                                      Tilpasning af tilbudsviften, lukning af opgangsfællesskabet Wisborg - og
+718 - Særlig Social Indsatsr718-007   salg af bygningen                                                               0      -84      -84      -84
+                                      Investering i Sindshvile for at reducere afhængighed af dyre eksterne
+718 - Særlig Social Indsatsr718-008   tilbud                                                                        -300    -600     -600     -600
+718 - Særlig Social Indsatsø718-001   Opstartsøkonomi til botilbuddet Bøgehøjgård (startsinvestering)              7.588 17.275         0        0
+718 - Særlig Social Indsatsø718-001   Opstartsøkonomi til botilbuddet Bøgehøjgård (besparelse)                    -5.175 -17.275        0        0
+                                            Økonomiske udfordringer på det specialiserede voksenområde
+718 - Særlig Social Indsatsø718-002         (Servicedrift)                                                           9.400    13.100   13.100    13.100
+                                            Økonomiske udfordringer på det specialiserede voksenområde
+718 - Særlig Social Indsatsø718-002         (indtægter - ikke servicedrift)                                          -3.000   -3.500    -4.000    -4.500
+722 - Beskæftigelse og Anden
+                           r722-002         Udgifter til borgere ansat i løntilskud i kommunen
+                               Social Service                                                                          -400     -400      -400      -400
+722 - Beskæftigelse og Anden
+                           r722-003         Reducering af medarbejder - arbejdspligt (adm.)
+                               Social Service                                                                          -260     -260      -260      -260
+722 - Beskæftigelse og Anden
+                           r722-004         Færre lægeerklæringer
+                               Social Service                                                                          -250     -250      -250      -250
+722 - Beskæftigelse og Anden
+                           r722-005         Besparelse i jobcentret (1 årsværk) (adm)
+                               Social Service                                                                          -520     -520      -520      -520
+                                            Tværgående indsats - understøttelse af økonomisk sagsbehandling -
+                                            Center for Job, Borgerservice og Teknologi samt Center for Sundhed og
+722 - Beskæftigelse og Anden
+                           ø619-003         Omsorg (1 årsværk)
+                               Social Service                                                                          300      300       300       300
+722 - Beskæftigelse og Anden
+                           ø722-001         Udvidet kontrolindsats med 1 medarbejdere
+                               Social Service                                                                          500      500       500       500
+820 - It og Digitalisering r820-001         Opsigelse af aftalen Insigth Nexus økonomi                                 -67      -67       -67       -67
+820 - It og Digitalisering r820-002         Opsigelse af insight designer tool licenser (adm.)                         -66      -66       -66       -66
+820 - It og Digitalisering r820-003         Opsigelse af IT løsning - SKS jobrotation                                  -70      -70       -70       -70
+820 - It og Digitalisering r820-004         Opsigelse af Geograf Acadre (adm.)                                         -18      -18       -18       -18
+820 - It og Digitalisering r820-005         Opsigelse af diverse mindre IT-systemer (adm)                              -45      -45       -45       -45
+820 - It og Digitalisering r820-006         Luk VEEAM Backup-licenser (adm.)                                           -67      -67       -67       -67
+820 - It og Digitalisering r820-008         Opsigelse af serviceaftale: VMWare Tilkaldevagt (adm)                      -35      -35       -35       -35
+                                            Mindske budgetpost til betaling af server/backup-hardware-leasing
+820 - It og Digitalisering r820-009         (adm.)                                                                     -200    -200          0         0
+820 - It og Digitalisering r820-010         Mindske budgetpost til server - teknisk assistance (adm)                    -70     -70        -70       -70
+820 - It og Digitalisering r820-011         Mindske budgetpost til udvidelser af server og storage (adm)                -40     -40        -40       -40
+820 - It og Digitalisering r820-012         Opsigelse af licenser til ChatGPT (adm)                                     -36     -36        -36       -36
+820 - It og Digitalisering r820-013         Digitaliseringspuljen udfases (adm)                                        -220    -220       -220      -220
+820 - It og Digitalisering r820-014         Digital ledergodkendelse (adm)                                              -69     -69        -69       -69
+823 - Erhverv og Uddannelser823-002         Reduktion i Puljen til Større Events                                       -100    -100       -100      -100
+823 - Erhverv og Uddannelser823-003         Reduktion af restbeløb på rammen til uddannelserne SGK + BGK                -67     -67        -67       -67
+823 - Erhverv og Uddannelseø823-001         Tilskud til Foreningen Bedre Byliv                                           60      60         60        60
+824 - Puljer               ø824-001         Flytning af Ukraine udgifter fra servicedrift til ikke servicedrift     -10.870 -10.870    -10.870   -10.870
+824 - Puljer               ø824-001         Flytning af Ukraine udgifter fra servicedrift til ikke servicedrift      10.870 10.870      10.870    10.870
+                                            Investering i Sindshvile for at reducere afhængighed af dyre eksterne
+825 - Økonomi og Ejendomme r718-008         tilbud                                                                     -15       -30      -30       -30
+825 - Økonomi og Ejendomme r825-003         Mindreudgifter til ny bankaftale (adm.)                                   -180      -180     -180      -180
+825 - Økonomi og Ejendomme r825-004         Mindreudgifter til teknisk servicepersonale (adm.)                        -300      -300     -300      -300
+825 - Økonomi og Ejendomme r825-005         Elbesparelse - solceller på svømmehallen                                  -202      -325     -325      -325
+825 - Økonomi og Ejendomme r825-006         AI i Økonomi og Ejendomme (adm.)                                             0      -853     -853      -853
+825 - Økonomi og Ejendomme r825-007         Salg af P-huset (arealoptimering)                                         -861      -861     -861      -861
+825 - Økonomi og Ejendomme ø619-002         Udvidelse af kapacitet på de kommende kommunale døgnpladser                 56       -33      -33       -33
+825 - Økonomi og Ejendomme
+                       ø718-001       Opstartsøkonomi til botilbuddet Bøgehøjgård                                   0       0     320     320
+825 - Økonomi og Ejendomme
+                       ø825-001       Stubbedamsvej 10 - afledt drift                                             100     100     100     100
+825 - Økonomi og Ejendomme
+                       ø825-002       Beredskabskoordinator (administration)                                      850     850     850     850
+825 - Økonomi og Ejendomme
+                       ø825-004       Bygningsdrift midlertidig indkvartering af flygtninge fra Ukraine         1.020   1.500   1.500   1.500
+827 - Beredskabet      r827-003       Optimering af indkøb og leveringersomkostninger/fragt                       -20     -20     -20     -20
+827 - Beredskabet      r827-004       Brandskolen. Rengøring og vedligeholdelse af røgdykkerapparater             -33     -33     -33     -33
+                                      Nedjustering af budget til advokatomkostninger på baggrund af faktisk
+828 - Politik og organisation
+                           r828-001   forbrug i regnskab 2021-2025                                              -600    -600    -600    -600
+828 - Politik og organisation
+                           r828-002   Tilpasning af budget til faktisk forbrug - trivselsundersøgelsen (adm.)    -25     -25     -25     -25
+828 - Politik og organisation
+                           r828-003   Omprioritering af opgaver i stabene i Politik og Organisation (adm.)      -300    -600    -600    -600
+828 - Politik og organisation
+                           r828-004   Reduktion af lønsum i Kommunikation (adm.)                                 -80     -80     -80     -80
+828 - Politik og organisation
+                           ø828-004   Rammer for Byrådets deltagelse i konferencer m.v.                           62      62      62      62
+Øvrige forslag
+
+                                      Øvrige forslag i alt                             3.256     1.000     1.000     1.000
+
+Drift/Lån/Finansier
+                                                    Budgetopgave                                                              Kommentarer
+         ing/                                                                         2027      2028      2029      2030
+Drift - Servicedrift Midler til at understøtte masterplanen på skoleområdet             6.000     6.000     6.000     6.000
+Drift - Servicedrift Finansiering af kulturhovedstad indarbejdes i budget 2028-2031         0    -3.000    -3.000    -3.000
+Finansiering         Afgørelse om stoplov                                                 256         0         0         0
+Servicedriftsbufferp
+uljen                Nedsættelse af servicedriftsbufferpuljen                          -3.000    -2.000    -2.000    -2.000
+
