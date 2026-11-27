@@ -197,3 +197,31 @@ footer .wrap { padding-top: 22px; padding-bottom: 28px; }
 @media (prefers-reduced-motion: no-preference) {
   .mapbox path { transition: fill .35s ease; }
 }
+
+/* infotegn og forklaringspanel */
+.ib { all: unset; box-sizing: border-box; position: relative; display: inline-grid; place-items: center; flex: none; width: 18px; height: 18px; margin-left: 6px; vertical-align: 1px; border: 1.5px solid currentColor; border-radius: 50%; color: var(--ink2); font: 700 11.5px/1 Inter, system-ui, sans-serif; letter-spacing: 0; cursor: pointer; }
+.ib::after { content: ""; position: absolute; inset: -8px; }
+h2 .ib { vertical-align: 6px; margin-left: 10px; }
+.ib:hover, .ib[aria-expanded=true] { color: var(--bg); background: var(--ink); border-color: var(--ink); }
+.ib:focus-visible, .ib-txt:focus-visible { outline: 3px solid var(--s1); outline-offset: 2px; }
+p .ib { cursor: default; margin: 0 2px; }
+.ib-txt { all: unset; box-sizing: border-box; display: inline-flex; align-items: center; gap: 8px; min-height: 44px; font-size: 14px; color: var(--ink2); cursor: pointer; text-decoration: underline; text-decoration-color: var(--axis); text-underline-offset: 3px; }
+.ib-txt .ib { margin: 0; }
+.ib-txt .ib::after { content: none; }
+.ib-txt:hover, .ib-txt[aria-expanded=true] { color: var(--ink); }
+.ib-txt:hover .ib, .ib-txt[aria-expanded=true] .ib { color: var(--bg); background: var(--ink); border-color: var(--ink); }
+#info { position: absolute; z-index: 30; width: min(390px, calc(100vw - 16px)); max-height: 70vh; overflow: auto; background: var(--tip); color: var(--ink); border: 1px solid var(--rule); border-radius: 10px; box-shadow: 0 6px 28px rgba(0,0,0,.18); padding: 12px 16px 14px; font-size: 14.5px; line-height: 1.5; text-align: left; white-space: normal; }
+#info[hidden] { display: none; }
+#info:focus { outline: none; }
+#info:focus-visible { outline: 3px solid var(--s1); outline-offset: 2px; }
+#info .ih { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; }
+#info h3 { font-size: 17px; margin: 4px 0 8px; }
+#info .x { all: unset; flex: none; display: grid; place-items: center; width: 36px; height: 36px; margin: -4px -8px 0 0; border-radius: 8px; font-size: 24px; line-height: 1; color: var(--ink2); cursor: pointer; }
+#info .x:hover { background: var(--plane); color: var(--ink); }
+#info .x:focus-visible { outline: 3px solid var(--s1); }
+#info p { margin: 0 0 8px; }
+#info .meta { font-size: 13px; color: var(--ink2); border-top: 1px solid var(--rule); padding-top: 8px; margin: 10px 0 4px; }
+#info .til-rang { font-size: 14px; display: inline-block; padding: 4px 0; }
+@media (max-width: 600px) {
+  #info { position: fixed; left: 0; right: 0; bottom: 0; top: auto; width: auto; max-height: 72vh; border-radius: 14px 14px 0 0; border-bottom: 0; padding-bottom: max(16px, env(safe-area-inset-bottom)); box-shadow: 0 -6px 28px rgba(0,0,0,.22); }
+}

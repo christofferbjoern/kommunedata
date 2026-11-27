@@ -1,0 +1,88 @@
+{
+  "_om": "Forklaringer til infotegnene på Kommuneblik. Én tekst pr. mål (nøglen er målets id i data.json). Afsnit adskilles med en tom linje (\\n\\n). Teksten kan rettes direkte her uden at bygge data om.",
+
+  "bef": "Antal personer med bopæl i kommunen 1. januar ifølge CPR-registeret. Alle med folkeregisteradresse i kommunen tælles med, uanset statsborgerskab.",
+  "vaekst": "Den procentvise ændring i indbyggertallet fra 1. januar året før til 1. januar i året.\n\nVæksten kommer fra fødsler minus dødsfald og fra flytninger til og fra kommunen, både inden for Danmark og over landets grænser.",
+  "andel0_17": "Børn og unge på 0-17 år i procent af alle indbyggere 1. januar.",
+  "andel65": "Indbyggere på 65 år og derover i procent af alle indbyggere 1. januar.",
+  "galder": "Den gennemsnitlige alder for alle indbyggere i kommunen 1. januar.",
+  "foedselsoverskud": "Antal levendefødte minus antal døde i løbet af året pr. 1.000 indbyggere ved årets start.\n\nEt negativt tal betyder, at der dør flere, end der fødes. Det ses især i kommuner med mange ældre.",
+  "nettotilflytning": "Hvor mange flere der flytter til kommunen, end der flytter fra, pr. 1.000 indbyggere ved årets start.\n\nTallet er tilflyttede fra andre kommuner minus fraflyttede til andre kommuner plus indvandrede fra udlandet minus udvandrede.",
+  "andel_indv": "Indvandrere og efterkommere i procent af befolkningen (opgjort ultimo november).\n\nEn indvandrer er født i udlandet af forældre, hvor ingen af dem er dansk statsborger født i Danmark. En efterkommer er født i Danmark af sådanne forældre. Danmarks Statistik bruger disse begreber om herkomst.",
+  "frem_bef": "Danmarks Statistiks befolkningsfremskrivning fra 2026: hvor mange indbyggere kommunen vil have 1. januar de kommende år, hvis de seneste års mønstre for fødsler, dødsfald og flytninger fortsætter.\n\nFremskrivningen er en beregning, ikke en prognose. Kommunernes egne befolkningsprognoser kan give andre tal, fx fordi de medregner planlagt boligbyggeri.",
+  "frem_vaekst": "Den fremskrevne procentvise ændring i indbyggertallet fra 2026 til 2040 ifølge Danmarks Statistiks befolkningsfremskrivning.\n\nTallet viser, hvad der sker, hvis de seneste års mønstre fortsætter. Det er ikke en prognose.",
+  "frem_80": "Den fremskrevne andel af indbyggerne, der er 80 år eller ældre i 2040, ifølge Danmarks Statistiks befolkningsfremskrivning.\n\nAndelen siger noget om, hvor stort pres der kan komme på ældreplejen. I dag er andelen omkring 5 pct. på landsplan.",
+
+  "areal": "Kommunens samlede areal i kvadratkilometer 1. januar. Arealet ændrer sig kun ved små opmålingsjusteringer.",
+  "taethed": "Antal indbyggere pr. kvadratkilometer: indbyggertallet 1. januar delt med kommunens areal.\n\nByer har høj tæthed. Landkommuner med meget landbrug og natur har lav tæthed.",
+  "andel_landbrugsjord": "Hvor stor en del af kommunens areal, der er landbrugsjord: marker med korn og andre afgrøder, frugt og juletræer, permanent græs og øvrige landbrugsarealer.\n\nTallet kommer fra Danmarks Statistiks opgørelse af arealdække, som bygger på kort og registre.",
+  "andel_skov": "Hvor stor en del af kommunens areal, der er dækket af skov og plantage.",
+  "andel_natur": "Hvor stor en del af kommunens areal, der er lysåben natur (heder, klitter, enge, moser og overdrev) samt søer og vandløb.",
+  "andel_bebygget": "Hvor stor en del af kommunens areal, der er bebygget eller anlagt: boliger, erhverv, veje, jernbaner, lufthavne, råstofgrave, sportsanlæg og kirkegårde.",
+
+  "beskfrek": "Beskæftigelsesfrekvensen er andelen af de 16-64-årige, der er i arbejde. Både lønmodtagere og selvstændige tæller med, og det samme gør personer i fleksjob og job med løntilskud.\n\nOpgørelsen gælder sidste uge i november og bygger på registre (Danmarks Statistiks registerbaserede arbejdsstyrkestatistik).",
+  "erhvfrek": "Erhvervsfrekvensen er andelen af de 16-64-årige, der er en del af arbejdsstyrken. Arbejdsstyrken er alle, der er i arbejde, plus alle, der er ledige og står til rådighed for et job.\n\nUden for arbejdsstyrken er fx studerende, førtidspensionister, personer på efterløn og kontanthjælpsmodtagere, der ikke er jobparate.\n\nForskellen mellem erhvervsfrekvensen og beskæftigelsesfrekvensen er de ledige.",
+  "ledighed": "Fuldtidsledige i procent af arbejdsstyrken, som gennemsnit over årets 12 måneder.\n\nLedigheden omfatter dagpengemodtagere og jobparate kontanthjælpsmodtagere, der er ledige eller i aktivering (bruttoledighed). Ledighed omregnes til fuld tid, så to personer, der hver er ledige halvdelen af tiden, tæller som én fuldtidsledig.",
+  "offforsorg": "Antal personer på offentlig forsørgelse, omregnet til fuldtidspersoner, pr. 100 indbyggere på 16-64 år.\n\nEn person er offentligt forsørget, når hovedindkomsten er en offentlig ydelse, der erstatter en løn. Det gælder fx arbejdsløshedsdagpenge, kontanthjælp, sygedagpenge, barselsdagpenge, ressourceforløb, jobafklaring, fleksjob og løntilskud, førtidspension, seniorpension og efterløn.\n\nSU og folkepension er ikke med. Én fuldtidsperson svarer til én person, der får ydelsen hele året.",
+  "foertidspension": "Antal førtidspensionister, omregnet til fuldtidspersoner, pr. 100 indbyggere på 16-64 år.\n\nFørtidspension gives til personer, hvis arbejdsevne er varigt nedsat, så de ikke kan forsørge sig selv, heller ikke i et fleksjob.",
+  "pendling": "Den gennemsnitlige afstand mellem bopæl og arbejdssted for beskæftigede, der bor i kommunen (opgjort ultimo november).\n\nLang afstand betyder typisk, at mange arbejder i en anden kommune.",
+
+  "jobs": "Antal job med arbejdssted i kommunen pr. 100 indbyggere på 16-64 år (opgjort ultimo november).\n\nEt tal over 100 betyder, at kommunen har flere arbejdspladser end erhvervsaktive indbyggere, så flere pendler ind end ud. En person med to job tæller to gange.",
+  "nye_firmaer": "Antal nye firmaer, der er startet i løbet af året, pr. 1.000 indbyggere.\n\nKun reelt nye firmaer tæller med. Ejerskifter og firmaer, der blot har skiftet form, er ikke nye.",
+  "andel_landbrug": "Andelen af de beskæftigede, der bor i kommunen, som arbejder i landbrug, skovbrug eller fiskeri (opgjort ultimo november).\n\nTallet viser, hvor borgerne arbejder, ikke hvilke virksomheder der ligger i kommunen.",
+  "andel_industri": "Andelen af de beskæftigede, der bor i kommunen, som arbejder i industri, råstofindvinding og energi- eller vandforsyning (opgjort ultimo november).\n\nTallet viser, hvor borgerne arbejder, ikke hvilke virksomheder der ligger i kommunen.",
+  "andel_offentlig": "Andelen af de beskæftigede, der bor i kommunen, som arbejder i offentlig administration, undervisning, sundhed eller sociale institutioner (opgjort ultimo november). Det er både offentligt og privat ansatte i disse brancher.\n\nTallet viser, hvor borgerne arbejder, ikke hvilke arbejdspladser der ligger i kommunen.",
+
+  "erhvervsindk": "Erhvervsindkomst er indkomst fra arbejde før skat: løn, overskud af egen virksomhed og honorarer.\n\nOffentlige ydelser som dagpenge, kontanthjælp, pension og SU tæller ikke med. Det gør renter og andre indtægter fra formue heller ikke. Tallet er et gennemsnit for de 18-64-årige i kommunen og er i løbende priser, dvs. ikke korrigeret for prisudviklingen.\n\nDer mangler tal for Samsø og Læsø. For hele landet vises mediankommunen.",
+  "dispindk": "Disponibel indkomst er det, der er tilbage at leve for, når skat og renter er betalt.\n\nDen beregnes som alle indkomster (løn, overskud af virksomhed, offentlige ydelser, pension og formueindkomst) plus en beregnet lejeværdi af egen bolig minus skat, renteudgifter og betalt underholdsbidrag.\n\nTallet er et gennemsnit for alle personer på 15 år og derover og er i løbende priser.",
+  "lavindkomst": "Andelen af indbyggerne, der bor i en familie med lav indkomst. Lav indkomst betyder, at familiens disponible indkomst er under halvdelen af medianindkomsten i Danmark.\n\nIndkomsten justeres for familiens størrelse, så en familie med fire personer kan sammenlignes med en enlig.",
+  "gini": "Gini-koefficienten måler, hvor ulige indkomsterne er fordelt mellem indbyggerne. 0 betyder, at alle har samme indkomst. 100 betyder, at én person har al indkomsten.\n\nBeregningen bruger den disponible indkomst justeret for familiens størrelse. Et højere tal betyder større ulighed. Høje tal ses ofte i kommuner med mange meget høje indkomster.",
+
+  "videregaaende": "Andelen af de 25-64-årige, hvis højeste fuldførte uddannelse er videregående. Det dækker kort videregående uddannelse (fx erhvervsakademi), mellemlang (fx professionsbachelor som lærer eller sygeplejerske), bachelor, lang videregående (kandidat) og ph.d.\n\nPersoner med ukendt uddannelse er ikke med i beregningen.",
+  "lvu": "Andelen af de 25-64-årige, der har en lang videregående uddannelse (kandidat- eller masteruddannelse) eller en ph.d. som højeste uddannelse.\n\nPersoner med ukendt uddannelse er ikke med i beregningen.",
+  "erhvervsfaglig": "Andelen af de 25-64-årige, hvis højeste fuldførte uddannelse er en erhvervsuddannelse, dvs. faglærte som fx tømrer, elektriker, frisør, social- og sundhedsassistent eller kontorassistent.\n\nPersoner med ukendt uddannelse er ikke med i beregningen.",
+  "grundskole": "Andelen af de 25-64-årige, der har grundskolen (folkeskolen) som højeste fuldførte uddannelse og hverken har en gymnasial uddannelse, en erhvervsuddannelse eller en videregående uddannelse.\n\nPersoner med ukendt uddannelse er ikke med i beregningen.",
+  "klassekvotient": "Det gennemsnitlige antal elever pr. klasse i kommunens folkeskoler, for alle klassetrin samlet. Frie grundskoler og privatskoler er ikke med.",
+
+  "driftpr": "Nettodriftsudgifter er kommunens løbende udgifter til drift, fx løn til personale i skoler og ældrepleje, ydelser til borgerne og vedligehold. Indtægter som brugerbetaling og refusion fra staten er trukket fra.\n\nTallet stammer fra kommunens regnskab og dækker alle serviceområder (hovedkonto 0-6). Det er delt med antal indbyggere 1. januar og er i løbende priser.",
+  "budgetdriftpr": "De nettodriftsudgifter, kommunen har budgetteret med i sit vedtagne budget, pr. indbygger. Det er samme begreb som nettodriftsudgifter i regnskabet, men det viser planen, ikke det faktiske forbrug.\n\nDanmarks Statistiks tal for budget 2027 offentliggøres i begyndelsen af 2027.",
+  "anlaegpr": "Nettoanlægsudgifter er kommunens investeringer, fx nye skoler, plejecentre, veje og cykelstier, minus anlægsindtægter som salg af grunde og bygninger.\n\nTallet stammer fra kommunens regnskab og er pr. indbygger. Anlægsudgifter svinger meget fra år til år, fordi store projekter falder i bestemte år.",
+  "skatpr": "Kommunens skatteindtægter pr. indbygger: især kommunal indkomstskat, men også grundskyld, dækningsafgift og selskabsskat.\n\nTallet stammer fra kommunens regnskab. Kommuner med mange borgere med høje indkomster får flere skatteindtægter pr. indbygger.",
+  "udligpr": "Generelle tilskud fra staten og udligning mellem kommunerne pr. indbygger.\n\nUdligningen flytter penge fra kommuner med høje skatteindtægter og få udgiftsbehov til kommuner med lave skatteindtægter og store udgiftsbehov. Et positivt tal betyder, at kommunen modtager penge. Et negativt tal betyder, at den betaler.",
+  "skattepct": "Den kommunale indkomstskatteprocent, som borgerne betaler af deres skattepligtige indkomst til kommunen. Kirkeskat er ikke med.",
+  "grundskyld": "Grundskyldspromillen er den ejendomsskat, ejere af grunde betaler til kommunen, i promille af grundværdien. For landbrugsjord gælder en lavere promille, som ikke er vist her.",
+
+  "ng_service": "Serviceudgifter er kommunens udgifter til borgernær service som dagtilbud, skoler, ældrepleje, kultur og administration. Overførsler som kontanthjælp og pension er ikke med.\n\nServiceudgifterne er omfattet af den samlede ramme, som regeringen og KL aftaler hvert år. Tallet er fra kommunens regnskab pr. indbygger.",
+  "ng_gaeld": "Kommunens langfristede gæld, fx lån til investeringer, pr. indbygger ved årets udgang. Gæld til forsyningsselskaber og ældreboliger kan indgå.",
+  "ng_aeldre": "Kommunens udgifter til ældreområdet, fx hjemmehjælp, plejeboliger og træning, pr. indbygger på 65 år og derover.",
+  "ng_folkeskole": "Kommunens udgifter til folkeskolen pr. folkeskoleelev.",
+  "ng_dagtilbud": "Kommunens udgifter til dagtilbud (dagpleje, vuggestue, børnehave og fritidstilbud) pr. barn på 0-10 år.",
+  "ng_sundhed": "Kommunens udgifter til sundhed pr. indbygger, fx forebyggelse, genoptræning, tandpleje og kommunens medfinansiering af regionernes sundhedsvæsen.",
+  "ng_kultur": "Kommunens udgifter til kultur pr. indbygger, fx biblioteker, museer, musikskoler, teatre og kulturhuse.",
+  "ng_transport": "Kommunens udgifter til transport og infrastruktur pr. indbygger, fx drift af veje og busser.",
+  "ng_arbejdsmarked": "Kommunens udgifter til beskæftigelsesindsats pr. indbygger på 16-64 år, fx aktivering, løntilskud og jobcenterets indsatser.",
+
+  "anbragte": "Antal børn og unge på 0-17 år, der er anbragt uden for hjemmet pr. 30. juni, pr. 1.000 indbyggere på 0-17 år. Anbragt betyder, at barnet bor i en plejefamilie, på en døgninstitution, et opholdssted eller lignende.\n\nBørnene tælles i den kommune, der har ansvaret for anbringelsen.",
+  "hjemmehjaelp": "Andelen af kommunens borgere på 67 år og derover, der får hjemmehjælp i eget hjem. Det dækker både praktisk hjælp, fx rengøring, og personlig pleje, fx hjælp til bad.\n\nBeboere i plejebolig er ikke med.",
+  "plejehjem": "Andelen af kommunens borgere på 67 år og derover, der bor på plejehjem eller i en plejebolig.",
+  "traening": "Andelen af kommunens borgere på 67 år og derover, der får genoptræning eller vedligeholdelsestræning fra kommunen efter serviceloven.",
+  "ventetid_pleje": "Den gennemsnitlige ventetid i dage fra en borger på 67 år og derover er visiteret til en plejebolig eller et plejehjem, til borgeren får tilbudt en bolig. Tallet dækker borgere på den generelle venteliste.\n\nKommunen skal efter plejeboliggarantien tilbyde en bolig inden for to måneder. Borgere, der har ønsket et bestemt plejehjem, kan vente længere og er ikke med.",
+
+  "anmeldte": "Antal forbrydelser efter straffeloven, som er anmeldt til politiet i løbet af året, pr. 1.000 indbyggere. Overtrædelser af færdselsloven og særlove er ikke med.\n\nForbrydelserne tælles i den kommune, hvor de er begået, ikke der, hvor gerningsmanden bor. Kommuner med meget natteliv, butikker eller turisme har derfor ofte flere anmeldelser pr. indbygger. Ikke alle forbrydelser bliver anmeldt.",
+  "vold": "Antal anmeldte voldsforbrydelser pr. 1.000 indbyggere i løbet af året. Det dækker fx simpel og grov vold, vold mod offentligt ansatte og psykisk vold.\n\nForbrydelserne tælles i den kommune, hvor de er begået.",
+  "indbrud": "Antal anmeldte indbrud i private boliger pr. 1.000 indbyggere i løbet af året.",
+
+  "boligareal": "Det gennemsnitlige antal kvadratmeter bolig pr. beboer 1. januar: det samlede beboede boligareal delt med antal beboere.\n\nTallet er lavt i byer med mange lejligheder og højt i kommuner med mange parcelhuse.",
+  "nybyggeri": "Antal nye boliger, der er blevet færdigbygget i løbet af året, pr. 1.000 indbyggere. Alle boligtyper tæller med: parcelhuse, rækkehuse, etageboliger, kollegier mv.\n\nTallene bygger på Bygnings- og Boligregistret (BBR). De seneste år kan blive justeret op, når forsinkede registreringer kommer med.",
+  "biler": "Antal personbiler pr. 1.000 indbyggere 1. januar. Både private biler og firmabiler tæller med.\n\nBiler registreres på ejerens adresse, så kommuner med store leasing- eller udlejningsfirmaer kan have højere tal.",
+  "elbiler": "Rene elbiler i procent af alle personbiler 1. januar. Plugin-hybrider tæller ikke som elbiler.",
+
+  "idraet": "Antal medlemskaber af idrætsforeninger under DIF, DGI og Firmaidræt i procent af befolkningen.\n\nÉn person kan være medlem af flere foreninger og tælles så flere gange.",
+  "folkekirke": "Medlemmer af folkekirken i procent af alle indbyggere 1. januar.",
+  "valgdeltagelse": "Andelen af de stemmeberettigede, der stemte ved kommunalvalget. Blanke og ugyldige stemmer tæller med som afgivne stemmer.\n\nKommunalvalg holdes hvert fjerde år, senest i november 2025.",
+
+  "_erhverv": "Figuren viser, hvilke brancher de beskæftigede, der bor i kommunen, arbejder i (opgjort ultimo november). Arbejdspladsen kan ligge i en anden kommune.\n\nBrancherne er Danmarks Statistiks 10-gruppering. Stregen viser fordelingen for hele landet.",
+  "_udgifter": "Figuren viser, hvordan kommunens nettodriftsudgifter fra regnskabet fordeler sig på hovedområder, pr. indbygger. Sociale opgaver og beskæftigelse dækker bl.a. ældrepleje, handicap, kontanthjælp og førtidspension. Undervisning og kultur dækker bl.a. folkeskolen og biblioteker. Dagtilbud til børn hører til sociale opgaver i den kommunale kontoplan.",
+  "_valg": "Figuren viser partiernes andel af de gyldige stemmer ved kommunalvalget i kommunen. Lokale lister og andre er partier og lister uden et reserveret bogstav.\n\nStregen viser landsresultatet.",
+  "_budget": "Oplysningerne om budgetaftalen for 2027 er trukket ud af kommunens egen aftaletekst. Hvor aftaleteksten manglede, er de trukket ud af kommunens nyhed eller pressemeddelelse.\n\nPrioriteterne, besparelserne og finansieringen er sammenfattet automatisk og kan være forkortet. Kvaliteten står på hvert kort. Tjek altid originalen via linkene."
+}

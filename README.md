@@ -38,12 +38,13 @@ Data til en oversigt over de 98 danske kommuner: økonomi, befolkning, beskæfti
 
 ## Hjemmesiden (Kommuneblik)
 
-Mappen `site/` er en statisk hjemmeside uden byggetrin: `index.html`, `style.css`, `app.js` og to datafiler.
+Mappen `site/` er en statisk hjemmeside uden byggetrin: `index.html`, `style.css`, `app.js` og tre datafiler.
 
 | Fil | Laves af |
 |---|---|
 | `site/data/data.json` | `python scripts/byg_site_data.py` (læser `data/dst`, uploads og budgetanalysen) |
 | `site/data/kort.json` | `python scripts/byg_kort.py` (kommunegrænser, kører kun ved behov; kræver `shapely`) |
+| `site/data/forklaringer.json` | Skrevet i hånden: teksten bag infotegnene, én pr. mål. Ret den direkte; afsnit adskilles med en tom linje (`\n\n`). |
 
 Workflowet bygger `data.json` igen efter hver DST-opdatering.
 
