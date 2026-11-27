@@ -2632,30 +2632,35 @@
  "Stevns": {
   "budgetaar": "2027-2030",
   "partier": [
-   "ikke angivet i bilaget"
+   "Socialdemokratiet",
+   "Venstre",
+   "Radikale Venstre",
+   "SF",
+   "Liberal Alliance",
+   "Konservative",
+   "Danmarksdemokraterne",
+   "Dansk Folkeparti"
   ],
   "prioriteter": [
-   "Beredskabskoordinator (0,7 mio. kr.)",
-   "AI-sensorer og dørlåse på plejecentre (0,8 mio. kr.) og opnormering af hjemmetræning (0,5 mio. kr.)",
-   "Forebyggelse af ufrivilligt skolefravær (0,5 mio. kr., modsvarende finansieret)",
-   "Lov-/cirkulæreændringer: 8,3 mio. kr. til dagtilbud (minimumsnormeringer og lavere forældrebetaling) og 2,6 mio. kr. til SFO",
-   "Anlæg 43,5 mio. kr. i 2027: kommunale bygninger, energiforbedringer, kystsikring, klimasikring, trafiksikkerhed, landsby- og udviklingspulje"
+   "Dagtilbud: knap 7 mio. kr. til normeringer; forældrebetaling sænkes fra 25 til 21,3 pct.; 41 mio. kr. fastholdt til kapacitet",
+   "Folkeskolen: 2 mio. kr. kompetenceudvikling, 3,5 mio. kr. lokaler, 2,8 mio. kr. skolepolitisk vision, ny tildelingsmodel fra 2027/28",
+   "Klima- og kystsikring 3 mio. kr. årligt (Strøby Egede); trafiksikkerhedspulje +1 mio. kr.",
+   "Ældre: AI-sensorer og dørlåse på plejecentre, opnormering af hjemmetræning, demensindsats",
+   "Beredskabskoordinator og IT-sikkerhed"
   ],
   "besparelser": [
-   "Prioriteringsforslag -6,9 mio. kr. i 2027 stigende til -67,9 mio. kr. i 2030",
-   "Ikke defineret rammebesparelse: -20 mio. kr. 2028, -40 mio. kr. 2029, -60 mio. kr. 2030",
-   "Reduceret forventning til botilbud, kontrakter og udbud samt overførselsudgifter",
-   "Rammebesparelse på administration og systemer (-0,5 mio. kr.)"
+   "Ingen samlet liste i teksten; prioriteringsforslag -6,9 mio. kr. i 2027 stigende til -67,9 mio. kr. i 2030 (heraf ikke-defineret rammebesparelse -60 mio. kr. i 2030)",
+   "Væsentlige besparelser skal udmøntes fra 2028",
+   "Beskæftigelsesområdet realiserer alle besparelsespotentialer med det samme"
   ],
   "finansiering": [
-   "Skatter 1.534 mio. kr. og tilskud/udligning 329 mio. kr. i 2027",
-   "Låneoptagelse 5 mio. kr. årligt",
-   "Samlet kassetræk 6,4 mio. kr. i 2027"
+   "Likviditet 170-175 mio. kr. ultimo 2026; nettogældsnedbringelse 12 mio. kr. årligt",
+   "Skatter 1.534 mio. kr. og tilskud/udligning 329 mio. kr. i 2027; kassetræk 6,4 mio. kr. i 2027"
   ],
   "skat": "ikke nævnt",
-  "klima": "Ikke selvstændigt; puljer til klimasikring (2 mio. kr.), kystsikring (1 mio. kr.), energiforbedringer (5 mio. kr.) og DK2020 klimahandleplan",
-  "resume": "Stevns har et bilag med tal for budgetaftalen 2027-2030: balance i 2027 med kassetræk 6,4 mio. kr., men en stor ikke-defineret rammebesparelse på 60 mio. kr. fra 2030. Selve aftaleteksten (partier og narrativ) mangler.",
-  "kvalitet": "Kun talbilag; kommune identificeret via stednavne, aftaletekst mangler"
+  "klima": "Klima- og kystsikring 3 mio. kr. årligt; drikkevandsbeskyttelse øges",
+  "resume": "Alle otte partier står bag Stevns-aftalen, der fastholder serviceniveauet og skaber balance, men driften er ikke bæredygtig og kræver store besparelser fra 2028.",
+  "kvalitet": "Kommunens nyhedsside plus talbilag (resultatopgørelse); selve aftale-PDF ikke modtaget"
  },
  "Samsø": {
   "budgetaar": "2027",
@@ -2968,5 +2973,145 @@
   "klima": "ikke nævnt (energitiltag i kommunale bygninger)",
   "resume": "Høje-Taastrup har et syvpartiforlig, der er rettet mod store investeringer (Sundheds- og bevægelseshus ca. 265 mio. kr.) og finansieres bl.a. via omlægning af leasing og deponering, med mindre effektiviseringer.",
   "kvalitet": "Fuld forligstekst og prioriteringskatalog; kommune bekræftet"
+ },
+ "Vejen": {
+  "budgetaar": "2027",
+  "partier": [
+   "Alle partier i byrådet (budgetforslag)"
+  ],
+  "prioriteter": [
+   "Serviceudgifter hævet med knap 50 mio. kr.; ca. 38 mio. kr. til udsatte børn og unge og borgere med handicap",
+   "Flere ældre og lovændringer (minimumsnormeringer)",
+   "Anlæg 83 mio. kr.; betydelig gældsafvikling"
+  ],
+  "besparelser": [
+   "Driftsreduktioner på 25 mio. kr., ca. halvdelen effektiviseringer og halvdelen påvirker serviceniveau"
+  ],
+  "finansiering": [
+   "Indtægter 3,412 mia. kr. mod driftsudgifter 3,301 mia. kr. og anlæg 83 mio. kr.",
+   "Evt. yderligere serviceudgiftsreduktioner som engangsbesparelser i administrationen"
+  ],
+  "skat": "ikke nævnt",
+  "klima": "ikke nævnt",
+  "resume": "Alle partier i Vejen står bag et balanceret budgetforslag for 2027 med 25 mio. kr. i driftsreduktioner og 38 mio. kr. ekstra til udsatte børn, unge og handicap. Endeligt vedtaget 6. oktober; regnskabstal hentes senere.",
+  "kvalitet": "Kun pressemeddelelse om budgetforslag; aftaletekst mangler"
+ },
+ "Brønderslev": {
+  "budgetaar": "2027",
+  "partier": [
+   "Venstre",
+   "Socialdemokratiet",
+   "Konservative",
+   "Danmarksdemokraterne",
+   "Dansk Folkeparti",
+   "Borgerlisten"
+  ],
+  "prioriteter": [
+   "Ældre: 9,6 mio. kr. til plejecentre i 2027",
+   "Skoler og trivsel: pulje på 8 mio. kr. (bl.a. skolefravær)",
+   "Tryghedsteknologi 1 mio. kr. (faldsensorer, nødkald)",
+   "Anlæg på skoler og dagtilbud; ældrevenlige boliger"
+  ],
+  "besparelser": [
+   "Ikke nævnt i nyheden"
+  ],
+  "finansiering": [
+   "Samlet forbrug lidt over 3 mia. kr. i 2027; detaljer i talbilag"
+  ],
+  "skat": "ikke nævnt",
+  "klima": "ikke nævnt",
+  "resume": "Brønderslev har budgetaftale med Venstre, S, K, DD, DF og Borgerlisten (EL og SF trak sig). Ekstra penge til ældre, skoler og tryghedsteknologi.",
+  "kvalitet": "Nyhed plus kort talbilag"
+ },
+ "Skive": {
+  "budgetaar": "2027",
+  "partier": [
+   "Venstre",
+   "Danmarksdemokraterne",
+   "Dansk Folkeparti",
+   "Liberal Alliance"
+  ],
+  "prioriteter": [
+   "Anlæg i alt godt 107 mio. kr. (historisk stort)",
+   "15 mio. kr. til ekstra asfaltprojekter",
+   "Ældre 4,9 mio. kr. (sygeplejefaglige ressourcer, mestringsterapeuter)",
+   "Socialområdet 7,86 mio. kr.",
+   "Skolefravær 1 mio. kr. og skolebusser 1,5 mio. kr. årligt",
+   "UNESCO Knudeklint/Fur, ny salthal, musikskole, vækststrategi 0,5 mio. kr."
+  ],
+  "besparelser": [
+   "Ikke nævnt"
+  ],
+  "finansiering": [
+   "Sund økonomi; ekstraordinær gældsindfrielse 266 mio. kr. siden 2021 har sænket rente/afdrag"
+  ],
+  "skat": "ikke nævnt",
+  "klima": "Pulje til opkøb af arealer til skov og natur",
+  "resume": "Skive vedtog budget 2027 med flertal af V, DD, DF og LA. Fokus på store anlæg (107 mio. kr.), veje, ældre og socialområdet. Skatter 2.611 mio. kr. og tilskud 1.060 mio. kr. i budgettet.",
+  "kvalitet": "Nyhed og vedtaget budget (ingen budgetaftale-tekst)"
+ },
+ "Lemvig": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "Venstre",
+   "Socialdemokratiet",
+   "Danmarksdemokraterne",
+   "Konservative",
+   "Radikale Venstre",
+   "SF",
+   "Land- og Bylisten"
+  ],
+  "prioriteter": [
+   "24 mio. kr. reserveret til håndtering af FMC Rønlands lukning (ca. 450 medarbejdere)",
+   "Svømmehal i Lemvig Idræts- og Kulturcenter: yderligere 15 mio. kr. (samlet 25 mio. kr.)",
+   "Anlægsinvesteringer 59,7 mio. kr. i 2027, bl.a. computere til skoler og dagtilbud",
+   "Udvidelser 9,7 mio. kr.; pulje 5 mio. kr. til erhvervsområdet",
+   "Bosætning, kommunikation, AI-projektleder, Erhvervspark Lemvig og energipark Volder Mark"
+  ],
+  "besparelser": [
+   "Tilpasninger for 14,2 mio. kr. i 2027",
+   "Ressourcepædagogkorps nedlægges (-1,2 mio. kr., 1,3 mio. kr. til dagtilbud)",
+   "Midlertidig lederbesparelse 0,5 mio. kr.",
+   "Tilskud til idrætshaller -5 pct. årligt; 10. klasse harmoniseres",
+   "Drøftelse af skole- og dagtilbudsstruktur frem mod 2030"
+  ],
+  "finansiering": [
+   "Ekstraordinært tilskud 20 mio. kr. og VE-tilskud 5,3 mio. kr.",
+   "Stærk kassebeholdning bruges til at handle hurtigt"
+  ],
+  "skat": "ikke nævnt",
+  "klima": "Grøn energi, VE-tilskud, energipark",
+  "resume": "Lemvig-aftalen (11. sept.) er præget af FMC-lukningen. 14,2 mio. kr. i tilpasninger og 9,7 mio. kr. i udvidelser, 24 mio. kr. reserveret til lukningens følger, støttet af 25 mio. kr. i tilskud.",
+  "kvalitet": "Fuld aftaletekst"
+ },
+ "Herlev": {
+  "budgetaar": "2027",
+  "partier": [
+   "Socialdemokratiet",
+   "Konservative",
+   "SF",
+   "Dansk Folkeparti",
+   "Venstre",
+   "Enhedslisten"
+  ],
+  "prioriteter": [
+   "Styrket likviditet til fremtidige velfærdsinvesteringer",
+   "Specialiserede børne- og voksenområde styrkes med demografiregulering",
+   "Kapacitet til by i vækst: dagtilbud, skole, fritid, ældre; plejecenter Hammergården",
+   "Lavere og mere realistisk anlægsprogram 2027",
+   "Økonomisk strategi til budget 2028; bystrategisk 10-årsoplæg",
+   "Grøn omstilling og klimarobusthed"
+  ],
+  "besparelser": [
+   "Lavere anlægsprogram; detaljer i bilag"
+  ],
+  "finansiering": [
+   "Nye skatte- og tilskudsskøn forbedrer likviditeten med 132,0 mio. kr.",
+   "Merindtægt fra grundskyld 40,5 mio. kr. årligt fra 2031"
+  ],
+  "skat": "Skatten holdes i ro (uændret)",
+  "klima": "Eget afsnit Klima, teknik og miljø; grøn omstilling",
+  "resume": "Herlevs aftale (15. sept.) prioriterer likviditet og kapacitet i en voksende by, løfter det specialiserede område og holder skatten i ro.",
+  "kvalitet": "Fuld aftaletekst"
  }
 }

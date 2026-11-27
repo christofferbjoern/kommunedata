@@ -67,12 +67,14 @@
  },
  "Brønderslev": {
   "side": "https://www.bronderslev.dk/om-kommunen/budget-regnskab-og-takster/budget-og-regnskab",
-  "note": "Budget 2027 ikke offentliggjort på budgetsiden (seneste er 2026). Budgetsiden har endnu kun 2024-2026. Upload 'Budget-2027-BK--Budgetforlig' er et talbilag, kommune er et gæt (BK).",
-  "regneark": "https://github.com/christofferbjoern/kommunedata/blob/main/data/budgetaftaler/2027/filer/Br%C3%B8nderslev/upload_aftale_1_Budget-2027-BK--Budgetforlig.pdf"
+  "note": "Budget 2027 ikke offentliggjort på budgetsiden (seneste er 2026). Budgetsiden har endnu kun 2024-2026. Upload 'Budget-2027-BK--Budgetforlig' er et talbilag, kommune er et gæt (BK). Aftale bekræftet af Christoffer: nyhed plus talbilag.",
+  "regneark": "https://github.com/christofferbjoern/kommunedata/blob/main/data/budgetaftaler/2027/filer/Br%C3%B8nderslev/upload_aftale_1_Budget-2027-BK--Budgetforlig.pdf",
+  "aftale": "https://www.bronderslev.dk/om-kommunen/nyheder/nyheder/budgettet-for-broenderslev-kommune-er-i-maal | https://www.bronderslev.dk/p/Demokrati/Byraad%20og%20udvalg/Budget-2027-BK--Budgetforlig.pdf"
  },
  "Fanø": {
   "side": "https://fanoe.dk/kommunen/oekonomi/budgetforlig",
-  "note": "Budgetforlig 2027-2030 ikke på budgetforlig-siden (seneste 2026-2029). Budgetforlig for 2027-2030 er endnu ikke lagt på budgetforlig-siden (seneste er 2026-2029). Upload fra Christoffer er budgetforlig 2026-2029, ikke 2027; 2027-aftale mangler."
+  "note": "Budgetforlig 2027-2030 ikke på budgetforlig-siden (seneste 2026-2029). Budgetforlig for 2027-2030 er endnu ikke lagt på budgetforlig-siden (seneste er 2026-2029). Upload fra Christoffer er budgetforlig 2026-2029, ikke 2027; 2027-aftale mangler. Hovedoversigt budgetgrundlag 2027-2030 modtaget; 2027-aftaletekst mangler stadig.",
+  "regneark": "https://github.com/christofferbjoern/kommunedata/blob/main/data/budgetaftaler/2027/filer/Fan%C3%B8/upload_regneark_2_Fano-hovedoversigt-budgetgrundlag-2027-2030.pdf"
  },
  "Esbjerg": {
   "side": "https://www.esbjerg.dk/om-kommunen/kommunens-oekonomi/kommunens-budget/aftale-om-budget-2027-2030",
@@ -180,8 +182,9 @@
   "note": "Budgetoversigt og klimabudget ikke søgt endnu."
  },
  "Herlev": {
-  "note": "Kun budgetforslag 2027 fundet: https://cdn.herlev.dk/herlevkommune/Media/639223001841168679/budgetforslag-2027.pdf. Aftaletekst ikke fundet. Budgetforslag 2027: https://cdn.herlev.dk/herlevkommune/Media/639223001841168679/budgetforslag-2027.pdf Upload er budgetforslag, ikke aftale.",
-  "regneark": "https://github.com/christofferbjoern/kommunedata/blob/main/data/budgetaftaler/2027/filer/Herlev/upload_regneark_1_budgetforslag-2027.pdf"
+  "note": "Kun budgetforslag 2027 fundet: https://cdn.herlev.dk/herlevkommune/Media/639223001841168679/budgetforslag-2027.pdf. Aftaletekst ikke fundet. Budgetforslag 2027: https://cdn.herlev.dk/herlevkommune/Media/639223001841168679/budgetforslag-2027.pdf Upload er budgetforslag, ikke aftale. Aftale modtaget som upload.",
+  "regneark": "https://github.com/christofferbjoern/kommunedata/blob/main/data/budgetaftaler/2027/filer/Herlev/upload_regneark_1_budgetforslag-2027.pdf",
+  "aftale": "https://github.com/christofferbjoern/kommunedata/blob/main/data/budgetaftaler/2027/filer/Herlev/upload_aftale_2_Herlev-budgetaftale-2027.pdf"
  },
  "Hvidovre": {
   "aftale": "https://www.hvidovre.dk/Media/639253163602882012/Budgetaftale%20for%20Hvidovre%20Kommune%202027%20-%20ENDELIG.pdf",
@@ -195,8 +198,8 @@
  },
  "Horsens": {
   "side": "https://horsens.dk/omhorsenskommune/faktaomhorsenskommune/budgetaftaler",
-  "note": "Kun budgetforslag 2027-2030 fundet: https://horsens.dk/media/gtcd0gg2/budgetforslag2027-2030.pdf. Toårig aftale; seneste offentliggjorte aftale er 2024-2025 — 2026-2027-aftale ikke fundet. Kommunens budgetside viser kun budgetforslag 2027-2030 (https://horsens.dk/media/gtcd0gg2/budgetforslag2027-2030.pdf), ingen vedtaget aftale endnu. Upload er budgetforslag, ikke aftale.",
-  "regneark": "https://github.com/christofferbjoern/kommunedata/blob/main/data/budgetaftaler/2027/filer/Horsens/upload_regneark_1_budgetforslag2027-2030.pdf"
+  "note": "Kun budgetforslag 2027-2030 fundet: https://horsens.dk/media/gtcd0gg2/budgetforslag2027-2030.pdf. Toårig aftale; seneste offentliggjorte aftale er 2024-2025 — 2026-2027-aftale ikke fundet. Kommunens budgetside viser kun budgetforslag 2027-2030 (https://horsens.dk/media/gtcd0gg2/budgetforslag2027-2030.pdf), ingen vedtaget aftale endnu. Upload er budgetforslag, ikke aftale. Budgetforslag som tekst; aftale mangler.",
+  "regneark": "https://github.com/christofferbjoern/kommunedata/blob/main/data/budgetaftaler/2027/filer/Horsens/upload_regneark_2_budgetforslag2027-2030_tekst.txt"
  },
  "Holstebro": {
   "side": "https://www.holstebro.dk/budget2027",
@@ -254,7 +257,8 @@
  },
  "Lemvig": {
   "side": "https://lemvig.dk/om-kommunen/oekonomi",
-  "note": "Budgetaftale 2027 ikke fundet. Upload er budgetvejledning 2027 (proces, 30. jan. 2026), ikke selve aftalen."
+  "note": "Budgetaftale 2027 ikke fundet. Upload er budgetvejledning 2027 (proces, 30. jan. 2026), ikke selve aftalen. Aftale modtaget som upload.",
+  "aftale": "https://github.com/christofferbjoern/kommunedata/blob/main/data/budgetaftaler/2027/filer/Lemvig/upload_aftale_2_Lemvig-budgetaftale-2027-11-september-2026.pdf"
  },
  "Lolland": {
   "side": "https://www.lolland.dk/politik/politikker-og-indsatsomraader/oekonomi-budgetproces-2027/baggrund-for-budget-2027",
@@ -378,8 +382,9 @@
  },
  "Skive": {
   "side": "https://skive.dk/demokrati-og-kommune/oekonomi/budget/budget-2027/ | https://skive.dk/news/stabe-hr-og-kommunikation/budget-2027/",
-  "note": "Vedtaget budget 2027 (PDF, 6 MB) linket på siden, men URL kunne ikke udtrækkes. Nyhed: https://skive.dk/news/stabe-hr-og-kommunikation/budget-2027/ Budget 2027 vedtaget okt. 2026; budget-PDF linkes på siden uden synlig URL. Upload er vedtaget budget, ikke aftale.",
-  "regneark": "https://github.com/christofferbjoern/kommunedata/blob/main/data/budgetaftaler/2027/filer/Skive/upload_regneark_1_vedtaget-budget-2027.pdf"
+  "note": "Vedtaget budget 2027 (PDF, 6 MB) linket på siden, men URL kunne ikke udtrækkes. Nyhed: https://skive.dk/news/stabe-hr-og-kommunikation/budget-2027/ Budget 2027 vedtaget okt. 2026; budget-PDF linkes på siden uden synlig URL. Upload er vedtaget budget, ikke aftale. Aftale = nyhed om vedtaget budget (V, DD, DF, LA); vedtaget budget som regneark.",
+  "regneark": "https://github.com/christofferbjoern/kommunedata/blob/main/data/budgetaftaler/2027/filer/Skive/upload_regneark_1_vedtaget-budget-2027.pdf",
+  "aftale": "https://www.skivekommune.gopublic.dk/nyheder/2026/okt/budget-2027-paa-plads-med-ambitioest-anlaegsbudget"
  },
  "Sorø": {
   "aftale": "https://cdn.soroe.dk/soroekommune/Media/639253310621619466/budgetforligstekst-2027-2030-soroe-kommune.pdf",
@@ -421,8 +426,10 @@
   "aftale": "https://github.com/christofferbjoern/kommunedata/blob/main/data/budgetaftaler/2027/filer/Slagelse/upload_aftale_1_budgetforlig-2027_170926.pdf"
  },
  "Stevns": {
-  "note": "Budgetaftale 2027 ikke fundet. Upload er talbilag (resultatopgørelse/ændringer) til budgetaftalen; aftaletekst mangler. Kommune identificeret via stednavne.",
-  "regneark": "https://github.com/christofferbjoern/kommunedata/blob/main/data/budgetaftaler/2027/filer/Stevns/upload_ukendt_3_bilag_budgetaftale_2027_2030.pdf | https://github.com/christofferbjoern/kommunedata/blob/main/data/budgetaftaler/2027/filer/Stevns/upload_ukendt_4_resultatopgoerelse_2027_2030.pdf"
+  "note": "Budgetaftale 2027 ikke fundet. Upload er talbilag (resultatopgørelse/ændringer) til budgetaftalen; aftaletekst mangler. Kommune identificeret via stednavne. Aftale = nyhedsside (otte partier); bilag og resultatopgørelse er kommunens egne filer fra Stevns.",
+  "regneark": "https://github.com/christofferbjoern/kommunedata/blob/main/data/budgetaftaler/2027/filer/Stevns/upload_ukendt_3_bilag_budgetaftale_2027_2030.pdf | https://github.com/christofferbjoern/kommunedata/blob/main/data/budgetaftaler/2027/filer/Stevns/upload_ukendt_4_resultatopgoerelse_2027_2030.pdf",
+  "aftale": "https://www.stevns.dk/nyheder/2026/september/budgetaftale-2027-2030-for-stevns-kommune",
+  "side": "https://www.stevns.dk/nyheder/2026/september/budgetaftale-2027-2030-for-stevns-kommune"
  },
  "Sønderborg": {
   "aftale": "https://sonderborgkommune.dk/sites/default/files/2026-09/Budgetaftale%202027-2030.pdf",
@@ -480,8 +487,9 @@
   "aftale": "https://www.tvsyd.dk/vejle/enigt-byrad-lander-budgetaftale-c2ab4"
  },
  "Vejen": {
-  "note": "Alle partier bag budgetforslag 2027 (https://vejen.dk/presserum/pressemeddelelser-og-nyheder/alle-partier-staar-bag-balanceret-budgetforslag-for-2027); aftale-PDF ikke fundet. Alle partier bag budgetforslag 2027 (høring aug. 2026): ca. 38 mio. kr. til udsatte børn, unge og handicap, driftsreduktioner 25 mio. kr., anlæg 83 mio. kr. Endelig aftaletekst ikke fundet.",
-  "side": "https://vejen.dk/presserum/pressemeddelelser-og-nyheder/alle-partier-staar-bag-balanceret-budgetforslag-for-2027"
+  "note": "Alle partier bag budgetforslag 2027 (https://vejen.dk/presserum/pressemeddelelser-og-nyheder/alle-partier-staar-bag-balanceret-budgetforslag-for-2027); aftale-PDF ikke fundet. Alle partier bag budgetforslag 2027 (høring aug. 2026): ca. 38 mio. kr. til udsatte børn, unge og handicap, driftsreduktioner 25 mio. kr., anlæg 83 mio. kr. Endelig aftaletekst ikke fundet. Kun pressemeddelelse om budgetforslag; regnskabstal hentes senere (jf. Christoffer).",
+  "side": "https://vejen.dk/presserum/pressemeddelelser-og-nyheder/alle-partier-staar-bag-balanceret-budgetforslag-for-2027",
+  "aftale": "https://vejen.dk/presserum/pressemeddelelser-og-nyheder/alle-partier-staar-bag-balanceret-budgetforslag-for-2027"
  },
  "Vordingborg": {
   "aftale": "https://cdn.vordingborg.dk/vordingborgkommune/Media/639257557624264399/budgetaftale-2027-2030.pdf",
