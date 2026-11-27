@@ -32,6 +32,7 @@ Data til en oversigt over de 98 danske kommuner: økonomi, befolkning, beskæfti
 - RAS301: beskæftigede efter bopæl og branche
 - AUP01: fuldtidsledige i pct. af arbejdsstyrken (månedlig)
 - NGLK: udvalgte kommunale regnskabsnøgletal
+- Flere kommunetal: GALDER (gennemsnitsalder), HISB77 (middellevetid), FRKM126 (befolkningsfremskrivning), KM6 (folkekirken), IFOR12P og IFOR41 (lavindkomst og ulighed), AFSTB4 (pendling), ERHV2A (arbejdspladser), AUH01 (offentligt forsørgede), DEMO19 (nye virksomheder), KVOTIEN (klassestørrelse), ANB7 (anbragte børn), AED21 og AED16 (ældrepleje), STRAF11 (anmeldte forbrydelser), BOL106, BYGV33 og EJEN88 (boliger og boligsalg), BIL707 og BIL710 (biler og elbiler), TURIST (overnatninger), IDRAKT02 (idrætsmedlemskaber), AREALDK2 (arealdække), KVRES (kommunalvalg)
 
 `data/dst/_katalog.json` er en liste over alle aktive tabeller i Statistikbanken med deres variabler.
 
