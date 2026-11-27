@@ -74,6 +74,22 @@ def vaelg_vaerdier(var: dict, tabel: str = "") -> list:
     return ["*"]
 
 
+def hent_fil(body: dict, tmp: Path) -> int:
+    r = post("data", body, stream=True)
+    r.raw.decode_content = True
+    laeser = csv.reader(io.TextIOWrapper(r.raw, encoding="utf-8-sig"), delimiter=";")
+    n = 0
+    with gzip.open(tmp, "wt", encoding="utf-8", newline="") as f:
+        w = csv.writer(f, delimiter=";")
+        w.writerow(next(laeser))
+        for raekke in laeser:
+            if raekke[-1].strip() in ("", "0", "..", "-"):
+                continue
+            w.writerow(raekke)
+            n += 1
+    return n
+
+
 def hent_tabel(tabel: str) -> None:
     mappe = UD / tabel
     mappe.mkdir(parents=True, exist_ok=True)
@@ -101,24 +117,18 @@ def hent_tabel(tabel: str) -> None:
                      for v in info["variables"]]
         body = {"table": tabel, "format": "BULK", "lang": "da", "valuePresentation": "CodeAndValue",
                 "variables": variabler}
-        try:
-            r = post("data", body, stream=True)
-        except Exception as e:  # noqa: BLE001
-            print(f"!! {tabel} {aar}: {e}", flush=True)
-            continue
-        r.raw.decode_content = True
-        laeser = csv.reader(io.TextIOWrapper(r.raw, encoding="utf-8-sig"), delimiter=";")
-        n = 0
         tmp = fil.with_suffix(".tmp")
-        with gzip.open(tmp, "wt", encoding="utf-8", newline="") as f:
-            w = csv.writer(f, delimiter=";")
-            w.writerow(next(laeser))
-            for raekke in laeser:
-                vaerdi = raekke[-1].strip()
-                if vaerdi in ("", "0", "..", "-"):
-                    continue
-                w.writerow(raekke)
-                n += 1
+        n = None
+        for forsoeg in range(3):  # forbindelsen til DST kan blive afbrudt midt i en stor fil
+            try:
+                n = hent_fil(body, tmp)
+                break
+            except Exception as e:  # noqa: BLE001
+                print(f"!! {tabel} {aar} (forsøg {forsoeg + 1}): {e}", flush=True)
+                time.sleep(15 * (forsoeg + 1))
+        if n is None:
+            tmp.unlink(missing_ok=True)
+            continue
         tmp.replace(fil)
         print(f"{tabel} {aar}: {n} rækker", flush=True)
         time.sleep(1)

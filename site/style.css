@@ -1,0 +1,194 @@
+/* VOICE   work: a statistical atlas for municipal politicians and journalists, dense and exact
+   IDEA    Danmarks Statistiks kommuneatlas – a printed yearbook page with a map as its plate
+   PICTURE the choropleth map of the 98 kommuner, driven by the chosen measure; profiles get a locator map
+   COLOUR  white paper, near-black ink, Dannebrog red band and accent, one blue ramp for all data
+   TYPE    Archivo 800 for titles and figures + Inter for text
+   LAYOUT  red band with name and tabs; finding title; figure row; map left with ranked list right; phone stacks */
+
+:root {
+  color-scheme: light dark;
+  --bg: light-dark(#ffffff, #121212);
+  --plane: light-dark(#f6f6f4, #0b0b0b);
+  --ink: light-dark(#191919, #efefef);
+  --ink2: light-dark(#5f5f5f, #a3a3a3);
+  --rule: light-dark(#e3e3e0, #303030);
+  --axis: light-dark(#c2c2c2, #474747);
+  --red: light-dark(#c8102e, #e2404f);
+  --band: light-dark(#c8102e, #a3192b);  /* topbåndet: hvid tekst skal have kontrast nok */
+  --redink: #ffffff;
+  --s1: light-dark(#257de0, #338ced);
+  --s2: light-dark(#f47230, #e76624);
+  --s3: light-dark(#00b894, #00a888);
+  --s4: light-dark(#f2a600, #d28e05);
+  --s5: light-dark(#ee7fac, #e24d8b);
+  --s6: light-dark(#008a17, #0aac23);
+  --ref: light-dark(#8a8a8a, #8c8c8c);
+  --q0: light-dark(#cce3fd, #0e3d7e);
+  --q1: light-dark(#9dc8f7, #1757ac);
+  --q2: light-dark(#519ced, #2370cd);
+  --q3: light-dark(#2370cd, #519ced);
+  --q4: light-dark(#0e3d7e, #9dc8f7);
+  /* divergerende: negativ = rød, positiv = blå, grå midte */
+  --dn2: light-dark(#c62f30, #eb6263);
+  --dn1: light-dark(#f4a3a3, #a33a3b);
+  --d0: light-dark(#efefef, #383838);
+  --dp1: light-dark(#84b9f3, #1b64be);
+  --dp2: light-dark(#1757ac, #519ced);
+  --na: light-dark(#e9e9e9, #2a2a2a);
+  --tip: light-dark(#ffffff, #1f1f1f);
+}
+:root[data-theme=light] { color-scheme: light; }
+:root[data-theme=dark] { color-scheme: dark; }
+* { box-sizing: border-box; min-width: 0; }
+html { scroll-padding-top: 72px; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.55 Inter, system-ui, -apple-system, "Segoe UI", sans-serif; overflow-x: clip; }
+a { color: inherit; }
+h1, h2, h3, .fig-num { font-family: Archivo, Inter, system-ui, sans-serif; letter-spacing: -.02em; }
+h2 { font-size: clamp(28px, 3.6vw, 44px); line-height: 1.08; margin: 0 0 12px; text-wrap: balance; font-weight: 800; }
+h3 { font-size: 20px; line-height: 1.2; margin: 0 0 6px; font-weight: 700; }
+p { margin: 0 0 12px; }
+.wrap { max-width: 1240px; margin: 0 auto; padding-left: max(4vw, 16px); padding-right: max(4vw, 16px); }
+.band { padding-top: clamp(22px, 3vw, 40px); padding-bottom: clamp(22px, 3vw, 40px); }
+.muted { color: var(--ink2); }
+.small { font-size: 14px; }
+
+/* header */
+.top { background: var(--band); color: var(--redink); }
+.top .wrap { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 24px; padding-top: 14px; padding-bottom: 0; }
+.brand { display: flex; align-items: baseline; gap: 14px; flex-wrap: wrap; flex: 1 1 360px; }
+.brand h1 { font-size: 30px; line-height: 1; margin: 0; font-weight: 800; }
+.brand span { font-size: 15px; opacity: .92; }
+.pick { display: flex; align-items: center; gap: 8px; font-size: 14px; }
+.pick select { min-width: 190px; }
+nav.tabs { flex: 1 1 100%; display: flex; gap: 2px; overflow-x: auto; margin-top: 6px; scrollbar-width: none; }
+nav.tabs a { flex: none; padding: 10px 14px 12px; text-decoration: none; font-weight: 600; font-size: 15px; border-bottom: 3px solid transparent; opacity: .85; }
+nav.tabs a:hover { opacity: 1; }
+nav.tabs a[aria-current=page] { opacity: 1; border-bottom-color: var(--redink); }
+.snap { background: var(--plane); border-bottom: 1px solid var(--rule); font-size: 13.5px; color: var(--ink2); }
+.snap .wrap { padding-top: 7px; padding-bottom: 7px; }
+
+/* controls */
+select, input[type=search], button { font: inherit; font-size: 16px; color: var(--ink); background: var(--bg); border: 1px solid var(--axis); border-radius: 8px; min-height: 44px; padding: 8px 12px; }
+.top select { border-color: transparent; }
+button { cursor: pointer; background: var(--plane); }
+button[aria-pressed=true] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+select:focus-visible, input:focus-visible, button:focus-visible, a:focus-visible, svg:focus-visible, path:focus-visible { outline: 3px solid var(--s1); outline-offset: 2px; }
+.filters { display: flex; flex-wrap: wrap; gap: 10px 14px; align-items: end; margin: 0 0 16px; }
+.filters label { display: grid; gap: 4px; font-size: 14px; color: var(--ink2); }
+.chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.chips button { min-height: 40px; font-size: 15px; padding: 6px 12px; }
+
+/* figures */
+.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(10.5em, 1fr)); border-top: 2px solid var(--ink); margin: 18px 0 8px; }
+.tile { padding: 12px 14px 12px 0; border-bottom: 1px solid var(--rule); }
+.tile .l { font-size: 14px; color: var(--ink2); line-height: 1.3; }
+.tile .fig-num { font-size: clamp(24px, 2.6vw, 32px); font-weight: 800; line-height: 1.15; white-space: nowrap; }
+.tile .d { font-size: 13.5px; color: var(--ink2); }
+.up { color: light-dark(#006c10, #53c556); }
+.down { color: light-dark(#b3261e, #ff8a80); }
+
+/* layout grids */
+.split { display: grid; grid-template-columns: minmax(0, 1.35fr) minmax(0, 1fr); gap: 28px; align-items: start; }
+.split.prof { grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr); }
+.grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 360px), 1fr)); gap: 28px 32px; }
+.panel { border-top: 1px solid var(--ink); padding-top: 10px; }
+section + section { border-top: 1px solid var(--rule); }
+
+/* map */
+.mapbox { position: relative; }
+.mapbox svg { width: 100%; height: auto; display: block; max-height: 78vh; }
+.mapbox path { stroke: var(--bg); stroke-width: .7; vector-effect: non-scaling-stroke; cursor: pointer; }
+.mapbox path:hover, .mapbox path.hl { stroke: var(--ink); stroke-width: 1.6; }
+.mapbox path.sel { stroke: var(--red); stroke-width: 2.4; }
+.mapbox rect.inset { fill: none; stroke: var(--axis); stroke-width: 1; vector-effect: non-scaling-stroke; }
+.zoom { position: absolute; left: 0; bottom: 0; font-size: 14px; min-height: 40px; }
+.c0 { fill: var(--q0); } .c1 { fill: var(--q1); } .c2 { fill: var(--q2); } .c3 { fill: var(--q3); } .c4 { fill: var(--q4); }
+.dn2 { fill: var(--dn2); } .dn1 { fill: var(--dn1); } .d0 { fill: var(--d0); } .dp1 { fill: var(--dp1); } .dp2 { fill: var(--dp2); }
+.cna { fill: url(#na-hatch); }
+.legend i.na { background: repeating-linear-gradient(45deg, var(--ink2) 0 1px, transparent 1px 4px); outline: 1px solid var(--axis); }
+.loc { fill: var(--na); } .loc.me { fill: var(--s1); }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 13.5px; color: var(--ink2); margin: 8px 0; }
+.legend i { display: inline-block; width: 14px; height: 14px; border-radius: 3px; vertical-align: -2px; margin-right: 5px; }
+.legend i.line { height: 3px; border-radius: 2px; vertical-align: 4px; width: 18px; }
+
+/* ranked rows */
+.rows { display: grid; gap: 2px; }
+.row { display: grid; grid-template-columns: 2.2em minmax(7em, 11em) minmax(0, 1fr) max-content; gap: 10px; align-items: center; font-size: 14.5px; padding: 2px 0; border-radius: 6px; text-decoration: none; }
+.row:hover { background: var(--plane); }
+.row .n { color: var(--ink2); text-align: right; font-variant-numeric: tabular-nums; }
+.row .v { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.track { position: relative; height: 14px; }
+.track b { position: absolute; top: 1px; height: 12px; background: var(--q1); border-radius: 0 4px 4px 0; }
+.track b.neg { border-radius: 4px 0 0 4px; }
+.row.me .track b { background: var(--s1); }
+.row.me { font-weight: 700; }
+.track .zero { position: absolute; top: -2px; bottom: -2px; width: 1px; background: var(--axis); }
+.row.br { grid-template-columns: minmax(9em, 17em) minmax(0, 1fr) max-content; }
+.row.br .track b { background: var(--s1); }
+.legend i.mk { width: 2px; height: 14px; border-radius: 0; background: var(--ink); opacity: .55; }
+.track .med { position: absolute; top: -3px; bottom: -3px; width: 2px; background: var(--ink); opacity: .55; }
+
+/* charts */
+.chart h3 { font-size: 17px; margin: 0; }
+.chart .sub { font-size: 13.5px; color: var(--ink2); margin: 0 0 4px; }
+.fig { position: relative; height: 230px; }
+.fig > svg { position: absolute; inset: 0; width: 100%; height: 100%; overflow: visible; }
+.fig text { font: 12.5px Inter, system-ui, sans-serif; fill: var(--ink2); font-variant-numeric: tabular-nums; }
+.fig text.end { fill: var(--ink); font-weight: 600; paint-order: stroke; stroke: var(--bg); stroke-width: 4px; }
+.fig .grid { stroke: var(--rule); stroke-width: 1; }
+.fig .base { stroke: var(--axis); stroke-width: 1; }
+.fig .ln { fill: none; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; }
+.fig .dot { stroke: var(--bg); stroke-width: 2; }
+.fig .cross { stroke: var(--ink2); stroke-width: 1; }
+details.tbl { margin-top: 4px; font-size: 14px; }
+details.tbl summary { cursor: pointer; color: var(--ink2); min-height: 32px; }
+.scroll { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; font-size: 14.5px; }
+th, td { padding: 7px 8px; border-bottom: 1px solid var(--rule); text-align: left; vertical-align: top; }
+th { font-weight: 600; color: var(--ink2); font-size: 13.5px; white-space: nowrap; }
+th button { all: unset; cursor: pointer; }
+th button:focus-visible { outline: 2px solid var(--s1); }
+td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+tbody tr:hover { background: var(--plane); }
+#tip { position: fixed; z-index: 20; pointer-events: none; background: var(--tip); color: var(--ink); border: 1px solid var(--rule); border-radius: 8px; padding: 8px 10px; font-size: 13.5px; box-shadow: 0 2px 10px rgba(0,0,0,.12); max-width: 260px; display: none; }
+#tip .tv { font-weight: 700; font-size: 15px; font-variant-numeric: tabular-nums; }
+#tip .tr { display: flex; align-items: center; gap: 8px; }
+#tip .tr i { width: 14px; height: 3px; border-radius: 2px; flex: none; }
+
+/* segmented bar */
+.seg { display: flex; gap: 2px; height: 28px; margin: 4px 0 2px; }
+.seg div { border-radius: 4px; color: #fff; font-size: 12.5px; font-weight: 600; padding: 5px 0 0 6px; overflow: hidden; white-space: nowrap; }
+.seg div.dk { color: #0b0b0b; }
+.seglab { font-size: 14px; margin-top: 10px; }
+
+/* budget */
+.cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr)); gap: 22px 28px; }
+.card { border-top: 2px solid var(--ink); padding-top: 10px; min-width: 0; overflow-wrap: anywhere; }
+.budget { overflow-wrap: anywhere; }
+.card h3 a { text-decoration: none; }
+.card ol, .card ul, .budget ol, .budget ul { margin: 4px 0 10px; padding-left: 20px; }
+.card li, .budget li { margin: 2px 0; }
+.tag { display: inline-block; font-size: 13px; padding: 1px 8px; border-radius: 999px; background: var(--plane); border: 1px solid var(--rule); margin: 0 4px 4px 0; max-width: 100%; }
+.tag.red { border-color: var(--red); }
+.budget .cols { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr)); gap: 8px 28px; }
+.budget h4 { margin: 8px 0 2px; font-size: 15px; }
+.links a { display: inline-block; margin-right: 12px; overflow-wrap: anywhere; font-size: 14px; }
+.empty { padding: 24px 0; color: var(--ink2); }
+footer { background: var(--plane); border-top: 1px solid var(--rule); font-size: 14px; color: var(--ink2); }
+footer .wrap { padding-top: 22px; padding-bottom: 28px; }
+
+@media (max-width: 860px) {
+  .split, .split.prof { grid-template-columns: minmax(0, 1fr); }
+}
+@media (max-width: 600px) {
+  .brand h1 { font-size: 26px; }
+  .pick { flex: 1 1 100%; }
+  .pick select { flex: 1; }
+  table { font-size: 13px; }
+  th, td { padding: 6px 4px; }
+  .row { grid-template-columns: 1.8em minmax(6em, 8.5em) minmax(0, 1fr) max-content; gap: 6px; font-size: 13.5px; }
+  .fig { height: 200px; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .mapbox path { transition: fill .35s ease; }
+}

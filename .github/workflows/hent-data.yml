@@ -63,10 +63,17 @@ jobs:
         if: ${{ github.event.inputs.hvad != 'dokumenter' }}
         run: python scripts/hent_dst.py ${{ github.event.inputs.tabeller }}
       - name: Gem DST-data
-        if: ${{ github.event.inputs.hvad != 'dokumenter' }}
+        if: ${{ !cancelled() && github.event.inputs.hvad != 'dokumenter' }}
         run: |
           git config user.name "kommunedata-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/dst
           git diff --cached --quiet || git commit -m "Opdater DST-data"
+          git pull --rebase && git push
+      - name: Byg data til hjemmesiden
+        if: ${{ !cancelled() && github.event.inputs.hvad != 'dokumenter' }}
+        run: |
+          python scripts/byg_site_data.py
+          git add site/data/data.json
+          git diff --cached --quiet || git commit -m "Opdater data til hjemmesiden"
           git pull --rebase && git push

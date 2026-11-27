@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kommuneblik</title>
+<meta name="description" content="Kommuneblik: tal og figurer om Danmarks 98 kommuner – økonomi, areal, befolkning, beskæftigelse, uddannelse, indkomst og budgetaftaler.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@700;800&family=Inter:wght@400;600;700&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <div class="brand"><h1>Kommuneblik</h1><span>Danmarks 98 kommuner: tal, udvikling og sammenligning</span></div>
+    <label class="pick" for="vaelg">Vælg kommune <select id="vaelg" aria-label="Vælg kommune"></select></label>
+    <nav class="tabs" aria-label="Sider">
+      <a href="#overblik" data-v="overblik">Overblik</a>
+      <a href="#kommune" data-v="kommune">Kommune</a>
+      <a href="#sammenlign" data-v="sammenlign">Sammenlign</a>
+      <a href="#rangliste" data-v="rangliste">Rangliste</a>
+      <a href="#budget" data-v="budget">Budgetaftaler 2027</a>
+      <a href="#om" data-v="om">Om data</a>
+    </nav>
+  </div>
+</header>
+<div class="snap"><div class="wrap" id="snap">Indlæser data …</div></div>
+<main id="main"><div class="wrap band empty">Indlæser data …</div></main>
+<footer>
+  <div class="wrap">
+    <p>Kilder: Danmarks Statistik (Statistikbanken), kommunernes egne budgetaftaler og regneark indsamlet i projektet. Kortgrænser: åbne kommunegrænser (GeoJSON) forenklet til web.</p>
+    <p>Data og kode: <a href="https://github.com/christofferbjoern/kommunedata">github.com/christofferbjoern/kommunedata</a>. Siden er en demo og ikke en officiel opgørelse.</p>
+  </div>
+</footer>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs><pattern id="na-hatch" width="5" height="5" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="5" height="5" fill="var(--na)"/><line x1="0" y1="0" x2="0" y2="5" stroke="var(--ink2)" stroke-width="1"/></pattern></defs></svg>
+<div id="tip" role="status" aria-live="polite"></div>
+<script src="app.js"></script>
+</body>
+</html>

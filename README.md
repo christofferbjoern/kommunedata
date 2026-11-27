@@ -25,6 +25,30 @@ Data til en oversigt over de 98 danske kommuner: økonomi, befolkning, beskæfti
 - INDKP101: personindkomster
 - HFUDD11: højest fuldførte uddannelse
 - PSKAT: kommunale skatteprocenter
+- ARE207: areal (km²)
+- FOLK1A: befolkning 1. kvartal efter alder
+- BEV107: befolkningsregnskab (fødte, døde, flytninger)
+- RAS201: befolkningen efter socioøkonomisk status, herkomst, alder og køn
+- RAS301: beskæftigede efter bopæl og branche
+- AUP01: fuldtidsledige i pct. af arbejdsstyrken (månedlig)
+- NGLK: udvalgte kommunale regnskabsnøgletal
+
+`data/dst/_katalog.json` er en liste over alle aktive tabeller i Statistikbanken med deres variabler.
+
+## Hjemmesiden (Kommuneblik)
+
+Mappen `site/` er en statisk hjemmeside uden byggetrin: `index.html`, `style.css`, `app.js` og to datafiler.
+
+| Fil | Laves af |
+|---|---|
+| `site/data/data.json` | `python scripts/byg_site_data.py` (læser `data/dst`, uploads og budgetanalysen) |
+| `site/data/kort.json` | `python scripts/byg_kort.py` (kommunegrænser, kører kun ved behov; kræver `shapely`) |
+
+Workflowet bygger `data.json` igen efter hver DST-opdatering.
+
+Prøv siden lokalt med `python -m http.server -d site` og åbn http://localhost:8000.
+
+**Netlify:** Opret et nyt site fra dette repo. `netlify.toml` sætter publiceringsmappen til `site`, så der skal ikke angives byggekommando.
 
 ## Automatisk opdatering
 
