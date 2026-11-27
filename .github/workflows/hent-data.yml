@@ -1,0 +1,55 @@
+name: Hent kommunedata
+
+on:
+  workflow_dispatch:
+    inputs:
+      hvad:
+        description: "Hvad skal hentes (alt, dokumenter, dst)"
+        default: "alt"
+  schedule:
+    - cron: "0 4 * * 1"   # hver mandag kl. 05/06 dansk tid
+  push:
+    branches: [main]
+    paths:
+      - "data/budgetaftaler/*/kilder.json"
+      - "scripts/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hent-data
+  cancel-in-progress: false
+
+jobs:
+  hent:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Hent budgetdokumenter
+        if: ${{ github.event.inputs.hvad != 'dst' }}
+        run: python scripts/hent_dokumenter.py
+      - name: Gem dokumenter
+        if: ${{ github.event.inputs.hvad != 'dst' }}
+        run: |
+          git config user.name "kommunedata-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/budgetaftaler
+          git diff --cached --quiet || git commit -m "Opdater budgetdokumenter"
+          git pull --rebase && git push
+      - name: Hent DST-data
+        if: ${{ github.event.inputs.hvad != 'dokumenter' }}
+        run: python scripts/hent_dst.py
+      - name: Gem DST-data
+        if: ${{ github.event.inputs.hvad != 'dokumenter' }}
+        run: |
+          git config user.name "kommunedata-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/dst
+          git diff --cached --quiet || git commit -m "Opdater DST-data"
+          git pull --rebase && git push

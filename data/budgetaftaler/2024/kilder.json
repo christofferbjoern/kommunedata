@@ -1,0 +1,44 @@
+{
+ "Brønderslev": {
+  "regneark": "https://www.bronderslev.dk/p/Om%20kommunen/Budget%20og%20regnskab/2024Budget.pdf"
+ },
+ "Esbjerg": {
+  "aftale": "https://esbjerg.dk/Files/Filer/Om kommunen/Kommunens økonomi/Budget 2024-27/2. behandling/EK_budget_2024-27_Budgetaftale_samlet.pdf",
+  "regneark": "https://esbjerg.dk/Files/Filer/Om kommunen/Kommunens økonomi/Budget 2024-27/2. behandling/Oversigtsark budgetaftale 2024 v2.pdf"
+ },
+ "Fanø": {
+  "aftale": "https://fanoe.dk/media/hpvlquc4/endeligplusogplusunderskrevetplusbudgetaftaleplus2024-2027.pdf",
+  "regneark": "https://fanoe.dk/media/dqvlwtso/faerdig-budget-fra-budgetaaret-20242027.pdf"
+ },
+ "Gribskov": {
+  "regneark": "https://cdn.gribskov.dk/gribskovkommune/Media/638404867106047841/Budgetbog%202024%20-%202027.pdf"
+ },
+ "Herlev": {
+  "side": "https://herlev.dk/nyheder/2023/sep/budgetaftale-2024"
+ },
+ "Holbæk": {
+  "aftale": "https://holbaek.dk/media/60199/budgetaftale-2024-2027.pdf",
+  "regneark": "https://holbaek.dk/media/64639/budgetpublikation-2024.pdf"
+ },
+ "Horsens": {
+  "aftale": "https://horsens.dk/media/udxj2xzj/horsenskommunesbudgetaftalefor2024og2025.pdf",
+  "note": "Toårig aftale 2024-2025",
+  "regneark": "https://horsens.dk/media/khtnth0i/budget2024-2027.pdf"
+ },
+ "Hørsholm": {
+  "aftale": "https://www.horsholm.dk/p/Hoersholm%20Kommune/Oekonomi%20-%20Endelig/Budget/Budget%202024-2027/Budgetaftale-2024.pdf",
+  "regneark": "https://www.horsholm.dk/p/Hoersholm%20Kommune/Oekonomi%20-%20Endelig/Budget/Budget%202024-2027/H-rsholm-Taloversigt-2024-27.pdf"
+ },
+ "Køge": {
+  "aftale": "https://www.koege.dk/p/Nyheder%20og%20aktuelt/Budgeterkl%C3%A6ring%202024%20-%202027.pdf"
+ },
+ "Skanderborg": {
+  "aftale": "https://www.skanderborg.dk/Files/Files/oekonomi-digitalisering-og-Indkoeb/Budget/Budgetaftale%20Budget%202024-2027_final.pdf"
+ },
+ "Stevns": {
+  "aftale": "https://cdn.stevns.dk/stevnskommune/Media/638312409389389255/Bilag%20til%20Budgetaftale%202024-2027%20-%20Stevns%20Kommune.pdf"
+ },
+ "Vejle": {
+  "aftale": "https://umbraco.vejle.dk/media/60296/budgetforlig-2024_1292023.pdf"
+ }
+}

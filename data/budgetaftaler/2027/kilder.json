@@ -1,0 +1,477 @@
+{
+ "København": {
+  "aftale": "https://www.kk.dk/sites/default/files/2026-09/Budget2026_Aftaletekst_Opd180926_02.pdf",
+  "regneark": "https://www.kk.dk/sites/default/files/2026-09/Regneark%20endelig.pdf",
+  "klima": "https://www.kk.dk/sites/default/files/2026-09/Klimabudget%20til%20Budget%202027.pdf",
+  "side": "https://www.kk.dk/politik/budget-og-regnskab/budget-2027/budgetaftale-2027",
+  "note": "Regneark findes kun som PDF. Filnavnet på aftaleteksten siger Budget2026, men siden angiver budget 2027."
+ },
+ "Aarhus": {
+  "aftale": "https://backoffice.aarhus.dk/media/iyblo3zq/aftale-om-budget-2027-2030.pdf",
+  "regneark": "https://backoffice.aarhus.dk/media/x0kmbm0b/hovedoversigtb2027.pdf | https://backoffice.aarhus.dk/media/hg1bzwvc/sammendragb2027.pdf | https://backoffice.aarhus.dk/media/hwzbmube/oekonomioversigt-budget-2027-endelig-efter-2-tm.pdf",
+  "klima": "",
+  "side": "https://aarhus.dk/budgetforlig2027",
+  "note": "Ingen xlsx; budgetoversigter som PDF (hovedoversigt, sammendrag, økonomioversigt). Intet separat klimabudget på budgetsiden."
+ },
+ "Aalborg": {
+  "aftale": "https://www.aalborg.dk/media/tlzdisdd/budgetaftale-2027-2030.pdf",
+  "side": "https://www.aalborg.dk/om-kommunen/oekonomi-og-statistik/budget-i-aalborg-kommune/",
+  "note": "Vedtaget budget 2027-2030 (bind 1/2) ikke fundet på budgetsiden endnu."
+ },
+ "Albertslund": {
+  "aftale": "https://albertslund.dk/media/gd3dhm2b/budgateaftale-2027-faelles-om-albertslund.pdf",
+  "regneark": "https://albertslund.dk/media/bvzjpodl/budgetkatalog-2027-endelig.pdf",
+  "side": "https://albertslund.dk/politik/budget-og-regnskab/budget-2027",
+  "note": "Kun budgetkatalog (PDF) som talbilag; ingen xlsx. Intet klimabudget fundet."
+ },
+ "Odense": {
+  "side": "https://www.odense.dk/presse/nyheder/nyheder-2026/odenses-budget-for-2027-er-paa-plads-med-fuld-opbakning-fra-alle-partier | https://www.odense.dk/politik/oekonomi-og-effektstyring/budgetter/budgetproces-for-2027",
+  "note": "Odense.dk kunne ikke hentes (robots.txt fejl). Budget 2027 vedtaget med alle partier iflg. nyhed https://www.odense.dk/presse/nyheder/nyheder-2026/odenses-budget-for-2027-er-paa-plads-med-fuld-opbakning-fra-alle-partier. Prøv igen."
+ },
+ "Assens": {
+  "aftale": "https://www.assens.dk/p/Assens_dk/Stabene/Oekonomi%20og%20Loen/Budget%202027/Budgetaftale-2027-2030-Assens-Byr%C3%A5d.pdf",
+  "regneark": "https://www.assens.dk/p/Assens_dk/Stabene/Oekonomi%20og%20Loen/Budget%202027/Godkendt-budget-2027-2030.pdf",
+  "side": "https://via.ritzau.dk/pressemeddelelse/15169256/budgetaftale-2027-2023-indgaet-i-assens-kommune?lang=da",
+  "note": "Godkendt budget som PDF; ingen xlsx. Intet klimabudget fundet. Kopi af aftalen via Ritzau: https://via.ritzau.dk/files/13561442/15169256/542537/da"
+ },
+ "Brøndby": {
+  "aftale": "https://www.brondby.dk/media/uaai4wke/bilag-2-budgetforlig-2027-2030.pdf",
+  "regneark": "https://www.brondby.dk/media/vdknbied/bilag-4-bevillingsoversigt-inkl-budgetforlig-2027-2030.pdf",
+  "side": "https://www.brondby.dk/om-kommunen/okonomi/budget/budget-2027",
+  "note": "Bevillingsoversigt som PDF; ingen xlsx. Intet klimabudget fundet."
+ },
+ "Bornholm": {
+  "aftale": "https://cdn1.gopublic.dk/bornholmsregionskommune/Media/639241253610858538/budgetforlig2027.pdf",
+  "note": "brk.dk budgetside kunne ikke hentes. Budgetforslag-bilag (spare-/udvidelses-/anlægsforslag 2027) findes på cdn1.gopublic.dk."
+ },
+ "Kolding": {
+  "aftale": "https://www.kolding.dk/p/Nyheder/Budgetforlig-2027-2030.pdf"
+ },
+ "Tønder": {
+  "note": "Investeringsoversigt som PDF; budgetforslag: https://www.toender.dk/media/qubeluzd/budgetforslag-budget-2027-2030.pdf. Intet klimabudget.",
+  "aftale": "https://www.toender.dk/media/2offdq34/budgetforlig-2027.pdf",
+  "regneark": "https://www.toender.dk/media/n0mduccu/budget-2027-investeringsoversigt-2027-2030.pdf",
+  "side": "https://www.toender.dk/din-kommune/oekonomi/budget/"
+ },
+ "Dragør": {
+  "aftale": "https://www.dragoer.dk/media/yyef5hoz/budgetaftale-2027-2030.pdf",
+  "side": "https://www.dragoer.dk/om-kommunen/oekonomi/budget",
+  "note": "Vedtaget budget 2027-2030 endnu ikke på budgetsiden. Intet klimabudget fundet."
+ },
+ "Billund": {
+  "side": "https://www.billund.dk/budget/ | https://via.ritzau.dk/pressemeddelelse/15163161/bredt-budgetforlig-saetter-retningen-for-billund-kommune?lang=da",
+  "note": "Budgetforlig 2027-2030 indgået 15/9-2026 (forligstekst på budgetsiden), men direkte fil-URL kunne ikke udtrækkes. Budgetforlig 2027-2030 indgået af samlet byråd (pressemeddelelse); aftale-PDF ikke fundet endnu.",
+  "aftale": "https://via.ritzau.dk/pressemeddelelse/15163161/bredt-budgetforlig-saetter-retningen-for-billund-kommune?lang=da"
+ },
+ "Brønderslev": {
+  "side": "https://www.bronderslev.dk/om-kommunen/budget-regnskab-og-takster/budget-og-regnskab",
+  "note": "Budget 2027 ikke offentliggjort på budgetsiden (seneste er 2026). Budgetsiden har endnu kun 2024-2026."
+ },
+ "Fanø": {
+  "side": "https://fanoe.dk/kommunen/oekonomi/budgetforlig",
+  "note": "Budgetforlig 2027-2030 ikke på budgetforlig-siden (seneste 2026-2029). Budgetforlig for 2027-2030 er endnu ikke lagt på budgetforlig-siden (seneste er 2026-2029)."
+ },
+ "Esbjerg": {
+  "side": "https://www.esbjerg.dk/om-kommunen/kommunens-oekonomi/kommunens-budget/aftale-om-budget-2027-2030",
+  "note": "Forligstekst og budgetoversigt ligger på siden (iflg. pressemeddelelse), men esbjerg.dk kunne ikke hentes. Forhandlingskataloger 2027-2030 findes. Aftaletekst kun fundet som pressemeddelelse (Ritzau); esbjerg.dk fejler ved automatisk læsning. Forslagskataloger 2027-2030 findes under esbjerg.dk/Files/Filer/Om kommunen/Kommunens økonomi/Kataloger til forhandlingsudvalget/Katalog 2027-2030/.",
+  "aftale": "https://via.ritzau.dk/pressemeddelelse/15152025/budgetforlig-med-fokus-pa-hverdagens-velfaerd-og-fremtidens-muligheder?lang=da"
+ },
+ "Faxe": {
+  "aftale": "https://faxekommune.dk/sites/default/files/2026-09/Budgetaftale%202027-2030_1.pdf",
+  "side": "https://faxekommune.dk/da/budget2027",
+  "note": "Vedtaget budget/oversigt og klimabudget ikke på budgetsiden."
+ },
+ "Fredensborg": {
+  "aftale": "https://fredensborg.dk/p/Budget%202027%20-%202030/Budgetforligsh%C3%A6fte-15.-september-2026.pdf",
+  "side": "https://fredensborg.dk/politik-og-indflydelse/budget-og-oekonomi/budget-og-regnskab",
+  "note": "Budgetforligshæfte 15/9-2026. Budgetside kunne ikke hentes."
+ },
+ "Frederiksberg": {
+  "aftale": "https://www.frederiksberg.dk/media/ltxdv3in/budgetaftale-2027.pdf",
+  "note": "Kun budgetforslag-bemærkninger fundet: https://www.frederiksberg.dk/media/prtpx4p5/budgetforslag-2027-budgetbemaerkninger-ny.pdf"
+ },
+ "Fredericia": {
+  "side": "https://www.fredericia.dk/da/nyheder/budgetforlig-i-fredericia-kommune",
+  "note": "Budgetforslag til 2. behandling som PDF (ingen xlsx). Intet klimabudget fundet.",
+  "aftale": "https://www.fredericia.dk/sites/default/files/2026-09/Forligstekst%20Fredericia%20budget%202027.pdf",
+  "regneark": "https://www.fredericia.dk/sites/default/files/2026-09/1.%20Budgetforslag%202027-2030%20-%20til%202.%20behandling.pdf"
+ },
+ "Frederikshavn": {
+  "aftale": "https://frederikshavn.dk/media/4subio2e/budgetaftale-2027-2030.pdf",
+  "side": "https://frederikshavn.dk/om-kommunen/nyheder-og-arrangementer/nyheder/nyheder-og-pressemeddelelser/budgetaftale-2027-2030",
+  "note": "Budgetoversigt og klimabudget ikke fundet. Aftale-PDF uden maskinlæsbar tekst (bekræftet igen 27/11); hentes via GitHub-jobbet."
+ },
+ "Furesø": {
+  "aftale": "https://www.furesoe.dk/p/MOLIRIMEDIA/32b57d73-e7eb-4a1f-b4c7-73e27fff87d2",
+  "side": "https://www.furesoe.dk/om-kommunen/fakta/oekonomi/budget/budget-2027",
+  "note": "Aftale indgået af fem partier uden borgmesterpartiet. Vedtaget budget/bevillingsoversigter ikke fundet."
+ },
+ "Faaborg-Midtfyn": {
+  "aftale": "https://www.fmk.dk/media/jcohgxnh/budgetforliget-for-2027-2030-inkl-underskrifter.pdf",
+  "regneark": "https://www.fmk.dk/media/qlzbkhl2/vedtagne_budgetforslag_2027.pdf",
+  "side": "https://www.fmk.dk/om-kommunen/budget-og-regnskab/budget-2027-i-faaborg-midtfyn-kommune/",
+  "note": "Vedtagne budgetskemaer som PDF. Intet klimabudget fundet."
+ },
+ "Frederikssund": {
+  "aftale": "https://www.frederikssund.dk/media/bac454ce-2273-44f2-b07b-3df2b631570c/Ol4-gQ/frederikssund.dk/Dokumenter/Kommunen/Budget%20og%20regnskab/Budget/Budgetforslag%202027/Budgetaftale/Bilag%20A.%20Aftaletekst.pdf",
+  "regneark": "https://www.frederikssund.dk/media/9a758d87-0d42-4fa3-82bb-38cf8c4d31e3/OpTRzg/frederikssund.dk/Dokumenter/Kommunen/Budget%20og%20regnskab/Budget/Budgetforslag%202027/Budgetaftale/Bilag%20E.%20Budgetoversigt.pdf",
+  "side": "https://www.frederikssund.dk/kommunen/oekonomi/budget-2027",
+  "note": "Budgetoversigt (bilag E) som PDF. Intet klimabudget fundet."
+ },
+ "Gentofte": {
+  "aftale": "https://gentofte.dk/det-lokale-demokrati/budget-planer-og-politikker/budget-2027/budgetaftale-2027-2028/",
+  "side": "https://gentofte.dk/det-lokale-demokrati/budget-planer-og-politikker/budget-2027/",
+  "note": "Toårig budgetaftale 2027-2028, publiceret som webside (ikke PDF)."
+ },
+ "Gladsaxe": {
+  "aftale": "https://gladsaxe.dk/p/COE-Filer/Budget/Budget-2027/Budgetbilag-173-om-budgetaftale-2027-2030-3a.pdf",
+  "side": "https://gladsaxe.dk/kommunen/oekonomi/budget-og-regnskab",
+  "note": "Budgetoversigt og klimabudget ikke fundet."
+ },
+ "Glostrup": {
+  "aftale": "https://www.glostrup.dk/Media/639252413271236259/budgetaftale-og-aftaletekster-budget-2027-17-september-2026.pdf",
+  "side": "https://www.glostrup.dk/demokrati/budgetproces-budget-regnskab-og-skatter/budgetproces",
+  "note": "Budgetoversigt og klimabudget ikke fundet."
+ },
+ "Greve": {
+  "aftale": "https://greve.dk/media/j5dlmgze/budgetforlig-2027-30.pdf | https://greve.dk/media/2qnndso0/den-politiske-aftale-budget-2027-22102026.pdf",
+  "regneark": "https://greve.dk/media/4wunutcd/resultatoversigt-budget-2027-30.pdf | https://greve.dk/media/ksahd20t/investeringsoversigten-2027-30-2.pdf",
+  "side": "https://greve.dk/kommunen/oekonomi/budget",
+  "note": "Resultat- og investeringsoversigt som PDF. Intet klimabudget fundet. Aftale-PDF uden maskinlæsbar tekst (bekræftet igen 27/11); hentes via GitHub-jobbet."
+ },
+ "Guldborgsund": {
+  "aftale": "https://www.guldborgsund.dk/media/segidaf3/budgetaftale-2027-2028-guldborgsund-kommune.pdf",
+  "side": "https://www.guldborgsund.dk/om-kommunen/oekonomi/budgetaftaler",
+  "note": "Budgetaftale 2027-2028. Budgetoversigt og klimabudget ikke fundet."
+ },
+ "Gribskov": {
+  "side": "https://gribskov.dk/politik-og-indflydelse/budget-og-regnskab/budget-2027-2030",
+  "note": "Ingen aftaletekst på budgetsiden; budget behandlet i byrådet 8/10-2026 (https://dagsordener.gribskov.dk/vis?Referat-Byraad-2026-2029-d.08-10-2026-kl.19.00&id=babf914e-1081-4c61-91fc-01eef7b81a61). Budget 2027-2030 vedtaget 8/10-2026. Ingen separat aftaletekst på budgetsiden; se byrådsreferat: https://dagsordener.gribskov.dk/vis?Referat-Byraad-2026-2029-d.08-10-2026-kl.19.00&id=babf914e-1081-4c61-91fc-01eef7b81a61"
+ },
+ "Haderslev": {
+  "aftale": "https://via.ritzau.dk/files/4452194/15182943/549986/da",
+  "side": "https://via.ritzau.dk/pressemeddelelse/15182943/alle-partier-bag-budget-der-skal-styrke-velfaerden-i-haderslev-kommune?lang=da",
+  "note": "Aftaledokument vedhæftet Ritzau-pressemeddelelse (ikke fundet på haderslev.dk). Vedtaget budget 2027-2030 ikke offentliggjort endnu."
+ },
+ "Halsnæs": {
+  "aftale": "https://halsnaes.dk/Media/639271379407674506/budgetaftale-2027-2030.pdf",
+  "regneark": "https://halsnaes.dk/Media/639271379410876289/hovedoversigt-budget-2027-2030.pdf | https://halsnaes.dk/Media/639271379404551509/bevillingsoversigt-2027-2030.pdf",
+  "side": "https://halsnaes.dk/kommunen/tal-og-oekonomi/budget",
+  "note": "Hoved- og bevillingsoversigt som PDF. Intet klimabudget fundet."
+ },
+ "Herning": {
+  "aftale": "https://cdn.herning.dk/herningkommune/Media/639245377662214742/budgettekst-2027-.pdf",
+  "side": "https://www.herning.dk/om-kommunen/budget-og-regnskab",
+  "note": "Budgetbog 2027 ikke offentliggjort endnu."
+ },
+ "Helsingør": {
+  "aftale": "https://cdn.helsingor.dk/helsingoerkommune/Media/639246538747617787/forlig-til-print.pdf",
+  "side": "https://dagsordener.helsingor.dk/vis?id=e84f22db-3ca9-45f0-be33-0c703c196e7a&punktid=95041042-f2b0-4dbc-91b4-344a2c691a0e",
+  "note": "Resultatbudget, anlægsplan og takstblad ligger som bilag i dagsordenssystemet (link i Side)."
+ },
+ "Hedensted": {
+  "aftale": "https://www.hedensted.dk/media/jtcbattu/budgetaftale-2027-30-for-hedensted-kommune.pdf",
+  "side": "https://www.hedensted.dk/om-kommunen/nyheder-og-presse/pressemeddelelser/toaarigt-budgetforlig-sikrer-vaekst-og-velfaerd-i-hedensted-kommune",
+  "note": "Budgetoversigt og klimabudget ikke søgt endnu."
+ },
+ "Herlev": {
+  "note": "Kun budgetforslag 2027 fundet: https://cdn.herlev.dk/herlevkommune/Media/639223001841168679/budgetforslag-2027.pdf. Aftaletekst ikke fundet. Budgetforslag 2027: https://cdn.herlev.dk/herlevkommune/Media/639223001841168679/budgetforslag-2027.pdf"
+ },
+ "Hvidovre": {
+  "aftale": "https://www.hvidovre.dk/Media/639253163602882012/Budgetaftale%20for%20Hvidovre%20Kommune%202027%20-%20ENDELIG.pdf",
+  "regneark": "https://www.hvidovre.dk/Media/639270365351865703/budgetvedtagelse-opdateret-finansieringsoversigt-drift-og-anlaeg.pdf | https://www.hvidovre.dk/Media/639250693792346857/Bilag%20til%20budgetaftale%20-%20Investeringsoversigt.pdf",
+  "side": "https://www.hvidovre.dk/om-kommunen/noegletal-og-oekonomi/budget",
+  "note": "Finansierings- og investeringsoversigt som PDF. Intet klimabudget fundet."
+ },
+ "Hjørring": {
+  "aftale": "https://cdn.hjoerring.dk/hjoerringkommune/Media/639253268411069275/budgetforlig-2027-2030.pdf",
+  "note": "Budget 2027-2030 (bind) ikke fundet endnu."
+ },
+ "Horsens": {
+  "side": "https://horsens.dk/omhorsenskommune/faktaomhorsenskommune/budgetaftaler",
+  "note": "Kun budgetforslag 2027-2030 fundet: https://horsens.dk/media/gtcd0gg2/budgetforslag2027-2030.pdf. Toårig aftale; seneste offentliggjorte aftale er 2024-2025 — 2026-2027-aftale ikke fundet. Kommunens budgetside viser kun budgetforslag 2027-2030 (https://horsens.dk/media/gtcd0gg2/budgetforslag2027-2030.pdf), ingen vedtaget aftale endnu."
+ },
+ "Holstebro": {
+  "side": "https://www.holstebro.dk/budget",
+  "note": "Ingen budgetaftale-dokumenter på budgetsiden."
+ },
+ "Hillerød": {
+  "note": "Aftaletekst 2027-2030 ikke fundet på hillerod.dk; kun supplerende budgetmateriale: https://www.hillerod.dk/media/wnahe5em/tillaeg-til-supplerende-budgetmateriale-budgetforslag-2027-2030.pdf"
+ },
+ "Holbæk": {
+  "note": "Budgetaftale 2027-2030 ikke fundet; kun høring af budgetforslag (https://deltag.holbaek.dk/da-DK/projects/horing-af-forslag-til-budget-2027/1)."
+ },
+ "Ikast-Brande": {
+  "aftale": "https://ikast-brande.dk/media/40lmiria/budgetforlig-2027-30-med-underskifter.pdf",
+  "side": "https://ikast-brande.dk/politik/regnskab-og-budget/budget/budget-2027",
+  "note": "Vedtaget budget og klimabudget ikke fundet."
+ },
+ "Hørsholm": {
+  "note": "Budgetaftale 2027-2030 omtalt (https://www.horsholm.dk/nyhed/tekniske-bemaerkninger-til-budgetaftale-2027-2030-paa-kultur-og-fritidsomraadet), men PDF ikke fundet."
+ },
+ "Høje-Taastrup": {
+  "note": "Budget 2027 vedtaget i enighed (https://www.sn.dk/art6654025/hoeje-taastrup-kommune/nyhed/sparebudget-vedtaget-i-enighed-det-mener-politikerne-om-budgetforliget), men forligstekst ikke fundet på htk.dk."
+ },
+ "Ishøj": {
+  "side": "https://via.ritzau.dk/pressemeddelelse/15202222/stort-flertal-bag-budgettet-i-ishoj?lang=da",
+  "note": "Budgetaftale 2027 ikke fundet.",
+  "aftale": "https://ishoj.dk/media/v5ghmbhe/budgetaftale-2027-30.pdf"
+ },
+ "Jammerbugt": {
+  "side": "https://www.jammerbugt.dk/nyheder/bred-budgetaftale-for-2027-i-jammerbugt-kommune/",
+  "note": "Bred budgetaftale 2027 omtalt i nyhed, men aftale-PDF ikke linket. Kun kommunens nyhed om aftalen fundet; selve aftaleteksten ikke fundet.",
+  "aftale": "https://www.jammerbugt.dk/nyheder/bred-budgetaftale-for-2027-i-jammerbugt-kommune/"
+ },
+ "Kalundborg": {
+  "note": "Budget vedtaget (uden LA) iflg. sn.dk; aftaletekst ikke fundet. Budgetbemærkninger 2027 findes på cdn.kalundborg.dk."
+ },
+ "Kerteminde": {
+  "aftale": "https://kerteminde.dk/p/Filer%20Kommune/%C3%98konomi/Budget%202027-2030/Budgetaftale%202027-2030/Budgetforlig-2027-pr.-17.08.26%281%29.pdf",
+  "regneark": "https://kerteminde.dk/p/Filer%20Kommune/%C3%98konomi/Budget%202027-2030/Budgetaftale%202027-2030/Bilag---Bevillingsoversigt.pdf",
+  "side": "https://kerteminde.dk/kommunen/oekonomi/budget",
+  "note": "Bevillingsoversigt som PDF. Intet klimabudget fundet."
+ },
+ "Lejre": {
+  "aftale": "https://lejre.dk/Media/639264742599693627/budgetaftale-2027-2030.pdf",
+  "regneark": "https://lejre.dk/Media/639245309674396865/bilag-4-bevillingsoversigt-det-tekniske-budget-2027-2030.pdf",
+  "side": "https://lejre.dk/politik-og-demokrati/budget-og-regnskab/budget-2027-2030",
+  "note": "Kun bevillingsoversigt for det tekniske budget (før aftalen). Intet klimabudget fundet."
+ },
+ "Lemvig": {
+  "side": "https://lemvig.dk/om-kommunen/oekonomi",
+  "note": "Budgetaftale 2027 ikke fundet."
+ },
+ "Lolland": {
+  "side": "https://www.lolland.dk/politik/politikker-og-indsatsomraader/oekonomi-budgetproces-2027/baggrund-for-budget-2027",
+  "note": "Budgetforlig præsenteret ved pressemøde; PDF ikke fundet. Budgetforslag, sparekatalog og budgetpakker 2027 findes på lolland.dk/p/Politik/Budgetforslag%202027/. Budgetforslag og sparekatalog 2027 fundet (lolland.dk/p/Politik/Budgetforslag 2027/), aftaletekst ikke fundet; lolland.dk fejler ved automatisk læsning."
+ },
+ "Køge": {
+  "note": "Budgetaftale 2027 ikke fundet på koege.dk."
+ },
+ "Langeland": {
+  "note": "Budgetaftale 2027-2030 indgået (omtalt af Ældre Sagen: https://www.aeldresagen.dk/lokalafdelinger/langeland/budgetaftalen-for-langeland-kommune-2027-2030), men PDF ikke fundet."
+ },
+ "Lyngby-Taarbæk": {
+  "aftale": "https://www.ltk.dk/media/rqxjen0b/budgetaftale-2027-30.pdf",
+  "side": "https://www.ltk.dk/budget",
+  "note": "Vedtaget budget 2027-30 ikke på budgetsiden endnu; budgetforslag: https://www.ltk.dk/media/42ybijdv/budgetforslag-2027-30-til-hoering.pdf"
+ },
+ "Mariagerfjord": {
+  "side": "https://www.mariagerfjord.dk/om-os/oekonomi/budgetter-og-regnskaber",
+  "note": "Ny budgetaftale 2027 omtalt (https://www.mariagerfjord.dk/nyheder/2026/ny-budgetaftale-loefter-velfaerd-og-udvikling-i-mariagerfjord), men PDF ikke fundet. Kun kommunens nyhed om aftalen fundet; selve aftaleteksten ikke fundet.",
+  "aftale": "https://www.mariagerfjord.dk/nyheder/2026/ny-budgetaftale-loefter-velfaerd-og-udvikling-i-mariagerfjord"
+ },
+ "Middelfart": {
+  "aftale": "https://middelfart.dk/Media/639249885048584415/Budget%202027%20med%20underskrift.pdf",
+  "side": "https://middelfart.dk/nyheder/2026/sep/ny-budgetaftale-prioriterer-velfaerd-og-udvikling-i-en-stram-oekonomi",
+  "note": "Budgetoversigt og klimabudget ikke fundet."
+ },
+ "Norddjurs": {
+  "side": "https://via.ritzau.dk/pressemeddelelse/15183897/budget-2027-er-pa-plads-i-norddjurs-kommune?publisherId=13564521&lang=da",
+  "note": "Aftale ikke på budgetsiden; vedtaget i kommunalbestyrelsen 6/10-2026 (https://norddjurs.meetingsplus.dk/committees/kommunalbestyrelsen/06-10-2026).",
+  "aftale": "https://via.ritzau.dk/files/13564521/15183897/550477/da | https://via.ritzau.dk/files/13564521/15183897/550692/da"
+ },
+ "Morsø": {
+  "aftale": "https://mors.dk/media/5n1pu1h0/aftaletekst-til-forslag-om-budgetaftale-2027-til-2031.pdf",
+  "note": "Filen er aftaletekst til forslag om budgetaftale 2027-2031 (bekræft at det er den endelige). Udkast til budgetbemærkninger 2027: https://mors.dk/media/tkvom4hg/udkast-budgetbemaerkninger-2027.pdf"
+ },
+ "Læsø": {
+  "note": "Budgetaftale 2027 ikke fundet."
+ },
+ "Nyborg": {
+  "aftale": "https://www.nyborg.dk/media/wgmjygno/politisk-aftale-om-budget-2027-18092026-endelig-og-underskrevet-opdateret-06102026-aod.pdf",
+  "side": "https://www.nyborg.dk/da/demokrati-og-indflydelse/budget-og-regnskab/politisk-aftale-om-budget-2027/",
+  "note": "Aftale-PDF fundet, men uden maskinlæsbar tekst (formentlig scannet). Hentes som originalfil via GitHub-jobbet."
+ },
+ "Odder": {
+  "aftale": "https://cdn.odder.dk/odderkommune/Media/639252586750849791/budgetaftale-2027.pdf",
+  "side": "https://odder.dk/politik/kom-med-din-mening/budget-2027",
+  "note": "Budgetoversigt og klimabudget ikke fundet."
+ },
+ "Odsherred": {
+  "aftale": "https://www.odsherred.dk/media/bkblnwyr/punkt_144_bilag_1_budgetaftale-2027.pdf",
+  "side": "https://www.odsherred.dk/da/foelge-politik-og-udvikling/oekonomi-og-resultater/budget-2027-2030/",
+  "note": "Budgetoversigt og klimabudget ikke fundet."
+ },
+ "Randers": {
+  "aftale": "https://www.randers.dk/media/ipwav2xd/budgetaftale-2027-2030-randers-kommune-180926.pdf",
+  "regneark": "https://www.randers.dk/media/jfnppneu/oversigt-aendringer-budget-2027-2030.pdf",
+  "side": "https://www.randers.dk/om-os/oekonomi/budget/",
+  "note": "Oversigt over ændringer som PDF. Intet klimabudget; klimaplan-bilag: https://www.randers.dk/media/ejphejur/14_bilag-1-samlet-klimaplan.pdf"
+ },
+ "Nordfyn": {
+  "aftale": "https://www.nordfynskommune.dk/media/szyhaxwt/budgetaftale-2027-2030.pdf",
+  "regneark": "https://www.nordfynskommune.dk/media/vf3bkzhw/bilag-til-budgetaftalen-2027-2030.pdf",
+  "side": "https://www.nordfynskommune.dk/vores-kommune/budget-og-regnskab/budget-2027/",
+  "note": "Aftale-PDF fundet, men uden maskinlæsbar tekst (formentlig scannet). Hentes som originalfil via GitHub-jobbet."
+ },
+ "Næstved": {
+  "aftale": "https://www.naestved.dk/media/ilbkb2wk/budgetaftale-2027.pdf",
+  "regneark": "https://www.naestved.dk/media/xtiflvjw/bevillingsoversigt.pdf",
+  "side": "https://www.naestved.dk/kommunen/oekonomi/budget/budget-2027",
+  "note": "Bevillingsoversigt som PDF. Intet klimabudget fundet."
+ },
+ "Rebild": {
+  "aftale": "https://rebild.dk/sites/default/files/2026-09/Budget%202027%20-%20Budgetaftale%20-%2014-09-2026.pdf",
+  "regneark": "https://rebild.dk/sites/default/files/12_aendringsoversigt.pdf",
+  "side": "https://rebild.dk/budget-2027",
+  "note": "Kun ændringsoversigt for basisbudget (PDF). Intet klimabudget fundet."
+ },
+ "Ringkøbing-Skjern": {
+  "aftale": "https://www.rksk.dk/Files/Files/Nyheder/2026/Budget%202027-2030.pdf",
+  "side": "https://www.rksk.dk/om-kommunen/budget-regnskab-takster",
+  "note": "Budgetoversigt og klimabudget ikke fundet."
+ },
+ "Ringsted": {
+  "side": "https://ringsted.dk/nyheder/alle-partier-er-med-i-budgetaftale-i-ringsted",
+  "note": "Budgetaftale omtalt i nyhed (år ikke bekræftet); PDF ikke fundet."
+ },
+ "Roskilde": {
+  "aftale": "https://www.roskilde.dk/media/pt1h5wj2/budgetforlig-2027-bloktekster.pdf",
+  "side": "https://www.roskilde.dk/da-dk/om-kommunen/okonomi/budget/budget-2027/",
+  "note": "Budgetforlig som bloktekster (PDF) + nyhed https://www.roskilde.dk/da-dk/nyheder/budget-2027-en-investering-i-fremtiden/. Intet klimabudget fundet."
+ },
+ "Rudersdal": {
+  "aftale": "https://rudersdal.dk/media/4498/download?inline",
+  "regneark": "https://rudersdal.dk/media/4499/download?inline",
+  "side": "https://rudersdal.dk/politik-og-indflydelse/politik-og-udvalg/budget",
+  "note": "Budgetaftalen er fordelt på fire filer (media/4498-4501); 4499-4501 er formentlig bilag/tal. Vedtaget budget offentliggøres dec. 2026."
+ },
+ "Rødovre": {
+  "aftale": "https://rk.dk/service-og-pressemeddelelser/service-og-pressemeddelelser-2026/budget-2027",
+  "regneark": "https://rk.dk/Media/639243658558185427/forhandlingsliste-2027.pdf",
+  "note": "Aftalen beskrevet i pressemeddelelse; forhandlingsliste som PDF. Forhandlingsliste: https://rk.dk/Media/639243658558185427/forhandlingsliste-2027.pdf"
+ },
+ "Samsø": {
+  "side": "https://dagsorden.samsoe.dk/vis?Referat-Kommunalbestyrelsen-d.06-10-2026-kl.17.30&id=fb473869-1105-42aa-8f1b-eeb370f847af",
+  "note": "Ingen budgetaftale på budgetsiden; budget behandlet i kommunalbestyrelsen 6/10-2026."
+ },
+ "Skanderborg": {
+  "side": "https://www.skanderborg.dk/politik-og-faellesskab/kommunens-oekonomi/aktuelt-om-budget-2027-2030 | https://www.skanderborg.dk/nyheder/bred-aftale-om-byraadets-foerste-budget",
+  "note": "Aftale-PDF ikke udtrukket."
+ },
+ "Skive": {
+  "side": "https://skive.dk/demokrati-og-kommune/oekonomi/budget/budget-2027/ | https://skive.dk/news/stabe-hr-og-kommunikation/budget-2027/",
+  "note": "Vedtaget budget 2027 (PDF, 6 MB) linket på siden, men URL kunne ikke udtrækkes. Nyhed: https://skive.dk/news/stabe-hr-og-kommunikation/budget-2027/ Budget 2027 vedtaget okt. 2026; budget-PDF linkes på siden uden synlig URL."
+ },
+ "Sorø": {
+  "aftale": "https://cdn.soroe.dk/soroekommune/Media/639253310621619466/budgetforligstekst-2027-2030-soroe-kommune.pdf",
+  "regneark": "https://soroe.dk/Media/639253310625264906/budgetberegner-budget-2027-2030-endelig.pdf",
+  "side": "https://soroe.dk/om-soroe-kommune/oekonomi-gebyrer-og-takster/budget-2027",
+  "note": "Budgetberegner (endelig) som PDF. Intet klimabudget fundet. Aftale-PDF uden maskinlæsbar tekst (formentlig scannet); hentes via GitHub-jobbet."
+ },
+ "Solrød": {
+  "aftale": "https://cdn.solrod.dk/solroedkommune/Media/639250631298324996/budgetaftale-2027-2030_final_0.pdf",
+  "side": "https://solrod.dk/politik/budget",
+  "note": "Budgetforslag 2027-2030 pr. politikområde findes (fx finansiering: https://cdn.solrod.dk/solroedkommune/Media/639232527311570001/politikomraade-01-finansiering.pdf)."
+ },
+ "Silkeborg": {
+  "aftale": "https://silkeborg.dk/p/MOLIRIMEDIA/64daa8f5-5165-486d-a81f-95310697a59c",
+  "side": "https://silkeborg.dk/nyheder/bred-budgetaftale-i-silkeborg-kommune",
+  "note": "Vedtaget budget 2027 ikke fundet. Aftale-URL gav client_error ved læsning 27/11; hentes via GitHub-jobbet."
+ },
+ "Svendborg": {
+  "aftale": "https://www.svendborg.dk/media/1pyp4wnz/budgetforlig-2027-30-inkl-underskrifter_1.pdf",
+  "side": "https://www.svendborg.dk/om-kommunen/oekonomi-og-noegletal/budgetter/budget-2027/",
+  "note": "Vedtaget budget og klimabudget ikke fundet. Aftale-PDF uden maskinlæsbar tekst (formentlig scannet); hentes via GitHub-jobbet."
+ },
+ "Syddjurs": {
+  "aftale": "https://www.syddjurs.dk/media/hptlpryj/budgetaftale-for-budget-2027-med-underskrifter.pdf",
+  "regneark": "https://www.syddjurs.dk/media/uwybgdeq/aftale-om-budget-2027-2030-resultatoversigten.pdf",
+  "side": "https://www.syddjurs.dk/politik/budget-og-regnskab/budget-2027",
+  "note": "Resultatoversigt som PDF. Intet klimabudget fundet."
+ },
+ "Struer": {
+  "side": "https://www.struer.dk/politik/budget-og-regnskab/budget",
+  "note": "Samlet byråd indgik aftale; PDF ikke linket. Budgetbemærkninger 2027: https://www.struer.dk/Media/639262774537652369/bilag-8-budgetbemaerkninger-2027.pdf Kun kommunens nyhed om aftalen fundet; budgetbemærkninger 2027 som PDF.",
+  "aftale": "https://www.struer.dk/nyheder/2026/september/byraad-enig-om-budget",
+  "regneark": "https://cdn.struer.dk/struerkommune/Media/639262774537652369/bilag-8-budgetbemaerkninger-2027.pdf"
+ },
+ "Slagelse": {
+  "side": "https://www.slagelse.dk/da/nyheder/bredt-budgetforlig-i-slagelse-kommune",
+  "note": "Bredt budgetforlig omtalt; slagelse.dk kunne ikke hentes. Lokalavis-overblik: https://www.sn.dk/art6644776/slagelse-kommune/nyhed/aftale-om-budget-paa-plads-her-kan-du-faa-et-overblik-over-hvad-der-er-vedtaget/"
+ },
+ "Stevns": {
+  "note": "Budgetaftale 2027 ikke fundet."
+ },
+ "Sønderborg": {
+  "aftale": "https://sonderborgkommune.dk/sites/default/files/2026-09/Budgetaftale%202027-2030.pdf",
+  "regneark": "https://sonderborgkommune.dk/sites/budget/budget2027-interaktiv.html?header=0",
+  "side": "https://sonderborgkommune.dk/budget",
+  "note": "Budget 2027 som interaktiv webside (ikke xlsx). Intet klimabudget fundet."
+ },
+ "Thisted": {
+  "aftale": "https://cdn2.gopublic.dk/thistedkommune/Media/639256564616375629/Budgetforlig%20tekst%202027.pdf",
+  "side": "https://www.thisted.dk/nyheder/2026/september/budgetaftale",
+  "note": "Vedtaget budget 2027 ikke fundet."
+ },
+ "Vallensbæk": {
+  "aftale": "https://cdn.vallensbaek.dk/vallensbaekkommune/Media/639250541420460063/budgetforlig-2027-30-c-f-og-oe.pdf",
+  "regneark": "https://www.vallensbaek.dk/Media/639253153279823753/budget-2027-kort-fortalt.pdf",
+  "side": "https://www.vallensbaek.dk/nyheder/2026/sep/solidt-budgetforlig-skal-omsaette-visioner-til-virkelighed-i-vallensbaek",
+  "note": "Forlig mellem C, F og Ø. Budget 2027 kort fortalt (PDF)."
+ },
+ "Vesthimmerland": {
+  "aftale": "https://cdn.vesthimmerland.dk/vesthimmerlandkommune/Media/639259453084785329/budget-2027-endelig-inkl-tal.pdf",
+  "regneark": "https://cdn.vesthimmerland.dk/vesthimmerlandkommune/Media/639259453084785329/budget-2027-endelig-inkl-tal.pdf",
+  "side": "https://vesthimmerland.dk/om-kommunen/kommunens-oekonomi/budgetter",
+  "note": "Aftalen indeholder talbilag i samme PDF."
+ },
+ "Tårnby": {
+  "side": "https://www.taarnby.dk/om-kommunen/kommunens-okonomi/budget/",
+  "note": "Budgetaftale 2027 ikke fundet (Tårnby bruger ofte toårige aftaler)."
+ },
+ "Varde": {
+  "side": "https://vardekommune.dk/budgetaftale-byraad-investerer-i-velfaerden-og-fremtiden/",
+  "note": "Budgetaftale 2027 ikke fundet på budgetsiden.",
+  "aftale": "https://vardekommune.dk/wp-content/uploads/2026/09/Budgetaftale-2027-2030.pdf",
+  "regneark": "https://vardekommune.dk/wp-content/uploads/2026/09/Oversigt-over-nye-tiltag-Budget-2027-2030.pdf"
+ },
+ "Aabenraa": {
+  "aftale": "https://aabenraa.dk/media/agqevpau/budgetaftale-2027-2030-forlig-endelig.pdf",
+  "regneark": "https://aabenraa.dk/media/2tulw1sf/aabenraa-kommune-budget-2027.pdf | https://aabenraa.dk/media/lovl14jv/prioriteringsskema-2027-2030-forlig.pdf",
+  "side": "https://aabenraa.dk/budget2027",
+  "note": "Vedtaget budget og prioriteringsskema som PDF. Intet klimabudget fundet. Aftale-PDF blokeret for automatisk læsning (robots); hentes via GitHub-jobbet."
+ },
+ "Viborg": {
+  "aftale": "https://via.ritzau.dk/files/13561792/15156303/535212/da",
+  "regneark": "https://via.ritzau.dk/files/13561792/15156303/535210/da",
+  "side": "https://viborg.dk/om-kommunen/nyheder-og-presse/nyheder/toaarigt-budgetforlig-for-viborg-kommune-balancerer-vaekst-og-velfaerd-15156303/",
+  "note": "Toårigt budgetforlig 2027-2028; to vedhæftede filer via Ritzau (hvilken der er tekst vs. tal ikke verificeret)."
+ },
+ "Ærø": {
+  "side": "https://www.aeroekommune.dk/om-kommunen/kommunikation-og-presse/nyheder/hoering-budget-2027-2030",
+  "note": "Budgetaftale 2027 ikke fundet."
+ },
+ "Vejle": {
+  "note": "Søgning fandt kun Budget 2026-publikation (budget-2026_til-net.pdf); 2027 endnu ikke indekseret."
+ },
+ "Vejen": {
+  "note": "Alle partier bag budgetforslag 2027 (https://vejen.dk/presserum/pressemeddelelser-og-nyheder/alle-partier-staar-bag-balanceret-budgetforslag-for-2027); aftale-PDF ikke fundet. Alle partier bag budgetforslag 2027 (høring aug. 2026): ca. 38 mio. kr. til udsatte børn, unge og handicap, driftsreduktioner 25 mio. kr., anlæg 83 mio. kr. Endelig aftaletekst ikke fundet.",
+  "side": "https://vejen.dk/presserum/pressemeddelelser-og-nyheder/alle-partier-staar-bag-balanceret-budgetforslag-for-2027"
+ },
+ "Vordingborg": {
+  "aftale": "https://cdn.vordingborg.dk/vordingborgkommune/Media/639257557624264399/budgetaftale-2027-2030.pdf",
+  "regneark": "https://www.vordingborg.dk/Media/639257557576363445/budgetaftale-2027-2030-alle-tabeller.pdf",
+  "side": "https://www.vordingborg.dk/kommunen/oekonomi-og-noegletal/budget/budget-2027",
+  "note": "Alle tabeller som PDF. Intet klimabudget fundet."
+ },
+ "Allerød": {
+  "aftale": "https://cdn.alleroed.dk/alleroedkommune/Media/639251492569612823/budgetforlig-2027-34.pdf",
+  "side": "https://alleroed.dk/pressemeddelelser/2026/sep/budgetforlig-2027-34",
+  "note": "Allerød budgetterer 8 år frem (2027-2034)."
+ },
+ "Ballerup": {
+  "note": "Budgetaftale 2027 ikke fundet; kun direktionens budgetforslag 2027: https://ballerup.dk/sites/default/files/2026-08/Direktionens%20budgetforslag%20til%20budget%202027%20og%20overslags%C3%A5rene%202028-2030%20%281%29%20%281%29.pdf"
+ },
+ "Favrskov": {
+  "note": "favrskov.dk blokerer automatisk adgang; aftaletekst ikke fundet.",
+  "side": "https://favrskov.dk/nyheder/budgetaftale-paa-plads-i-favrskov-2"
+ },
+ "Egedal": {
+  "aftale": "https://egedalkommune.dk/p/Om-kommunen/%C3%98konomi/Budget%202027/Til%20Hjemmeside/Budgetaftale-budget-2027.pdf",
+  "regneark": "https://egedalkommune.dk/p/Om-kommunen/%C3%98konomi/Budget%202027/Til%20Hjemmeside/Budget-2027-30.pdf",
+  "side": "https://egedalkommune.dk/om-kommunen/oekonomi/budget-2027",
+  "note": "Vedtaget budget 2027-30 som PDF. Intet klimabudget fundet."
+ }
+}

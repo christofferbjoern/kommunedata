@@ -1,0 +1,2036 @@
+{
+ "København": {
+  "budgetaar": "Budget 2027 (anlæg 2027-2030)",
+  "partier": [
+   "SF",
+   "Enhedslisten",
+   "Socialdemokratiet",
+   "Radikale Venstre",
+   "Venstre",
+   "Liberal Alliance",
+   "Alternativet",
+   "Dansk Folkeparti"
+  ],
+  "prioriteter": [
+   "Udvidelse af skolekapacitet: 1.675 mio. kr. (anlæg)",
+   "Socialområdet: 1.154 mio. kr.",
+   "Renovering og vedligehold af bygninger: 1.138 mio. kr.",
+   "Ældreområdet: plejeboligplan og SOSU-elevløn",
+   "Byliv, parkering og begrønning: 77 mio. kr.",
+   "Sidste del af idrætsmilliarden",
+   "Samlet demenspakke",
+   "Styrkelse af erhvervsområdet",
+   "Cykelprojekter (Søtorvet 18,1 mio., Amager Fælled 15,0 mio.)",
+   "Klima og tryghed (Sikker By)"
+  ],
+  "besparelser": [
+   "Strammere visitation på botilbud (mere støtte i eget hjem)",
+   "Annulleret udvidelse af daginstitution Rosa: 2,8 mio. kr.",
+   "Stop for delvis genhusning af Ørestad Skole: 87,6 mio. anlæg + 10,5 mio. service",
+   "Need to-midler til alkoholbehandling tilbageført: 1,0 mio. kr."
+  ],
+  "finansiering": [
+   "Tilbageførte midler fra stoppede projekter",
+   "Merindtægter fra betalingsparkering/beboerlicenser",
+   "Grundkapitalmidler 89,9 mio. kr. til plejeboligplan",
+   "Statslig medfinansiering til cykelprojekter: 12,0 mio. kr."
+  ],
+  "skat": "ikke nævnt",
+  "klima": "Har separat klimabudget (bilag 2). Klimatilvalg i vedligehold, Klimastrategi 2035, fossilfrie køretøjer ved anlæg, flere træer, klimaråd.",
+  "resume": "Budget 2027 prioriterer skoler, vedligehold, socialområdet, ældre og byudvikling med 2.346 mio. kr. på anlæg og 995 mio. kr. på service. Bred aftale med otte partier."
+ },
+ "Aarhus": {
+  "budgetaar": "2027-2030 (aftale 17/9-2026)",
+  "partier": [
+   "ikke angivet i uddrag"
+  ],
+  "prioriteter": [
+   "Løft af socialområdet: 107 mio. kr. årligt via solidarisk bidrag + 10-12 mio. kr.",
+   "To fagprofessionelle i indskolingen: 33 mio. (2027), 58 mio. fra 2028",
+   "Fysiske rammer i dagtilbud, skoler og fritid: 105 mio. kr. 2028-30",
+   "Lokal pasning i Midtbyen: 35 mio. kr.",
+   "Minimumsnormeringer i dagtilbud: 16 mio. kr. årligt",
+   "Ældre og demens: 11-13 mio. kr. årligt",
+   "Renovering af Gellerupbadet: op til 83 mio. kr.",
+   "Kongelunden (stadion m.m.): 28 mio. kr.",
+   "Pladser til borgere med udadreagerende adfærd: 12,3 mio. anlæg + 10 mio. forebyggelse",
+   "Idrætsfaciliteter: 15 mio. kr. 2028-30"
+  ],
+  "besparelser": [
+   "Effektivisering ved samling af HR, økonomi og IT: 10 mio. kr. årligt fra 2029",
+   "Omprioritering af 123 eksisterende trivselstilbud",
+   "Bortfald af medfinansiering af Gellerupbadets drift"
+  ],
+  "finansiering": [
+   "Solidarisk socialprocent (1 % fra decentrale områder): 107 mio. kr. årligt",
+   "Demografiregulering: 2 mia. kr. i perioden",
+   "Ny dækningsafgift på erhvervsejendomme",
+   "Reserver (pladsbehov, anlæg, drift)",
+   "Sundhedsfonden omprioriteret",
+   "Fonde/eksterne midler",
+   "Lånedispensation 48,9 mio. kr. til botilbud"
+  ],
+  "skat": "Ny dækningsafgift på erhvervsejendomme (aftalt foråret 2026); udskrivningsprocent ikke nævnt",
+  "klima": "Marin Naturnationalpark, grøn kile langs Brabrandstien, Jordfond, klimaplan; intet separat klimabudget.",
+  "resume": "Aftalen prioriterer folkeskole, dagtilbud, socialområdet og ældrepleje samt idræt og mobilitet. Finansieres især af en solidarisk socialprocent, demografiregulering, reserver og ny dækningsafgift."
+ },
+ "Aalborg": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "ikke angivet i uddrag"
+  ],
+  "prioriteter": [
+   "Billigere og bedre dagtilbud (lavere forældrebetaling, mere personale): 77,1 mio. kr. årligt",
+   "Fuld demografiregulering på ældre, 229 nye plejehjemspladser: 55,4 mio. kr. årligt",
+   "Træer, begrønning og skovrejsning: 22 mio. kr.",
+   "Cykelstier: 12 mio. kr.",
+   "Infrastruktur ved Aalborg Industripark: 10 mio. kr.",
+   "Folkeskolens almenområde: 5 mio. kr. årligt",
+   "Tværfaglige teams i Familiens Hus: 3 mio. kr. årligt",
+   "Kriminalpræventiv indsats: 1 mio. kr. årligt"
+  ],
+  "besparelser": [
+   "Voksensocialområdet: ca. -50 mio. kr. (+16 mio. i 2028)",
+   "Jobcenter: -84 mio. kr. pga. beskæftigelsesreform",
+   "Rammebeløb: -30 mio. kr. årligt",
+   "Fagcenter Børn og Unge: -2 mio. kr.",
+   "Tilskud til Aalborg Zoo: -2,5 mio. kr. fra 2028",
+   "Tilpasning af overkapacitet på aktivitets- og samværstilbud (~5 mio.)"
+  ],
+  "finansiering": [
+   "Opdateret skatte- og tilskudsmodel: -23,3 mio. kr. i 2027",
+   "Sanktion for skattestigning: +7,3 mio. kr. årligt",
+   "Jordsalg ved Gigantium: 18 mio. kr.",
+   "Arealsalg til Sport 2.0: ca. 18 mio. kr."
+  ],
+  "skat": "ikke nævnt (sanktion for skattestigning indgår)",
+  "klima": "Grøn Trepart, Limfjorden, træer, skovrejsning, cykelstier og grøn Egholm-færge (op til 100 mio. kr. i 2030).",
+  "resume": "Aftalen balancerer et stort udgiftspres på voksensocialområdet med investeringer i dagtilbud, ældre, folkeskole og klima. Den rummer mærkbare besparelser for borgere og medarbejdere."
+ },
+ "Albertslund": {
+  "budgetaar": "2027-2030 (principaftale til 2036)",
+  "partier": [
+   "AFCOBLI",
+   "SF",
+   "Dansk Folkeparti",
+   "Albertslund-Listen",
+   "Liberal Alliance"
+  ],
+  "prioriteter": [
+   "Social pulje videreført: 7 mio. kr.",
+   "Vedligehold af veje og cykelstier: 7 mio. kr. i 2027",
+   "Kvalitet og kapacitet i dagtilbud og skoler",
+   "Principaftale om renovering/udbygning af institutioner frem til 2036",
+   "Investeringspulje: min. 30 mio. kr. årligt fra 2028",
+   "Arbejdsmiljø- og kompetencepulje fra 2028",
+   "Biotopia som naturskole: 150.000 kr. årligt",
+   "Aktivitetspulje Hersted Øst: 200.000 kr.",
+   "Bibliotek og indskoling: 200.000 kr.",
+   "Alle Kan Synge videreført"
+  ],
+  "besparelser": [
+   "Besparelse på skæve boliger genbesøges",
+   "Besparelse på borgerservice må ikke ramme bibliotek",
+   "Ny ressourcemodel for specialundervisning udskudt"
+  ],
+  "finansiering": [
+   "Skatteprocent, grundskyld og dækningsafgift fastholdt",
+   "Salg af grunde og bygninger (bl.a. Hyldagergrunden) til investeringspuljen",
+   "Min. 30 mio. kr. årligt til anlæg fra 2028"
+  ],
+  "skat": "Uændret: udskrivning 25,6 %, grundskyld 9,1 ‰, dækningsafgift 5,8 ‰",
+  "klima": "Grøn foregangskommune; bæredygtig renovering og biodiversitet; intet separat klimabudget.",
+  "resume": "Skatten fastholdes, og der prioriteres børne- og skoleområdet, sociale tilbud samt veje og cykelstier. Investeringer frem mod 2036 finansieres bl.a. af salg af grunde."
+ },
+ "Brøndby": {
+  "budgetaar": "2027",
+  "partier": [],
+  "prioriteter": [
+   "Folkeskole: 5,0 mio. kr. i 2027 (12 mio. kr. årligt)",
+   "Velfærd, børn, ældre, fritid og grøn omstilling (beløb ikke udtrukket)"
+  ],
+  "besparelser": [
+   "Reduktioner og effektiviseringer på tværs af kommunen (beløb ikke nævnt i uddrag)"
+  ],
+  "finansiering": [
+   "Effektivisering",
+   "Omprioritering"
+  ],
+  "skat": "ikke nævnt",
+  "klima": "Streaam-projekt om energi/CO2 i virksomheder; grøn læring og grøn madkultur.",
+  "resume": "Forliget prioriterer velfærd, børn, ældre, fritid og grøn omstilling. Investeringer kombineres med reduktioner og effektiviseringer.",
+  "kvalitet": "lav – udtrækket gav få detaljer"
+ },
+ "Bornholm": {
+  "budgetaar": "2027-2030",
+  "partier": [],
+  "prioriteter": [
+   "Nyt børnehus (101 børneenheder): 10,0 mio. kr. i 2027",
+   "Veje og anlæg: 2,5 mio. kr. årligt 2027-28",
+   "Ny organisering i Center for Sundhed og Omsorg: 4,0 mio. kr. årligt"
+  ],
+  "besparelser": [
+   "Afskaffelse af pulje til bedre bemanding på plejeboliger: 1,5 mio. kr.",
+   "Bortfald af direktørløn og overhead på Kærbygård: 2,1 mio. kr.",
+   "Lukning af folkebiblioteker undtagen Rønne og Nexø: 0,36 mio. kr."
+  ],
+  "finansiering": [
+   "Effektivisering: nettoændring 10,4 mio. kr. i 2027"
+  ],
+  "skat": "ikke nævnt",
+  "klima": "Energimærkning, robotplæneklipning, ændret bekæmpelse af rynket rose.",
+  "resume": "Dokumentet ligner et budgetforslag/forligsbilag med besparelser og nye investeringer. Partier fremgår ikke.",
+  "kvalitet": "usikker – filen kan være forslagsliste frem for aftaletekst"
+ },
+ "Kolding": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "Venstre",
+   "Socialdemokratiet",
+   "SF",
+   "Konservative",
+   "Radikale Venstre",
+   "Liberal Alliance",
+   "Danmarksdemokraterne",
+   "Cecilie Liv Hansen (løsgænger)"
+  ],
+  "prioriteter": [
+   "Kolding Stadion etape 3 (tribuner): 100 mio. kr.",
+   "Infrastruktur Højvangen/Vejlevej: 81 mio. kr. (2027-35)",
+   "Faglokaler på skoler: 41,4 mio. kr.",
+   "Holmsminde byggemodning: 40 mio. kr.",
+   "P-plads ved stadion: 12 mio. kr.",
+   "Infrastruktur Skovvejen/Æblelunden: 11,5 mio. kr.",
+   "Renovering af Idrætsbygningen: 9,4 mio. kr.",
+   "Cykelsti Nr. Bjert-Eltang: 8,6 mio. kr.",
+   "Løverodde Strand tilgængelighed: 7,5 mio. kr.",
+   "Koncertpladsen i Seest: 3 mio. kr."
+  ],
+  "besparelser": [
+   "Generel besparelse: 40 mio. kr. årligt i fire år",
+   "Effektiviseringsmål hævet til 15 mio. kr. årligt",
+   "Administrativ besparelse: 4,15 mio. kr.",
+   "Barselsudligningspulje: -5 mio. kr. årligt",
+   "Budgetreserve og investeringspulje nulstillet",
+   "Bygningsvedligehold: -5 mio. kr. årligt"
+  ],
+  "finansiering": [
+   "Generel besparelse 40 mio. kr. årligt",
+   "Effektivisering 15 mio. kr. årligt",
+   "Lån: 15,8 mio. kr. til skovrejsning",
+   "Salg af Lindgård og tomme bygninger undersøges"
+  ],
+  "skat": "ikke nævnt",
+  "klima": "VE-tilskud 16,4 mio. kr. til outdoor, grøn trepart og skovrejsning.",
+  "resume": "Forliget finder 40 mio. kr. årligt i besparelser og prioriterer anlæg som Kolding Stadion og Holmsminde. Velfærdsområderne mærker reduktionerne."
+ },
+ "Tønder": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "Slesvigsk Parti",
+   "Venstre",
+   "Tønder Listen",
+   "Socialdemokratiet",
+   "Dansk Folkeparti",
+   "Konservative",
+   "SF",
+   "Liberal Alliance",
+   "Danmarksdemokraterne"
+  ],
+  "prioriteter": [
+   "Masterplan Tønderhallerne: 100 mio. kr. (2029-30)",
+   "Fremtidens skoler og dagtilbud: 64,4 mio. kr.",
+   "Zeppelin Tønder landskabsprojekt: 30 mio. kr.",
+   "Multisal ved Skærbæk Distriktsskole: 20 mio. kr.",
+   "Ældrereform og flere ældre: 18,5 mio. kr. i 2030",
+   "Ballum-Astrup Diget: 10 mio. kr.",
+   "Renovering af Kongevej: 7,1 mio. kr.",
+   "Klosterbadet: 5 mio. kr.",
+   "Life Wadden Sea Birds: 5 mio. kr.",
+   "Tønnisgård: 5 mio. kr."
+  ],
+  "besparelser": [],
+  "finansiering": [
+   "Lånegaranti til diger og Museum Wegner (beløb ikke angivet)"
+  ],
+  "skat": "ikke nævnt",
+  "klima": "Digeforstærkning og kystsikring; Vadehavet og Marsken.",
+  "resume": "Bredt forlig (3/9-2026) med anlæg for 453 mio. kr. Prioriterer kernevelfærd, bosætning og sund økonomi."
+ },
+ "Dragør": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "Konservative",
+   "Venstre",
+   "Socialdemokratiet",
+   "SF"
+  ],
+  "prioriteter": [
+   "Solceller på kommunale tage: 7,0 mio. kr.",
+   "Vintermateriel: 1,6 mio. kr.",
+   "Udearealer ved Krudthuset (Ung Dragør): 1,5 mio. kr.",
+   "9. skolespor for årgang 2027: 1,5 mio. kr./år",
+   "Modtagekøkkener til madordning i børnehaver: 1,3 mio. kr.",
+   "Kvalitet og tryghed i hjemmeplejen: 1,0 mio. kr.",
+   "Fælles børnetandpleje med Tårnby: 1,0 mio. kr./år",
+   "Faglig tid for pædagoger 0-6 år: 0,7 mio. kr./år",
+   "Enggården bliver selvejende plejehjem: 0,7 mio. kr./år",
+   "Flere hold på Musik- og Kulturskolen: 0,5 mio. kr./år"
+  ],
+  "besparelser": [
+   "Flextrafik begrænses til visiteret kørsel: 0,1 mio. kr."
+  ],
+  "finansiering": [
+   "Omprioritering af ESCO-midler: 7 mio. kr. til solceller",
+   "Kassetræk (kystsikring, plejeboliger, havn)",
+   "Løbende effektiviseringer"
+  ],
+  "skat": "ikke nævnt",
+  "klima": "Solceller for 7 mio. kr.; varmeplan revurderes; nye træer ved fældning.",
+  "resume": "Fire partier investerer i børn, ældre, kultur og grønne løsninger. Fokus på langsigtet økonomi med faldende befolkningstal."
+ },
+ "Faxe": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "Liberal Alliance",
+   "Socialdemokratiet",
+   "Dansk Folkeparti",
+   "SF",
+   "Lokallisten",
+   "Konservative",
+   "HaslevFaxe-Listen",
+   "Enhedslisten"
+  ],
+  "prioriteter": [
+   "Ny svømmehal i Haslev: opsparing 100 mio. kr. i 2030",
+   "Familieområdet: +30 mio. kr. årligt",
+   "Udviklingsplan for familieområdet: 12 mio. kr. i 2027",
+   "Nyt større plejehjem erstatter to ældre",
+   "Jordfond til erhvervsjord",
+   "Udvidelse af Faxe Ladeplads Lystbådehavn",
+   "Styrket 3-døgnsberedskab",
+   "Klimasikring ved Kruse Bæk og Hovby",
+   "Handleplanen En skole for flere",
+   "Samling af administrationen i Søndergade"
+  ],
+  "besparelser": [
+   "Lukning af Terslev Skole fra august 2027",
+   "Samling af administrationen"
+  ],
+  "finansiering": [
+   "Salg af ejendomme på Tingvej og Frederiksgade",
+   "Salg af erhvervsjord i Rønnede",
+   "Omprioritering af midler fra Terslev Skole",
+   "Effektivisering via samlet administration"
+  ],
+  "skat": "ikke nævnt",
+  "klima": "Klimasikring ved Kruse Bæk og Hovby; genbrug af møbler.",
+  "resume": "Prioriterer familieområdet, folkeskolen og erhverv. Lukker Terslev Skole og sparer op til ny svømmehal."
+ },
+ "Fredensborg": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "Socialdemokratiet",
+   "Radikale Venstre",
+   "SF",
+   "Enhedslisten"
+  ],
+  "prioriteter": [
+   "Specialiserede områder: netto ca. +70 mio. kr. årligt",
+   "Dagtilbud (minimumsnormering, lavere forældrebetaling): ca. 20 mio. kr. årligt",
+   "Tag på Endrupskolen: ca. 62 mio. kr.",
+   "Fremtidens Folkeskoler: 28 mio. kr.",
+   "Humlebæk Skole og Langebjergskolen: 20 mio. kr.",
+   "Skoler, ny medfinansieringsmodel: 6 mio. kr. årligt",
+   "Ældreområdet: +1,2 mio. kr. årligt",
+   "Fællesskabspulje: 1,7 mio. kr.",
+   "Bymidte-pulje: 0,5-1,5 mio. kr.",
+   "Kassebeholdning min. 100 mio. kr."
+  ],
+  "besparelser": [
+   "Driftsbesparelser over 100 mio. kr. årligt fra 2030",
+   "Ekstra driftsbesparelser 20 mio. kr. i 2027",
+   "Anlægsudskydelser netto ca. 85 mio. kr.",
+   "Administration: -10 mio. kr. årligt",
+   "Kortere SFO-åbningstid: ca. 2,4 mio. kr.",
+   "Nivaagaards Malerisamling: -1,7 mio. kr.",
+   "Klimatilpasningsplan: -0,35 mio. kr."
+  ],
+  "finansiering": [
+   "Skattestigning: ca. 121 mio. kr. over 2027-30",
+   "Salg i Nivå Bymidte: ca. 103 mio. kr.",
+   "Kassetræk: ca. 100 mio. kr. i 2027",
+   "Anlægsudskydelser: ca. 85 mio. kr.",
+   "Låneomlægning: ca. 11 mio. kr.",
+   "AI/digitalisering: ca. 2,7 mio. kr."
+  ],
+  "skat": "Udskrivning hæves fra 25,3 % til 25,9 %; grundskyld uændret 8,3 ‰; dækningsafgift 6,8 ‰",
+  "klima": "Vandressourcecenter og 890 ha ny skov; klimatilpasning reduceres.",
+  "resume": "Forliget hæver skatten og sparer på service og anlæg for at genoprette økonomien. Kernevelfærd styrkes, mens svømmehal og anlæg udskydes."
+ },
+ "Frederiksberg": {
+  "budgetaar": "2027",
+  "partier": [
+   "Socialdemokratiet",
+   "Konservative",
+   "Enhedslisten",
+   "Radikale Venstre",
+   "SF",
+   "Venstre",
+   "Liberal Alliance"
+  ],
+  "prioriteter": [
+   "Specialiserede voksenområder for udsatte: 57 mio. kr.",
+   "Renovering af skolegårde på fire skoler: 30 mio. kr.",
+   "Træer, begrønning og naturlegepladser: 25 mio. kr.",
+   "Opsparing til ny Kultur- og Musikskole: 20 mio. kr.",
+   "Cykelsti på Frederiksberg Allé: 5 mio. kr.",
+   "Venteliste hos TUBA: op til 1,5 mio. kr.",
+   "Kunstprojekt på Nandrupsvej: 0,5 mio. kr."
+  ],
+  "besparelser": [
+   "Effektiviseringer og besparelser: 26,4 mio. kr. i 2027, stigende til 45,3 mio. kr. i 2030"
+  ],
+  "finansiering": [
+   "Effektivisering: 26,4 mio. kr. i 2027",
+   "Udskudt skattesænkning (til 2029)"
+  ],
+  "skat": "Uændret i 2027; planlagt skattesænkning udskudt til 2029",
+  "klima": "25 mio. kr. til træer og begrønning; solceller på større tage og nybyggeri.",
+  "resume": "Alle syv partier står bag budget 2027 med fokus på udsatte voksne, børn og grønne tiltag. Skatten holdes uændret, og skattelettelsen udskydes."
+ },
+ "Fredericia": {
+  "budgetaar": "2027",
+  "partier": [
+   "ikke nævnt"
+  ],
+  "prioriteter": [
+   "Renovering/nybyg af skole i Erritsø: 280 mio. kr.",
+   "Afskrivning af merforbrug i tre udvalg: 24 mio. kr.",
+   "Sikre skoleveje ved Indre Ringvej: 10 mio. kr.",
+   "Stadion for FC Fredericia: max 10 mio. kr.",
+   "Familieområdets myndighedsindsats: 5 mio. kr. i 2028",
+   "Kulturfyrtårn: 1 mio. kr.",
+   "Permanente midler til vedligehold af bygninger og veje"
+  ],
+  "besparelser": [
+   "Sekretariat Børn og Læring: -1,8 mio. kr.",
+   "Ledelse i dagtilbud: min. -1 mio. kr.",
+   "Afbureaukratisering",
+   "Specialpædagogiske pladser",
+   "Ny takststruktur på Frederiksodde Skole",
+   "Nedskrivning af rusmiddelområdet"
+  ],
+  "finansiering": [
+   "Omprioritering fra investeringspulje: 24 mio. kr.",
+   "Salg af byggefelt 1 og ejendomme uden for kerneydelser"
+  ],
+  "skat": "ikke nævnt",
+  "klima": "Solceller og batterier på kommunale tage; grøn omstilling med DTU.",
+  "resume": "Budget 2027 strammer driften og investerer i skoler og fysiske rammer. Merforbrug afskrives, og ejendomme sælges."
+ },
+ "Faaborg-Midtfyn": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "SF",
+   "Konservative",
+   "Liberal Alliance",
+   "Dansk Folkeparti",
+   "Danmarksdemokraterne"
+  ],
+  "prioriteter": [
+   "Årslev bymidte: knap 40 mio. kr.",
+   "Udvikling af Ringe by: 20 mio. kr.",
+   "Renovering af idrætshaller: 17,9 mio. kr.",
+   "Socialområdet: +11,2 mio. kr. årligt",
+   "Hjemme- og sygepleje: 6,6 mio. kr. stigende til 22,8 mio. kr.",
+   "Cykelstipulje: 6 mio. kr. årligt",
+   "Vejanlæg Ringe Nord: 5,4 mio. kr.",
+   "Reserve til boligprojekter: 5 mio. kr.",
+   "Flere medarbejdere i dagtilbud: 4,9 mio. kr.",
+   "Myndighedsbehandling By, Land og Kultur: 4,8 mio. kr."
+  ],
+  "besparelser": [
+   "Efter-/videreuddannelse i folkeskolen: 1,6 mio. kr.",
+   "Beskyttet beskæftigelse og aktivitetstilbud: 1,6 mio. kr.",
+   "Heltidsundervisning nedlagt: 1,2 mio. kr.",
+   "Bostøtte omlagt: 1,2 mio. kr.",
+   "Rengøring hver tredje uge: 0,7 mio. kr.",
+   "Frivillige sociale puljer: 0,6 mio. kr.",
+   "Fritidspædagogik i SFO: 0,5 mio. kr.",
+   "Læringshjemmet PHC og Sciencestrategien nedlagt: 1,0 mio. kr."
+  ],
+  "finansiering": [
+   "Kompensation for grundskyldsfejl: 39,5 mio. kr.",
+   "Ekstra finansieringstilskud: 27,5 mio. kr.",
+   "Lån: 21 mio. kr. + 25,5 mio. kr. til jordpulje",
+   "Kassetræk: 18,6 mio. kr.",
+   "Effektivisering: 7,8 mio. kr."
+  ],
+  "skat": "ikke nævnt",
+  "klima": "Skovrejsning, LIFE Ring (biodiversitet), økologiske råvarer.",
+  "resume": "Aftalen løser 2027-underskuddet og prioriterer vækst, bosætning og kernevelfærd. Indeholder mange mindre besparelser og et budgetværn mod udligningsreformen."
+ },
+ "Frederikssund": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "Venstre",
+   "Socialdemokratiet",
+   "Liberal Alliance",
+   "Dansk Folkeparti",
+   "SF",
+   "Konservative",
+   "Enhedslisten"
+  ],
+  "prioriteter": [
+   "Investeringsplan: 735 mio. kr. 2027-30",
+   "Specialiseret voksensocialområde: +70 mio. kr.",
+   "Familieområdet: +59 mio. kr.",
+   "Specialundervisning: +28 mio. kr.",
+   "Ældreområdet: +20 mio. kr.",
+   "Cykelsti Kalvøvej: 5,7 mio. kr.",
+   "Byliv: 1,3 mio. kr. årligt",
+   "Jægerspris Mølle: 1 mio. kr.",
+   "Tag på Frederikssundhallen"
+  ],
+  "besparelser": [
+   "Administration: 2,5 mio. kr. årligt",
+   "Tilpasning af naturindsatsen",
+   "Tre færre dagplejere"
+  ],
+  "finansiering": [
+   "Effektivisering: 2,5 mio. kr. årligt",
+   "Statslig låneordning til botilbud",
+   "Statstilskud til skattenedsættelse"
+  ],
+  "skat": "Udskrivning sænkes 0,1 pct.-point til 25,5 %",
+  "klima": "Høj klimaambition; bæredygtigt forbrug og grøn trepart.",
+  "resume": "Velfærdsområderne styrkes med 177 mio. kr., og der investeres 735 mio. kr. Skatten sænkes, og der afdrages ekstra på gælden."
+ },
+ "Gentofte": {
+  "budgetaar": "2027-2028 (toårig)",
+  "partier": [
+   "Konservative",
+   "Venstre",
+   "Radikale Venstre",
+   "SF",
+   "Socialdemokratiet",
+   "Enhedslisten",
+   "Liberal Alliance"
+  ],
+  "prioriteter": [
+   "Ny svømmehal i Sportsparken: 150 mio. kr. årligt 2029-30",
+   "Plejehjemspladser (Nymosehave, Kløckershave): 86,6 mio. kr.",
+   "Renovering af ishallen: 56 mio. kr.",
+   "Ombygning af Camillehusene: 50 mio. kr.",
+   "Nyt børne- og ungehjem: 17 mio. kr.",
+   "Bygningsvedligehold: +15 mio. kr. årligt",
+   "Veje, cykelstier og fortove: 14 mio. kr.",
+   "Tribuneområdet i Sportsparken: 10 mio. kr. årligt",
+   "Kunstgræsbaner: 10 mio. kr.",
+   "Bydelscentre: 5 mio. kr. årligt"
+  ],
+  "besparelser": [],
+  "finansiering": [
+   "Lån: 67 mio. kr. i 2027 (børne- og ungehjem, Camillehusene)"
+  ],
+  "skat": "ikke nævnt",
+  "klima": "Klimapulje 5,6 mio. kr. årligt; klimastrategi undervejs; kystbeskyttelse og spildevand.",
+  "resume": "Toårig aftale der prioriterer ældrepleje, børn, vedligehold og idræt. Største post er ny svømmehal; flere anlæg lånefinansieres."
+ },
+ "Gladsaxe": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "SF",
+   "Socialdemokratiet",
+   "Venstre",
+   "Enhedslisten",
+   "Radikale Venstre",
+   "Konservative",
+   "Liberal Alliance",
+   "Lokallisten Gladsaxe"
+  ],
+  "prioriteter": [
+   "Specialiseret socialområde: 55 mio. kr. i 2027",
+   "Tolærerordning i 1.-3. klasse: 47 mio. kr. årligt",
+   "Hybridbane på Gladsaxe Stadion: 20 mio. kr.",
+   "Pædagogfaglige ledere på alle skoler: 7,7 mio. kr. årligt",
+   "Offentlige legepladser: 5 mio. kr.",
+   "Park og legeplads ved Bindeleddet: 4 mio. kr.",
+   "Pulje til værdigt ældreliv: 3 mio. kr. årligt",
+   "Beredskab og cybersikkerhed: 3 mio. kr. årligt",
+   "Forsøg mod sygefravær: 1,2 mio. kr.",
+   "Boligudvikling Høje Gladsaxe: 0,75 mio. kr."
+  ],
+  "besparelser": [
+   "Demografisk tilpasning skole/dagtilbud: 17,1 mio. kr.",
+   "Færre tjenestemandspensioner: 8 mio. kr.",
+   "Færre midlertidige pladser på Kildegården: 3,8 mio. kr.",
+   "Forældrebetalt vuggestuefrokost: 3,6 mio. kr.",
+   "Administration: 2,7 mio. kr.",
+   "Morgenmadsordning på skoler nedlagt: 1,7 mio. kr.",
+   "Kollektiv trafik: 1,25 mio. kr."
+  ],
+  "finansiering": [
+   "Driftsbesparelser: 32,7 mio. kr.",
+   "Lån: 268 mio. kr. til forsyningsområdet",
+   "Kassetræk: 171,5 mio. kr. i 2028",
+   "Statstilskud til skattenedsættelse: 13,6 mio. kr."
+  ],
+  "skat": "Udskrivning sænkes fra 23,6 % til 23,5 %; grundskyld uændret 5,9 ‰",
+  "klima": "Solceller på kommunale ejendomme; byttecontainere; Furå-projekt for Bagsværd Sø.",
+  "resume": "Skatten sænkes, og folkeskolen styrkes med tolærerordning. Midler til socialområdet, beredskab, idræt og ældre."
+ },
+ "Guldborgsund": {
+  "budgetaar": "2027-2028",
+  "partier": [],
+  "prioriteter": [
+   "Socialområdet: +85 mio. kr. årligt",
+   "Beskæftigelsesområdet: +70 mio. kr. årligt",
+   "Sundhed og omsorg: +20 mio. kr. årligt",
+   "Skoleområdet: varigt løft 20 mio. kr.",
+   "SFO-normering: 5 mio. kr.",
+   "Dagtilbud bemanding: 3,5 mio. kr. årligt",
+   "Madskolen i Sakskøbing: 1,6 mio. kr.",
+   "Grønne arealer: 1,2 mio. kr.",
+   "Tilgængelighedspulje: 1 mio. kr.",
+   "Bosætningsindsats: 1 mio. kr."
+  ],
+  "besparelser": [
+   "Driftsreduktioner: 50 mio. kr. (2027), 110 mio. kr. (2028+)",
+   "Anlægsudskydelse Bastebro: 49,2 mio. kr.",
+   "Lavere anlægsniveau: 10 mio. kr.",
+   "Fysio/ergoterapi i helhedsplejen: 2,4 mio. kr."
+  ],
+  "finansiering": [
+   "Driftsreduktioner 50-110 mio. kr.",
+   "Lån: 24 mio. (2027), 65 mio. (2028) + 22 mio. lånedispensation",
+   "Salg: 10-15 mio. kr.",
+   "Kassetræk: resultat -69 mio. (2027), -105 mio. (2028)"
+  ],
+  "skat": "ikke nævnt",
+  "klima": "Bæredygtighed tværgående; solceller, energieffektivitet, biodiversitet, klimatilpasning.",
+  "resume": "Toårig aftale med store løft til social-, beskæftigelses- og sundhedsområdet. Økonomien bringes i balance via driftsreduktioner, anlægstilpasning, lån og salg."
+ },
+ "Haderslev": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "alle partier (iflg. pressemeddelelse)"
+  ],
+  "prioriteter": [
+   "Ekstraordinær velfærdsstyrkelse fra kassen: ca. 100 mio. kr.",
+   "Ny svømmefacilitet: 30 mio. kr. i 2030",
+   "Uddannelsesmiljø Kroghs Kobbel: 25 mio. kr.",
+   "Overtidsbetaling for deltidsansatte: 25 mio. kr.",
+   "Specialiseret voksenområde engangsbevilling: 20 mio. kr.",
+   "Områdefornyelse af Vojens: 17,8 mio. kr.",
+   "Seniorområdet demografi: +16,4 mio. kr. årligt",
+   "Nyt botilbud: 15 mio. kr.",
+   "Specialiseret børneområde: 15 mio. kr."
+  ],
+  "besparelser": [
+   "Demografi skole og dagtilbud: -11,9 mio. kr. årligt",
+   "Beskæftigelseskompensation: -11,7 mio. kr.",
+   "Budgetanalyser: 12,1 mio. kr.",
+   "Automatisk ruteplanlægning i sygeplejen: 0,4 mio. kr."
+  ],
+  "finansiering": [
+   "Kassetræk: 16,9 (2027), 68 (2028), 15 mio. kr. (2029)",
+   "Effektivisering: 12,1 mio. kr.",
+   "Omprioritering fra skole/dagtilbud: 11,9 mio. kr.",
+   "Lån: 10 mio. kr. i 2030"
+  ],
+  "skat": "uændret",
+  "klima": "Solcellestrategi, blå-grøn livskvalitet, natur og cykler, Gram Lergrav.",
+  "resume": "Velfærden styrkes med ca. 100 mio. kr. fra kassebeholdningen. Skatten er uændret; der investeres i svømmehal og Vojens."
+ },
+ "Glostrup": {
+  "budgetaar": "2027",
+  "partier": [
+   "Socialdemokratiet",
+   "Venstre",
+   "SF",
+   "Konservative",
+   "Bylisten",
+   "Enhedslisten",
+   "Liberal Alliance",
+   "Radikale Venstre"
+  ],
+  "prioriteter": [
+   "Samlede investeringer over 600 mio. kr.",
+   "Klasselokaler på Vestervangskolen (3 spor): 100 mio. kr.",
+   "Nyt ældrecenter Kærmindevej (113 pladser): ca. 44 mio. kr.",
+   "Samlet tandpleje på Digevang: 30 mio. kr.",
+   "Specialundervisning: +16 mio. kr. årligt",
+   "Dagtilbud, 18 årsværk: 8,5 mio. kr. årligt",
+   "Herberg, forsorgshjem og krisecentre: 6 mio. kr. årligt",
+   "Flere SOSU-elever: op til 5,4 mio. kr.",
+   "Normering på ældrecentre: 3,5 mio. kr. årligt"
+  ],
+  "besparelser": [
+   "Samlede prioriterede besparelser: 10-14 mio. kr. årligt",
+   "Skolebudget efter klassetal: 1,1-5,5 mio. kr.",
+   "Reservepulje: -5 mio. kr.",
+   "Kontorelevstillinger udfases: 1,3 mio. kr.",
+   "Forsyningsudgifter: ca. 1 mio. kr.",
+   "Strammere visitation til praktisk hjælp: 0,7 mio. kr.",
+   "Dagtilbud rammebesparelse: 0,5 mio. kr.",
+   "Plejeniveau udearealer: 0,4 mio. kr."
+  ],
+  "finansiering": [
+   "Salg af Banegårdspladsen: 16 mio. kr.",
+   "Besparelser 10-14 mio. kr. årligt",
+   "IT/forsyning effektivisering: 0,75 mio. kr.",
+   "Ekstraordinær gældsnedbringelse: 36 mio. kr."
+  ],
+  "skat": "ikke nævnt",
+  "klima": "Renovering af bygninger; cykelstier og delecykler.",
+  "resume": "Styrker dagtilbud, skoler, specialområdet og ældre med investeringer over 600 mio. kr. Besparelser og gældsnedbringelse skaber råderum."
+ },
+ "Herning": {
+  "budgetaar": "2027",
+  "partier": [
+   "Venstre",
+   "Socialdemokratiet",
+   "SF",
+   "Danmarksdemokraterne",
+   "Radikale Venstre",
+   "Konservative",
+   "Dansk Folkeparti",
+   "Liberal Alliance",
+   "Kristendemokraterne",
+   "Lone Nielsen (UP)"
+  ],
+  "prioriteter": [
+   "Skoler i Snejbjerg og Lind: 54 mio. kr.",
+   "Minimumsnormeringer i daginstitutioner: ca. 30 mio. kr. årligt",
+   "Iværksætter- og aktivitetshus Herning+: 30 mio. kr.",
+   "Specialiseret socialområde: +28 mio. kr. årligt",
+   "Botilbudspladser: 22 mio. kr.",
+   "Energirenovering af Hammerum-Gjellerup Hall: ca. 18 mio. kr.",
+   "Tandpleje på Brændgårdvej: 15,2 mio. kr.",
+   "Cykelhandlingsplan: 6 mio. kr.",
+   "Uddannelsessatsning: +6 mio. kr.",
+   "Fællesskabsindsats: +6 mio. kr."
+  ],
+  "besparelser": [
+   "Ingen besparelser på øvrige velfærdsområder"
+  ],
+  "finansiering": [
+   "Lån: ca. 18 mio. kr.",
+   "Omprioritering fra Midtjyllands Lufthavn: 1,8 mio. kr."
+  ],
+  "skat": "ikke nævnt",
+  "klima": "Lufthavnsmidler omprioriteret til mobilitet; cykelhandlingsplan og LED-pulje.",
+  "resume": "Prioriterer specialiseret socialområde, børnepasning, skoler og tandpleje uden besparelser på andre velfærdsområder. Bred aftale med ti partier."
+ },
+ "Helsingør": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "A",
+   "B",
+   "C",
+   "F",
+   "I",
+   "M",
+   "O",
+   "V",
+   "Æ",
+   "Ø"
+  ],
+  "prioriteter": [
+   "Planlagt vedligehold: 42 mio. kr.",
+   "Helhedsrenovering af skoler: 40 mio. kr.",
+   "Natur- og stormsikring: 19,8 mio. kr.",
+   "Klimatilpasning indre Helsingør: 13,7 mio. kr. årligt",
+   "Specialiseret børneområde: 7,6 mio. kr.",
+   "Masterplan skoleområdet: 6 mio. kr. årligt",
+   "Minimumsnormeringer: 3,3 mio. kr. årligt",
+   "Afskaffelse af en lukkeuge i dagtilbud: 2,3 mio. kr.",
+   "Dagcenterkapacitet: 1,8 mio. kr. årligt"
+  ],
+  "besparelser": [
+   "Pulje til politisk prioritering: -12 mio. kr. årligt",
+   "Servicedriftsbuffer: -3 mio. kr.",
+   "Mindreforbrug myndighedsområdet: 2 mio. kr.",
+   "Mindreforbrug uddannelse: 1,7 mio. kr.",
+   "Central vagtplanlægning i hjemmeplejen: 1,1 mio. kr.",
+   "Vejbelysning: 1 mio. kr.",
+   "Nytteindsats: 0,8 mio. kr."
+  ],
+  "finansiering": [
+   "Salg (arealoptimering): 19,5 mio. kr.",
+   "Kassetræk: 15,5 mio. kr.",
+   "Lån: 14,9 mio. kr.",
+   "Omprioritering: 12 mio. kr. årligt"
+  ],
+  "skat": "uændret",
+  "klima": "Natur- og stormsikring 19,8 mio. kr. og klimatilpasning 13,7 mio. kr. årligt.",
+  "resume": "Alle ti partier bag forliget. Skatten uændret; underskud dækkes delvist med kassetræk, lån og salg."
+ },
+ "Hedensted": {
+  "budgetaar": "2027-2030 (toårig aftale i fireårigt perspektiv)",
+  "partier": [
+   "Socialdemokratiet",
+   "SF",
+   "Liberal Alliance",
+   "Venstre"
+  ],
+  "prioriteter": [
+   "Anlæg: 79,4 mio. kr. i 2027 stigende til 115 mio. kr.",
+   "Vækst og velfærd: +33,3 mio. kr. i 2027",
+   "Facilitetsplan Læring: 25 mio. kr. årligt",
+   "Specialiseret socialområde: +20 mio. kr. årligt fra 2028",
+   "Asfaltpulje: 16 mio. kr.",
+   "Lov- og cirkulæreprogram: 7,9 mio. kr.",
+   "Anlæg afledt af private vækstaktiviteter: 5 mio. kr.",
+   "Analyse af specialområdet: 0,5 mio. kr."
+  ],
+  "besparelser": [
+   "Administration: oprindeligt 7,4 mio. kr.",
+   "Centrale stabe: 2,5 mio. kr."
+  ],
+  "finansiering": [
+   "Selvbudgettering: merprovenu 30 mio. kr. i 2027 og 2028",
+   "Omprioritering drift til anlæg: 9 mio. kr.",
+   "Effektivisering i stabe: 2,5 mio. kr.",
+   "Lån til energioptimering: 1,2 mio. kr. årligt"
+  ],
+  "skat": "ikke nævnt (valgt selvbudgettering)",
+  "klima": "70 % CO2-reduktion inden 2030, klimaneutral 2050.",
+  "resume": "Toårig aftale med låst service- og anlægsniveau. Specialområdet (forventet merforbrug op til 50 mio. kr.) styrkes varigt fra 2028."
+ },
+ "Hjørring": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "Venstre",
+   "Konservative",
+   "Danmarksdemokraterne",
+   "SF",
+   "Dansk Folkeparti"
+  ],
+  "prioriteter": [
+   "Genetablere driftsbalance: besparelser 155 mio. kr. frem mod 2030",
+   "Likviditet min. 190 mio. kr.",
+   "Bygningsvedligehold, anlæg: 81,7 mio. kr. i 2027",
+   "Omstilling på socialområdet: 5 mio. kr. årligt",
+   "Vuggestuepladser i Sindal: 2 mio. kr."
+  ],
+  "besparelser": [
+   "Restpulje socialområdet: 31,3 mio. kr. i 2030",
+   "Klasseoptimering: 22,7 mio. kr. årligt",
+   "Indkøbsaftaler: 15 mio. kr. årligt",
+   "Tilpasning af Hjørring-modellen: 11,6 mio. kr. årligt",
+   "SFO-forældrebetaling op til 85 %: 2,7 mio. kr."
+  ],
+  "finansiering": [
+   "Skatteforhøjelse: 47,3 mio. kr. 2027-30",
+   "Besparelser: 155 mio. kr.",
+   "Indkøb: 15 mio. kr. årligt",
+   "Lån: 50-61 mio. kr. årligt"
+  ],
+  "skat": "Udskrivning hæves fra 26,21 % til 26,30 %",
+  "klima": "Solceller på kommunale tage ved renovering.",
+  "resume": "Forlig med besparelser for 155 mio. kr., der genskaber driftsbalancen. Skatten hæves 0,09 procentpoint."
+ },
+ "Hvidovre": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "7 af 8 partier og lister (navne ikke angivet)"
+  ],
+  "prioriteter": [
+   "Renovering af svømmehal i Frihedens Idrætscenter: 30,5 mio. kr.",
+   "Træer og belægning på Svendebjergvej: 15 mio. kr.",
+   "Buffer til specialiserede områder: 13-21 mio. kr. årligt",
+   "Realistiske budgetter på plejehjem og demensenhed: 7,5 mio. kr. årligt",
+   "Vedligehold af veje, cykelstier og fortove: +5 mio. kr. årligt",
+   "Minimumsnormeringer: 3,5 mio. kr. årligt",
+   "Fodgængerfelt Allingvej: op til 2,5 mio. kr.",
+   "Hurtigere byudvikling: 2 mio. kr.",
+   "Hvidovre Familiehus videreført: 1,7 mio. kr. årligt",
+   "Frivilligcenter: 0,78 mio. kr. årligt"
+  ],
+  "besparelser": [
+   "Kassebeholdning forbedres med 46 mio. kr. (2029) og 26 mio. kr. (2030) via indtægter, effektivisering eller servicereduktion",
+   "Jobcenter-indsatser: mindreudgift 13 mio. kr. over fire år"
+  ],
+  "finansiering": [
+   "Effektivisering/servicereduktion 2029-30",
+   "Omprioritering fra Træpuljen: 4,9 mio. kr.",
+   "Omprioritering til skoleveje: 1,1 mio. kr."
+  ],
+  "skat": "ikke nævnt",
+  "klima": "Rådgivning om renovering frem for nedrivning; strandudvidelse undersøges.",
+  "resume": "Viderefører de to tidligere aftaler med få nye tiltag og fokus på balance. Kassebeholdningen skal forbedres i 2029-30."
+ },
+ "Ikast-Brande": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "Venstre",
+   "Socialdemokratiet",
+   "Konservative",
+   "Dansk Folkeparti",
+   "Fælleslisten",
+   "Danmarksdemokraterne",
+   "Liberal Alliance"
+  ],
+  "prioriteter": [
+   "Anlæg til vedligehold og fornyelse: 130 mio. kr.",
+   "Gældsafvikling: 40 mio. kr., ingen ny gæld",
+   "Minimumsnormeringer: 10 mio. kr. (betinget)",
+   "Idrætsfaciliteter inkl. hal 4 Ikast: 10 mio. kr.",
+   "24 nye plejeboliger Bøgildlund: 8 mio. kr. netto",
+   "8 plejehjemspladser Østervang: 5,1 mio. kr. årligt",
+   "Folkeskolen løft: 3 mio. kr. årligt",
+   "Usikkerhedspulje: +2,3 mio. kr.",
+   "Private vuggestuer: 1 mio. kr. årligt",
+   "Livsmestringspulje: 1 mio. kr. årligt"
+  ],
+  "besparelser": [
+   "Ingen besparelser; driftsudvidelser 13,05 mio. kr. i 2027"
+  ],
+  "finansiering": [
+   "Jordsalg: 20 mio. kr.",
+   "Kassetræk: 15,8 mio. kr.",
+   "Omprioritering fra usikkerhedspulje til asfalt: 3 mio. kr.",
+   "Ingen nye lån"
+  ],
+  "skat": "ikke nævnt",
+  "klima": "DK2020-indsatser 2,5 mio. kr. årligt; træer 0,8 mio. kr.",
+  "resume": "Fastholder serviceniveauet og løfter velfærden for ca. 13 mio. kr. Afvikler gæld og styrker anlæg."
+ },
+ "Kerteminde": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "Konservative",
+   "Socialdemokratiet",
+   "Liberal Alliance",
+   "Hverdagens Stemme",
+   "Enhedslisten",
+   "Venstre",
+   "Dansk Folkeparti",
+   "Radikale Venstre"
+  ],
+  "prioriteter": [
+   "Kernevelfærd: +51,5 mio. kr. i 2027",
+   "Tagudskiftning på skoler/institutioner: 27,2 mio. kr.",
+   "Arbejdsmarkedsområdet: ca. +20 mio. kr. årligt",
+   "Specialområder børn og voksne: 10,8 mio. kr.",
+   "Offentlig forsørgelse: 9,4 mio. kr.",
+   "Udviklingsplan Munkebo: 5 mio. kr.",
+   "Udviklingsplan Langeskov: 5 mio. kr.",
+   "Kvalitetsløft folkeskoler: 3,3 mio. kr. årligt",
+   "Faglokaler: 3,0 mio. kr.",
+   "Kvalitetsløft ældre: 1,9 mio. kr."
+  ],
+  "besparelser": [
+   "Omprioriteringer: 16 mio. kr. stigende til 26,2 mio. kr.",
+   "Indkøbseffektivisering: 2 mio. stigende til 11 mio. kr.",
+   "Omlagt erhvervs- og turismeindsats: 3,3 mio. kr.",
+   "Administration og ledelse: 1,3-2,4 mio. kr.",
+   "Kontraktforhandlerfunktion: 1,2 mio. kr.",
+   "Ryge-/nikotinstop: 0,15 mio. kr."
+  ],
+  "finansiering": [
+   "Omprioritering: 16 mio. kr.",
+   "Indkøb: 2 mio. kr.",
+   "Administration: 1,3 mio. kr.",
+   "Udfasning af dækningsafgift (indtægtstab 1,7 mio. kr. i 2030)"
+  ],
+  "skat": "Dækningsafgift udfases",
+  "klima": "Egeprocessionsspinder, naturpleje og vandløb 0,3 mio. kr. årligt.",
+  "resume": "Løfter velfærden for børn, ældre og arbejdsmarked med stabil økonomi. Erhvervsindsats omlægges, og dækningsafgiften udfases."
+ },
+ "Lejre": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "ikke nævnt"
+  ],
+  "prioriteter": [
+   "Naturbus og renovering af Tusindfryd: 30 mio. kr. anlæg",
+   "Trafiksikkerhedspulje: 13 mio. kr. i 2027",
+   "Grundkapital til 24 almene boliger i Kirke Såby: 5,2 mio. kr.",
+   "Grønt Living Lab: 3,9 mio. kr. anlæg + 0,5 mio. drift",
+   "Idræts- og fritidsfaciliteter: 3 mio. kr. årligt fra 2028",
+   "Busdrift linje 235 og 207: 2,7 mio. kr. årligt",
+   "Tidlig indsats i dagtilbud og familierådgivning: 2,6 mio. kr. årligt",
+   "Veterankoordinator og mobil tandklinik: 0,4 mio. kr."
+  ],
+  "besparelser": [
+   "Specialundervisning, ny takstmodel Firkløverskolen: -3 mio. (2027), -7 mio. kr. årligt",
+   "Servicerobusthedspulje nulstillet: -3,1 mio. kr.",
+   "Sygedagpenge: op til -3 mio. kr. i 2030",
+   "SFO Firkløverskolen: -1 mio. kr.",
+   "Hjemtagning af misbrugsbehandling: -0,7 mio. kr."
+  ],
+  "finansiering": [
+   "Kassetræk: 34,5 mio. kr. i 2027",
+   "Reduktioner: 7,7 mio. kr.",
+   "Salg af Alsvej 1"
+  ],
+  "skat": "uændret",
+  "klima": "70 % CO2-mål i 2030 i risiko; Grønt Living Lab, økologi og jordopkøb.",
+  "resume": "Finansierer merudgifter til specialundervisning, socialområdet og sygedagpenge og opfylder budgetforbedringer på 20 mio. kr. Styrker tidlig indsats, klima og kollektiv trafik."
+ },
+ "Lyngby-Taarbæk": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "Konservative",
+   "SF",
+   "Radikale Venstre",
+   "Socialdemokratiet",
+   "Enhedslisten",
+   "Venstre",
+   "Liberal Alliance",
+   "Dansk Folkeparti"
+  ],
+  "prioriteter": [
+   "Specialiserede områder inkl. udsatte børn: 94 mio. kr.",
+   "Gældsafvikling af indefrosne feriemidler: ca. 189 mio. kr.",
+   "Udsatte børn yderligere: 16,4 mio. kr.",
+   "Legeplads Fuglsanggårdsskolen: 4,3 mio. kr.",
+   "Skoletoiletter: 3,8 mio. kr.",
+   "Pulje til uforudsete udgifter udsatte børn: 3,3 mio. kr.",
+   "Mølleåen: 2,4 mio. kr.",
+   "Next step for udskoling: 2,1 mio. kr.",
+   "Arkitekturråd: 0,2 mio. kr."
+  ],
+  "besparelser": [
+   "Rammebesparelse på service: 20 mio. kr.",
+   "Lokale servicebesparelser: 17,7 mio. kr.",
+   "Internationalt spor på Lindegårdsskolen udfases: 3,2 mio. kr.",
+   "Ny model for klassesammenlægning: 2,8 mio. kr.",
+   "Dagplejen tilpasses: 2,4 mio. kr.",
+   "Anlæg: 1,1 mio. kr.",
+   "Rustenborghuset: 0,2 mio. kr."
+  ],
+  "finansiering": [
+   "Kassetræk: 189 mio. kr. til gældsafvikling",
+   "Råderumspulje: 17 mio. (2028) til 76 mio. kr. (2030)",
+   "Indkøbsprojekt: 4,2-15 mio. kr.",
+   "Omprioriteringer (letbane, sundhedsreform, besparelsespulje): 15,6 mio. kr."
+  ],
+  "skat": "uændret",
+  "klima": "Regnvandsopsamling, robotplæneklippere, batterianlæg på Virum Skole.",
+  "resume": "Uændret skat og markant løft til specialiserede områder. Økonomien fra 2028 er usikker, og flere besparelser kan blive nødvendige."
+ },
+ "Morsø": {
+  "budgetaar": "2027-2031",
+  "partier": [],
+  "prioriteter": [
+   "Anlægsprojekter: 11 mio. kr. i 2027",
+   "Udviklingspulje: 1 mio. kr.",
+   "Ny samlet skole ved Dueholmskolen"
+  ],
+  "besparelser": [
+   "Ældre- og botilbud: 4,5 mio. kr. årligt fra 2029",
+   "§18-midler: 0,2 mio. kr."
+  ],
+  "finansiering": [
+   "Effektivisering: 4,5 mio. kr.",
+   "Omprioritering af restmidler fra 2026"
+  ],
+  "skat": "ikke nævnt",
+  "klima": "Ikke nævnt; nye stiforbindelser.",
+  "resume": "Besparelser på ældre- og botilbud, ny skolestruktur og ændret tildeling i dagtilbud. Dokumentet er aftaletekst til forslag.",
+  "kvalitet": "forslag – bekræft endelig version"
+ },
+ "Odsherred": {
+  "budgetaar": "2027",
+  "partier": [
+   "Socialdemokratiet",
+   "Radikale Venstre",
+   "SF",
+   "Nyt Odsherred",
+   "Dansk Folkeparti",
+   "Danmarksdemokraterne",
+   "Venstre",
+   "Konservative",
+   "Enhedslisten",
+   "Liberal Alliance"
+  ],
+  "prioriteter": [
+   "Renovering af Nykøbing Svømmehal: 16 mio. kr.",
+   "PFAS-afværgeanlæg Nørremarksvej: 5,6 mio. kr.",
+   "Annulleret demografiregulering på dagtilbud: 4,4 mio. kr.",
+   "Housing First for hjemløse unge: 3,3 mio. kr.",
+   "Sagsbehandlere i Familieafdelingen: 3 mio. kr. årligt",
+   "Overgang dagtilbud-skole: 2 mio. kr. årligt",
+   "SAVE-registrering af bygninger: 1,5 mio. kr.",
+   "Døgnstøtte i eget hjem: 1,1 mio. kr.",
+   "Sociale effektinvesteringer: 1 mio. kr.",
+   "Pårørendekoordinator: 0,65 mio. kr."
+  ],
+  "besparelser": [
+   "Omstilling og effektivisering på tværs: 15 mio. kr.",
+   "Teknisk korrektion deltidsdom fjernet: 6,5 mio. kr.",
+   "Erhvervscenter-pulje omprioriteret: 3 mio. kr.",
+   "Bedre indkøb: 2,5-3 mio. kr.",
+   "Automatiseret fakturabehandling: 1,7 mio. kr.",
+   "Velfærdsteknologi: 0,3-1,3 mio. kr."
+  ],
+  "finansiering": [
+   "Effektivisering: 15 mio. kr.",
+   "Omprioritering via §16-puljen: 65 mio. kr.",
+   "Salg (ikke opgjort)"
+  ],
+  "skat": "Uændret; omlægning (lavere indkomstskat, højere grundskyld) udskudt til tidligst 2029",
+  "klima": "Solceller undersøges; cykelstier og kollektiv trafik.",
+  "resume": "Alle ti partier bag. Omstilling for 15 mio. kr. og prioritering af svømmehal, ældre- og socialområdet."
+ },
+ "Middelfart": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "Venstre",
+   "Socialdemokratiet",
+   "Socialistisk Folkeparti",
+   "Dansk Folkeparti"
+  ],
+  "prioriteter": [
+   "Tilførsel af 25 mio. kr. til normeringer i dagtilbud",
+   "Godt 52 mio. kr. ekstra til serviceniveau frem mod 2030",
+   "15 mio. kr. til specialiserede områder",
+   "Rudbækshøj Plejehjem udvides med 32 pladser, 17 mio. kr.",
+   "Nyt plejehjem i Middelfart by, 10 mio. kr. til fællesarealer",
+   "Ny integreret børnehave i Strib, anlæg på 54 mio. kr.",
+   "Knap 15 mio. kr. til kompensation for deltidsdommen",
+   "Tråden gøres permanent, Fyn Dry Port skaber ca. 1.000 arbejdspladser",
+   "Fjelsted Harndrup og Anna Trolles skoler forbliver selvstændige",
+   "50.000 kr. årligt til Ungdomsrådet"
+  ],
+  "besparelser": [
+   "Rammebesparelse på 14,3 mio. kr. årligt fra 2028",
+   "Budgetværn nedsættes med 5 mio. kr. årligt",
+   "Justering af barselspuljen, 2,5 mio. kr. årligt",
+   "Flere kontroller i beskæftigelsesområdet, 3,9 mio. kr. årligt",
+   "Tidlig SFO ophører fra foråret 2028",
+   "Samlæsning i små årgange, 0,69 mio. kr. årligt",
+   "SFO-takst stiger med 110 kr. pr. måned",
+   "Robotstøvsugere i hjemmeplejen, 1 mio. kr. årligt fra 2029",
+   "Strammere visitation til nødkald, 0,4 mio. kr. årligt",
+   "Kompressionsstrømper ikke længere kommunal bevilling, 0,68 mio. kr.",
+   "Tilpasning af dagplejen, op til 1,4 mio. kr. årligt"
+  ],
+  "finansiering": [
+   "kassetræk: 12,5 mio. kr. fra regnskabsoverskud 2025",
+   "effektivisering: rammebesparelse på 14,3 mio. kr. årligt",
+   "omprioritering: midtvejsregulering 2026 på 32 mio. kr."
+  ],
+  "skat": "ikke nævnt",
+  "klima": "Aftalen nævner ikke klimamål direkte; natur- og energipuljer fortsætter, gedepatrulje ophører.",
+  "resume": "Fire partier indgår en toårig budgetaftale for 2027-28, som sikrer balance og skærmer kernevelfærden. Aftalen sænker dog serviceniveauet på enkelte områder, og borgere og medarbejdere vil mærke det."
+ },
+ "Randers": {
+  "budgetaar": 2027,
+  "partier": [
+   "Socialdemokratiet",
+   "Socialistisk Folkeparti",
+   "Venstre",
+   "Dansk Folkeparti",
+   "Det Konservative Folkeparti",
+   "Danmarksdemokraterne",
+   "Radikale Venstre",
+   "Liberal Alliance",
+   "Enhedslisten"
+  ],
+  "prioriteter": [
+   "Nye vuggestuer og dagtilbudskapacitet: 93 mio. kr. i 2027-2030",
+   "Brandstation syd: 42 mio. kr. i anlæg, 2027-2029",
+   "Kristrup Skole modernisering: 41,1 mio. kr.",
+   "Hornbæk Skole udbygning: 40,4 mio. kr. i 2027-2030",
+   "Børnepakken: 34,9 mio. kr. årligt, lavere forældrebetaling og bedre normeringer",
+   "Demografiregulering: 25,97 mio. kr. årligt til fagområderne",
+   "Bygningsvedligehold: 1,5 mio. kr. i 2027, stigende til 6 mio. kr. i 2030",
+   "Løft af vejområdet: 3 mio. kr. årligt fra 2027",
+   "Almenskolen: udskudt besparelse på 7,2 mio. kr. i 2027"
+  ],
+  "besparelser": [
+   "Socialområdet: nye initiativer, 4,4 mio. kr. i 2027 stigende til 11,8 mio. kr.",
+   "Socialområdet samlet: forventede mindreudgifter på 34,2 mio. kr. i 2027",
+   "Beskæftigelsesreform: ca. 3,9 mio. kr. årligt til socialområdet fra 2027",
+   "Rengøring hver tredje uge i stedet for hver anden: ca. 2,7 mio. kr. fra 2028, til drøftelse",
+   "VisitAarhus: lavere udgifter på lidt over 0,75 mio. kr. i 2027"
+  ],
+  "finansiering": [
+   "lån: 74,08 mio. kr. i 2027-2030 samlet",
+   "omprioritering: 32 mio. kr. fra jordforsyningsområdet",
+   "omprioritering: 49,47 mio. kr. fra anlægspulje 2028-2030",
+   "omprioritering: 15 mio. kr. anlæg fra skoleområdet",
+   "omprioritering: 10 mio. kr. ikke-disponerede driftsmidler i dagtilbud",
+   "salg: ikke opgjort, mulige provenuer fra Hjørnestenen og Kristrup Stadion",
+   "effektivisering: 63 mio. kr. i 2029 stigende til 83 mio. kr. i 2030, ikke udmøntet"
+  ],
+  "skat": "ikke nævnt",
+  "klima": "Naturgenopretning 0,8 mio. kr. i 2027; Gudenåen og Randers Fjord skal beskyttes og forbedres; skovrejsning 1 mio. kr. årligt 2028-2030.",
+  "resume": "Budgetaftalen for 2027-2030 prioriterer børn, dagtilbud, skoler og bosætning med investeringer i vuggestuer, skoler og brandstation. Den finansieres primært gennem omprioriteringer, lån og effektiviseringer, og der indgår ingen skatteændringer."
+ },
+ "Odder": {
+  "budgetaar": 2027,
+  "partier": [
+   "Socialdemokratiet",
+   "Det Konservative Folkeparti",
+   "Venstre",
+   "Socialistisk Folkeparti",
+   "Enhedslisten"
+  ],
+  "prioriteter": [
+   "Nyt botilbud Østermarksvej, 34 beboere: 68,6 mio. kr. samlet",
+   "Nyt dagtilbud i Saksild: 41,8 mio. kr. samlet",
+   "Udvidelse af Saksild Skole: 36,0 mio. kr. samlet",
+   "Ny daginstitution Økologiens Kvarter: 32,0 mio. kr. 2028-2030",
+   "Specialskole i Odder Kommune: 10,0 mio. kr.",
+   "Digesikring Mejerivej/Østergade: 8,0 mio. kr. (SAMN finansierer 6 mio.)",
+   "Genopretning af kommunale bygninger: 5,0 mio. kr. i 2027",
+   "Ny budgettildelingsmodel for mindre skoler: 3,0 mio. kr. årligt",
+   "Demografimodel på specialsocialområdet: 1,5 mio. kr. årligt",
+   "Bedre kvalitet i dagtilbud: 1,5 mio. kr. årligt"
+  ],
+  "besparelser": [
+   "Fælles skole Gylling og Hou: 1,6 mio. kr. årligt",
+   "Administrative besparelser: 0,6 mio. kr. 2027, 1,8 mio. kr. fra 2028",
+   "Ændret SFO-åbningstid og normering: 1,3 mio. kr. årligt",
+   "Børneby i Hundslund: 1,1 mio. kr. årligt",
+   "Færre IT-licenser: 0,5 mio. kr. årligt",
+   "Hjemtagelse af eksterne indsatser: 0,5 mio. kr. årligt"
+  ],
+  "finansiering": [
+   "skat: 24,3 mio. kr. (2027)",
+   "grundskyld: 5,2 mio. kr. (2029)",
+   "effektivisering: 8,2 mio. kr. (2027)",
+   "kassetræk: 0 mio. kr. (kassen styrkes med 12,7 mio. kr.)",
+   "lån: 13,8 mio. kr. (2027)",
+   "salg: 33,0 mio. kr. (2027)"
+  ],
+  "skat": "+0,5 procentpoint, fra 25,1 til 25,6 pct. fra 2027",
+  "klima": "El-færge Hou-Tunø, klimasikring i Odder og Hou, skovrejsning ved Boulstrup, grøn mobilitetsplan og jordkøb til natur.",
+  "resume": "Odder Kommunes budget for 2027-2030 hæver skatten til 25,6 pct. og prioriterer velfærd og anlæg. Driften øges med 10,2 mio. kr., og anlægsbudgettet er 59,5 mio. kr. i 2027."
+ },
+ "Næstved": {
+  "budgetaar": 2027,
+  "partier": [
+   "Venstre",
+   "Det Konservative Folkeparti",
+   "Liberal Alliance",
+   "Dansk Folkeparti",
+   "Danmarksdemokraterne",
+   "Githa Nelander (uden for parti)"
+  ],
+  "prioriteter": [
+   "Anlæg i alt 251 mio. kr. i 2027",
+   "Plejehjemskapacitet i Karrebæk 61 mio. kr. 2027-2029",
+   "Vedligeholdelse af bygninger og energi 50 mio. kr. 2027",
+   "Handicap og psykiatri 43,9 mio. kr. 2027",
+   "Varmtvandsbassin ved Næstved Svømmehal 32 mio. kr. 2027-2029",
+   "Fritidsfaciliteter 27,5 mio. kr. 2027-2028",
+   "Asfalt til vejnettet 17 mio. kr. 2027",
+   "Ældreområdet 13,7 mio. kr. 2027",
+   "Skolernes fysiske rammer 12 mio. kr. 2027",
+   "Dagtilbud og forebyggelse 5,9 mio. kr. 2027"
+  ],
+  "besparelser": [
+   "Administration, ejendomme og tværgående tiltag: 32,8 mio. kr.",
+   "Omprioritering fra kultur og event: 8,0 mio. kr.",
+   "Bæredygtighed og naturområdet: 3,8 mio. kr.",
+   "Administrationsoplæg: 5 mio. kr. fra 2028, 7 mio. kr. fra 2029"
+  ],
+  "finansiering": [
+   "effektivisering: 32,8 mio. kr. på administration og ejendomme",
+   "omprioritering: 8,0 mio. kr. kultur og event samt 3,8 mio. kr. natur",
+   "kassetræk: mindre træk på kassebeholdningen i 2027, beløb ikke angivet"
+  ],
+  "skat": "uændret",
+  "klima": "Pause i nye naturområder; kun statslige midler til grøn trepart prioriteres, uden egne nye naturprojekter.",
+  "resume": "Budgetaftale 2027 for Næstved Kommune prioriterer nær velfærd, ansvarlig økonomi og balance mellem by og land. Budgettet skal være i balance senest 2028, med et mindre kassetræk i 2027."
+ },
+ "Rebild": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "Venstre",
+   "Socialdemokratiet",
+   "Det Konservative Folkeparti",
+   "Socialistisk Folkeparti",
+   "Radikale Venstre",
+   "Den Sociale Fællesliste",
+   "Jeppe Ugilt"
+  ],
+  "prioriteter": [
+   "Minimumsnormering frem til skolestart: 6,2 mio. kr. årligt",
+   "Cykelstipulje til opstart: 2,0 mio. kr. i 2027",
+   "Dagtilbudskapacitet ved mini-SFO-nedlæggelse: 1,75 mio. kr. (2028-2029)",
+   "Dagcenter på Skørping Ældrecenter: 1,6 mio. kr. årligt fra 2028",
+   "Asfaltpenge til hurtigere vejvedligeholdelse: 1,5 mio. kr. årligt",
+   "Fastholdelse af normering på voksenhandicapområdet: 1,2 mio. kr. årligt",
+   "Byggesagsbehandling og lokalplananalyse: 1,0 mio. kr. årligt",
+   "Styrket økonomistyring og dataanvendelse: 1,0 mio. kr. årligt",
+   "Fælles indsats Nærvær mod NEET-unge: 0,62 mio. kr. i 2027"
+  ],
+  "besparelser": [
+   "Indskud i landsbyggefonden nedsættes: 2,5 mio. kr. årligt",
+   "Boligsikring nedsættes: 0,5 mio. kr. årligt",
+   "Støttet byggeri omprioriteres: 2,15 mio. kr. årligt"
+  ],
+  "finansiering": [
+   "omprioritering: 4,5 mio. kr. årligt i drift",
+   "kassetræk: 31,3 mio. kr. i alt for 2027-2030",
+   "statsfinansiering: 4,7 mio. kr. årligt fra 2029 til minimumsnormering"
+  ],
+  "skat": "uændret",
+  "klima": "§17, stk. 4-udvalget for klima får 0,25 mio. kr.; grundvandskortlægning sker sammen med vandværker, finansieret via anlægsmidler til grøn omstilling.",
+  "resume": "Budgetaftalen 2027-2030 skaber ro i 2027, men der skal udarbejdes en budgetstrategi for at håndtere senere økonomiske ubalancer. Aftalen prioriterer blandt andet minimumsnormering, vintertjeneste og investeringer, finansieret via omprioritering og kassetræk."
+ },
+ "Ringkøbing-Skjern": {
+  "budgetaar": "2027",
+  "partier": [],
+  "prioriteter": [
+   "Budgetramme Myndighed social-, psykiatri- og handicapområdet: 22,2 mio. kr.",
+   "Nyt konjunkturskøn beskæftigelse: 26,1 mio. kr. i 2027",
+   "Renovering af havneanlæg: 10,7 mio. kr. i 2027",
+   "Mellemkommunale betalinger på ældreområdet: 8,0 mio. kr. årligt",
+   "Skolen i Tarm, nyt licitationsresultat: 5,0 mio. kr. i 2027",
+   "Vedligehold flyttet fra drift til anlæg: 6,1 mio. kr. årligt",
+   "Ensretning af faktor til ældreboliger: 2,2 mio. kr. årligt"
+  ],
+  "besparelser": [
+   "Sparekatalog: 32,5 mio. kr. fra 2028, 65,0 mio. kr. fra 2029",
+   "Nulstilling ikke udmøntede VE-midler: 4,0 mio. kr. årligt",
+   "Besparelse administration som følge af Økonomiaftalen: 2,4 mio. kr. årligt",
+   "Visitatornormering tilpasset efter opfølgning: 2,1 mio. kr. årligt",
+   "Reduktion af pulje til drejebogssager på plejeboliger: 1,0 mio. kr. årligt",
+   "Tilpasning af aflastningskapacitet: 0,9 mio. kr. årligt"
+  ],
+  "finansiering": [
+   "lån: 35,2 mio. kr. (2027)",
+   "salg: jordsalg 12,0 mio. kr. (2027)",
+   "kassetræk: 105,7 mio. kr. ændring af likvide aktiver (2027)",
+   "effektivisering: sparekatalog 32,5 mio. kr. (2028)",
+   "omprioritering: 0,2 mio. kr. KFU-midler til skoletjeneste (2027)"
+  ],
+  "skat": "ikke nævnt",
+  "klima": "Energioptimering af bygninger finansieret med 12,5 mio. kr. låneramme årligt; klimasikring 0,75 mio. kr. i 2027.",
+  "resume": "Dokumentet er materiale fra budgetkonferencen 2026 med overslag og forslag for 2027-2030, uden nævnte partier. Det samlede resultat for det skattefinansierede område er et overskud på 63,5 mio. kr. i 2027.",
+  "kvalitet": "Kilden er budgetkonferencens materiale, ikke den underskrevne aftaletekst."
+ },
+ "Roskilde": {
+  "budgetaar": 2027,
+  "partier": [],
+  "prioriteter": [
+   "Løft af folkeskolen: 11 mio. kr. i 2027, 31 mio. fra 2029",
+   "Vejvedligehold: 5,0 mio. kr. i 2027, 5,5 mio. kr. årligt herefter",
+   "Opnormering af kommunal tandpleje: 3,14 mio. kr. årligt 2027-2028",
+   "Demensvenlig indretning på plejecentre: 1 mio. kr. i 2027 og 2028",
+   "Renovering af teatersale med Roskilde Teater: 1 mio. kr. årligt 2027-2028",
+   "Styrket CO2-fokus og bæredygtige indkøb: 0,75 mio. kr. årligt",
+   "Cyklistfremme ved skoler: 0,5 mio. kr. årligt",
+   "Styrket indsats i Sommerliv på Stændertorvet: 0,3 mio. kr. årligt"
+  ],
+  "besparelser": [
+   "Lukning af Børnehuset Mælkebøtten: 1,0 mio. kr.",
+   "Sammenlægning af Kongehøjen og Troldhøj: 1,0 mio. kr.",
+   "Klubledelse reduceres fra fem til tre områder: 2,0 mio. kr.",
+   "Lukning af Roskilde Ungehjem/Ventilpladser: 2,2 mio. kr.",
+   "Budget til modtageklasser tilpasses varigt: 2,0 mio. kr.",
+   "Forældrebetalingsandel i SFO hæves til 63 pct.: 2,0 mio. kr.",
+   "Lukning af bofællesskabet VIBO: 1,56 mio. kr.",
+   "Hjemtagning af VVS-, el- og tømreropgaver: 2,6 mio. kr. fra 2028",
+   "Reduktion af seniorpolitiske midler: 2,1 mio. kr.",
+   "Busbudget reduceres: 1,1 mio. kr.",
+   "Administrative opgaver fjernes: 2,0 mio. kr.",
+   "Reduktion i råderum på administration i SJS, BKM og SB: 2,1 mio. kr."
+  ],
+  "finansiering": [
+   "omprioritering: råderum på driftsbudgetter, ikke samlet opgjort i uddraget"
+  ],
+  "skat": "ikke nævnt",
+  "klima": "Scope 3-indsats for bæredygtige indkøb, cykelfremme ved skoler, busdrift justeret; fravalg af grøn el-tillæg.",
+  "resume": "Budgetblokkene for 2027 indeholder driftsbesparelser og råderum på tværs af udvalgene, blandt andet på administration, dagtilbud, skole og klub. Der prioriteres løft af folkeskolen, vejvedligehold, tandpleje og demensvenlige plejecentre.",
+  "kvalitet": "Kilden er forligets bloktekster; partier fremgår ikke."
+ },
+ "Rudersdal": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "Det Konservative Folkeparti",
+   "Venstre",
+   "Radikale Venstre",
+   "Liberal Alliance",
+   "Socialdemokratiet",
+   "Enhedslisten",
+   "SF",
+   "Lokallisten"
+  ],
+  "prioriteter": [
+   "Børnesociale område tilføres 58 mio. kr.",
+   "Birkerød udviklingsplan får 30 mio. kr. i anlæg",
+   "Løsning for Birkerød Svømmehal afsat 20,5 mio. kr.",
+   "Nyt museum for Vedbækfundene reserveret 15 mio. kr.",
+   "Justeret klassetildelingsmodel for skoler tilføres 7,8 mio. kr.",
+   "Historisk lønløft til dagtilbud på 3 mio. kr.",
+   "Rudersdal-tillæg til hjemmepleje og plejehjem 2 mio. kr.",
+   "Engangsbeløb til hjemmeplejen på 2 mio. kr.",
+   "Uddannelse af SOSU-elever på ældreområdet 1 mio. kr. årligt",
+   "Plejehjem aflastes for gæld på 1 mio. kr."
+  ],
+  "besparelser": [
+   "Administrative udgifter reduceres med 8,3 mio. kr. i 2027",
+   "Administrative udgifter reduceres yderligere 20 mio. kr. fra 2030",
+   "Servicebuffer til uforudsete udgifter reduceres for at skåne grundbudgetter",
+   "Dagtilbudsbevilling reduceres midlertidigt i 2027-2029"
+  ],
+  "finansiering": [
+   "effektivisering: 28,3 mio. kr. administrative besparelser",
+   "omprioritering: 63,5 mio. kr. frigjort fra tidligere beslutninger ved fuld implementering i 2028"
+  ],
+  "skat": "uændret",
+  "klima": "Økologiprocenten hæves med 10 procentpoint, og museumsdepoterne samles i et lavenergimagasin.",
+  "resume": "Rudersdal fortsætter prioriteringen af den nære velfærd, især børn, dagtilbud og ældre. Budgettet reducerer administrationen og styrker likviditets- og balancemålsætningerne."
+ },
+ "Rødovre": {
+  "budgetaar": 2027,
+  "partier": [
+   "Alle partier i kommunalbestyrelsen"
+  ],
+  "prioriteter": [
+   "Skoler: 144 mio. kr. til udbygning og renovering i 2027",
+   "Velfærdsbudgettet vokser med over 80 mio. kr.",
+   "Rødovrehallen: 80 mio. kr. til udvidelse",
+   "Specialområdet: løft på omkring 64 mio. kr. årligt",
+   "Ukraineindsatsen: 47 mio. kr. til boligløsninger og drift",
+   "Ældreområdet: omkring 16 mio. kr. inklusive demografi",
+   "Idrætsfaciliteter: 10 mio. kr. årligt over 10 år",
+   "Hjemmehjælp og hjemmesygepleje: 6 mio. kr. ekstra",
+   "To-lærerordning i 8. og 9. klasse: ca. 5 mio. kr.",
+   "To-voksenordning i indskolingen: 0,8 mio. kr."
+  ],
+  "besparelser": [
+   "Besparelser og effektiviseringer for i alt 26 mio. kr."
+  ],
+  "finansiering": [
+   "omprioritering/effektivisering: 26 mio. kr."
+  ],
+  "skat": "ikke nævnt",
+  "klima": "Ikke nævnt på siden.",
+  "resume": "Rødovre Kommune finder besparelser og effektiviseringer for 26 mio. kr., mens velfærdsbudgettet samtidig øges med over 80 mio. kr. Budgetaftalen prioriterer børn, unge, ældre, specialområdet og fællesskaber, trods højere udgifter til Ukraineindsatsen.",
+  "kvalitet": "Kilden er kommunens nyhedsside om aftalen, ikke selve aftaleteksten."
+ },
+ "Solrød": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "Liberal Alliance (I)",
+   "Socialdemokratiet (A)",
+   "Det Konservative Folkeparti (C)",
+   "Socialistisk Folkeparti (F)",
+   "HavdrupListen (L)",
+   "VoresSolrød (T)",
+   "Venstre (V)",
+   "Danmarksdemokraterne (Æ)"
+  ],
+  "prioriteter": [
+   "Vedligeholdelsesefterslæb: 10 mio. kr. i 2027, 12 mio. kr. årligt fra 2028",
+   "Basisgruppepladser i Strandområdet: 6,5 mio. kr. årligt fra 2028",
+   "Trafiksikkerhedspulje: 1,3 mio. kr. i 2027, 1,0 mio. kr. årligt",
+   "Ny SFO II på Munkekærskolen: forprojekt 6,45 mio. kr.",
+   "Overgang børnehave-skole og SFO: ca. 1,8 mio. kr. mere",
+   "Ekstra kontraktforhandler i specialområdet: 0,7 mio. kr. årligt",
+   "Lokalt § 104-tilbud i Solrød: ca. 0,63 mio. kr. i 2027",
+   "Ekstra rengøring af skoletoiletter: 0,4 mio. kr. årligt"
+  ],
+  "besparelser": [
+   "Kvalificeret ansættelsesstop i administrationen: 3,5 mio. kr. årligt",
+   "Rammebesparelse: 21,1 mio. kr. i 2028, 23 mio. kr. i 2029-2030",
+   "Optimeret flådestyring: 0,355 mio. kr. årligt fra 2028",
+   "Ændret dagplejeledelse: 0,45 mio. kr. årligt fra 2027",
+   "Opsigelse af hallejemål: 0,15 mio. kr. årligt fra 2028",
+   "Øget kontraktforhandling på specialområdet: 1,5 mio. kr. fra 2028"
+  ],
+  "finansiering": [
+   "effektivisering: rammebesparelse på 21,1-23 mio. kr. årligt fra 2028",
+   "omprioritering: 0,24 mio. kr. i 2027, 0,355 mio. kr. fra 2028 (flådestyring)",
+   "lån: energiinvesteringer, beløb ikke angivet",
+   "kassetræk: ikke angivet"
+  ],
+  "skat": "uændret (24,99 pct.)",
+  "klima": "Energiinvesteringer med lån, solceller på kommunale tage og LED-belysning reducerer energiforbrug og CO2-udledning.",
+  "resume": "Byrådets otte partier har indgået budgetaftale for 2027-2030 med fokus på velfærd og effektivisering. Aftalen fastholder skatten på 24,99 procent og indeholder rammebesparelser og nye prioriteringer."
+ },
+ "Syddjurs": {
+  "budgetaar": "2027",
+  "partier": [
+   "Socialdemokratiet",
+   "Venstre",
+   "SF",
+   "Det Konservative Folkeparti",
+   "Danmarksdemokraterne",
+   "Enhedslisten",
+   "Radikale Venstre",
+   "Alternativet"
+  ],
+  "prioriteter": [
+   "Frejasvænge: 14 demensvenlige plejeboliger, 41,9 mio. kr. 2027-2029",
+   "Cykelstier: prioriteret anlæg, 34,7 mio. kr.",
+   "Ringparken: plejehjem og kommunale funktioner, 22,9 mio. kr. 2027-2031",
+   "Ældreområdet: løft på 11,5 mio. kr. årligt",
+   "Socialområdet: realistisk budgetgrundlag, 11,5 mio. kr. årligt",
+   "Folkeparken Ebeltoft: medfinansiering, 8,6 mio. kr.",
+   "Nationalpark Mols Bjerge: parkeringstilskud, 5,9 mio. kr. ekstra",
+   "Folkeskoler: lavere udgift ved specialtilbud, 5,5 mio. kr. årligt",
+   "Planlægning og Udvikling: styrket lokalplanlægning, 3,2 mio. kr.",
+   "Natur og grøn trepart: ekstra indsats, 2,0 mio. kr."
+  ],
+  "besparelser": [
+   "Eventpuljen reduceres med 500.000 kr. i 2027",
+   "Ungdommens Uddannelsesvejledning omlagt: 450.000 kr. i 2027, 500.000 kr. fra 2028",
+   "Specialefterskoler: tilskud målrettes, besparelse 516.000 kr. i 2027",
+   "Kunstig intelligens-effektiviseringer: 500.000 kr. årligt fra 2028",
+   "Ejendomme: 200.000 kr. via ændrede rengøringstider",
+   "Pindstrupskolen: tilpassede betalingsdatoer, 300.000 kr."
+  ],
+  "finansiering": [
+   "kassetræk: 14 mio. kr. i 2027, 15 mio. kr. i 2028, 12 mio. kr. i 2029, 1 mio. kr. i 2030",
+   "effektivisering: omstillingskatalog på 14,8 mio. kr.",
+   "effektivisering: yderligere 500.000 kr. årligt fra 2028 via kunstig intelligens"
+  ],
+  "skat": "ikke nævnt",
+  "klima": "Grøn trepart, natur og solceller styrkes; solcellepuljen opjusteres med 5 mio. kr. årligt fra 2030.",
+  "resume": "Budgetforliget for 2027 styrker ældreområdet, socialområdet og folkeskolerne samt investerer i natur, bosætning og frivillighed. Der trækkes på kassebeholdningen, mens usikkerheden om udligningsreformen fra 2029 fortsat er en risiko."
+ },
+ "Sønderborg": {
+  "budgetaar": "2027-2030",
+  "partier": [],
+  "prioriteter": [
+   "Skolernes årti forlænges: samlet 750 mio. kr. til 2039",
+   "Hertugernes Augustenborg fyrtårnsprojekt: 11,8 mio. kr. årligt",
+   "Ny daginstitution Dybbøl: samlet 20 mio. kr. 2027-2030",
+   "Styrkelse af anbringelsesområdet: 6 mio. kr. årligt 2027-2028",
+   "SOSU-elevpladser: 8 mio. kr. årligt fra 2029",
+   "Broager Plejecenter: 6 mio. kr. til undersøgelse og køb",
+   "Styrket dansk og matematik: 3 mio. kr. årligt",
+   "Kunstgræsbane i Dybbøl: 3,8 mio. kr. i 2028",
+   "Sydtrafik-pulje til offentlig transport: 3,9 mio. kr. årligt",
+   "Servicearealer på plejecentre: 2 mio. kr. årligt"
+  ],
+  "besparelser": [
+   "Udvalgenes reduktionsforslag: 15,5 mio. kr. årligt fra 2027",
+   "Sydtrafik ny kontrakt: 9,5 mio. kr. årligt frigjort fra 2028",
+   "Fortovsrenoveringspulje reduceres: 1,3 mio. kr. i 2027",
+   "Uddannelsespuljen finansierer PAU: 3-4 mio. kr. årligt"
+  ],
+  "finansiering": [
+   "effektivisering: 15,5 mio. kr. årligt fra 2027",
+   "effektivisering: råderum 6-25 mio. kr. fra 2028",
+   "omprioritering: Sydtrafik 9,5 mio. kr. fra 2028",
+   "omprioritering: uddannelsespulje 3-4 mio. kr.",
+   "omprioritering: anlægsmidler 3,8 mio. kr.",
+   "kassetræk: 149 mio. kr. i 2027"
+  ],
+  "skat": "uændret",
+  "klima": "Grøn Trepart, stenrev, skarvregulering, Flensborg Fjord og GESEK styrker grøn omstilling og havmiljø.",
+  "resume": "Budgetaftalen fastholder stabil drift og prioriterer få nye initiativer, især skoler, ældre, børn og fremdrift i besluttede anlæg. Kassebeholdningen skal være 150 mio. kr. i 2030, og skatten holdes uændret.",
+  "kvalitet": "Partierne fremgår ikke af den læste tekst."
+ },
+ "Thisted": {
+  "budgetaar": "2027",
+  "partier": [
+   "Venstre",
+   "Det Konservative Folkeparti",
+   "Danmarksdemokraterne",
+   "Socialdemokratiet",
+   "Socialistisk Folkeparti",
+   "Enhedslisten"
+  ],
+  "prioriteter": [
+   "Kystsikring i Vorupør: 25 mio. kr.",
+   "Udvikling af Thisted Havn: 12 mio. kr.",
+   "Minimumsnormering og pasningsprocent i dagtilbud: 6 mio. kr. årligt",
+   "Udvidelse af Sjørring Børnehus: 5,5 mio. kr. samlet",
+   "Hensættelse til EU-dom om deltidsansattes løn: 5 mio. kr. årligt",
+   "Styrket turismeindsats: 2 mio. kr.",
+   "Medfinansiering af Naturalliancen-projekter: 1 mio. kr. årligt",
+   "Renoveringspulje til selvejende haller: 1 mio. kr."
+  ],
+  "besparelser": [
+   "Planlagte besparelser på socialområdet reduceres med 1 mio. kr.",
+   "Kompenserende budgetreduktioner ved økonomisk ubalance i 2027"
+  ],
+  "finansiering": [
+   "omprioritering: 0,6 mio. kr. årligt fra arbejdsmarkedsområdet",
+   "omprioritering: 1,8 mio. kr. fra folkeskoleudviklingspuljen",
+   "omprioritering: 0,2 mio. kr. fra BFU",
+   "lån: lånedispensation på 16 mio. kr. i 2027"
+  ],
+  "skat": "uændret",
+  "klima": "Mere sammenhængende natur via Naturalliancen styrker biodiversitet og klimarobusthed; 1 mio. kr. årligt til medfinansiering.",
+  "resume": "Budgetaftale 2027-2030 prioriterer fremtidens Thy og et godt hverdagsliv for alle. Skatteprocenten fastholdes, mens turisme, natur, dagtilbud og socialområdet styrkes."
+ },
+ "Vesthimmerland": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "Venstre",
+   "Det Konservative Folkeparti",
+   "Socialdemokratiet",
+   "Socialistisk Folkeparti",
+   "Danmarksdemokraterne"
+  ],
+  "prioriteter": [
+   "Ekstraordinær gældsafvikling på ca. 51 mio. kr. i 2026-2027",
+   "Ombygning af Aars Skole knap 40 mio. kr. i 2026-2029",
+   "Ny Hal 3 i Idrætscenter Østermarken, 38 mio. kr. samlet",
+   "Medfinansiering af almene boliger, 18 mio. kr. frem til 2030",
+   "Cykelstier, 6 mio. kr. årligt",
+   "Tilbuddet #360 permanent, 6 mio. kr. i 2028-2030",
+   "Landsbyfornyelse, 5,7 mio. kr.",
+   "DM i Skills 2029, op til 5,4 mio. kr.",
+   "Psykiatri og handicap, 3,7 mio. kr. i 2027-2028",
+   "Børne- og Familierådgivning, 1,8 mio. kr. årligt"
+  ],
+  "besparelser": [
+   "Driftsreduktioner i alt 10,3 mio. kr."
+  ],
+  "finansiering": [
+   "lån: lånoptagelse på 39,6 mio. kr.",
+   "omprioritering: driftsreduktioner på 10,3 mio. kr.",
+   "grundskyld: 9,3 promille øvrige ejendomme, 7,2 promille produktionsjord"
+  ],
+  "skat": "uændret",
+  "klima": "Klimapulje 1,5 mio. kr. i 2027, energirenoveringer og grønt kriseberedskab samt 6 mio. kr. årligt til cykelstier.",
+  "resume": "Budgetaftalen for 2027-2030 sikrer ekstraordinær gældsafvikling på ca. 51 mio. kr. og investerer i velfærd, skoler og erhvervsudvikling. Aftalen ligger under serviceramme og anlægsramme."
+ },
+ "Viborg": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "Venstre",
+   "Socialdemokratiet",
+   "Danmarksdemokraterne",
+   "Socialistisk Folkeparti",
+   "Alternativet",
+   "Enhedslisten",
+   "Pernille Dam Marcussen (løsgænger)"
+  ],
+  "prioriteter": [
+   "Nyt botilbud med 36 pladser: 120 mio. kr.",
+   "Socialområdet styrkes med 93,8 mio. kr. i perioden",
+   "Velkomst- og Hærvejscenter i gamle rådhus: 82 mio. kr.",
+   "Familieområdet styrkes med 70 mio. kr. i perioden",
+   "Ældreområdet og bedre normering: 64,8 mio. kr.",
+   "Folkeskolen løftes med 57,4 mio. kr. i perioden",
+   "Flere uddannede pædagoger i dagtilbud: 46,1 mio. kr.",
+   "Østlig omfartsvej: 44,2 mio. kr. over perioden",
+   "Vækstpakke til erhvervsudvikling: 40 mio. kr. i alt",
+   "Indsats mod skolevægring og mistrivsel: 20 mio. kr."
+  ],
+  "besparelser": [
+   "Reduktioner i alt 35,6 mio. kr. i 2027",
+   "Produktivitetsforbedringer på serviceområderne: 24 mio. kr. årligt",
+   "Administrativ besparelse: 4,2 mio. kr. i 2027, 8,4 mio. kr. fra 2028"
+  ],
+  "finansiering": [
+   "skat: 43 mio. kr. i 2027 fra tilbagerulning af skattelettelse",
+   "omprioritering: reduktioner 35,6 mio. kr. i 2027",
+   "effektivisering: produktivitetsforbedringer 24 mio. kr. årligt",
+   "effektivisering: administrativ besparelse 4,2 mio. kr. i 2027",
+   "lån: energibesparende foranstaltninger 20 mio. kr. årligt"
+  ],
+  "skat": "Indkomstskatten tilbagerulles til 25,7 pct. fra 2027",
+  "klima": "Klima- og miljøinvesteringer for ca. 258 mio. kr., herunder affald; 126 mio. kr. til energirenovering og udfasning af olie- og gasfyr.",
+  "resume": "Budgetforliget for 2027-2028 i Viborg Kommune prioriterer vækst, velfærd og fællesskaber og hæver indkomstskatten til 25,7 pct. Det finansieres gennem reduktioner, effektivisering og øget skatteprovenu, og styrker især socialområdet, familieområdet og børn og unge."
+ },
+ "Vallensbæk": {
+  "budgetaar": "2027",
+  "partier": [
+   "Det Konservative Folkeparti",
+   "Socialistisk Folkeparti",
+   "Enhedslisten"
+  ],
+  "prioriteter": [
+   "Ungekulturhus og multisal: 115,2 mio. kr. samlet anlæg",
+   "Egholmskolen fællesrum med produktionskøkken: 39,27 mio. kr.",
+   "Udviklingspulje til anlæg: 35 mio. kr. i alt 2027-2030",
+   "Kystsikring og modernisering af Strandparken: 29 mio. kr.",
+   "Pilehaveskolen fælleslokale med produktionskøkken: 28,95 mio. kr.",
+   "Vallensbæk Skole fælleslokale med produktionskøkken: 23,835 mio. kr.",
+   "Strandvejen/Ringvejen T-kryds: 12,5 mio. kr. 2027-2028",
+   "Renovering af Promenaden inkl. legeplads: 5,5 mio. kr. i 2027",
+   "Ny solafskærmning på rådhuset: 3,665 mio. kr. i 2027"
+  ],
+  "besparelser": [
+   "Pilehaveskolen specialtilbud: driftsbesparelse 2,618 mio. kr. i 2030",
+   "Kontrolteam mod socialt bedrageri: netto -0,340 mio. kr. årligt",
+   "Midlertidige boliger Rønnebækhus: -3,0 mio. kr. årligt fra 2029"
+  ],
+  "finansiering": [
+   "kassetræk: 16,741 mio. kr. i 2027",
+   "lån: 10 mio. kr. lånepulje som bufferpulje, ingen optagelse i 2027",
+   "skat: udskrivningsprocent 25,6 fastholdt",
+   "omprioritering: justering af anlæg og lokale tilbud, beløb ikke angivet",
+   "salg: 0 mio. kr."
+  ],
+  "skat": "uændret (25,6 pct.)",
+  "klima": "Grøn rygrad, cykelstier, cykelrundkørsel, LED-gadebelysning og kystsikring styrker grønne, bæredygtige løsninger.",
+  "resume": "Budgetforliget sikrer en robust økonomi med mindst 30 mio. kr. i kassebeholdningen og investerer i grøn rygrad, skoler og Ungekulturhus. Forliget fastholder skatteprocenten på 25,6 og udvider specialtilbud lokalt."
+ },
+ "Egedal": {
+  "budgetaar": "2027-2030",
+  "partier": [],
+  "prioriteter": [
+   "Flere voksne i daginstitutionerne for minimumsnormeringer: 32 mio. kr.",
+   "Budgetløft til socialområdet i lyset af udgiftspres: 15 mio. kr.",
+   "Renovering af bygning ved Søhøjskolen til nye børn: 15 mio. kr.",
+   "Oprettelse af egen specialskole, anlæg 2027: 6,2 mio. kr.",
+   "Solcelleanlæg og batterier på kommunale bygninger: 3 mio. kr.",
+   "Beskæftigelsesindsats i lyset af beskæftigelsesreformen: 2,6 mio. kr.",
+   "Renovering af gulv i Ganløsehallen: 1,7 mio. kr.",
+   "Cykelsti Kildedal-Knardrup, projektering og jordopkøb: 1,2 mio. kr.",
+   "Beredskabskoordinator til styrket kommunal robusthed: 0,6 mio. kr.",
+   "Forhøjet borgerbudget med flerårige tilskud: 0,6 mio. kr. samlet"
+  ],
+  "besparelser": [
+   "Reduktion i elevbudget: 3,0 mio. kr. i 2027",
+   "Øget forældrebetaling i SFO, 100 kr.: 1,7 mio. kr.",
+   "Øget forældrebetaling i fritidsklubber, 100 kr.: 1,9 mio. kr.",
+   "Personalereduktioner i Borgerservice og Organisation: 1,3 mio. kr.",
+   "Mindreudgifter til tjenestemandspension: 1,3 mio. kr.",
+   "Ophør af ekstra rengøring til borgere: 0,75 mio. kr.",
+   "Sammenlægning af to børnehuse: 0,7 mio. kr.",
+   "Digitaliseringsbudget nedjusteret: 0,5 mio. kr.",
+   "Lukning af Lørdagsklubben: 0,3 mio. kr."
+  ],
+  "finansiering": [
+   "omprioritering: 20,6 mio. kr. i driftsreduktioner 2027",
+   "kassetræk: 100 mio. kr. til ekstraordinært lånafdrag primo 2027"
+  ],
+  "skat": "uændret",
+  "klima": "Solcelleanlæg og batterier 3 mio. kr. i 2027; cykelsti Kildedal-Knardrup projekteres; Den grønne Trepart forundersøgelser.",
+  "resume": "Budgettet prioriterer dagtilbud, socialområdet og en ny specialskole, finansieret af driftsbesparelser og takststigninger. Driftsudvidelser på 18,3 mio. kr. årligt suppleres af et ekstraordinært lånafdrag på 100 mio. kr.",
+  "kvalitet": "Partierne fremgår ikke af den læste tekst."
+ },
+ "Vordingborg": {
+  "budgetaar": "2027-2030",
+  "partier": [],
+  "prioriteter": [
+   "Faglokaler på skolerne: 5 mio. kr. i 2027",
+   "Forskønnelse af Vordingborg midtby: 3,5 mio. kr. årligt",
+   "Tilstedeværende ledelse i dagtilbud: 3,2 mio. kr. årligt",
+   "Almene skoleområde: 3 mio. kr. årligt",
+   "Plejecentre: aktivitetsmedarbejdere, 2,5 mio. kr. årligt",
+   "Legepladser efter ny strategi: 2,5 mio. kr. årligt 2027-2029",
+   "Naturgenopretning: 2 mio. kr. årligt i fire år",
+   "Børnesocialt område: 2 mio. kr. i 2027",
+   "Plejeområdet: 2 mio. kr. årligt over fire år",
+   "International job- og bosætningsindsats: 1 mio. kr. årligt"
+  ],
+  "besparelser": [
+   "Lavere foranstaltningsforbrug delfinansierer børnesocial indsats; beløb ikke angivet"
+  ],
+  "finansiering": [
+   "omprioritering: 0,475 mio. kr. årligt til Dark Sky via eksisterende puljer",
+   "omprioritering: EGU-udvidelse finansieres inden for udvalgets ramme",
+   "kassetræk: køb af veteranhjem, beløb ikke angivet",
+   "effektivisering: lavere foranstaltningsforbrug, beløb ikke angivet"
+  ],
+  "skat": "ikke nævnt",
+  "klima": "Solceller på kommunale bygninger undersøges; naturgenopretning 2 mio. kr. årligt, grøn drift, Blå Flag og cykelstiplan.",
+  "resume": "Budgetaftalen 2027-2030 prioriterer skoler, dagtilbud, ældrepleje og bymiljø med stigende investeringer. Finansieringen sker primært gennem omprioritering inden for udvalgenes rammer.",
+  "kvalitet": "Partierne fremgår ikke af den læste tekst."
+ },
+ "Allerød": {
+  "budgetaar": "2027-2034",
+  "partier": [
+   "Venstre",
+   "Det Konservative Folkeparti",
+   "Socialistisk Folkeparti",
+   "Socialdemokratiet",
+   "Liberal Alliance",
+   "Radikale Venstre",
+   "Enhedslisten"
+  ],
+  "prioriteter": [
+   "Lillevang Skole samles: 265 mio. kr. i 2027-31",
+   "Engholm-projekt: 100 mio. kr. i budgetperioden",
+   "Firkløveret på Sportsvej: 89,3 mio. kr.",
+   "Dagtilbud: serviceniveau styrket med 13,2 mio. kr.",
+   "To-voksenordning i folkeskolerne: 11,5 mio. kr. årligt fra 2028",
+   "Ældreområdet: 10 mio. kr. varigt fra 2027",
+   "Infrastruktur og trafiksikkerhed: 8,4 mio. kr. i 2027",
+   "Beskæftigelse: 7 mio. kr. årligt til førtids- og seniorordninger",
+   "Midlertidige flygtningeboliger: 5,1 mio. kr. i 2028",
+   "Natur, klimatilpasning og miljø: 1,7 mio. kr. årligt"
+  ],
+  "besparelser": [
+   "Effektiviseringer: 14,0 mio. kr. årligt fuldt indfaset",
+   "Administrative effektiviseringstiltag: 11,4 mio. kr. i 2027-28",
+   "Digitalt borgerpanel droppes: 0,6 mio. kr. i perioden",
+   "Borgmesterkontoen halveres: 48.500 kr. årligt"
+  ],
+  "finansiering": [
+   "effektivisering: 14,0 mio. kr. årligt fuldt indfaset",
+   "omprioritering: puljer samlet og nedjusteret med 8,8 mio. kr. årligt",
+   "kassetræk: 22,4 mio. kr. i 2027",
+   "lån: ingen lån optages som udgangspunkt",
+   "salg: ingen jordsalg budgetteret"
+  ],
+  "skat": "Uændret i 2027 (25,3 pct.); pulje til skattenedsættelse fra 2030 (5-20 mio. kr. årligt)",
+  "klima": "Klimaplan revideret; pulje til natur og klimatilpasning (1,7 mio. kr. årligt); energirenovering lånefinansieret.",
+  "resume": "Budgetforliget 2027-34 sikrer balance gennem effektiviseringer på 14 mio. kr. årligt og et toårigt forlig. Lillevang Skole, Engholm-projektet og Firkløveret er de største investeringer."
+ },
+ "Esbjerg": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "Venstre",
+   "Socialdemokratiet",
+   "Det Konservative Folkeparti",
+   "Socialistisk Folkeparti",
+   "Demokratilisten",
+   "Danmarksdemokraterne",
+   "Liberal Alliance",
+   "Radikale Venstre"
+  ],
+  "prioriteter": [
+   "Børn og unge",
+   "Socialområdet",
+   "Kultur- og fritidslivet",
+   "Lokalsamfund",
+   "Turisme",
+   "Erhverv",
+   "Investeringer i klima, infrastruktur og kommunale bygninger"
+  ],
+  "besparelser": [],
+  "finansiering": [],
+  "skat": "ikke nævnt",
+  "klima": "Investeringer i klima, infrastruktur og kommunale bygninger indgår som prioritet.",
+  "resume": "Esbjerg Byråd har indgået budgetforlig for 2027 med overslagsår 2028-2030, og 26 af 31 medlemmer står bag. Forliget kombinerer ansvarlig økonomi med investeringer i velfærd, udvikling og fysiske rammer.",
+  "kvalitet": "Kun pressemeddelelse; beløb mangler."
+ },
+ "Varde": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "Venstre",
+   "Socialdemokratiet",
+   "Liberal Alliance",
+   "Det Konservative Folkeparti",
+   "Socialistisk Folkeparti",
+   "Dansk Folkeparti",
+   "Danmarksdemokraterne"
+  ],
+  "prioriteter": [
+   "Specialiseret voksenområde: historisk løft med 25 mio. kr. årligt",
+   "Socialområdet: markant løft med 25 mio. kr. årligt",
+   "Statslig normeringsinvestering på børneområdet: 16 mio. kr. årligt",
+   "Lokalstrukturpulje til lokalsamfund: 15 mio. kr. årligt 2028-2030",
+   "Taskforces for vækst, energi, land og by: op mod 10 mio. kr. årligt",
+   "Kunstmuseum: anlægstilskud på 14 mio. kr. til bygning",
+   "Byrådsgrundlagspulje styrket med 4 mio. kr.",
+   "Pulje til udviklingsråd: 3 mio. kr. i 2027",
+   "Flere vuggestuepladser: 3 mio. kr.",
+   "Grundkapital til prioritering: 3 mio. kr."
+  ],
+  "besparelser": [
+   "Lukning af tre plejehjem: Møllegården, Sognelunden, Skovhøj (beløb ikke oplyst)",
+   "Afvikling af ældreboliger svarende til tomgang (beløb ikke oplyst)",
+   "Tilpasning af busruter i Varde (beløb ikke oplyst)",
+   "Tilpasning af klippekort til plejehjemsbeboere (beløb ikke oplyst)",
+   "Tilpasning af administrative klimaopgaver (beløb ikke oplyst)",
+   "Stabsoptimering og AI-løsninger (beløb ikke oplyst)"
+  ],
+  "finansiering": [
+   "omprioritering: 25 mio. kr. årligt fundet på tværs af forvaltningsområder",
+   "omprioritering: frigivet tomgangshusleje (beløb ikke oplyst)",
+   "effektivisering: stabe, konsulentopgaver og arbejdsgange (beløb ikke oplyst)",
+   "omprioritering: besparelser på kollektiv trafik (beløb ikke oplyst)"
+  ],
+  "skat": "ikke nævnt",
+  "klima": "Administrative klimaopgaver tilpasses, men klimahændelser ventes at blive en stigende udfordring fremover.",
+  "resume": "Aftalen styrker socialområdet, demensindsatsen og børnenormeringen samt investerer i vækst og bosætning. Tre plejehjem lukkes, mens ældreboliger, busruter og klippekort tilpasses."
+ },
+ "Ishøj": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "Socialdemokratiet",
+   "Ishøj Listen",
+   "Venstre",
+   "SF",
+   "Radikale Venstre",
+   "Kalbiye Yüksel (UP)"
+  ],
+  "prioriteter": [
+   "Kystbeskyttelse og Strandparken: 31,4 mio. kr. ekstra på anlægsoversigten",
+   "Ishøj Idrætscenter helhedsplan: 15 mio. kr. i 2027",
+   "Kærbo: 11 plejeboliger og 2 pladser, 10,1 mio. kr. årligt fra 2028",
+   "Flere voksne i indskolingen: 5 mio. kr. årligt fra 2028",
+   "Ishøj Teater særtilskud: 1,2 mio. kr. over to år",
+   "Naturmillionen forhøjes til 1,25 mio. kr.",
+   "Potentialegruppen: 0,75 mio. kr. årligt",
+   "WeShelter 0,3 mio. kr. og Ombold 0,065 mio. kr. årligt",
+   "Musiktilbud for specialklasser: 0,25 mio. kr. årligt"
+  ],
+  "besparelser": [
+   "Reduktion pulje til styrket forebyggelse: 2,15 mio. kr. årligt",
+   "Skæve boliger ved Søstedet: 1,4 mio. kr. i 2027",
+   "Lavere pædagogandel i SFO: 1,3 mio. kr. årligt",
+   "Reduceret lønbudget i økonomi og planudvalget: 1 mio. kr. årligt",
+   "Afskaffelse af medarbejderjulegaver: 0,743 mio. kr. årligt",
+   "Genforhandling af de 20 dyreste sager: 0,5 mio. kr. årligt",
+   "Nedlæggelse af kontinensklinik: 0,37 mio. kr. årligt"
+  ],
+  "finansiering": [
+   "omprioritering: besparelser på 12,4 mio. kr. i 2027",
+   "effektivisering: administration, IT og lønbudget (indgår i besparelserne)"
+  ],
+  "skat": "uændret (også grundskyld)",
+  "klima": "Naturmillionen hæves til 1,25 mio. kr., heraf min. 0,5 mio. kr. til træstrategien; 31,4 mio. kr. til kystbeskyttelse og Strandparken.",
+  "resume": "Budgetaftalen fastholder skat og grundskyld og prioriterer ældreområdet, indskolingen og kystbeskyttelse. Udvidelserne finansieres via besparelser på blandt andet SFO, forebyggelse og administration."
+ },
+ "Norddjurs": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "Venstre",
+   "Socialdemokratiet",
+   "Socialistisk Folkeparti",
+   "Liberal Alliance",
+   "Danmarksdemokraterne",
+   "Det Konservative Folkeparti",
+   "Thomas Rasmussen (løsgænger)"
+  ],
+  "prioriteter": [
+   "Fremtidens Folkeskoler: ca. 136 mio. kr. til omstilling 2027-2030",
+   "Drikkevandsparker og naturkvalitet: maks. 2,0 mio. kr.",
+   "Maritime anlæg: pulje på 1 mio. kr. i 2027",
+   "Analyse af kollektiv trafik for børn og unge (beløb ikke angivet)",
+   "Erhvervschef-funktion for vækst og arbejdskraft (beløb ikke angivet)"
+  ],
+  "besparelser": [
+   "Tilpasning af økonomisk ramme: 10 mio. kr. i 2027, fuld effekt 20 mio. kr.",
+   "Børne-, Familie- og Skoleudvalget: 3,6 mio. kr. i 2027",
+   "Sundheds-, Pleje- og Omsorgsudvalget: 3,6 mio. kr. i 2027",
+   "Økonomiudvalget: 1,8 mio. kr. i 2027"
+  ],
+  "finansiering": [
+   "effektivisering: 10 mio. kr. i 2027, fuld effekt 20 mio. kr.",
+   "kassetræk: dele af kassebeholdningen, beløb ikke angivet"
+  ],
+  "skat": "ikke nævnt",
+  "klima": "Grøn omstilling prioriteres via VE-anlæg, Kattegat Green Synergy, naturprojekter og drikkevandsparker.",
+  "resume": "Budgetaftale for Norddjurs Kommune 2027-2030 med gradvis omstilling mod strukturel balance i 2030. Aftalen bruger dele af kassebeholdningen og omstillingskataloger og prioriterer blandt andet Fremtidens Folkeskoler."
+ },
+ "Billund": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "Samlet byråd"
+  ],
+  "prioriteter": [
+   "Specialiseret socialområde: tæt på 100 mio. kr.",
+   "Nye erhvervsarealer langs motorvejen Billund-Give: 46 mio. kr."
+  ],
+  "besparelser": [
+   "Effektiviseringer og besparelser (beløb ikke oplyst)"
+  ],
+  "finansiering": [],
+  "skat": "ikke nævnt",
+  "klima": "Ikke omtalt i pressemeddelelsen.",
+  "resume": "Et samlet byråd har indgået et bredt budgetforlig for 2027-2030, som også indeholder effektiviseringer og besparelser. Budgettet prioriterer et markant løft af det specialiserede socialområde, erhvervsudvikling, byudvikling og velfærd.",
+  "kvalitet": "Kun pressemeddelelse; få beløb."
+ },
+ "Assens": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "Venstre",
+   "Socialdemokratiet",
+   "SF",
+   "Konservative",
+   "Danmarksdemokraterne",
+   "Dansk Folkeparti",
+   "Liberal Alliance",
+   "Enhedslisten",
+   "Radikale Venstre"
+  ],
+  "prioriteter": [
+   "Store investeringer i børn og unge (beløb ikke oplyst)",
+   "Gøre lokalområderne mere attraktive (beløb ikke oplyst)"
+  ],
+  "besparelser": [],
+  "finansiering": [],
+  "skat": "ikke nævnt",
+  "klima": "Ikke nævnt i pressemeddelelsen.",
+  "resume": "Et enigt byråd med ni partier står bag budgetaftalen for 2027-2030 i Assens Kommune. Aftalen lægger vægt på store investeringer i børn og unge samt på at gøre lokalområderne mere attraktive.",
+  "kvalitet": "Kun pressemeddelelse; aftale-PDF er blokeret eller scannet."
+ },
+ "Jammerbugt": {
+  "budgetaar": "2027",
+  "partier": [
+   "Alle 27 medlemmer af kommunalbestyrelsen"
+  ],
+  "prioriteter": [
+   "109 mio. kr. bruttoanlæg til cykelstier, skoler og havne",
+   "19 mio. kr. til stigende antal borgere på overførselsindkomst",
+   "13 mio. kr. til børnefamilier i dagtilbud",
+   "10,4 mio. kr. til borgere med handicap",
+   "5,9 mio. kr. til ældreområdet",
+   "5 mio. kr. til klasseloft på 24 elever (9,7 mio. kr. senere)"
+  ],
+  "besparelser": [
+   "Effektivisering og optimering af driften (beløb ikke angivet)"
+  ],
+  "finansiering": [
+   "Driftsoverskud til råderum, investeringer og gældsafvikling (beløb ikke angivet)"
+  ],
+  "skat": "ikke nævnt",
+  "klima": "Ingen klimaspecifikke tiltag nævnt; nye cykelstier kan understøtte grøn transport.",
+  "resume": "Kommunalbestyrelsen i Jammerbugt har indgået en bred budgetaftale for 2027, som alle 27 medlemmer står bag, med fokus på børn, ældre og borgere med handicap. Aftalen rummer et bruttoanlægsbudget på 109 mio. kr.",
+  "kvalitet": "Kun kommunens nyhed; ikke aftaleteksten."
+ },
+ "Mariagerfjord": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "Venstre",
+   "Socialdemokratiet",
+   "Det Konservative Folkeparti",
+   "Socialistisk Folkeparti",
+   "Dansk Folkeparti",
+   "Danmarksdemokraterne"
+  ],
+  "prioriteter": [
+   "Nyt sundhedshus i Hobro med Region Nordjylland: 20 mio. kr. i 2028-2030",
+   "12 nye botilbudspladser i Onsild (Kærvej): 18,2 mio. kr.",
+   "Ombygning af Rosendalskolen: 13,4 mio. kr. i 2027-2028",
+   "Specialiserede undervisningstilbud: 13 mio. kr. ekstra i 2027",
+   "Sundhedshus i Hadsund: 10 mio. kr.",
+   "Ældreområdet: 7 mio. kr. i 2027 og 5 mio. kr. årligt fra 2028",
+   "Himmerlands Teater ombygning: 6 mio. kr. kommunalt bidrag",
+   "Almenområdet i folkeskolen: 3,5 mio. kr. årligt",
+   "Kunstgræsbane i Valsgård: 3 mio. kr.",
+   "Dagtilbud: 2,1 mio. kr. årligt til pædagogisk ledelse"
+  ],
+  "besparelser": [
+   "Kollektiv trafik: 0,35 mio. kr. i 2027 og 0,7 mio. kr. fra 2028",
+   "Kunstig intelligens på administrative opgaver: 2 mio. kr. i 2027, 4 mio. kr. fra 2030",
+   "Vederlagsfri fysioterapi som kommunalt tilbud ophører (beløb ikke angivet)"
+  ],
+  "finansiering": [
+   "Bedre indtægter og forbedret økonomiaftale (beløb ikke angivet)",
+   "Kassebeholdningen forøges med 9,3 mio. kr."
+  ],
+  "skat": "uændret (25,9 pct., grundskyld uændret)",
+  "klima": "Klimatiltag ikke nævnt direkte; Cemtec får 0,9 mio. kr. i 2027 til erhvervsfremme på miljøområdet.",
+  "resume": "Alle byrådets partier står bag budgetaftalen for 2027-2030, som giver flere midler til skoler, dagtilbud og ældreområdet. Da økonomien ventes strammere fra 2028, forøges kassebeholdningen med 9,3 mio. kr.",
+  "kvalitet": "Kun kommunens nyhed; ikke aftaleteksten."
+ },
+ "Struer": {
+  "budgetaar": "2027-2030",
+  "partier": [
+   "Samtlige partier i byrådet"
+  ],
+  "prioriteter": [
+   "Ældreområdet: 5 mio. kr. årligt fra 2027",
+   "Specialiseret socialområde børn og unge: 5 mio. kr. årligt fra 2027",
+   "Specialiseret socialområde voksne og handicap: 5 mio. kr. årligt fra 2027",
+   "Folkeskoler: 80 pct. kompensation for elevtalsnedgang (1,9 og 1,6 mio. kr.)",
+   "Stævnen: fortsat investering i den nye bydel",
+   "Borgerinvolvering og forebyggelse som gennemgående indsatser"
+  ],
+  "besparelser": [
+   "Økonomisk omstilling (beløb ikke angivet)"
+  ],
+  "finansiering": [],
+  "skat": "ikke nævnt",
+  "klima": "Klima nævnes ikke direkte; forebyggelse og sundhedsfremme er gennemgående indsatser.",
+  "resume": "Samtlige partier i Struer Byråd har indgået en budgetaftale for 2027 med overslagsår frem til 2030. Aftalen tilfører midler til ældre, børn og unge, voksne med handicap og folkeskoler, og fortsætter investeringen i bydelen Stævnen.",
+  "kvalitet": "Kun kommunens nyhed; ikke aftaleteksten."
+ }
+}
